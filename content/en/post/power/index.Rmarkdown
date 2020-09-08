@@ -1,0 +1,68 @@
+---
+title: Statistical power and sample size calculation in R
+date: 2020-09-03T00:00:00
+authors: ["admin"]
+summary: In this series/tutorial in Spanish, I explain how to perform statistical **power analysis** to calculate the required **sample size** for a study.
+---
+
+In this series, I explain the basics of **power analysis** and how to use it to calculate the **sample size** needed for a study.
+
+The videos focus on the procedure to perform **power analysis** and **sample size** calculation in [jamovi](https://www.jamovi.org/) and particularly in [R](https://www.r-project.org/), using the packages [`pwr`](https://www.rdocumentation.org/packages/pwr/) (for simple designs) and [`Superpower`](https://cran.r-project.org/web/packages/Superpower/vignettes/intro_to_superpower.html) (for more complex factorial designs). The section dedicated to [`pwr`](https://www.rdocumentation.org/packages/pwr/) is largely based on [this video](https://youtu.be/ZIjOG8LTTh8) by Daniel S. Quintana (2019).
+
+This series is also supported by a practical guide:
+
+{{< cite page="/publication/leongomez2020b" view="4" >}}
+
+# Introduction
+
+## **Basic concepts.**
+
+{{< youtube AOUmI64E9rs >}}
+
+### Sections:
+
+1. Intro: (0:00)
+2. Supporting document: (0:48)
+3. Basic concepts: (2:11)
+4. How to estimate the effect size: (5:14)
+5. Common techniques and their limitations: (6:00)
+6. Alternatives: (10:17)
+7. Conclusions:  (12:12)
+
+### Papers cited in this video: 
+
+> Albers, C., & Lakens, D. (2018). When Power Analyses Based on Pilot Data Are Biased: Inaccurate Effect Size Estimators and Follow-up Bias. *Journal of Experimental Social Psychology, 74*, 187-195. https://doi.org/10.1016/j.jesp.2017.0...
+
+> Correll, J., Mellinger, C., McClelland, G. H., & Judd, C. M. (2020). Avoid Cohen’s “Small”, “Medium”, and “Large” for Power Analysis. *Trends in Cognitive Sciences, 24*(3), 200-207. https://doi.org/10.1016/j.tics.2019.1...
+
+> Lakens, D., Scheel, A. M., & Isager, P. M. (2018). Equivalence Testing for Psychological Research: A Tutorial. *Advances in Methods and Practices in Psychological Science, 1*(2), 259-269. https://doi.org/10.1177/2515245918770963
+
+> Quintana, D. S. (2017). Statistical Considerations for Reporting and Planning Heart Rate Variability Case-Control Studies. *Psychophysiology, 54*(3), 344-349. https://doi.org/10.1111/psyp.12798
+
+# Part 1 [Tutorial]
+
+## **Simple designs:** Corrleation, *t*-tests, one-way ANOVA
+
+{{< youtube qARYX14ua68 >}}
+
+### Sections:
+
+1. Presentation: (0:00)
+2. Intro to `jpower` for jamovi: (1:12)
+    + 2.1 Installing `jpower`: (3:03)
+    + 2.2 *t*-test type designs in`jpower`: (3:41)
+3. Intro to `pwr` for R: (13:03)
+    + 3.1 Small intro to R and RStudio: (13:44)
+    + 3.2 Installing and loading `pwr`:  (18:26)
+    + 3.3 Correlations in `pwr`: (21:58)
+    + 3.4 *t*-test type designs in `pwr`: (30:11)
+    + 3.5 One-way ANOVA in `pwr`: (35:11)
+4. Conclusions: (37:54)
+
+# Part 2 [Tutorial]
+
+**Factorial designs:** 
+
+### Sections:
+
+{{< youtube replace >}}
