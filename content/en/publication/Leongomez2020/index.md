@@ -3,7 +3,7 @@ title = "Self-reported Health is Related to Body Height and Waist Circumference 
 date = 2020-03-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Oscar R. Sánchez", "Milena Vásquez-Amézquita", "Eugenio Valderrama", "Andrés Castellanos-Chacón", "Lina Morales-Sánchez", "Javier Nieto", "Isaac González-Santoyo"]
+authors = ["admin", "ors", "mva", "ev", "ancc", "linmor", "Javier Nieto", "Isaac González-Santoyo"]
 
 # Publication type.
 # Legend:

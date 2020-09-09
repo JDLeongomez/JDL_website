@@ -54,12 +54,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0092-6298
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0002-0092-6298
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/s26ax/
+#- icon: osf
+#  icon_pack: ai
+#  link: https://osf.io/s26ax/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1333339/juan-david-leongomez/
@@ -67,10 +70,6 @@ social:
   icon_pack: fab
   link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
 
-# - icon: impactstory
-#   icon_pack: ai
-#   link: https://profiles.impactstory.org/u/0000-0002-0092-6298
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -83,13 +82,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Profile
 ---
 
 I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), at [Universidad El Bosque](https://www.uelbosque.edu.co/) in Bogota, Colombia. My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and R programming, to promote reproducibility and open science.
 
-{{< figure library="true" src="IA_logo.png" title="" lightbox="true" >}} 
+{{< figure library="true" src="IA_logo.png" title="" lightbox="true" >}}
 ## [Investigación Abierta](#posts) (YouTube channel)
 
 Investigación Abierta is a [YouTube channel](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) (in Spanish) where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the videos [here](#posts).

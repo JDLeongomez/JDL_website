@@ -3,7 +3,7 @@ title = "Visual Attention Patterns Differ in Gynephilic and Androphilic Men and 
 date = 2019-01-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Milena Vásquez-Amézquita", "admin", "Michael C. Seto", "Mauricio Bonilla", "Alexa Rodríguez-Padilla", "Alicia Salvador"]
+authors = ["mva", "admin", "Michael C. Seto", "Mauricio Bonilla", "Alexa Rodríguez-Padilla", "Alicia Salvador"]
 
 # Publication type.
 # Legend:

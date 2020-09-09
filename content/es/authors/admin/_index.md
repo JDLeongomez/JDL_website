@@ -54,22 +54,21 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0092-6298
+- icon: impactstory
+  icon_pack: ai
+  link: https://profiles.impactstory.org/u/0000-0002-0092-6298
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/s26ax/
+#- icon: osf
+#  icon_pack: ai
+#  link: https://osf.io/s26ax/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1333339/juan-david-leongomez/
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
-
-# - icon: impactstory
-#   icon_pack: ai
-#   link: https://profiles.impactstory.org/u/0000-0002-0092-6298
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -83,8 +82,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
 ---
 
 Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.uelbosque.edu.co/) en Bogotá, Colombia. Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como los efectos hormonales en el comportamiento humano. Cada día me apasiono más por los métodos cuantitativos y la programación en [R](https://www.r-project.org/about.html) (usando [RStudio](https://rstudio.com/products/rstudio/)), para promover la ciencia abierta y la reproducibilidad.

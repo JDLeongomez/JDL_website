@@ -3,7 +3,7 @@ title = "A cross-cultural study of sex-typicality and averageness: Correlation b
 date = 2018-10-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dariusz P. Danel", "Jaroslava Varella Valentova", "Oscar R. Sánchez", "admin", "Marco A. C. Varella", "Karel Kleisner"]
+authors = ["Dariusz P. Danel", "Jaroslava Varella Valentova", "ors", "admin", "Marco A. C. Varella", "Karel Kleisner"]
 
 # Publication type.
 # Legend:
