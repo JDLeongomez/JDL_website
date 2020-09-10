@@ -54,6 +54,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## In this page you can find information regarding the researchers and research assistants I permanently work with at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the students (PhD, MSc and BSc) I am supervised or have supervised at this and other universities. 
+## In this page you can find information regarding the researchers and research assistants I permanently work with at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the students (PhD, MSc and BSc) from this and other universities I am supervising or have supervised. 
 
 *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any).*
