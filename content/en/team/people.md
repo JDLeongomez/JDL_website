@@ -17,7 +17,7 @@ subtitle = ""
                  "Research Assistants",
                  "Former Graduate Students",
                  "Undergraduate Students",
-                 "Former Underaduate Students"]
+                 "Former Undergraduate Students"]
 
 [design]
   # Show user's social networking links? (true/false)

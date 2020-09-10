@@ -64,7 +64,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Assistants
-- Former Underaduate Students
+- Former Undergraduate Students
 ---
 
 Lina is a Psychologist and business administrator, interested in mental health within organizations. She has knowledge of clinical psychology and experience in the design and implementation of social projects. Member of the SDSN Youth Solutions Hub.

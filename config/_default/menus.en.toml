@@ -19,28 +19,23 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "publication/"
-  weight = 40
+    name = "YouTube"
+    url = "#posts"
+    weight = 40
 
 [[main]]
-  name = "YouTube"
-  url = "#posts"
+  name = "Publications"
+  url = "publication/"
   weight = 50
 
 [[main]]
   name = "Lab"
   url = "team/"
-  weight = 55
-
-[[main]]
-  name = "Experience"
-  url = "#experience"
   weight = 60
 
 [[main]]
-  name = "Accomplishments"
-  url = "#accomplishments"
+  name = "Resume"
+  url = "profile/"
   weight = 70
 
 [[main]]
