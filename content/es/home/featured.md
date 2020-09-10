@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Publicaciones Destacadas"
-subtitle = ""
+subtitle = "Ver [todas mis publicaciones](/es/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
