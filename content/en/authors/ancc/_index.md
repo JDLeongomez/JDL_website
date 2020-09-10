@@ -76,4 +76,4 @@ His research interests include the hormonal and microbiota effects on human beha
 
 Universidad El Bosque, 2019-2020
 
-**Supervisors:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r-sanchez/), [Eugenio Valderrama](/en/author/eugenio-valderrama/), and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/)
+**Supervisors:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), [Eugenio Valderrama](/en/author/eugenio-valderrama/), and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/)

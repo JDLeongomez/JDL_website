@@ -51,4 +51,4 @@ user_groups:
 
 Universidad El Bosque, 2016-2017.
 
-**Supervisor:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r-sanchez/), and [Eugenio Valderrama](/en/author/eugenio-valderrama/).
+**Supervisor:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), and [Eugenio Valderrama](/en/author/eugenio-valderrama/).

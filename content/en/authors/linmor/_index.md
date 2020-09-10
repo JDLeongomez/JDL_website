@@ -77,7 +77,7 @@ Lina first did her undergraduate research project between 2016 and 2017, and the
 
 Universidad El Bosque, 2016-2017.
 
-**Supervisor:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r-sanchez/), and [Eugenio Valderrama](/en/author/eugenio-valderrama/).
+**Supervisor:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), and [Eugenio Valderrama](/en/author/eugenio-valderrama/).
 
 ## **Research Project**  
 
@@ -85,4 +85,4 @@ Universidad El Bosque, 2016-2017.
 
 Universidad El Bosque, 2018
 
-**Supervisors:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r-sanchez/), [Eugenio Valderrama](/en/author/eugenio-valderrama/), and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/)
+**Supervisors:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), [Eugenio Valderrama](/en/author/eugenio-valderrama/), and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/)
