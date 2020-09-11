@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Psychology 2019-2020
+role: MSc Psicología 2019-2020
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Research project: La voz como predictor de sintomatología asociada a depresión y ansiedad'
+bio: 'Proyecto de investigación MSc: La voz como predictor de sintomatología asociada a depresión y ansiedad'
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,13 +41,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Graduate Students
+- Antiguos Estudiantes de Posgrado
 ---
 
-## **MSc Project**  
+## **Proyecto MSc**  
 
-*La voz como predictor de sintomatología asociada a depresión y ansiedad* [The voice as a predictor of symptoms associated with depression and anxiety]
+*La voz como predictor de sintomatología asociada a depresión y ansiedad*
 
 Universidad El Bosque, 2019-2020
 
-**Supervisors:** [Juan David Leongómez](/en/#about) and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/)
+**Supervisores:** [Juan David Leongómez](/es/#about) y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/)

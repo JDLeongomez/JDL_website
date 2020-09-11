@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology 2018-2019
+role: BSc Psicología 2018-2019
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student between 2018 and 2019.
+bio: Estudiante de investigación de Pregrado entre 2018 y 2019.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,13 +41,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergraduate Students
+- Antiguos Estudiantes de Pregrado
 ---
 
-## **BSc Project**  
+## **Proyecto de investigación de Pregrado**  
 
-*Hombres que alcanzan voces menos agudas y  con un volumen más bajo, tienden a tener más  relaciones sexuales casuales* [Men who achieve lower-pitched voices and with a lower intensity tend to have more casual sex]
+*Hombres que alcanzan voces menos agudas y  con un volumen más bajo, tienden a tener más  relaciones sexuales casuales*
 
 Universidad El Bosque, 2018-2019
 
-**Supervisors:** [Juan David Leongómez](/en/#about), [Andrés Castellanos-Chacón](/en/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).
+**Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

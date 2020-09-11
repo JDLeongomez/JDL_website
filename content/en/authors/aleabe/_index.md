@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Biology
+role: BSc Biology 2016-2017
 
 # Organizations/Affiliations
 organizations:

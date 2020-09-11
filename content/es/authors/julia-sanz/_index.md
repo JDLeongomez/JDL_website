@@ -41,13 +41,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Graduate Students
+- Antiguos Estudiantes de Posgrado
 ---
 
-## **MSc Project**  
+## **Proyecto MSc**  
 
 *Verbal and non-verbal elements of language - are they linked?*
 
 University of Stirling, 2013-2014
 
-**Supervisors:** S. Craig Roberts and [Juan David Leongómez](/en/#about)
+**Supervisores:** S. Craig Roberts y [Juan David Leongómez](/es/#about)

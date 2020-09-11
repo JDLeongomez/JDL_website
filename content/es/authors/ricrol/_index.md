@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology 2015-2016
+role: BSc Psicología 2015-2016
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student between 2015 and 2016.
+bio: Estudiante de investigación de Pregrado entre 2015 y 2016.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,13 +42,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergraduate Students
+- Antiguos Estudiantes de Pregrado
 ---
 
-## **BSc Research Project**  
+## **Proyecto de investigación de Pregrado**  
 
-*El sonido de la seducción: discriminación tonal, satisfacción en pareja, y niveles hormonales en hombres* [The Sound of Seduction: Tonal Discrimination, Partner Satisfaction, and Hormone Levels in Men]
+*El sonido de la seducción: discriminación tonal, satisfacción en pareja, y niveles hormonales en hombres*
 
 Universidad El Bosque, 2015-2016.
 
-**Supervisor:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), and [Eugenio Valderrama](/en/author/eugenio-valderrama/).
+**Supervisores:** [Juan David Leongómez](/es/#about), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), and [Eugenio Valderrama](/es/author/eugenio-valderrama/).

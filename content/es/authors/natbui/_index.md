@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Music Education 2018-2019
+role: BA Educación Musical 2018-2019
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.pedagogica.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BA research project student between 2018 and 2019.
+bio: Estudiante de investigación de Pregrado entre 2018 y 2019.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,13 +41,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergraduate Students
+- Antiguos Estudiantes de Pregrado
 ---
 
-## **BA Project**  
+## **Proyecto de investigación de Pregrado**  
 
-*Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo* [Musicality and social cohesion: An experimental and bibliographic approach from teamwork]
+*Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo*
 
 Universidad Pedagógica Nacional, 2018-2019
 
-**Supervisor:** [Juan David Leongómez](/en/#about).
+**Supervisor:** [Juan David Leongómez](/es/#about).

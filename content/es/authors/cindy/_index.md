@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology 2017-2018
+role: BSc Psicología 2017-2018
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student between 2017 and 2018.
+bio: Estudiante de investigación de Pregrado entre 2017 y 2018.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,13 +37,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergraduate Students
+- Antiguos Estudiantes de Pregrado
 ---
 
-## **BSc Project**  
+## **Proyecto de investigación de Pregrado**  
 
-*La voz del sexo casual: ¿las características vocales predicen la disposición al sexo sin compromiso en hombres y mujeres?* [The voice of casual sex: do vocal characteristics predict willingness to engage in uncommitted sex in men and women?]
+*La voz del sexo casual: ¿las características vocales predicen la disposición al sexo sin compromiso en hombres y mujeres?*
 
 Universidad El Bosque, 2017-2018
 
-**Supervisors:** [Juan David Leongómez](/en/#about), [Eugenio Valderrama](/en/author/eugenio-valderrama/), and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).
+**Supervisores:** [Juan David Leongómez](/es/#about), [Eugenio Valderrama](/es/author/eugenio-valderrama/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

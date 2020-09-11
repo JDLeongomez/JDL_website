@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology 2016-2017
+role: BSc Psicología 2016-2017
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student between 2016 and 2017.
+bio: Estudiante de investigación de Pregrado entre 2016 y 2017.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,13 +42,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Former Undergraduate Students
+- Antiguos Estudiantes de Pregrado
 ---
 
-## **BSc Research Project**  
+## **Proyecto de investigación de Pregrado**  
 
-*Efectos de los niveles hormonales en la discriminación tonal de mujeres* [Effects of hormone levels on pitch discrimination in women]
+*Efectos de los niveles hormonales en la discriminación tonal de mujeres*
 
 Universidad El Bosque, 2016-2017.
 
-**Supervisor:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), and [Eugenio Valderrama](/en/author/eugenio-valderrama/).
+**Supervisores:** [Juan David Leongómez](/es/#about), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), y [Eugenio Valderrama](/es/author/eugenio-valderrama/).
