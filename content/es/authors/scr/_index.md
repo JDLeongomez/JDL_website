@@ -55,3 +55,5 @@ user_groups:
 ---
 
 Conocí a Craig en 2008, cuando inicié la Maestría en Psicología Evolutiva^[No confundir con *psicología del desarrollo*; pero jamás la llamaré "evolucionista", pues no es una postura ideológica.] que él dirigía en la [Universidad de Liverpool](https://www.liverpool.ac.uk/). Craig supervisó mi proyecto de investigación durante 2008 y 2009, y desde 2010 hasta 2014 fue mi supervisor doctoral en la [Universidad de Stirling](http://www.stir.ac.uk/). Desd el incio hemoa mantenido una colaboración activa, hemos publicado varios artículos. Para más información y conocer su trabajo y publicaciones, visita su [sitio web](https://www.scraigroberts.com/) o su [página de la Universidad de Stirling](https://www.stir.ac.uk/people/255834).
+
+{{< tweet 455738963307663360 >}}
