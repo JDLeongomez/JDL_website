@@ -3,7 +3,7 @@ title = "Contextualising courtship: Exploring male body odour effects on vocal m
 date = 2020-07-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Oscar R. Sánchez", "Milena Vásquez-Amézquita", "S. Craig Roberts"]
+authors = ["admin", "ors", "mva", "S. Craig Roberts"]
 
 # Publication type.
 # Legend:

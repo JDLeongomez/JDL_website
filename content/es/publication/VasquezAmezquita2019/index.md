@@ -3,7 +3,7 @@ title = "Differences in Visual Attention Patterns to Sexually Mature and Immatur
 date = 2019-01-21T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Milena Vásquez-Amézquita", "admin", "Michael C. Seto", "Alicia Salvador"]
+authors = ["mva", "admin", "Michael C. Seto", "Alicia Salvador"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "No relation between digit ratio (2D:4D) and visual attention patterns t
 date = 2018-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Milena Vásquez-Amézquita", "admin", "Michael C. Seto", "Mauricio Bonilla", "Alexa Rodríguez-Padilla", "Alicia Salvador"]
+authors = ["mva", "admin", "Michael C. Seto", "Mauricio Bonilla", "Alexa Rodríguez-Padilla", "Alicia Salvador"]
 
 # Publication type.
 # Legend:

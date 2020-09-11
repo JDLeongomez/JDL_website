@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesora Asociada, investigadora en Neurociencia de la Universidad El Bosque. Me interesa la investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
+bio: Profesora Asociada e investigadora en Neurociencia de la Universidad El Bosque. Interesada en investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
 
 interests:
 - Eye-tracking

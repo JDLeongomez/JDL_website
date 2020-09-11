@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research assistant at the Human Behaviour Lab in since 2019, and BSc research project student between 2017 and 2018.
+bio: Asistente de investigación en el Laboratorio de Análisis del Comportamiento Humano desde 2019, y practicante de investigación entre 2017 y 2018.
 
 interests:
 - Hormonas y Comportamiento
@@ -66,7 +66,7 @@ user_groups:
 - Asistentes de Investigación Graduados
 ---
 
-Andrés es investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Facultad de Psicología] (https: // www .unbosque.edu.co / psicologia) de la [Universidad El Bosque] (https://www.unbosque.edu.co/) en Bogotá, Colombia.
+Andrés es investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
 
 Sus intereses de investigación incluyen los efectos hormonales y de la microbiota en el comportamiento humano, ha trabajado en neurociencia y, durante su estancia en la [Universidad Nacional Autónoma de México](https://www.unam.mx/), trabajó en biología molecular bajo la supervisión del [Dr. Isaac González-Santoyo](https://www.researchgate.net/profile/Isaac_Santoyo).
 
