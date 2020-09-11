@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor e Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH) de la Facultad de Psicología de la Universidad El Bosque en Bogotá, Colombia.
+bio: Profesor e Investigador/Director del Laboratorio de Análisis del Comportamiento Humano (LACH) de la Facultad de Psicología de la Universidad El Bosque en Bogotá, Colombia.
 
 interests:
 - Ecología comportamental
@@ -66,4 +66,4 @@ user_groups:
 
 ---
 
-Profesor e Investigador/Director del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Facultad de Psicología] (https: //www.uelbosque .edu.co / psicologia), en la [Universidad El Bosque] (https://www.uelbosque.edu.co/) en Bogotá, Colombia.
+Profesor de la [Facultad de Psicología](https://www.uelbosque .edu.co / psicologia), de la [Universidad El Bosque](https://www.uelbosque.edu.co/), e Investigador/Director del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), en Bogotá, Colombia.

@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-  - course: 'Magister en Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación'
+  - course: 'MSc Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación'
     institution: Università Cattolica del Sacro Cuore (Milán, Italia)
     year: 2018
-  - course: BA Psicología
+  - course: BSc Psicología
     institution: Universidad de La Sabana (Bogota, Colombia)
     year: 2018
 
@@ -57,10 +57,14 @@ user_groups:
 - Asistentes de Investigación Graduados
 ---
 
-## **Proyecto de Investigación*  
+Lina es psicóloga de la [Universidad de La Sabana](https://www.unisabana.edu.co/) y Magister en Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación de la [Università Cattolica del Sacro Cuore](https://www.unicatt.it/). Fui profesor suyo en estadística inferencial y en un seminario sobre comunicación vocal en la [Universidad de La Sabana](https://www.unisabana.edu.co/) entre 2015 y 2016, mientras realizaba su pregrado.
+
+Tras hacer su maestría y regersar a Colombia, Lina se vinculó voluntariamente al [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home) en 2020, donde ha venido formándose en métodos de investigación, análisis de datos y programación en R, y ha apoyado procesos de investigación como asistente de investigación bajo mi supervisión.
+
+## **Asistente Proyecto de Investigación**  
 
 *Detección de infidelidad previa y orientación sociosexual a partir de la voz*
 
-Universidad El Bosque, 2020
+Universidad El Bosque, desde 2020
 
 **Supervisor:** [Juan David Leongómez](/es/#about)

@@ -3,7 +3,7 @@ title = "Cues for facial attractiveness and preference of sexual dimorphism: A c
 date = 2020-04-21T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vojtěch Fiala", "Vít Třebický", "admin", "Petr Tureček", "Farid Pazhoohi", "Selahattin Saribay", "Robert Mbe Akoko", "Karel Kleisner"]
+authors = ["Vojtěch Fiala", "Vít Třebický", "admin", "Petr Tureček", "Farid Pazhoohi", "Selahattin Saribay", "Robert Mbe Akoko", "karel"]
 
 # Publication type.
 # Legend:

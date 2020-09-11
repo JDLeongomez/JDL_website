@@ -70,10 +70,10 @@ Andrés es investigador del [Laboratorio de Análisis del Comportamiento Humano 
 
 Sus intereses de investigación incluyen los efectos hormonales y de la microbiota en el comportamiento humano, ha trabajado en neurociencia y, durante su estancia en la [Universidad Nacional Autónoma de México](https://www.unam.mx/), trabajó en biología molecular bajo la supervisión del [Dr. Isaac González-Santoyo](https://www.researchgate.net/profile/Isaac_Santoyo).
 
-## **Proyecto de Investigación**  
+## **Asistente Proyecto de Investigación**  
 
 *Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales*
 
-Universidad El Bosque, 2019-2020
+Universidad El Bosque, desde 2019
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), [Eugenio Valderrama](/es/author/eugenio-valderrama/), y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/)

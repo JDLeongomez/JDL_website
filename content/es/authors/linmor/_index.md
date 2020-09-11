@@ -4,13 +4,13 @@ title: Lina Morales-Sánchez
 
 # Username (this should match the folder name)
 authors:
-- linm
+- linmor
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Asistente de Investigación 2018 / BSc Psicología 2016-2017
+role: Asistente de Investigación / BSc Psicología 2016-2017
 
 # Organizations/Affiliations
 organizations:
@@ -67,9 +67,9 @@ user_groups:
 - Antiguos Estudiantes de Pregrado
 ---
 
-Lina es una psicóloga y administradora de empresas, interesada en la salud mental dentro de las organizaciones. Tiene conocimientos de psicología clínica y experiencia en el diseño e implementación de proyectos sociales. Miembro de SDSN Youth Solutions Hub.
+Lina es una psicóloga de la [Universidad El Bosque](https://www.uelbosque.edu.co/) y administradora de empresas de la [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/home). Tiene interés en la salud mental dentro de las organizaciones. Tiene conocimientos de psicología clínica y experiencia en el diseño e implementación de proyectos sociales. Miembro de SDSN Youth Solutions Hub.
 
-Lina primero hizo su proyecto de investigación de pregrado entre 2016 y 2017, y luego trabajó como asistente de investigación bajo mi supervisión.
+Lina primero hizo su proyecto de investigación de pregrado entre 2016 y 2017, y luego trabajó como asistente de investigación bajo mi supervisión, formándose en métodos de investigación, y ha apoyando procesos de investigación como asistente de investigación bajo mi supervisión. En 2020 Lina ha estado trabajando en análisis de datos y programación en R bajo mi dirección.
 
 ## **Proyecto de Investigación de Pregrado**  
 
@@ -77,12 +77,12 @@ Lina primero hizo su proyecto de investigación de pregrado entre 2016 y 2017, y
 
 Universidad El Bosque, 2016-2017.
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), y [Eugenio Valderrama](/es/author/eugenio-valderrama/).
+**Supervisores:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), y [Eugenio Valderrama](/en/author/eugenio-valderrama/).
 
-## **Proyecto de Investigación**  
+## **Asistente Proyecto de Investigación**  
 
 *Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales*
 
 Universidad El Bosque, 2018
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), [Eugenio Valderrama](/es/author/eugenio-valderrama/), y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/)
+**Supervisores:** [Juan David Leongómez](/en/#about), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), [Eugenio Valderrama](/en/author/eugenio-valderrama/), y [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/)

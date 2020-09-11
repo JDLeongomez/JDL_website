@@ -34,6 +34,11 @@
   weight = 60
 
 [[main]]
+  name = "Colaboradores"
+  url = "colabs/"
+  weight = 65
+
+[[main]]
   name = "Trayectoria"
   url = "profile/"
   weight = 70
