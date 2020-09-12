@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigadora Posdoctoral
+role: Post Doctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.stir.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigadora Posdoctoral (Division of Psychology, University of Stirling, Stirling, Reino Unido).
+bio: Post Doctoral Research Fellow (Division of Psychology, University of Stirling, Stirling, UK).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,10 +47,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Colaboradores
+- Collaboration
 
 ---
 
-Conocí a Vicky en 2010, cuando inicié mis estudios doctorales en la [Universidad de Stirling](http://www.stir.ac.uk/). Desde el incio hemos mantenido una gran amistad y hemos colaborado y publicado varios artículos. En 2015, estuvo de visita en Bogotá junto con su familia, paseando e incluso dando una tremenda conferencia. Para más información y conocer su trabajo y publicaciones, visita su [página de la Universidad de Stirling](https://www.stir.ac.uk/people/256768).
+I met Vicky in 2010 when we both started our doctoral studies at the [University of Stirling](http://www.stir.ac.uk/). Since the beginning we have maintained a great friendship and have collaborated and published several articles. In 2015, she visited Bogotá with her family, walking and even giving a great talk. For more information and to see her work and publications, visit her [Stirling University page](https://www.stir.ac.uk/people/256768).
 
-{{< figure src="mirador.jpg" title="Vicky, su hijo Toren y yo disfrutando la vista de Bogotá durante su visita en 2015" width=80% >}}
+{{< figure src="mirador.jpg" title="Vicky, her son Toren and I enjoying the view of Bogotá during their visit in 2015" width=80% >}}

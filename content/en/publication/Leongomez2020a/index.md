@@ -3,7 +3,7 @@ title = "Contextualising courtship: Exploring male body odour effects on vocal m
 date = 2020-07-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "ors", "mva", "S. Craig Roberts"]
+authors = ["admin", "ors", "mva", "scr"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ tags = []
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -47,7 +47,7 @@ projects = []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -71,7 +71,7 @@ links = [{name = "Supplementary Material", url = "https://osf.io/4sjf6/"}]
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Image credit: **Juan David Leongómez 2020**"

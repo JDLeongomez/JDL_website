@@ -3,7 +3,7 @@ title = "Self-reported Dominance in Women: Associations with Hormonal Contracept
 date = 2015-12-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kelly D. Cobey", "Mike Nicholls", "admin", "S. Craig Roberts"]
+authors = ["Kelly D. Cobey", "Mike Nicholls", "admin", "scr"]
 
 # Publication type.
 # Legend:

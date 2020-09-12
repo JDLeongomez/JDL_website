@@ -3,7 +3,7 @@ title = "Vocal modulation during courtship increases proceptivity even in naive 
 date = 2014-06-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Jakub Binter", "Lydie Kubicová", "Petra Stolařová", "Kateřina Klapilová", "Jan Havlíček", "S. Craig Roberts"]
+authors = ["admin", "Jakub Binter", "Lydie Kubicová", "Petra Stolařová", "Kateřina Klapilová", "jh", "scr"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ tags = []
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -47,7 +47,7 @@ projects = []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = "example-slides"
@@ -71,7 +71,7 @@ url_source = ""
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Image credit: **Juan David Leongómez 2014**"
