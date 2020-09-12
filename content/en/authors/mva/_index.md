@@ -79,4 +79,4 @@ Associate Professor, Researcher in Neuroscience at [Universidad El Bosque](https
 
 Universidad de Valencia, 2015-2018
 
-**Supervisors:** Alicia Salvador and [Juan David Leongómez](/en/#about)
+**Supervisors:** [Alicia Salvador](https://www.uv.es/labnsc/miembros%20individualmente/miembrosaliciasalvador.html) and [Juan David Leongómez](/en/#about)
