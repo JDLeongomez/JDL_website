@@ -68,7 +68,7 @@ user_groups:
 
 Andrés es investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
 
-Sus intereses de investigación incluyen los efectos hormonales y de la microbiota en el comportamiento humano, ha trabajado en neurociencia y, durante su estancia en la [Universidad Nacional Autónoma de México](https://www.unam.mx/), trabajó en biología molecular bajo la supervisión del [Dr. Isaac González-Santoyo](https://www.researchgate.net/profile/Isaac_Santoyo).
+Sus intereses de investigación incluyen los efectos hormonales y de la microbiota en el comportamiento humano, ha trabajado en neurociencia y, durante su estancia en la [Universidad Nacional Autónoma de México](https://www.unam.mx/), trabajó en biología molecular bajo la supervisión del [Dr. Isaac González-Santoyo](/es/author/isaac-gonzalez-santoyo/).
 
 ## **Asistente Proyecto de Investigación**  
 

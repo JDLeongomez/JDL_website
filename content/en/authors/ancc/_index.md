@@ -68,7 +68,7 @@ user_groups:
 
 Andrés is a researcher at the [Human Behavior Analysis Laboratory (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Faculty of Psychology](https://www.unbosque.edu.co/psicologia) at [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
 
-His research interests include the hormonal and microbiota effects on human behavior, and he has worked in neuroscience and, during his stay at the [National Autonomous University of Mexico](https://www.unam.mx/), he worked in molecular biology under the supervision of [Dr. Isaac González-Santoyo](https://www.researchgate.net/profile/Isaac_Santoyo).
+His research interests include the hormonal and microbiota effects on human behavior, and he has worked in neuroscience and, during his stay at the [National Autonomous University of Mexico](https://www.unam.mx/), he worked in molecular biology under the supervision of [Isaac González-Santoyo](/en/author/isaac-gonzalez-santoyo/).
 
 ## **Research Project**  
 
