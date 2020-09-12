@@ -59,4 +59,4 @@ Karel is a friend and active collaborator, with whom we have worked on several p
 After I visited Prague several times, in 2018, Karel came to Colombia. He did a talk on geometric morphometrics and we worked on our projects.
 
 {{< figure src="karel2.jpeg" title="Karel (left) and his doctoral student Šimon Pokorný (right) enjoying some local food and beer"  width=75% >}}
-{{< figure src="morfo.png" title="Conference on geometric morphometries, November 13, 2018" width=50% >}}
+{{< figure src="morfo.png" title="Conference on geometric morphometrics, November 13, 2018" width=50% >}}

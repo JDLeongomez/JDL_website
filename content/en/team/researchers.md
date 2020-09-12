@@ -7,17 +7,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Equipo"
+title = "Researchers"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Investigadores",
-                 "Asistentes de Investigación Graduados",
-                 "Antiguos Estudiantes de Posgrado",
-                 "Estudiantes de Pregrado",
-                 "Antiguos Estudiantes de Pregrado"]
+  user_groups = ["Researchers",
+                 "Research Assistants"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -54,6 +51,10 @@ subtitle = ""
  css_class = ""
 +++
 
-## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo permanentemente en la [Universidad El Bosque](https://www.uelbosque.edu.co/), así como los estudiantes (Doctorado, Maestría y Pregrado) de esta y otras universidades que estoy supervisando o he supervisado. 
+## In this page you can find information regarding the researchers and research assistants I permanently work with in the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es) [Universidad El Bosque](https://www.uelbosque.edu.co/).
 
-*Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos (si existen).*
+{{< figure src="invs.jpg" title="[Oscar R. Sánchez](/en/author/oscar-r.-sanchez/) and [Eugenio Valderrama](/en/author/eugenio-valderrama/) with me in 2017"  width=60% >}}
+
+#### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any).*
+
+<i class="fas fa-chevron-down"></i>

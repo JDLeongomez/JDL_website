@@ -29,19 +29,51 @@
   weight = 50
 
 [[main]]
-  name = "Lab"
+  identifier = "people"
+  name = "People"
   url = "team/"
   weight = 60
 
 [[main]]
+  identifier = "people1"
+  name = "Lab"
+  url = "team/"
+  parent = "people"
+  weight = 60
+
+[[main]]
+  identifier = "people2"
+  name = "Students"
+  url = "team/#students"
+  parent = "people"
+  weight = 62
+
+[[main]]
+  identifier = "people3"
   name = "Collaboration"
   url = "colabs/"
+  parent = "people"
   weight = 65
 
 [[main]]
+  identifier = "resume"
   name = "Resume"
   url = "profile/"
   weight = 70
+
+[[main]]
+  identifier = "resume1"
+  name = "Experience"
+  url = "profile/#experience"
+  parent = "resume"
+  weight = 70
+
+[[main]]
+  identifier = "resume2"
+  name = "Accomplishments"
+  url = "profile/#accomplishments"
+  parent = "resume"
+  weight = 75
 
 [[main]]
   name = "Contact"

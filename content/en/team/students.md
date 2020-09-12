@@ -5,17 +5,15 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 55  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
-title = "Lab"
+title = "Students"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Researchers",
-                 "Research Assistants",
-                 "Former Graduate Students",
+  user_groups = ["Former Graduate Students",
                  "Undergraduate Students",
                  "Former Undergraduate Students"]
 
@@ -54,6 +52,10 @@ subtitle = ""
  css_class = ""
 +++
 
-## In this page you can find information regarding the researchers and research assistants I permanently work with at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the students (PhD, MSc and BSc) from this and other universities I am supervising or have supervised. 
+## In this page you can find information regarding the students (PhD, MSc and BSc) from this and other universities I am supervising or have supervised.
 
-*Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any).*
+{{< figure src="lach.jpg" title="[Andrés Castellanos-Chacón](/en/author/andres-castellanos-chacon/) directing a data collection session (facial photographs for geometric morphometrics) with LACH students in 2019"  width=60% >}}
+
+#### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any).*
+
+<i class="fas fa-chevron-down"></i>

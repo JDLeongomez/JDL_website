@@ -52,4 +52,6 @@ subtitle = ""
 
 ## Yo colaboro permanentemente con investigadores de varios países. Esta es una lista no exhaustiva y sin un orden particular de investigadores alrededor del mundo con quienes he colaborado o estoy colaborando.
 
-*Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos.*
+#### *Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos.*
+
+<i class="fas fa-chevron-down"></i>

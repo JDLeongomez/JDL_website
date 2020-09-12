@@ -50,4 +50,4 @@ user_groups:
 
 University of Stirling, 2013-2014
 
-**Supervisors:** S. Craig Roberts and [Juan David Leongómez](/en/#about)
+**Supervisors:** [S. Craig Roberts](/en/author/s.-craig-roberts/) and [Juan David Leongómez](/en/#about)
