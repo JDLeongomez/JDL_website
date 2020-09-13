@@ -29,7 +29,7 @@ interests:
 - Psicoacústica
 - Hormonas
 - Estadística
-- Programación en <i class="fab fa-r-project"></i>
+- Programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)
 
 education:
   courses:
