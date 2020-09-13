@@ -71,7 +71,7 @@ user_groups:
 - Antiguos Estudiantes de Posgrado
 ---
 
-Profesora Asociada, Investigadora en Neurociencia de la [Universidad El Bosque](https://www.uelbosque.edu.co/) en Bogotá, Colombia. Lidera proyectos de investigación en dos líneas. La primera, sobre preferencias sexuales típicas-atípicas, no desviadas y desviadas, como la pedofilia. En segundo lugar, sobre los sesgos atencionales y la VFC como indicadores de trastornos afectivos. Se ha centrado en el uso del rastreo ocular (*eye-tracking*) como una medida indirecta del afecto y la excitación sexual. Tiene interés en la investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
+Profesora Asociada e investigadora en neurociencia del Laboratorio de Psicología Experimental de la [Universidad El Bosque](https://www.uelbosque.edu.co/). Lidera proyectos de investigación en dos líneas. La primera, sobre preferencias sexuales típicas-atípicas, no desviadas y desviadas, como la pedofilia. En segundo lugar, sobre los sesgos atencionales y la VFC como indicadores de trastornos afectivos. Se ha centrado en el uso del rastreo ocular (*eye-tracking*) como una medida indirecta del afecto y la excitación sexual. Tiene interés en la investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
 
 ## **Proyecto PhD (*Summa cum laude*)**  
 

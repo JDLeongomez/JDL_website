@@ -71,7 +71,7 @@ user_groups:
 - Former Graduate Students
 ---
 
-Associate Professor, Researcher in Neuroscience at [Universidad El Bosque](https://www.uelbosque.edu.co/) in Bogota, Colombia. I am leading research projects in two lines. The first, about typical-atypical sexual preferences, non-deviant and deviant, such as pedophilia. Second, about attentional biases and HRV as indicators of affective disorders. I have focused on the use of eye-tracking as an indirect measure of affect and sexual arousal. I am interested in research about the cognitive mechanisms that underlie mood disorders and sexual behavior.
+Milena is an Associate Professor, and researcher in neuroscience at the Experimental ¨sicology Lab, [Universidad El Bosque](https://www.uelbosque.edu.co/). She is leading research projects in two lines: first, about typical-atypical sexual preferences, both deviant and non-deviant, such as paedophilia. Second, about attentional biases and HRV as indicators of affective disorders. She has focused on the use of eye-tracking as an indirect measure of affect and sexual arousal. She is interested in research about the cognitive mechanisms that underlie mood disorders and sexual behavior.
 
 ## **PhD Project (*Summa cum laude*)**  
 
