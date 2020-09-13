@@ -29,7 +29,7 @@ interests:
 - Psychoacoustics
 - Hormones
 - Statistics
-- <i class="fab fa-r-project"></i> programming
+- <i class="fab fa-r-project"></i>   programming
 
 education:
   courses:
