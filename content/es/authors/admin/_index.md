@@ -29,7 +29,7 @@ interests:
 - Psicoacústica
 - Hormonas
 - Estadística
-- Programación en R
+- Programación en <i class="fab fa-r-project"></i>
 
 education:
   courses:
@@ -69,7 +69,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
-  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

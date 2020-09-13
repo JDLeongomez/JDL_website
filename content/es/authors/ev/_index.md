@@ -27,7 +27,7 @@ interests:
 - Biogeografía
 - Taxonomía Botánica
 - Biología Evolutiva aplicada al comportamiento humano
-- Programación en R
+- Programación en <i class="fab fa-r-project"></i>
 
 education:
   courses:

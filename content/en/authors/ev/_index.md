@@ -26,7 +26,7 @@ interests:
 - Neotropical
 - Biogeography
 - Taxonomy
-- R programming
+- <i class="fab fa-r-project"></i> programming
 - Evolutionary Biology applied to human behaviour
 
 
