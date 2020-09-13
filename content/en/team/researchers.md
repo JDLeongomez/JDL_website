@@ -51,7 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
-## In this page you can find information regarding the researchers and research assistants I permanently work with in the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es) [Universidad El Bosque](https://www.uelbosque.edu.co/).
+## In this page you can find information regarding the researchers and research assistants I permanently work with in the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es) at [Universidad El Bosque](https://www.uelbosque.edu.co/).
 
 {{< figure src="invs.jpg" title="[Oscar R. Sánchez](/en/author/oscar-r.-sanchez/) and [Eugenio Valderrama](/en/author/eugenio-valderrama/) with me in 2017"  width=60% >}}
 
