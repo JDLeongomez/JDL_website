@@ -8,7 +8,7 @@
   <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
 
-    Made in the <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package, with
+    Made in <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i></a>, using the <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package, with
     <a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy Website Builder</a>.
 
     {{ if ne .Type "docs" }}
