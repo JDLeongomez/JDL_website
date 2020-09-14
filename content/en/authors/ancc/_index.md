@@ -68,11 +68,11 @@ user_groups:
 
 Andrés is a researcher at the [Human Behavior Analysis Laboratory (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Faculty of Psychology](https://www.unbosque.edu.co/psicologia) at [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
 
-His research interests include the hormonal and microbiota effects on human behavior, and he has worked in neuroscience and, during his stay at the [National Autonomous University of Mexico](https://www.unam.mx/), he worked in molecular biology under the supervision of [Isaac González-Santoyo](/en/author/isaac-gonzalez-santoyo/).
+His research interests include hormonal and microbiota effects on human behavior. He worked on microbiota during his stay at the [Universidad Nacional Autónoma de México](https://www.unam.mx/), under the supervision of [Dr. Isaac González-Santoyo](/en/author/isaac-gonzalez-santoyo/), and has worked in neuroscience under the supervision of [Dr. Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/), as well as in molecular biology, under the supervision of [Juan Pablo Hernandez](https://scholar.google.es/citations?user=UjKjHNYAAAAJ&hl).
 
 ## **Research Project**  
 
-*Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales* [Perceptible signs of physical and mental health in faces, voices, and body odors, and their relationship to hormone levels]
+*Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales* [Perceptible signs of physical and mental health in faces, voices, and body odours, and their relationship to hormone levels]
 
 Universidad El Bosque, 2019-2020
 
