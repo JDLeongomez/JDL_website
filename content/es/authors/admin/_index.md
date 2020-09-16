@@ -87,7 +87,7 @@ user_groups:
 
 Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.uelbosque.edu.co/) en Bogotá, Colombia. Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como los efectos hormonales en el comportamiento humano. Cada día me apasiono más por los métodos cuantitativos y la programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;(usando [RStudio](https://rstudio.com/products/rstudio/)), para promover la ciencia abierta y la reproducibilidad.
 
-## [Producción científica](#publications)
+## [Producción científica](/es/publication/)
 
 En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos haciendo clic en los íconos bajo mi fotografía (incluyendo [Publons](https://publons.com/researcher/1333339/juan-david-leongomez/), que tiene el [registro verificado](https://publons.com/researcher/1333339/juan-david-leongomez/peer-review/) de mi trabajo como par académico y roles editoriales en revistas internacionales). Puedes tambien acceder a mi [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945).
 
