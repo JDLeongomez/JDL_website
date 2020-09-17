@@ -29,7 +29,7 @@ interests:
 - Psicoacústica
 - Hormonas
 - Estadística
-- Programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)
+- Programación en <i class="fab fa-r-project"></i>
 
 education:
   courses:
@@ -60,15 +60,18 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-#- icon: osf
-#  icon_pack: ai
-#  link: https://osf.io/s26ax/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1333339/juan-david-leongomez/
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/s26ax/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JDLeongomez
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,7 +92,7 @@ Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportam
 
 ## [Producción científica](/es/publication/)
 
-En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos haciendo clic en los íconos bajo mi fotografía (incluyendo [Publons](https://publons.com/researcher/1333339/juan-david-leongomez/), que tiene el [registro verificado](https://publons.com/researcher/1333339/juan-david-leongomez/peer-review/) de mi trabajo como par académico y roles editoriales en revistas internacionales). Puedes tambien acceder a mi [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945).
+En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos (haciendo clic en los íconos bajo mi fotografía), incluyendo [Publons](https://publons.com/researcher/1333339/juan-david-leongomez/), que tiene el [registro verificado](https://publons.com/researcher/1333339/juan-david-leongomez/peer-review/) de mi trabajo como par académico y roles editoriales en revistas internacionales, e  [Impactstory](https://profiles.impactstory.org/u/0000-0002-0092-6298), que tiene un registro de las [menciones en medios](https://profiles.impactstory.org/u/0000-0002-0092-6298/timeline) de mi trabajo. Puedes tambien acceder a mi [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945).
 
 {{< figure library="true" src="IA_logo.png" title="" lightbox="true" >}}
 ## [Investigación Abierta](#posts) (canal de YouTube)

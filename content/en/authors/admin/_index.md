@@ -60,15 +60,18 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-#- icon: osf
-#  icon_pack: ai
-#  link: https://osf.io/s26ax/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1333339/juan-david-leongomez/
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/s26ax/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/JDLeongomez
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
