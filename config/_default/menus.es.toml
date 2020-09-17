@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Habilidades"
-  url = "#skills"
-  weight = 20
+#[[main]]
+#  name = "Habilidades"
+#  url = "#skills"
+#  weight = 20
 
 [[main]]
   name = "Destacado"
@@ -28,52 +28,52 @@
   url = "publication/"
   weight = 50
 
-  [[main]]
-    identifier = "people"
-    name = "Equipo"
-    url = "team/"
-    weight = 60
+[[main]]
+  identifier = "people"
+  name = "Equipo"
+  url = "team/"
+  weight = 60
 
-  [[main]]
-    identifier = "people1"
-    name = "Investigadores"
-    url = "team/#researchers"
-    parent = "people"
-    weight = 60
+[[main]]
+  identifier = "people1"
+  name = "Investigadores"
+  url = "team/#researchers"
+  parent = "people"
+  weight = 60
 
-  [[main]]
-    identifier = "people2"
-    name = "Estudiantes"
-    url = "team/#students"
-    parent = "people"
-    weight = 62
+[[main]]
+  identifier = "people2"
+  name = "Estudiantes"
+  url = "team/#students"
+  parent = "people"
+  weight = 62
 
-  [[main]]
-    identifier = "people3"
-    name = "Colaboraciones"
-    url = "colabs/"
-    parent = "people"
-    weight = 65
+[[main]]
+  identifier = "people3"
+  name = "Colaboraciones"
+  url = "colabs/"
+  parent = "people"
+  weight = 65
 
-  [[main]]
-    identifier = "resume"
-    name = "Trayectoria"
-    url = "profile/"
-    weight = 70
+[[main]]
+  identifier = "resume"
+  name = "Trayectoria"
+  url = "profile/"
+  weight = 70
 
-  [[main]]
-    identifier = "resume1"
-    name = "Experiencia"
-    url = "profile/#experience"
-    parent = "resume"
-    weight = 70
+[[main]]
+  identifier = "resume1"
+  name = "Experiencia"
+  url = "profile/#experience"
+  parent = "resume"
+  weight = 70
 
-  [[main]]
-    identifier = "resume2"
-    name = "Logros"
-    url = "profile/#accomplishments"
-    parent = "resume"
-    weight = 75
+[[main]]
+  identifier = "resume2"
+  name = "Logros"
+  url = "profile/#accomplishments"
+  parent = "resume"
+  weight = 75
 
 [[main]]
   name = "Contacto"
