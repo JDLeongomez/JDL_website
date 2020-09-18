@@ -5,7 +5,7 @@ authors: ["admin"]
 summary: En esta serie/tutorial, explico cómo hacer **análisis de poder** (o potencia) estadística para calcular el **tamaño de muestra** necesario para un estudio.
 ---
 
-En esta serie, explico las bases del análisis de **poder estadístico** y cómo usarlo para calcular el **tamaño de muestra** necesario para un estudio.
+En esta serie, explico las bases del análisis de **poder estadístico** y cómo usarlo para calcular el **tamaño de muestra** necesario para un estudio. 
 
 Los videos se centran en el procedimiento para realizar **análisis de poder** y **tamaños de muestra** en [jamovi](https://www.jamovi.org/) y particularmente en [R](https://www.r-project.org/), usando los paquetes [`pwr`](https://www.rdocumentation.org/packages/pwr/) (para diseños sencillos) y [`Superpower`](https://cran.r-project.org/web/packages/Superpower/vignettes/intro_to_superpower.html) (para diseños factoriales más complejos). La sección dedicada a [`pwr`](https://www.rdocumentation.org/packages/pwr/) está ampliamente basada en [este video](https://youtu.be/ZIjOG8LTTh8) de Daniel S. Quintana (2019).
 
@@ -29,7 +29,7 @@ Esta serie además tiene un documento de apoyo:
 6. Alternativas: (10:17)
 7. Conclusiones:  (12:12)
 
-### Artículos citados en este video:
+### Artículos citados en este video: 
 
 > Albers, C., & Lakens, D. (2018). When Power Analyses Based on Pilot Data Are Biased: Inaccurate Effect Size Estimators and Follow-up Bias. *Journal of Experimental Social Psychology, 74*, 187-195. https://doi.org/10.1016/j.jesp.2017.0...
 
@@ -63,6 +63,16 @@ Esta serie además tiene un documento de apoyo:
 
 ## **Diseños factoriales.**
 
-{{< youtube replace >}}
+{{< youtube xCVU1H5OQl8 >}}
 
 ### Secciones:
+
+1. Presentación: (0:00)
+2. Intro a diseños factoriales en `Superpower`: (1:17)
+3. Instalación y carga de `Superpower`:  (6:25)
+4. Acerca de comparaciones *post-hoc*: (7:29)
+5. ANOVA de medidas independientes: (11:09)
+6. ANOVA de medidas repetidas: (25:30)
+7. ANOVA de medidas mixtas: (37:26)
+8. Cómo funciona `Superpower`: (46:54)
+9. Conclusiones: (50:21)

@@ -63,6 +63,16 @@ This series is also supported by a practical guide:
 
 **Factorial designs:** 
 
+{{< youtube xCVU1H5OQl8 >}}
+
 ### Sections:
 
-{{< youtube replace >}}
+1. Presentation: (0:00)
+2. Intro to factorial designs in `Superpower`: (1:17)
+3. Installation and loading `Superpower`: (6:25)
+4. About *post-hoc* comparisons: (7:29)
+5. Independent-measures design: (11:09)
+6. Repeated-measures design: (25:30)
+7. Mixed-measures design: (37:26)
+8. How `Superpower` works: (46:54)
+9. Conclusions: (50:21)
