@@ -51,7 +51,7 @@ user_groups:
 
 ---
 
-Chris es un amigo y colaborador.Para obtener más información y conocer su trabajo y publicaciones, visita el [sitio web de su laboratorio](https://www.relationship-lab.com/), o  su [página web institucional](https://www.abertay.ac.uk/staff-search/dr-christopher-watkins/). 
+Chris es un amigo y colaborador.Para obtener más información y conocer su trabajo y publicaciones, visita el [sitio web de su laboratorio](https://www.relationship-lab.com/), o  su [página de la Universidad de Abertay](https://www.abertay.ac.uk/staff-search/dr-christopher-watkins/). 
 
 Trabajé con él en un proyecto relacionado con predictores ambientales de la frecuencia de los besos boca a boca:
 
