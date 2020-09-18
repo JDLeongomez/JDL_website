@@ -19,7 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Colciencias"
+  organization = "Improbable Research"
+  organization_url = "https://www.improbable.com/"
+  title = "Ig Nobel Prize 2020 (Economics)"
+  url = "https://www.improbable.com/ig-about/winners/#ig2020"
+  certificate_url = "https://youtu.be/Amkyp-dhYX0?t=1693"
+  date_start = "2020-09-17"
+  description = "National income inequality predicts cultural variation in mouth to mouth kissing."
+
+[[item]]
+  organization = "Minciencias"
   organization_url = "https://www.minciencias.gov.co/"
   title = "Postdoctoral Research Stays - Colciencias beneficiaries 2017"
   url = "http://www.minciencias.gov.co/convocatorias/investigacion/convocatoria-programa-estancias-postdoctorales-beneficiarios-colciencias"
@@ -69,10 +78,10 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Colciencias"
+  organization = "Minciencias"
   organization_url = "https://www.colciencias.gov.co/"
   title = "Francisco José de Caldas Scholarship for Doctoral Studies"
-  url = "https://legadoweb.colciencias.gov.co/convocatoria/convocatoria-nacional-para-estudios-de-postgrado-en-el-exterior-nivel-de-doctorado-o-20"
+  url = "https://legadoweb.minciencias.gov.co/convocatoria/convocatoria-nacional-para-estudios-de-postgrado-en-el-exterior-nivel-de-doctorado-o-20"
   certificate_url = "https://drive.google.com/file/d/1FeYgda9RAf__vR50ZHbT7V5rJVRhTDI9/view?usp=sharing"
   date_start = "2010-10-15"
   date_end = "2014-10-15"

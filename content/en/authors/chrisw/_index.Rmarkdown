@@ -57,6 +57,6 @@ I worked with him on a project related to environmental predictors of mouth-to-m
 
 >{{< cite page="/publication/watkins2019" view="4" >}}
 
-Happily, for this project lead by Chris, we were awarded the 2020 [Ig Nobel Prize](https://www.improbable.com/ig-about/) on economics, "[for trying to quantify the relationship between different countries’ national income inequality and the average amount of mouth-to-mouth kissing](https://www.improbable.com/ig-about/winners/#ig2020)". Below, you can watch the ceremony (if you want to jump to Chris receiving the price, go to [28:13](https://youtu.be/Amkyp-dhYX0?t=1693)).
+Happily, for this project lead by Chris, we were awarded the 2020 [Ig Nobel Prize](https://www.improbable.com/ig-about/) in economics, "[for trying to quantify the relationship between different countries’ national income inequality and the average amount of mouth-to-mouth kissing](https://www.improbable.com/ig-about/winners/#ig2020)". Below, you can watch the ceremony (if you want to jump to Chris receiving the price, go to [28:13](https://youtu.be/Amkyp-dhYX0?t=1693)).
 
 {{< youtube Amkyp-dhYX0 >}}

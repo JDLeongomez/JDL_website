@@ -57,6 +57,6 @@ Trabajé con él en un proyecto relacionado con predictores ambientales de la fr
 
 >{{< cite page="/publication/watkins2019" view="4" >}}
 
-Felizmente, por este proyecto, liderado por Chris, fuimos premiados con el [Ig Nobel Prize](https://www.improbable.com/ig-about/) en conomía, 2020, "[por tratar de cuantificar la relación entre la desigualdad de ingresos nacionales en diferentes países y la cantidad promedio de besos boca a boca](https://www.improbable.com/ig-about/winners/#ig2020)". A continuación, puedes ver la ceremonia, con subtítulos en español (si deseas saltar al momento en el que Chris recibe el premio, ve al minuto [30:08](https://youtu.be/1lVkZfhcNck?t=1808)).
+Felizmente, por este proyecto, liderado por Chris, fuimos premiados con el [Ig Nobel Prize](https://www.improbable.com/ig-about/) en economía, 2020, "[por tratar de cuantificar la relación entre la desigualdad de ingresos nacionales en diferentes países y la cantidad promedio de besos boca a boca](https://www.improbable.com/ig-about/winners/#ig2020)". A continuación, puedes ver la ceremonia, con subtítulos en español (si deseas saltar al momento en el que Chris recibe el premio, ve al minuto [30:08](https://youtu.be/1lVkZfhcNck?t=1808)).
 
 {{< youtube 1lVkZfhcNck >}}
