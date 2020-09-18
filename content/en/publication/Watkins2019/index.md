@@ -3,7 +3,7 @@ title = "National income inequality predicts cultural variation in mouth to mout
 date = 2019-04-11T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Christopher D. Watkins", "admin", "Jeanne Bovet", "Agnieszka Żelaźniewicz", "Max Korbmacher", "Marco Antônio Corrêa Varella", "Ana Maria Fernandez", "Danielle Wagstaff", "Samuela Bolgan"]
+authors = ["chrisw", "admin", "Jeanne Bovet", "Agnieszka Żelaźniewicz", "Max Korbmacher", "Marco Antônio Corrêa Varella", "Ana Maria Fernandez", "Danielle Wagstaff", "Samuela Bolgan"]
 
 # Publication type.
 # Legend:
