@@ -14,8 +14,8 @@ role: Investigadora Posdoctoral
 
 # Organizations/Affiliations
 organizations:
-- name: Charles University in Prague
-  url: "https://cuni.cz/uken-1.html"
+- name: Equipe Neuro-Ethologie Sensorielle, University of Lyon, Lyon, Francia
+  url: "https://www.eneslab.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Investigadora Posdoctoral (Equipe Neuro-Ethologie Sensorielle, University of Lyon, Lyon, Francia).
