@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Como parte de un equipo liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), me fue otorgado <br/> el [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en econompia"
+  title = "Como parte de un equipo liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), me fue otorgado <br/> el [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en economia"
   content = "Por '[tratar de cuantificar la relación entre la desigualdad de ingresos nacionales en diferentes países y la cantidad promedio de besos boca a boca](/es/publication/watkins2019/)'"
   align = "right"  # Choose `center`, `left`, or `right`.
 
