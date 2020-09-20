@@ -51,13 +51,15 @@ Esta serie además tiene un documento de apoyo:
 2. Intro a `jpower` de jamovi: (1:12)
     + 2.1 Instalación de `jpower`: (3:03)
     + 2.2 Diseños tipo prueba t en `jpower`: (3:41)
-3. Intro a `pwr` para R: (13:03)
+3. Intro a `pwr`[^1] para R: (13:03)
     + 3.1 Pequeña Introducción a R y RStudio: (13:44)
     + 3.2 Instalación y carga de `pwr`:  (18:26)
     + 3.3 Correlaciones en `pwr`: (21:58)
     + 3.4 Diseños tipo prueba t en `pwr`: (30:11)
     + 3.5 ANOVA de una vía en `pwr`: (35:11)
 4. Conclusiones: (37:54)
+
+[^1]: La sección dedicada a `pwr` está ampliamente basada en [este video](https://youtu.be/ZIjOG8LTTh8) de [Daniel S. Quintana](https://www.dsquintana.com/).
 
 # Parte 2 [Tutorial]
 

@@ -3,11 +3,11 @@
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+weight = 5  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -15,6 +15,25 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+[[item]]
+  title = "As part of a team led by [Christopher D. Watkins](/en/author/christopher-d.-watkins/), I was awarded the 2020 [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) in economics"
+  content = "For '[trying to quantify the relationship between different countries’ national income inequality and the average amount of mouth-to-mouth kissing](/en/publication/watkins2019/)'"
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "ignobel.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Watch the ceremony"
+  cta_url = "https://www.youtube.com/watch?v=Amkyp-dhYX0"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
+
 [[item]]
   title = "[ONLINE INTERNATIONAL CONGRESS OF NEUROSCIENCES: BRAIN AND BEHAVIOUR IN TIMES OF COVID-19](http://civn2020.com)"
   content = "Together with a [fantastic team of colleagues](http://civn2020.com/about.php),<br/> we are organising this incredible event.<br/> Don't miss it!<br/>November 25-28, 2020"

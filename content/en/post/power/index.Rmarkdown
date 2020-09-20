@@ -51,13 +51,15 @@ This series is also supported by a practical guide:
 2. Intro to `jpower` for jamovi: (1:12)
     + 2.1 Installing `jpower`: (3:03)
     + 2.2 *t*-test type designs in`jpower`: (3:41)
-3. Intro to `pwr` for R: (13:03)
+3. Intro to `pwr`[^1] for R: (13:03)
     + 3.1 Small intro to R and RStudio: (13:44)
     + 3.2 Installing and loading `pwr`:  (18:26)
     + 3.3 Correlations in `pwr`: (21:58)
     + 3.4 *t*-test type designs in `pwr`: (30:11)
     + 3.5 One-way ANOVA in `pwr`: (35:11)
 4. Conclusions: (37:54)
+
+[^1]: The section dedicated to `pwr` is largely based on [this video](https://youtu.be/ZIjOG8LTTh8) by [Daniel S. Quintana](https://www.dsquintana.com/).
 
 # Part 2 [Tutorial]
 
