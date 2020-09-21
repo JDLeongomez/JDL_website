@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.improbable.com/"
   title = "Ig Nobel Prize 2020 (Economics)"
   url = "https://www.improbable.com/ig-about/winners/#ig2020"
-  certificate_url = "https://youtu.be/Amkyp-dhYX0?t=1693"
+  certificate_url = "ignobelcert.jpg"
   date_start = "2020-09-17"
   description = "National income inequality predicts cultural variation in mouth to mouth kissing."
 
