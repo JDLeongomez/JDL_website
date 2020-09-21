@@ -13,7 +13,7 @@ Esta serie además tiene un documento de apoyo:
 
 {{< cite page="/publication/leongomez2020b" view="4" >}}
 
-# Introducción
+# 1. Introducción
 
 ## **Conceptos básicos.**
 
@@ -39,7 +39,7 @@ Esta serie además tiene un documento de apoyo:
 
 > Quintana, D. S. (2017). Statistical Considerations for Reporting and Planning Heart Rate Variability Case-Control Studies. *Psychophysiology, 54*(3), 344-349. https://doi.org/10.1111/psyp.12798
 
-# Parte 1 [Tutorial]
+# 2. Parte 1 [Tutorial]
 
 ## **Diseños sencillos:** Correlación, pruebas *t*, ANOVA de una vía
 
@@ -61,7 +61,7 @@ Esta serie además tiene un documento de apoyo:
 
 [^1]: La sección dedicada a `pwr` está ampliamente basada en [este video](https://youtu.be/ZIjOG8LTTh8) de [Daniel S. Quintana](https://www.dsquintana.com/).
 
-# Parte 2 [Tutorial]
+# 3. Parte 2 [Tutorial]
 
 ## **Diseños factoriales.**
 
