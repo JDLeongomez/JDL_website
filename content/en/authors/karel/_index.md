@@ -54,7 +54,7 @@ user_groups:
 
 ---
 
-Karel is a friend and active collaborator, with whom we have worked on several projects and publications, mainly related to dimorphism and sexual typicality in human faces, and are working on others that include cross-cultural analysis of human vocalizations. For more information and to see his work and publications, visit his [profile](https://www.researchgate.net/profile/Karel_Kleisner).
+Karel is a friend and active collaborator, with whom we have worked on several projects and publications, mainly related to dimorphism and sex typicality in human faces, and are working on others that include cross-cultural analysis of human vocalizations. For more information and to see his work and publications, visit his [profile](https://www.researchgate.net/profile/Karel_Kleisner).
 
 After I visited Prague several times, in 2018, Karel came to Colombia. He did a talk on geometric morphometrics and we worked on our projects.
 
