@@ -51,6 +51,6 @@ user_groups:
 
 ---
 
-I met Vicky in 2010 when we both started our doctoral studies at the [University of Stirling](http://www.stir.ac.uk/). Since the beginning we have maintained a great friendship and have collaborated and published several articles. In 2015, she visited Bogotá with her family, walking and even giving a great talk. For more information and to see her work and publications, visit her [Stirling University page](https://www.stir.ac.uk/people/256768).
+I met Vicky in 2010 when we both started our doctoral studies at the [University of Stirling](http://www.stir.ac.uk/). Since the beginning we have maintained a great friendship and have collaborated and published several articles. In 2015, she visited Bogotá with her family, travelling around the city, and even giving a great talk. For more information and to see her work and publications, visit her [Stirling University page](https://www.stir.ac.uk/people/256768).
 
 {{< figure src="mirador.jpg" title="Vicky, her son Toren and I enjoying the view of Bogotá during their visit in 2015" width=80% >}}
