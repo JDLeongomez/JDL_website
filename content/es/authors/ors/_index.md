@@ -66,4 +66,4 @@ user_groups:
 
 ---
 
-Profesor de la [Facultad de Psicología](https://www.uelbosque .edu.co / psicologia), de la [Universidad El Bosque](https://www.uelbosque.edu.co/), e Investigador/Director del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), en Bogotá, Colombia.
+Profesor de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia), de la [Universidad El Bosque](https://www.uelbosque.edu.co/), e Investigador/Director del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), en Bogotá, Colombia.
