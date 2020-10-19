@@ -35,8 +35,8 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "[ONLINE INTERNATIONAL CONGRESS OF NEUROSCIENCES: BRAIN AND BEHAVIOUR IN TIMES OF COVID-19](http://civn2020.com)"
-  content = "Together with a [fantastic team of colleagues](http://civn2020.com/about.php),<br/> we are organising this incredible event.<br/> Don't miss it!<br/>November 25-28, 2020"
+  title = "[ONLINE INTERNATIONAL CONGRESS OF NEUROSCIENCES: BRAIN AND BEHAVIOUR IN TIMES OF COVID-19](http://civn2020.com/index_en.php)"
+  content = "Together with a [fantastic team of colleagues](http://civn2020.com/comite_en.php),<br/> we are organising this incredible event.<br/> Don't miss it!<br/>November 25-28, 2020"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -48,8 +48,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Registration and abstract submissions"
-  cta_url = "http://civn2020.com/"
+  cta_label = "Registration"
+  cta_url = "http://civn2020.com/prices.php"
   cta_icon_pack = "fas"
   cta_icon = "info-circle"
 

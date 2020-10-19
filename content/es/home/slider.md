@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "[CONGRESO INTERNACIONAL VIRTUAL DE NEUROCIENCIAS: CEREBRO Y COMPORTAMIENTO EN TIEMPOS DE COVID-19](http://civn2020.com/index_es.php)"
-  content = "Junto con un [tremendo equipo de colegas](http://civn2020.com/acerca.php),<br/> estamos organizando este increíble evento.<br/> ¡No te lo pierdas!<br/> 25-28 de Noviembre, 2020"
+  content = "Junto con un [tremendo equipo de colegas](http://civn2020.com/comite_es.php),<br/> estamos organizando este increíble evento.<br/> ¡No te lo pierdas!<br/> 25-28 de Noviembre, 2020"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -48,8 +48,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Inscripciones y envío de trabajos"
-  cta_url = "http://civn2020.com/index_es.php"
+  cta_label = "Terifas e inscripciones"
+  cta_url = "http://civn2020.com/precios.php"
   cta_icon_pack = "fas"
   cta_icon = "info-circle"
 
