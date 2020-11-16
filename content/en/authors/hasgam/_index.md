@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology
+role: BSc Psychology 2019-2020
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student since 2019.
+bio: BSc research project student 2019-2020.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,13 +37,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Former Undergraduate Students
 ---
 
 ## **BSc Project**  
 
 *Percepción de sociosexualidad a partir de señales faciales* [Perception of socio-sexuality from facial cues]
 
-Universidad El Bosque, since 2019
+Universidad El Bosque, 2019-2020
 
 **Supervisors:** [Juan David Leongómez](/en/#about), [Andrés Castellanos-Chacón](/en/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).
+
+{{< youtube J6nUuifYjbU >}}

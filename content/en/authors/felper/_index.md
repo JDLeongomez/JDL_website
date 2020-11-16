@@ -46,7 +46,9 @@ user_groups:
 
 ## **BA Project**  
 
-*Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo* [Musicality and social cohesion: An experimental and bibliographic approach from teamwork]
+*Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo* [Musicality and social cohesion: An experimental and bibliographic approach from teamwork] 
+
+http://hdl.handle.net/20.500.12209/10443
 
 Universidad Pedagógica Nacional, 2018-2019
 

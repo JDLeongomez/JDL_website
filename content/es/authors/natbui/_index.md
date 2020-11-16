@@ -48,6 +48,8 @@ user_groups:
 
 *Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo*
 
+http://hdl.handle.net/20.500.12209/10443
+
 Universidad Pedagógica Nacional, 2018-2019
 
 **Supervisor:** [Juan David Leongómez](/es/#about).
