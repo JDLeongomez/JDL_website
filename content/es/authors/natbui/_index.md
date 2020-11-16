@@ -48,7 +48,7 @@ user_groups:
 
 *Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo*
 
-http://hdl.handle.net/20.500.12209/10443
+<a href="http://hdl.handle.net/20.500.12209/10443" target="_blank">http://hdl.handle.net/20.500.12209/10443</a>
 
 Universidad Pedagógica Nacional, 2018-2019
 
