@@ -97,4 +97,4 @@ En este sitio podrás encontrar toda la información de mis [publicaciones](http
 {{< figure library="true" src="IA_logo.png" title="" lightbox="true" >}}
 ## [Investigación Abierta](#posts) (canal de YouTube)
 
-Investigación Abierta es un [canal de YouTube](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. Puedes encontrar más información [acá](#posts).
+Investigación Abierta es un [canal de YouTube](https://www.youtube.com/user/juanleongomez) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. Puedes encontrar más información [acá](#posts).

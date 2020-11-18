@@ -93,4 +93,4 @@ I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](h
 {{< figure library="true" src="IA_logo.png" title="" lightbox="true" >}}
 ## [Investigación Abierta](#posts) (YouTube channel)
 
-Investigación Abierta is a [YouTube channel](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) (in Spanish) where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the videos [here](#posts).
+Investigación Abierta is a [YouTube channel](https://www.youtube.com/user/juanleongomez) (in Spanish) where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the videos [here](#posts).
