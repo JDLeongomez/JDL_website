@@ -1,5 +1,5 @@
 +++
-title = "Contextual musicality: vocal modulation and its perception in human social interactions"
+title = "Contextual musicality: Vocal modulation and its perception in human social interactions"
 date = 2014-07-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

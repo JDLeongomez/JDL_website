@@ -14,7 +14,7 @@ authors = ["admin"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "*Zenodo*"
