@@ -110,3 +110,7 @@ math = true
 >Felizmente, fuimos premiados con el [Ig Nobel Prize](https://www.improbable.com/ig-about/) en economía 2020 por este proyecto, "[por tratar de cuantificar la relación entre la desigualdad de ingresos nacionales en diferentes países y la cantidad promedio de besos boca a boca](https://www.improbable.com/ig-about/winners/#ig2020)". A continuación, puedes ver la ceremonia, con subtítulos en español (si deseas saltar al momento en el que [Chris](/es/author/christopher-d.-watkins/) recibe el premio, ve al minuto [30:08](https://youtu.be/1lVkZfhcNck?t=1808)).
 
 {{< youtube 1lVkZfhcNck >}}
+
+>Aquí está la conferencia informal de los ganadores del Premio Nobel de Economía Ig 2020.
+
+{{< youtube qGHPX7vaNIg >}}
