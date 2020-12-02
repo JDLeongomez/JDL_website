@@ -23,7 +23,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "ignobel.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ignobel.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -35,23 +35,23 @@ height = ""
   cta_icon = "youtube"
 
 [[item]]
-  title = "[CONGRESO INTERNACIONAL VIRTUAL DE NEUROCIENCIAS: CEREBRO Y COMPORTAMIENTO EN TIEMPOS DE COVID-19](http://civn2020.com/index_es.php)"
-  content = "Junto con un [tremendo equipo de colegas](http://civn2020.com/comite_es.php),<br/> estamos organizando este increíble evento.<br/> ¡No te lo pierdas!<br/> 25-28 de Noviembre, 2020"
+  title = "CONGRESO INTERNACIONAL VIRTUAL DE NEUROCIENCIAS: CEREBRO Y COMPORTAMIENTO EN TIEMPOS DE COVID-19"
+  content = "Junto con un [tremendo equipo de colegas](http://civn2020.com/comite_es.php),<br/> organizamos este increíble evento.<br/> ¡MIRA TODAS LAS PRESENTACIONES AHORA!"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "civn.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "civn.png"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Terifas e inscripciones"
-  cta_url = "http://civn2020.com/precios.php"
-  cta_icon_pack = "fas"
-  cta_icon = "info-circle"
+  cta_label = "Mira nuestro canal de YouTube"
+  cta_url = "https://www.youtube.com/channel/UC-jrLWsjZ5_ChInEL0S9mQw"
+  cta_icon_pack = "fab"
+  cta_icon = "youtube"
 
 [[item]]
   title = "Entrevista en [Ciencia Viral](https://youtu.be/t2RXrn45vnM) de El Tiempo"
@@ -61,7 +61,7 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Ciencia_Viral.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Ciencia_Viral.jpeg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.7  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
