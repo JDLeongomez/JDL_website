@@ -100,8 +100,10 @@ math = true
   <section>
     <div id="inner">
       <span style="float:left"; class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0179407" data-hide-zero-citations="true" data-legend="always">
-      </span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+      </span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8">
+      </script>
       <div  style="float:right"; data-link-target="_blank" data-badge-details="right" data-badge-type="medium-donut"
-      data-doi="10.1371/journal.pone.0179407"   data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+      data-doi="10.1371/journal.pone.0179407"   data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">
+      </div>
     </div>
   </section>
