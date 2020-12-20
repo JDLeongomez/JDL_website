@@ -1,4 +1,5 @@
 # Navigation Links
+# Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
@@ -83,6 +84,21 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-    name = "CV"
-    url = "/en/files/JDL_CV_en.pdf"
-    weight = 90
+   identifier = "cv"
+   name = "CV"
+   url = "files/JDL_CV_en.pdf"
+   weight = 90
+
+ [[main]]
+   identifier = "cv1"
+   name = "Detailed CV"
+   url = "files/JDL_CV_en.pdf"
+   parent = "cv"
+   weight = 90
+
+ [[main]]
+   identifier = "cv2"
+   name = "Short CV"
+   url = "files/JDL_shortCV_en.pdf"
+   parent = "cv"
+   weight = 92
