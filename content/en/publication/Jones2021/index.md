@@ -84,7 +84,7 @@ math = true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-## Métricas del *Preprint*
+## Preprint Metrics
 <html>
   <style>
     section {
@@ -108,7 +108,7 @@ math = true
     </div>
   </section>
 
-##  Métricas del Artículo Publicado  
+##  Article Metrics  
 <html>
   <style>
     section {
