@@ -53,6 +53,6 @@ user_groups:
 
 Isaac is a friend and active collaborator, with whom we have worked since 2018 on a project related to immunocompetence and perceptible signals. For more information and to see his work and publications, visit [his profile](https://www.researchgate.net/profile/Isaac_Santoyo).
 
-After visiting him in Mexico at the end of 2017, in 2018 Isaac travelled to Colombia together with the great [Roberto Munguía Steyer](https://www.researchgate.net/profile/Roberto_Munguia-Steyer) giving a talk and a course on geometric morphometries.
+After visiting him in Mexico at the end of 2017, in 2018 Isaac travelled to Colombia together with the great [Roberto Munguía Steyer](https://www.researchgate.net/profile/Roberto_Munguia-Steyer) giving a talk and a course on geometric morphometrics.
 
-{{< figure src="Morfometria.jpg" title="Conference on geometric morphometries, June 12, 2018" width=50% >}}
+{{< figure src="Morfometria.jpg" title="Conference on geometric morphometrics, June 12, 2018" width=50% >}}
