@@ -27,7 +27,7 @@ abstract = "Esta guía práctica acompaña la serie de videos [Poder estadístic
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.5281/zenodo.3988777"
+doi = "10.5281/zenodo.3988776"
 
 # Is this a featured publication? (true/false)
 featured = false
