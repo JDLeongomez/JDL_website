@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Proyecto de investigación MSc: La voz como predictor de sintomatología asociada a depresión y ansiedad'
+bio: 'Proyecto de investigación MSc: La voz como predictor de sintomatología asociada a depresión y ansiedad' (https://repositorio.unbosque.edu.co/handle/20.500.12495/4416)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
