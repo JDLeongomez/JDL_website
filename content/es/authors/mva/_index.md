@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Profesora Asociada / PhD 2015-2018
+role: Profesora Asociada / PhD 2015-2018 / Postdoc 2021
 
 # Organizations/Affiliations
 organizations:

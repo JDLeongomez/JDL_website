@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 * Estancia postdoctoral (2018-2019).
 * [Supervisión](/es/team/) de estudiantes de doctorado:
     1. [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/) (PhD en Neurociencias, Universidad de Valencia, España – 2015-2018).
-    2. [Francisco Javier Flores](https://www.psychologytoday.com/gb/counselling/francisco-javier-flores-tonbridge-eng/493281) (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
+    2. [Francisco Javier Flores](https://www.researchgate.net/profile/Francisco_Flores31) (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
     
 * Docencia:
     1. Métodos Cuantitativos I (Maestría en Psicología – 2017).

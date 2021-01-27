@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 * Postdoctoral stay (2018-2019)
 * [Co-supervision](/en/team/) of Doctoral Students
     1. [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018).
-    2. [Francisco Javier Flores](https://www.psychologytoday.com/gb/counselling/francisco-javier-flores-tonbridge-eng/493281) (Professional Doctorate in Counselling Psychology, University of East London, UK – 2016-2018).
+    2. [Francisco Javier Flores](https://www.researchgate.net/profile/Francisco_Flores31) (Professional Doctorate in Counselling Psychology, University of East London, UK – 2016-2018).
     
 * Teaching:
     1. Quantitative Methods I (Psychology MSc – 2017).
