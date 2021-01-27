@@ -75,7 +75,7 @@ Profesora Asociada e investigadora en neurociencia del Laboratorio de Psicologí
 
 ## **Proyecto PhD (*Summa cum laude*)**  
 
-*Preferencias sexuales típicas y atípicas según sexo y edad de los estímulos: Utilidad de la técnica de rastreo ocular* (https://roderic.uv.es/handle/10550/67639)
+*Preferencias sexuales típicas y atípicas según sexo y edad de los estímulos: Utilidad de la técnica de rastreo ocular* - [**Abrir proyecto PhD**](https://roderic.uv.es/handle/10550/67639).
 
 Universidad de Valencia, 2015-2018
 

@@ -46,7 +46,7 @@ user_groups:
 
 ## **Proyecto MSc**  
 
-*La voz como predictor de sintomatología asociada a depresión y ansiedad* (https://repositorio.unbosque.edu.co/handle/20.500.12495/4416)
+*La voz como predictor de sintomatología asociada a depresión y ansiedad* - [**Abrir proyecto MSc**](https://repositorio.unbosque.edu.co/handle/20.500.12495/4416). 
 
 Universidad El Bosque, 2019-2020
 
