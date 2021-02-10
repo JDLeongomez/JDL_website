@@ -65,7 +65,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Stage 1 Registered Report protocol", url = "https://doi.org/10.6084/m9.figshare.7611443.v1"}]
+links = [{name = "Full text PDF (read only)", url = "https://rdcu.be/ce4zM"},
+{name = "Stage 1 Registered Report protocol", url = "https://doi.org/10.6084/m9.figshare.7611443.v1"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

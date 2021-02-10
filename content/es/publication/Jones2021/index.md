@@ -61,11 +61,12 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source =""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Protocolo Stage 1 (Reporte Registrado)", url = "https://doi.org/10.6084/m9.figshare.7611443.v1"}]
+links = [{name = "PDF texto completo (solo lectura)", url = "https://rdcu.be/ce4zM"},
+{name = "Protocolo Stage 1 (Reporte Registrado)", url = "https://doi.org/10.6084/m9.figshare.7611443.v1"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
