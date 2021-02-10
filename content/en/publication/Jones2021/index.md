@@ -17,7 +17,7 @@ authors = ["Benedict C. Jones", "Lisa M. DeBruine", "Jessica K. Flake", "Marco T
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Nature Human Behaviour*"
+publication = "*Nature Human Behaviour, 5*, 159–169"
 publication_short = ""
 
 # Abstract.
