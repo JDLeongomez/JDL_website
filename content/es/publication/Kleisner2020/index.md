@@ -17,7 +17,7 @@ authors = ["karel", "Petr Tureček", "scr", "jh", "Jaroslava Varella Valentova",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "(in press) *Scientific Reports*"
+publication = "*Scientific Reports* --in press--"
 publication_short = ""
 
 # Abstract.
