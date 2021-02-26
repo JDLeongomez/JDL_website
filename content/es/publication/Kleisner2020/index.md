@@ -3,7 +3,7 @@ title = "How and why patterns of sexual dimorphism in human faces vary across th
 date = 2021-03-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["karel", "Petr Tureček", "scr", "Jan Havliček", "Jaroslava Varella Valentova", "Robert Mbe Akoko", "admin", "Silviu Apostol", "Marco A. C. Varella", "S. Adil Saribay"]
+authors = ["karel", "Petr Tureček", "scr", "jh", "Jaroslava Varella Valentova", "Robert Mbe Akoko", "admin", "Silviu Apostol", "Marco A. C. Varella", "S. Adil Saribay"]
 
 # Publication type.
 # Legend:
