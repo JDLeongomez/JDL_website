@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.researchgate.net/publication/343726283_Analisis_de_poder_estadistico_y_calculo_de_tamano_de_muestra_en_R_Guia_practica"
 url_preprint = ""
 url_code = "https://doi.org/10.17605/OSF.IO/3QX6A"
 url_dataset = ""
