@@ -17,7 +17,7 @@ header:
 <html>
   <style>
     section {
-        background: white;
+        background: #f2f0f0;
         border-radius: 1em;
         padding: 20px; 
         text-align: center;
@@ -25,6 +25,6 @@ header:
   </style>
   <section>
       <div> 
-      <p style="color:black"><strong>NOTE:</strong>  Most of my publications are full open-access and/or available as pre-prints. However, if not, please <a href="/en/#contact">email me</a> if you would like a copy of any of the publications listed below. </p>
+      <p style="color:black"><strong>NOTE:</strong> Most of my publications are full open-access and/or available as pre-prints. However, if not, please <a href="/en/#contact"><strong>email me</strong></a> if you would like a copy of any of the publications listed below. </p>
     </div>
   </section>

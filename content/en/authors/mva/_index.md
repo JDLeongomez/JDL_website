@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Associate Professor, Researcher in Neuroscience at Universidad El Bosque. I am interested in research about the cognitive mechanisms that underlie mood disorders and sexual behavior.
+bio: Associate Professor, Researcher in Neuroscience at Universidad El Bosque. Interested in the cognitive mechanisms that underlie mood disorders and sexual behaviour.
 
 interests:
 - Eye-tracking
@@ -72,6 +72,8 @@ user_groups:
 ---
 
 Milena is an Associate Professor, and researcher in neuroscience at the Experimental Psicology Lab, [Universidad El Bosque](https://www.uelbosque.edu.co/). She is leading research projects in two lines: first, about typical-atypical sexual preferences, both deviant and non-deviant, such as paedophilia. Second, about attentional biases and HRV as indicators of affective disorders. She has focused on the use of eye-tracking as an indirect measure of affect and sexual arousal. She is interested in research about the cognitive mechanisms that underlie mood disorders and sexual behaviour.
+
+I was honoured to co-supervise first her PhD, and now her postdoc.
 
 ## **PhD Project (*Summa cum laude*)**  
 

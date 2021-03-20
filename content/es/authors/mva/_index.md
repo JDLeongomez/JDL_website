@@ -73,6 +73,8 @@ user_groups:
 
 Profesora Asociada e investigadora en neurociencia del Laboratorio de Psicología Experimental de la [Universidad El Bosque](https://www.uelbosque.edu.co/). Lidera proyectos de investigación en dos líneas. La primera, sobre preferencias sexuales típicas-atípicas, no desviadas y desviadas, como la pedofilia. En segundo lugar, sobre los sesgos atencionales y la VFC como indicadores de trastornos afectivos. Se ha centrado en el uso del rastreo ocular (*eye-tracking*) como una medida indirecta del afecto y la excitación sexual. Tiene interés en la investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
 
+Tuve el honor de co-supervisar primero su doctorado y ahora su postdoctorado.
+
 ## **Proyecto PhD (*Summa cum laude*)**  
 
 *Preferencias sexuales típicas y atípicas según sexo y edad de los estímulos: Utilidad de la técnica de rastreo ocular* - [**Abrir proyecto PhD**](https://roderic.uv.es/handle/10550/67639).
