@@ -81,4 +81,4 @@ Tuve el honor de co-supervisar primero su doctorado y ahora su postdoctorado.
 
 Universidad de Valencia, 2015-2018
 
-**Supervisors:** [Alicia Salvador](https://www.uv.es/labnsc/miembros%20individualmente/miembrosaliciasalvadoring.html) y [Juan David Leongómez](/es/#about)
+**Supervisores:** [Alicia Salvador](https://www.uv.es/labnsc/miembros%20individualmente/miembrosaliciasalvadoring.html) y [Juan David Leongómez](/es/#about)
