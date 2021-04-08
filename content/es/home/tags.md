@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Temas frecuentes"
-subtitle = ""
+title = "Temas Frecuentes"
+subtitle = "Haz click en una etiqueta para ver publicaciones relacionadas"
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)

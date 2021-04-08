@@ -21,14 +21,14 @@
 
 [[main]]
   identifier = "research1"
-  name = "Temas frecuentes"
+  name = "Temas Frecuentes"
   url = "#tags"
   parent = "research"
   weight = 30
 
 [[main]]
   identifier = "research2"
-  name = "Publicaciones destacadas"
+  name = "Publicaciones Destacadas"
   url = "#featured"
   parent = "research"
   weight = 35
@@ -41,9 +41,9 @@
   weight = 40
 
 [[main]]
-    name = "YouTube"
-    url = "#posts"
-    weight = 50
+  name = "YouTube"
+  url = "#posts"
+  weight = 50
 
 [[main]]
   identifier = "people"

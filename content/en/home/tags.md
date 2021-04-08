@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Popular Topics"
-subtitle = ""
+subtitle = "Click on a tag to see related publications"
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
