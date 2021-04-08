@@ -14,19 +14,36 @@
   weight = 20
 
 [[main]]
-  name = "Destacado"
-  url = "#featured"
+  identifier = "research"
+  name = "Investigación"
+  url = "#tags"
   weight = 30
 
 [[main]]
-  name = "YouTube"
-  url = "#posts"
+  identifier = "research1"
+  name = "Temas frecuentes"
+  url = "#tags"
+  parent = "research"
+  weight = 30
+
+[[main]]
+  identifier = "research2"
+  name = "Publicaciones destacadas"
+  url = "#featured"
+  parent = "research"
+  weight = 35
+
+[[main]]
+  identifier = "research3"
+  name = "Publicaciones (lista completa)"
+  url = "publication/"
+  parent = "research"
   weight = 40
 
 [[main]]
-  name = "Publicaciones"
-  url = "publication/"
-  weight = 50
+    name = "YouTube"
+    url = "#posts"
+    weight = 50
 
 [[main]]
   identifier = "people"

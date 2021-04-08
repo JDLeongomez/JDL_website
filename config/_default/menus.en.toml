@@ -15,19 +15,36 @@
   weight = 20
 
 [[main]]
+  identifier = "research"
+  name = "Research"
+  url = "#tags"
+  weight = 30
+
+[[main]]
+  identifier = "research1"
+  name = "Popular topics"
+  url = "#tags"
+  parent = "research"
+  weight = 30
+
+[[main]]
+  identifier = "research2"
   name = "Featured"
   url = "#featured"
-  weight = 30
+  parent = "research"
+  weight = 35
+
+[[main]]
+  identifier = "research3"
+  name = "Publications (full list)"
+  url = "publication/"
+  parent = "research"
+  weight = 40
 
 [[main]]
     name = "YouTube"
     url = "#posts"
-    weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "publication/"
-  weight = 50
+    weight = 50
 
 [[main]]
   identifier = "people"
