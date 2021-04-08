@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Statistical power", "ANOVA", "Correlation", "t-test", "Mixed designs", "Factorial design", "Effect size", "Sample size", "Type I error", "Type II error", "R", "jamovi", "pwr", "Superpower", "Tutorial"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

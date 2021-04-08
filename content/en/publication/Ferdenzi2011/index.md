@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Mate choice", "Finger ratio", "2D:4D", "Face symmetry", "Masculinity"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Attention pattern", "Sexual stimuli", "Eye tracking", "Sexual preferences", "Sexual response", "Sexual orientation", "2D:4D"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

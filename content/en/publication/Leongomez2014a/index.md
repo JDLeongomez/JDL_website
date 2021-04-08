@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Mate choice", "Origins of music", "Psychoacoustics", "Protolanguage", "Vocal modulation", "Voice pitch"]
+tags = ["Mate choice", "Origins of music", "Musicality", "Psychoacoustics", "Protolanguage", "Voice modulation", "Voice pitch", "f0", "Human voice"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

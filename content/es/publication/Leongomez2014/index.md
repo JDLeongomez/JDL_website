@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Voz humana", "f0", "Elección de pareja", "Modulación de la voz", "Competencia intrasexual", "Tono de voz", "Transcultural"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

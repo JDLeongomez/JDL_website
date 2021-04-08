@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Sensibilidad al asco", "Imágenes de asco", "Estímulos visuales", "Imprimación de asco", "Escala de asco"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -42,7 +42,7 @@ tags = []
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["Poder estadístico", "Potencia estadística", "ANOVA", "Correlación", "Prueba t", "Diseños mixtos", "Diseño factorial", "Tamaño de efecto", "Tamaño de muestra", "Error tipo I", "Error tipo II", "R", "jamovi", "pwr", "Superpower", "Tutorial"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
