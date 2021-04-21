@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "MachineLearningCert.pdf"
   date_start = "2021-02-26"
   date_end = "2021-04-20"
-  description = "Curso."
+  description = "Curso corto."
 
 [[item]]
   organization = "Improbable Research"
