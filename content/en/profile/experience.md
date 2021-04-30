@@ -27,14 +27,15 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-* Researcher at the Human Behaviour Lab ([Laboratorio de Análisis del Comportamiento Humano - LACH](https://sites.google.com/unbosque.edu.co/lach-es)).
-* Leader of the ([classification: **A**](https://scienti.minciencias.gov.co/gruplac/jsp/Medicion/graficas/verPerfiles.jsp?id_convocatoria=19&nroIdGrupo=00000000001446)) Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
+* Researcher at the Human Behaviour Lab ([Laboratorio de Análisis del Comportamiento Humano - LACH](https://sites.google.com/unbosque.edu.co/lach-es))
+* Leader of the ([classification: **A**](https://scienti.minciencias.gov.co/gruplac/jsp/Medicion/graficas/verPerfiles.jsp?id_convocatoria=19&nroIdGrupo=00000000001446)) Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016)
+* [Methodological and statistical advisor](https://asesores-psic.netlify.app/) for postgraduate and faculty research projects
 * [Supervision](/en/team/) of a variety of undergraduate and postgraduate research projects associated with psychology and biology.
 * Member of the Research Committee
 * Member of the Advisory Committee of Research Ethics
 * IT support team for online activities (statistics) during the COVID-19 crisis (2020)
 * Teaching:
-    1. Quantitative Methods II (Psychology MSc – 2019).
+    1. Quantitative Methods II (Psychology MSc – 2019)
   """
 
 [[experience]]
@@ -47,21 +48,21 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-* Researcher at the Human Behaviour Analysis Lab (LACH).
-* Methodological and statistical advisor for postgraduate and faculty research projects.
-* Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
-* Organiser of the Nerd Café weekly conference series of the Faculty of Psychology (2016-2017).
-* [Supervision](/en/team/) of a variety of undergraduate research projects associated with psychology and biology.
+* Researcher at the Human Behaviour Analysis Lab ([Laboratorio de Análisis del Comportamiento Humano - LACH](https://sites.google.com/unbosque.edu.co/lach-es))
+* [Methodological and statistical advisor](https://asesores-psic.netlify.app/) for postgraduate and faculty research projects
+* Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016)
+* Organiser of the Nerd Café weekly conference series of the Faculty of Psychology (2016-2017)
+* [Supervision](/en/team/) of a variety of undergraduate research projects associated with psychology and biology
 * Postdoctoral stay (2018-2019)
 * [Co-supervision](/en/team/) of Doctoral Students
-    1. [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018).
-    2. [Francisco Javier Flores](https://www.researchgate.net/profile/Francisco_Flores31) (Professional Doctorate in Counselling Psychology, University of East London, UK – 2016-2018).
+    1. [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018)
+    2. [Francisco Javier Flores](https://www.researchgate.net/profile/Francisco_Flores31) (Professional Doctorate in Counselling Psychology, University of East London, UK – 2016-2018)
     
 * Teaching:
-    1. Quantitative Methods I (Psychology MSc – 2017).
-    2. Quantitative Methods II (Psychology MSc – 2017-2018).
-    3. Research Degree Project (2017).
-    4. Sources and Documentation Styles in Psychology (2015).
+    1. Quantitative Methods I (Psychology MSc – 2017)
+    2. Quantitative Methods II (Psychology MSc – 2017-2018)
+    3. Research Degree Project (2017)
+    4. Sources and Documentation Styles in Psychology (2015)
   """
 
 [[experience]]
@@ -74,9 +75,9 @@ date_format = "Jan 2006"
   description = """
   Teaching:
   
-* Evolution and Development of Vocal Communication: Songs, Fashion, and Language (2016).
-* Inferential Statistics (2015-2016).
-* Descriptive Statistics (2015-2016).
+* Evolution and Development of Vocal Communication: Songs, Fashion, and Language (2016)
+* Inferential Statistics (2015-2016)
+* Descriptive Statistics (2015-2016)
   """
 
 +++
