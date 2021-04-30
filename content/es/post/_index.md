@@ -1,5 +1,5 @@
 ---
-title: Tutoriales
+title: Investigación Abierta (canal de YouTube)
 
 # View.
 #   1 = List
@@ -12,7 +12,8 @@ header:
   caption: ""
   image: ""
 ---
-## Investigación Abierta (canal de YouTube)
+
+{{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
 Investigación Abierta es un [canal de YouTube](https://www.youtube.com/user/juanleongomez) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto.
 

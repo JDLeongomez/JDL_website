@@ -94,6 +94,6 @@ highlight_name: true
 I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), at [Universidad El Bosque](https://www.uelbosque.edu.co/) in Bogota, Colombia. My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, to promote reproducibility and open science.
 
 {{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
-## [Investigación Abierta](#posts) (YouTube channel)
+## [Investigación Abierta](#post) (YouTube channel)
 
-Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/user/juanleongomez) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the videos [here](#posts).
+Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/user/juanleongomez) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](/en/post/).

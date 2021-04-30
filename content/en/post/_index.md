@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Investigación Abierta (YouTube channel)
 
 # View.
 #   1 = List
@@ -12,7 +12,8 @@ header:
   caption: ""
   image: ""
 ---
-## Investigación Abierta (YouTube channel)
+
+{{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
 Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/user/juanleongomez) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software.
 
