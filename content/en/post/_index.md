@@ -15,7 +15,7 @@ header:
 
 {{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
-Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/user/juanleongomez) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software.
+Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/c/InvestigaciónAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software.
 
 ### Channel presentation
 {{< video library="true" src="Animacion-Investigación-abierta.mp4" controls="yes" >}}
