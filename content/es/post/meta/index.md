@@ -23,6 +23,6 @@ En este video hago una introducción general al meta-análisis. Primero, describ
 
 ### Artículos citados en este video: 
 
-> Becker, B. J. (2005). Failsafe N or File-Drawer Number. En *Publication Bias in Meta-Analysis* (pp. 111–125). John Wiley & Sons. https://doi.org/10.1002/0470870168.ch7. [https://doi.org/10.1002/0470870168.ch7](https://doi.org/10.1002/0470870168.ch7)
+> Becker, B. J. (2005). Failsafe N or File-Drawer Number. En *Publication Bias in Meta-Analysis* (pp. 111–125). John Wiley & Sons. [https://doi.org/10.1002/0470870168.ch7](https://doi.org/10.1002/0470870168.ch7)
 
 > Normand, S.-L. T. (1999). Meta-analysis: Formulating, evaluating, combining, and reporting. *Statistics in Medicine, 18*(3), 321–359. [https://doi.org/10.1002/(sici)1097-0258(19990215)18:3<321::aid-sim28>3.0.co;2-p](https://doi.org/10.1002/(sici)1097-0258(19990215)18:3<321::aid-sim28>3.0.co;2-p)
