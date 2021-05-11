@@ -3,6 +3,8 @@ title: Statistical power and sample size calculation in R
 date: 2020-09-03T00:00:00
 authors: ["admin"]
 summary: In this series/tutorial in Spanish, I explain how to perform statistical **power analysis** to calculate the required **sample size** for a study.
+tags: ["Statistics", "Tutorial", "R", "jamovi", "Sample size", "Power"]
+tags: ["Statistics", "p-value", "R"]
 ---
 
 In this series, I explain the basics of **power analysis** and how to use it to calculate the **sample size** needed for a study.
@@ -29,7 +31,7 @@ This series is also supported by a practical guide:
 6. Alternatives: (10:17)
 7. Conclusions:  (12:12)
 
-### Papers cited in this video: 
+### Papers cited in this video:
 
 > Albers, C., & Lakens, D. (2018). When Power Analyses Based on Pilot Data Are Biased: Inaccurate Effect Size Estimators and Follow-up Bias. *Journal of Experimental Social Psychology, 74*, 187-195. [https://doi.org/10.1016/j.jesp.2017.09.004](https://doi.org/10.1016/j.jesp.2017.09.004)
 
@@ -63,7 +65,7 @@ This series is also supported by a practical guide:
 
 # 3. Part 2 [Tutorial]
 
-**Factorial designs:** 
+**Factorial designs:**
 
 {{< youtube xCVU1H5OQl8 >}}
 

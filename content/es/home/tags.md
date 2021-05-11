@@ -6,14 +6,14 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Temas Frecuentes"
-subtitle = "Haz click en una etiqueta para ver publicaciones relacionadas"
+subtitle = "Haz click en una etiqueta para ver trabajos relacionados"
 
 [content]
   # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy = "tags"
 
   # Choose how many tags you would like to display (0 = all tags)
-  count = 25
+  count = 30
 
 [design]
   # Minimum and maximum font sizes (1.0 = 100%).
