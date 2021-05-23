@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Johns Hopkins University"
-  organization_url = "https://www.jhu.edu/"
+  organization = "Coursera (Johns Hopkins University)"
+  organization_url = "https://www.coursera.org/jhu"
   title = "Practical Machine Learning"
   url = "https://www.coursera.org/learn/practical-machine-learning?specialization=jhu-data-science"
   certificate_url = "MachineLearningCert.pdf"
