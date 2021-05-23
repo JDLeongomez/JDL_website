@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   
 * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH)
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
-* Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
+* Líder del grupo de investigación [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion) (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
 * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017)
 * [Supervisión](/es/team/) de una variedad de proyectos de investigación de pregrado asociados con psicología y biología
 * Estancia postdoctoral (2018-2019)
