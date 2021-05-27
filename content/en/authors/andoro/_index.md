@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology
+role: BSc Psychology 2020-2021
 
 # Organizations/Affiliations
 organizations:
@@ -37,13 +37,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Former Undergraduate Students
 ---
 
 ## **BSc Project**  
 
-*¿Contiene la voz señales de sociosexualidad?* [Does the voice contain cues of socio-sexuality?]
+*¿Existe relación entre la forma del rostro y la socio-sexualidad?* [Is there an association between face shape and socio-sexuality?]
 
-Universidad El Bosque, since 2020
+Universidad El Bosque, 2020-2021
 
 **Supervisors:** [Juan David Leongómez](/en/#about), [Andrés Castellanos-Chacón](/en/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).
+
+{{< youtube qHn87CoBEm4 >}}
