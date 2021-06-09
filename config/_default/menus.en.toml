@@ -108,14 +108,14 @@
 
  [[main]]
    identifier = "cv1"
-   name = "Detailed CV"
-   url = "files/JDL_CV_en.pdf"
+   name = "Academic CV"
+   url = "cv_long"
    parent = "cv"
    weight = 90
 
  [[main]]
    identifier = "cv2"
-   name = "Short CV"
-   url = "files/JDL_shortCV_en.pdf"
+   name = "Short CV (2 pages)"
+   url = "cv_short"
    parent = "cv"
    weight = 92

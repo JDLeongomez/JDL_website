@@ -101,20 +101,20 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
    identifier = "cv"
-   name = "CV"
+   name = "Hoja de vida"
    url = "files/JDL_CV_es.pdf"
    weight = 90
 
  [[main]]
    identifier = "cv1"
-   name = "CV detallada"
-   url = "files/JDL_CV_es.pdf"
+   name = "Académica"
+   url = "cv_long"
    parent = "cv"
    weight = 90
 
  [[main]]
    identifier = "cv2"
-   name = "CV corta"
-   url = "files/JDL_shortCV_es.pdf"
+   name = "Resumida (2 páginas)"
+   url = "cv_short"
    parent = "cv"
    weight = 92
