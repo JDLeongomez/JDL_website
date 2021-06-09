@@ -9,7 +9,7 @@ In this page, you can see or {{% staticref "/en/files/JDL_shortCV_en.pdf" "newta
 
 > A longer, detailed academic version is available [here](/en/cv_long/).
 
-<div id="adobe-dc-view" style="height: 800px; width: 700px;"></div>
+<div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 

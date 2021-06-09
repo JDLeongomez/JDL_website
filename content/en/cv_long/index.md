@@ -9,7 +9,7 @@ In this page, you can see or {{% staticref "/en/files/JDL_CV_en.pdf" "newtab" %}
 
 > A short, 2-page summary version is available [here](/en/cv_short/).
 
-<div id="adobe-dc-view" style="height: 800px; width: 700px;"></div>
+<div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
