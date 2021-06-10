@@ -104,7 +104,7 @@ En este sitio podrás encontrar toda la información de mis [publicaciones](http
 
 Investigación Abierta es un [canal de YouTube](https://www.youtube.com/c/InvestigaciónAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. [Acá](/es/post/) puedes encontrar más información acerca del canal y los videos que he creado.
 
-## Mi viaje académico
+## Mi travesía académica
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE}
 library(ggplot2)
