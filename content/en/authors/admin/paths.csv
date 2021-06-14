@@ -1,0 +1,4 @@
+start_lat;start_lon;end_lat;end_lon;airline;airport1;airport2;cnt
+-7.408.175;460.971;-2.983.333;53.400.002;AA;DFW;ABQ;444
+-2.983.333;53.400.002;-3.936.900;56.116.600;AA;ORD;AUS;166
+-3.936.900;56.116.600;-7.408.175;460.971;AA;DFW;BDL;162
