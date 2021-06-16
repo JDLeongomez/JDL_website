@@ -95,7 +95,7 @@ I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](h
 
 My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, to promote reproducibility and open science.
 
-<img src="IA_logo_Largo.png" alt="Bla">
+{{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
 ## [Investigación Abierta](#posts) (YouTube channel)
 
@@ -104,46 +104,53 @@ Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.yo
 ## Academic journey 
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE}
-library(plotly)
+library(ggplot2)
+library(emojifont)
+library(fontawesome)
+library(rworldmap)
+library(dplyr)
+library(sf)
+library(stplanr)
 
-paths <- read.csv("paths.csv", sep=";")
-paths$id <- seq_len(nrow(paths))
-cities <- read.csv("cities.csv", sep=";")
+load.fontawesome()
+uni <- fontawesome('fa-university')
+work <- fontawesome('fa-briefcase')
+teach <- fontawesome('fa-chalkboard')
+world <- getMap(resolution = "high")
+world <- world %>% st_as_sf()
 
-g <- list(scope = 'world',
-          showland = TRUE,
-          landcolor = toRGB("grey90"), 
-          subunitcolor = toRGB("white"),
-          countrycolor = toRGB("white"),
-          showlakes = TRUE,
-          lakecolor = toRGB("white"),
-          showsubunits = TRUE,
-          showcountries = TRUE,
-          projection = list(type = 'equidistant'),
-          lonaxis = list(showgrid = TRUE,
-                         gridwidth = 0.5,
-                         range = c(-100, 20),
-                         dtick = 5),
-          lataxis = list(showgrid = TRUE,
-                         gridwidth = 0.5,
-                         range = c(-10, 65),
-                         dtick = 5))
+cities <- st_sfc(
+  st_point(c(-74.08175,4.60971)),
+  st_point(c(-2.983333,53.400002)),
+  st_point(c(-3.936900,56.116600)),
+  st_point(c(-74.08175,4.60971))) %>%
+  st_sf(name = c('Bogotá','Liverpool', 'Stirling', 'Bogotá')) %>%
+  st_set_crs(4326) %>%
+  mutate(label = c("", uni, paste(work,uni, sep = " "), 
+                   paste(work,uni, sep = " ")))
 
-plot_geo(color = I("#008080")) %>%
-  add_markers(data = cities,
-           x = ~lat,
-           y = ~long,
-           text = ~info,
-           size = 1,
-           hoverinfo = "text",
-           alpha = 0.8) %>%
-  add_segments(data = group_by(paths, id),
-               x = ~start_lat,
-               xend = ~end_lat,
-               y = ~start_lon,
-               yend = ~end_lon,
-               alpha = 0.3,
-               size = I(1),
-               hoverinfo = "none") %>%
-  layout(geo = g, showlegend = FALSE)
+routes <- cities %>%
+  points2line() %>%
+  slice(c(2,7,12)) %>%
+  st_segmentize(units::set_units(100, m))
+
+ggplot(data = world) +
+  geom_sf(color = 'white', lwd = 0.1) +
+  xlab("") + ylab("") +
+  geom_sf_text(
+    data = cities,
+    aes(label = label),
+    size = 3,
+    color = '#008080',
+    family = "fontawesome-webfont") +
+  geom_sf(data = routes, color = '#008080', size = 0.5, alpha = 0.5, 
+          linetype = 'dotted') +
+  coord_sf(crs = '+proj=robin', 
+           xlim = c(-10000000, 3500000), 
+           ylim = c(-390000,6100000)) +
+  theme_minimal() +
+  theme(panel.grid = element_line(color = 'transparent'),
+    plot.margin = margin(-1, 0, -1, -1, "cm"),
+    axis.text = element_blank(),
+    axis.title = element_blank())
 ```
