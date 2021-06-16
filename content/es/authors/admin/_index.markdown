@@ -99,7 +99,7 @@ Mis intereses de investigación incluyen los procesos de selección de pareja y 
 
 En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos (haciendo clic en los íconos bajo mi fotografía), incluyendo [Publons](https://publons.com/researcher/1333339/juan-david-leongomez/), que tiene el [registro verificado](https://publons.com/researcher/1333339/juan-david-leongomez/peer-review/) de mi trabajo como par académico y roles editoriales en revistas internacionales, e  [Impactstory](https://profiles.impactstory.org/u/0000-0002-0092-6298), que tiene un registro de las [menciones en medios](https://profiles.impactstory.org/u/0000-0002-0092-6298/timeline) de mi trabajo. Puedes tambien acceder a mi [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945).
 
-<img src="./IA_logo_Largo.png" alt="Logo Investigación Abierta">
+{{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
 ## [Investigación Abierta](#posts) (canal de YouTube)
 

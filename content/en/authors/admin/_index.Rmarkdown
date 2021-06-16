@@ -113,9 +113,9 @@ library(sf)
 library(stplanr)
 
 load.fontawesome()
-uni <- fontawesome('fa-university')
+uni <- fontawesome('fa-graduation-cap')
 work <- fontawesome('fa-briefcase')
-teach <- fontawesome('fa-chalkboard')
+#teach <- fontawesome('fa-chalkboard')
 world <- getMap(resolution = "high")
 world <- world %>% st_as_sf()
 
@@ -140,7 +140,7 @@ ggplot(data = world) +
   geom_sf_text(
     data = cities,
     aes(label = label),
-    size = 3,
+    size = 5,
     color = '#008080',
     family = "fontawesome-webfont") +
   geom_sf(data = routes, color = '#008080', size = 0.5, alpha = 0.5, 
