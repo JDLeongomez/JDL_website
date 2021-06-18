@@ -103,4 +103,4 @@ Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.yo
 
 ## Academic journey 
 
-{{< chart data="map" >}}
+{{< figure library="false" src="map_en.png" title="" lightbox="true" >}}
