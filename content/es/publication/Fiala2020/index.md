@@ -1,6 +1,6 @@
 +++
 title = "Cues for facial attractiveness and preference of sexual dimorphism: A comparison across five cultures"
-date = 2020-04-21T00:00:00
+date = 2021-06-18T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Vojtěch Fiala", "Vít Třebický", "admin", "Petr Tureček", "Farid Pazhoohi", "Selahattin Saribay", "Robert Mbe Akoko", "karel"]
@@ -14,10 +14,10 @@ authors = ["Vojtěch Fiala", "Vít Třebický", "admin", "Petr Tureček", "Farid
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PsyArXiv*"
+publication = "*Evolutionary Human Sciences,* in press"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "It has been hypothesised that the strength of association between se
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/vh4rj"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
