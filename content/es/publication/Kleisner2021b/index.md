@@ -75,7 +75,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  #caption = "Image credit: **Juan David Leongómez 2021**"
+  caption = "Image credit: **Juan David Leongómez 2021**"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
