@@ -1,6 +1,6 @@
 +++
 title = "Predicting strength from aggressive vocalisations versus speech in African bushland and urban communities"
-date = 2021-09-13T00:00:00
+date = 2021-06-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["karel", "admin", "kasia", "Vojtěch Fiala", "Clément Cornec", "Agata Groyecka-Bernard", "Marina Butovskaya", "David Reby", "Piotr Sorokowski", "Robert Mbe Akoko"]
