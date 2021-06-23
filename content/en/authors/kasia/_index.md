@@ -54,6 +54,8 @@ user_groups:
 
 ---
 
-Kasia is a researcher with whom we have many interests in common, mainly related to human voice modulation. Although we have not co-authored any publications so far, we are working on an important project.
+Kasia is a researcher with whom we have many interests in common, mainly related to human voice modulation. 
+
+Although we have only co-authored one publication so far, we are co-editing an upcoming theme issue on voice modulation for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb), alongside [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Andrey Anikin](https://portal.research.lu.se/portal/en/persons/andrey-anikin(b8825ea7-dd01-4de3-be88-95107e1181ae).html), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), and [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/).
 
 For more information and to know her work and publications, visit [her profile](https://www.researchgate.net/profile/Katarzyna_Pisanski).

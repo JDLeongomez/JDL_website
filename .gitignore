@@ -1,7 +1,7 @@
 # IDEs
 .idea/
-
 # Hugo
 /resources/
 public/
 .Rproj.user
+.httr-oauth

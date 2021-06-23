@@ -16,6 +16,25 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Próximo número temático sobre ***modulación vocal*** en [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb)"
+  content = "Editado con [Kasia Pisanski](/en/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Andrey Anikin](https://portal.research.lu.se/portal/en/persons/andrey-anikin(b8825ea7-dd01-4de3-be88-95107e1181ae).html), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "rstb.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Consulta la lista de los próximos números"
+  cta_url = "https://royalsocietypublishing.org/rstb/forthcoming-issues"
+  cta_icon_pack = "fas"
+  cta_icon = "scroll"
+
+[[item]]
   title = "Como parte de un equipo liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), me fue otorgado <br/> el [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en economía"
   content = "Por '[tratar de cuantificar la relación entre la desigualdad de ingresos nacionales en diferentes países y la cantidad promedio de besos boca a boca](/es/publication/watkins2019/)'"
   align = "right"  # Choose `center`, `left`, or `right`.
