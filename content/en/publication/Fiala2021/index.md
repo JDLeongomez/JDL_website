@@ -1,9 +1,9 @@
 +++
-title = "Cues for facial attractiveness and preference of sexual dimorphism: A comparison across five cultures"
-date = 2021-06-18T00:00:00
+title = "Facial attractiveness and preference of sexual dimorphism: A comparison across five populations"
+date = 2021-07-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vojtěch Fiala", "Vít Třebický", "admin", "Petr Tureček", "Farid Pazhoohi", "Selahattin Saribay", "Robert Mbe Akoko", "karel"]
+authors = ["Vojtěch Fiala", "Vít Třebický", "Farid Pazhoohi", "admin", "Petr Tureček", "S. Adil Saribay", "Robert Mbe Akoko", "karel"]
 
 # Publication type.
 # Legend:
@@ -17,24 +17,24 @@ authors = ["Vojtěch Fiala", "Vít Třebický", "admin", "Petr Tureček", "Farid
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Evolutionary Human Sciences,* in press"
+publication = "*Evolutionary Human Sciences*"
 publication_short = ""
 
 # Abstract.
-abstract = "It has been hypothesised that the strength of association between sex typicality and attractiveness follows an adaptive pattern across cultures. Such pattern allows for adjustment of individual preferences for facial cues associated with direct (parenting) and indirect (biological quality) benefits from mating with a potential mate according to environmental conditions. To test this hypothesis, we examined associations among intra-culturally perceived sex typicality, attractiveness, measured skin lightness, measured averageness, and sexual dimorphism of shape from facial images, while controlling for age, body mass, and facial width, in five distinct cultures with different environmental and socioeconomic conditions (Cameroon, N of facial stimuli = 200, 100 women; Colombia, N = 138, 66 women; Czechia, N = 100, 50 women; Iran, N = 87, 43 women; and Turkey, N = 185, 93 women). Our results suggest that measured sexual shape dimorphism and averageness are not significantly associated with neither perceived sex typicality nor attractiveness across the cultures. In all samples of female faces, however, perceived sex typicality was positively related to facial attractiveness. Women found perceived sex typicality in men as more attractive only in the Czech environment, with its relatively abundant resources, and in Colombia, which is a highly socioeconomically heterogeneous and competitive culture. Lighter skin raised the ratings of both attractiveness and sex typicality only in Cameroonian women. Darker men were perceived significantly more sex-typical but not more attractive in Cameroonian, Colombian, and Iranian samples. Altogether, our results highlight the need to control for which measure of sexual dimorphism is used (perceived or measured) and make a detailed description of the local environment. It is the perceived, rather than measured, sexual dimorphism that is associated with perceived attractiveness, and wealth distribution, rather than public, health that seems to affect masculinity preferences."
+abstract = "Despite intensive research, evolutionary psychology has not yet reached a consensus regarding the association between sexual dimorphism and attractiveness. This study examines associations between perceived and morphological facial sexual dimorphism and perceived attractiveness in samples from five distant countries (Cameroon, Colombia, Czechia, Iran, and Turkey). We also examined possible moderating effects of skin lightness, averageness, age, body mass, and facial width. Our results suggest that in all samples, women’s perceived femininity was positively related to their perceived attractiveness. Women found perceived masculinity in men attractive only in Czechia and Colombia, two distant populations. The association between perceived sexual dimorphism and attractiveness is thus potentially universal only for women. Across populations, morphological sexual dimorphism and averageness are not universally associated with either perceived facial sexual dimorphism or attractiveness. With our exploratory approach, results highlight the need for control of which measure of sexual dimorphism is used (perceived or measured) because they affect perceived attractiveness differently. Morphological averageness and sexual dimorphism are not good predictors of perceived attractiveness. It is noted that future studies should use more population samples to allow for identification of specific effects of local environmental and socioeconomic conditions on preferred traits in unmanipulated local facial stimuli."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1017/ehs.2021.33"
 
 # Is this a featured publication? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Rostro", "Atractivo", "Dimorfismo sexual", "Promedio", "Morfometrías geométricas", "Ambiente"]
+tags = ["Face", "Attractiveness", "Sexual dimorphism", "Averageness", "Geometric morphometrics", "Environment"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -53,7 +53,7 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://psyarxiv.com/vh4rj/download"
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/855665E31FE47492B4F5356B5F34FE7F/S2513843X21000335a.pdf/facial-attractiveness-and-preference-of-sexual-dimorphism-a-comparison-across-five-populations.pdf"
 url_preprint = "https://psyarxiv.com/vh4rj/"
 url_code = ""
 url_dataset = ""
@@ -100,7 +100,7 @@ math = true
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.31234/osf.io/vh4rj"
+          data-doi="10.1017/ehs.2021.33"
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
@@ -109,7 +109,7 @@ math = true
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.31234/osf.io/vh4rj"   
+          data-doi="10.1017/ehs.2021.33"
           data-condensed="true"
           data-hide-no-mentions="true"
           class="altmetric-embed">
@@ -117,7 +117,7 @@ math = true
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.31234/osf.io/vh4rj"
+        <a href="https://plu.mx/plum/a/?doi=10.1017/ehs.2021.33"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
