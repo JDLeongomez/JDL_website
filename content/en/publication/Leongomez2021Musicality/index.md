@@ -55,7 +55,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://psyarxiv.com/nfg26/"
 url_code = ""
 url_dataset = ""
 url_project = ""
