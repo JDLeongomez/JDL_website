@@ -17,7 +17,7 @@ authors = ["admin", "jh", "scr"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Philosophical Transactions of the Royal Society B: Biological Sciences,* accepted"
+publication = "*Philosophical Transactions of the Royal Society B: Biological Sciences,* in press"
 publication_short = ""
 
 # Abstract.
