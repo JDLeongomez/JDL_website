@@ -57,16 +57,15 @@ url_pdf = "https://www.nature.com/articles/s41598-021-85402-3.pdf"
 url_preprint = "https://psyarxiv.com/7vdmb"
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://osf.io/ufejy/"
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://www.researchgate.net/publication/350358417_Sexual_dimorphism_in_human_facial_morphology"
 url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Suplementario", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-021-85402-3/MediaObjects/41598_2021_85402_MOESM1_ESM.pdf"},
-{name = "Código y Datos", url = "https://doi.org/10.17605/OSF.IO/9DYBW"}]
+links = [{name = "Material Suplementario", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-021-85402-3/MediaObjects/41598_2021_85402_MOESM1_ESM.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
