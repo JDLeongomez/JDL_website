@@ -14,17 +14,4 @@ header:
   image: ""
 ---
 
-<html>
-  <style>
-    section {
-        background: #f2f0f0;
-        border-radius: 1em;
-        padding: 20px; 
-        text-align: center;
-        margin-bottom: 25px;}
-  </style>
-  <section>
-      <div> 
-      <p style="color:black"><strong>NOTE:</strong> Most of my publications are full open-access and/or available as pre-prints. However, if not, please <a href="/en/#contact"><strong>email me</strong></a> if you would like a copy of any of the publications listed below. </p>
-    </div>
-  </section>
+{{< cta cta_text="<strong>NOTE:</strong> Most of my publications are full open-access and/or available as pre-prints. However, if not, please <strong>email me</strong> if you would like a copy of any of the publications listed below" cta_link="/en/#contact" cta_new_tab="false" >}}
