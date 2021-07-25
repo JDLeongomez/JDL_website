@@ -7,7 +7,7 @@ summary: HV detallada de Juan David Leongómez, PhD.
 
 En esta página, puedes ver o {{% staticref "/es/files/JDL_CV_es.pdf" "newtab" %}}descargar{{% /staticref %}} mi **hoja de vida académica**. 
 
-> Una versión resumida de 2 páginas está disponible [aquí](/es/cv_short/).
+{{< cta cta_text="Una <strong>versión resumida de 2 páginas</strong> está disponible aquí" cta_link="/es/cv_short/" cta_new_tab="false" >}}
 
 <div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>

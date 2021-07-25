@@ -7,7 +7,7 @@ summary: Short CV.
 
 In this page, you can see or {{% staticref "/en/files/JDL_shortCV_en.pdf" "newtab" %}}download{{% /staticref %}} my short, 2-page **summary CV**. 
 
-> A longer, detailed academic version is available [here](/en/cv_long/).
+{{< cta cta_text="A longer, <strong>detailed academic version</strong> is available here" cta_link="/en/cv_long/" cta_new_tab="false" >}}
 
 <div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>

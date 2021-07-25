@@ -7,7 +7,7 @@ summary: HV corta de Juan David Leongómez, PhD.
 
 En esta página, puedes ver o {{% staticref "/es/files/JDL_shortCV_es.pdf" "newtab" %}}descargar{{% /staticref %}} mi **hoja de vida resumida**. 
 
-> Una versión académica, más larga y detallada está disponible [aquí](/es/cv_long/).
+{{< cta cta_text="Una <strong>versión académica</strong>, más larga y detallada está disponible aquí" cta_link="/es/cv_long/" cta_new_tab="false" >}}
 
 <div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
