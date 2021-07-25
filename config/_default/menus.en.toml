@@ -17,25 +17,18 @@
 [[main]]
   identifier = "research"
   name = "Publications"
-  url = "#tags"
+  url = "#featured"
   weight = 30
 
 [[main]]
   identifier = "research1"
-  name = "Popular Topics"
-  url = "#tags"
+  name = "Featured Publications"
+  url = "#featured"
   parent = "research"
   weight = 30
 
 [[main]]
   identifier = "research2"
-  name = "Featured Publications"
-  url = "#featured"
-  parent = "research"
-  weight = 35
-
-[[main]]
-  identifier = "research3"
   name = "Publications (full list)"
   url = "publication/"
   parent = "research"
