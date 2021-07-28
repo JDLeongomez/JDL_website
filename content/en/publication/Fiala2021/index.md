@@ -17,7 +17,7 @@ authors = ["Vojtěch Fiala", "Vít Třebický", "Farid Pazhoohi", "admin", "Petr
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Evolutionary Human Sciences*"
+publication = "*Evolutionary Human Sciences, 3*, e38"
 publication_short = ""
 
 # Abstract.
@@ -53,7 +53,7 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/855665E31FE47492B4F5356B5F34FE7F/S2513843X21000335a.pdf/facial-attractiveness-and-preference-of-sexual-dimorphism-a-comparison-across-five-populations.pdf"
+url_pdf = "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/855665E31FE47492B4F5356B5F34FE7F/S2513843X21000335a_hi.pdf/facial-attractiveness-and-preference-of-sexual-dimorphism-a-comparison-across-five-populations.pdf"
 url_preprint = "https://psyarxiv.com/vh4rj/"
 url_code = ""
 url_dataset = ""

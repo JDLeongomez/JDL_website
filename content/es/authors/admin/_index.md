@@ -91,7 +91,7 @@ user_groups:
 highlight_name: true
 ---
 
-Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.uelbosque.edu.co/) en Bogotá, Colombia, y lider del grupo de investigación [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion). 
+Soy Profesor Asociado e investigador del Laboratorio de Análisis del Comportamiento Humano (LACH), de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.uelbosque.edu.co/) en Bogotá, Colombia, y lider del grupo de investigación [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion). 
 
 Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como los efectos hormonales en el comportamiento humano. Cada día me apasiono más por los métodos cuantitativos y la programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;(usando [RStudio](https://rstudio.com/products/rstudio/)), para promover la ciencia abierta y la reproducibilidad.
 
