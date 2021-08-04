@@ -51,10 +51,10 @@ subtitle = ""
  css_class = ""
 +++
 
+{{< figure src="Logo LACH.png" width=35% >}}
+
 ## In this page you can find information regarding the researchers and research assistants I permanently work with in the [Human Behaviour Lab (LACH)](https://www.psicologia.unbosque.edu.co/lach) at [Universidad El Bosque](https://www.uelbosque.edu.co/).
 
-{{< figure src="invs.jpg" title="[Eugenio Valderrama](/en/author/eugenio-valderrama/), [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/), [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/) and me in 2017"  width=60% >}}
-
-#### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any).*
+#### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any)*
 
 <i class="fas fa-chevron-down"></i>

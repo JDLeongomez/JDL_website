@@ -52,9 +52,9 @@ subtitle = ""
 
 +++
 
-## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo permanentemente en el [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.psicologia.unbosque.edu.co/lach) de la [Universidad El Bosque](https://www.uelbosque.edu.co/).
+{{< figure src="Logo LACH.png" width=35% >}}
 
-{{< figure src="invs.jpg" title="[Eugenio Valderrama](/es/author/eugenio-valderrama/), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/) y yo en 2017"  width=60% >}}
+## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo permanentemente en el [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.psicologia.unbosque.edu.co/lach) de la [Universidad El Bosque](https://www.uelbosque.edu.co/).
 
 #### *Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos (si existen)*
 
