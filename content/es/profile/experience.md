@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades incluyen:
   
-* Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH)]
+* Investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.psicologia.unbosque.edu.co/lach)
 * Líder del grupo de investigación [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion) (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446) ([clasificación: **A**](https://scienti.minciencias.gov.co/gruplac/jsp/Medicion/graficas/verPerfiles.jsp?id_convocatoria=19&nroIdGrupo=00000000001446))
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
 * [Supervisión](/es/team/) de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades incluyen:
   
-* Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH)
+* Investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.psicologia.unbosque.edu.co/lach)
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
 * Líder del grupo de investigación [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion) (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
 * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017)

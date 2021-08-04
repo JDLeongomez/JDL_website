@@ -91,7 +91,7 @@ user_groups:
 highlight_name: true
 ---
 
-I am an Associate Professor and Researcher at the Human Behaviour Lab (LACH), [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), at [Universidad El Bosque](https://www.uelbosque.edu.co/) in Bogota, Colombia, and leader of the [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion) research group. 
+I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](https://www.psicologia.unbosque.edu.co/lach), [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), at [Universidad El Bosque](https://www.uelbosque.edu.co/) in Bogota, Colombia, and leader of the [Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion) research group. 
 
 My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, to promote reproducibility and open science.
 
