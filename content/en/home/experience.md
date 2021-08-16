@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-04-30"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities include:  
   
   * Researcher at the Human Behaviour Analysis Lab (LACH).
   * Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
