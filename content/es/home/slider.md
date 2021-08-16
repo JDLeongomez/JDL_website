@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Próximo número temático sobre ***modulación vocal*** en [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb)"
-  content = "Editado con [Kasia Pisanski](/es/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Andrey Anikin](https://portal.research.lu.se/portal/en/persons/andrey-anikin(b8825ea7-dd01-4de3-be88-95107e1181ae).html), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
+  content = "Editado con [Kasia Pisanski](/es/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
