@@ -2,11 +2,11 @@
 title: Hacer meta-análisis en jamovi es muy fácil
 date: 2021-05-09T00:00:00
 authors: ["admin"]
-summary: En este video hago una introducción básica al **meta-análisis**, y explico cómo cmeta-analizar coeficientes de correlación y comparaciones de 2 medias en [jamovi](https://www.jamovi.org/). 
+summary: En este video hago una introducción básica al **meta-análisis**, y explico cómo meta-analizar coeficientes de correlación y comparaciones de 2 medias en [jamovi](https://www.jamovi.org/). 
 tags: ["Estadística", "Software", "Tutorial", "jamovi", "Meta-análisis"]
 ---
 
-En este video hago una introducción general al meta-análisis. Primero, describo de forma sencilla los conceptos básicos y qué es un meta-análisis, para después hacer un tutorial para meta-analizar coeficientes de correlación y comparación de dos medias (diseños tipo prueba t) en [jamovi](https://www.jamovi.org/).
+En este video hago una introducción general al meta-análisis. Primero, describo de forma sencilla los conceptos básicos y qué es un meta-análisis, para después hacer un tutorial para meta-analizar coeficientes de correlación y comparación de dos medias (diseños tipo prueba *t*) en [jamovi](https://www.jamovi.org/).
 
 
 ## Secciones:
