@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jleongomez@unbosque.edu.co"
-phone = "(+57 1) 6489000 Ext. 1901"
+phone = "(+57) 601-6489000 Ext. 1901"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
