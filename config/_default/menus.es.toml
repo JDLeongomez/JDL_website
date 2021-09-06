@@ -95,19 +95,5 @@
  [[main]]
    identifier = "cv"
    name = "Hoja de vida"
-   url = "files/JDL_CV_es.pdf"
+   url = "cv"
    weight = 90
-
- [[main]]
-   identifier = "cv1"
-   name = "Académica"
-   url = "cv_long"
-   parent = "cv"
-   weight = 90
-
- [[main]]
-   identifier = "cv2"
-   name = "Resumida (2 páginas)"
-   url = "cv_short"
-   parent = "cv"
-   weight = 92
