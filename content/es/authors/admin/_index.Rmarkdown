@@ -107,4 +107,67 @@ Investigación Abierta es un [canal de YouTube](https://www.youtube.com/c/Invest
 
 ## Mi travesía académica
 
-{{< figure library="false" src="map_es.png" title="" lightbox="true" >}}
+
+```{r echo=FALSE, message=FALSE}
+library(plotly)
+library(tidyverse)
+library(threadr)
+library(htmlwidgets)
+
+paths <- read.csv("paths.csv", sep=";")
+paths$id <- seq_len(nrow(paths))
+cities <- read.csv("cities.csv", sep=";")
+
+g <- list(scope = 'world',
+          showland = TRUE,
+          landcolor = toRGB("grey90"),
+          subunitcolor = toRGB("white"),
+          countrycolor = toRGB("white"),
+          showlakes = TRUE,
+          lakecolor = toRGB("white"),
+          showsubunits = TRUE,
+          showcountries = TRUE,
+          projection = list(type = 'equidistant'),
+          lonaxis = list(showgrid = TRUE,
+                         gridwidth = 0.5,
+                         range = c(-100, 20),
+                         dtick = 5),
+          lataxis = list(showgrid = TRUE,
+                         gridwidth = 0.5,
+                         range = c(-5, 60),
+                         dtick = 5))
+
+fig <- plot_geo(color = I("#008080")) %>%
+  add_trace(z = 1, locations = c("COL", "GBR"),
+    color = 1, colors = '#7ecfcf',
+    text = c("Colombia", "Reino Unido"),
+    hoverinfo = 'text',
+    showscale = FALSE) %>%
+  add_markers(data = cities,
+              x = ~lat,
+              y = ~long,
+              text = ~info,
+              size = 1,
+              hoverinfo = "text",
+              alpha = 0.5) %>%
+  add_segments(data = group_by(paths, id),
+               x = ~start_lat,
+               xend = ~end_lat,
+               y = ~start_lon,
+               yend = ~end_lon,
+               alpha = 0.3,
+               size = I(1),
+               hoverinfo = "none") %>%
+  layout(geo = g, showlegend = FALSE,
+         annotations = list(x = 0, y = 0, 
+                            text = "Interactúa con el mapa para ver información detallada",
+                            showarrow = F, 
+                            xref = 'paper', yref = 'paper', 
+                            xanchor = 'left', yanchor = 'auto', 
+                            xshift = 0, yshift = -0.1, 
+                            font = list(size = 15, color = "#008080")))
+
+fig$dependencies[[4]]$stylesheet <- "plotly-htmlwidgets_noBorder.css"
+
+fig
+```
