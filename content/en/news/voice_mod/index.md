@@ -5,7 +5,7 @@ authors: ["admin", "kasia", "David Reby", "Disa Sauter", "Nadine Lavan", "Marcus
 summary: "Upcoming 2-part theme issue on for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb)."
 ---
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
+<div id="adobe-dc-view" style="width: 850px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
