@@ -16,23 +16,23 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Upcoming theme issue on ***voice modulation*** for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb)"
-  content = "Edited with [Kasia Pisanski](/en/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), and [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
+  title = "***Voice modulation: from origin and mechanism to social impact***"
+  content = "Upcoming 2-part theme issue on for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb). Edited together with [Kasia Pisanski](/en/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), and [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "rstb.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "PTB_flyer.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Check the list of forthcoming issues"
-  cta_url = "https://royalsocietypublishing.org/rstb/forthcoming-issues"
+  cta_label = "Check the contents"
+  cta_url = "/en/files/TB1840 1841 voice modulation.pdf"
   cta_icon_pack = "fas"
-  cta_icon = "scroll"
+  cta_icon = "file-pdf"
   
 [[item]]
   title = "As part of a team led by [Christopher D. Watkins](/en/author/christopher-d.-watkins/), I was awarded the 2020 [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) in economics"

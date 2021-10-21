@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Próximo número temático sobre ***modulación vocal*** en [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb)"
-  content = "Editado con [Kasia Pisanski](/es/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
+  title = "***Voice modulation: from origin and mechanism to social impact***"
+  content = "Próximo número temático en dos partes en [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb). Editado en conjunto con [Kasia Pisanski](/es/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -30,9 +30,9 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Consulta la lista de los próximos números"
-  cta_url = "https://royalsocietypublishing.org/rstb/forthcoming-issues"
+  cta_url = "/es/files/TB1840 1841 voice modulation.pdf"
   cta_icon_pack = "fas"
-  cta_icon = "scroll"
+  cta_icon = "file-pdf"
 
 [[item]]
   title = "Como parte de un equipo liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), me fue otorgado <br/> el [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en economía"
