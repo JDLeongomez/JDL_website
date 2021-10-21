@@ -1,8 +1,8 @@
 ---
-title: "Voice modulation: from origin and mechanism to social impact"
+title: "Voice modulation: from origin and mechanism to social impact [Theme issue]"
 date: 2020-05-02T00:00:00
 authors: ["admin", "kasia", "David Reby", "Disa Sauter", "Nadine Lavan", "Marcus Perlman", "Jaroslava Varella Valentova"]
-summary: "Upcoming 2-part theme issue on for *Philosophical Transactions of the Royal Society B: Biological Sciences*."
+summary: "Upcoming 2-part theme issue on for Philosophical Transactions of the Royal Society B: Biological Sciences."
 ---
 
 <p style="text-align:right;font-size:70%;">Cover art: © Roza Kamiloglu (Amsterdam Interdisciplinary Center for Emotion, University of Amsterdam)</p>
