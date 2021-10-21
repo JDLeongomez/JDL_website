@@ -30,9 +30,9 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Check the contents"
-  cta_url = "/en/files/TB1840 1841 voice modulation.pdf"
+  cta_url = "/en/news/voice_mod/"
   cta_icon_pack = "fas"
-  cta_icon = "file-pdf"
+  cta_icon = "book-open"
   
 [[item]]
   title = "As part of a team led by [Christopher D. Watkins](/en/author/christopher-d.-watkins/), I was awarded the 2020 [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) in economics"

@@ -23,16 +23,16 @@ height = ""
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "rstb.jpg"  # Image path relative to your `static/media/` folder.
+  overlay_img = "PTB_flyer.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Consulta la lista de los próximos números"
-  cta_url = "/es/files/TB1840 1841 voice modulation.pdf"
+  cta_label = "Consulta los contenidos"
+  cta_url = "/es/news/voice_mod/"
   cta_icon_pack = "fas"
-  cta_icon = "file-pdf"
+  cta_icon = "book-open"
 
 [[item]]
   title = "Como parte de un equipo liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), me fue otorgado <br/> el [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en economía"
