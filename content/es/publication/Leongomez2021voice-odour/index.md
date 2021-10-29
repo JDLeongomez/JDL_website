@@ -1,6 +1,6 @@
 +++
 title = "Contextualising courtship: Exploring male body odour effects on vocal modulation"
-date = 2021-10-13T00:00:00
+date = 2021-10-29T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "ors", "mva", "scr"]
@@ -17,7 +17,7 @@ authors = ["admin", "ors", "mva", "scr"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Behavioural Processes*, in press"
+publication = "*Behavioural Processes, 193*, 104531"
 publication_short = ""
 
 # Abstract.
