@@ -1,6 +1,6 @@
 +++
 title = "Predicting strength from aggressive vocalisations versus speech in African bushland and urban communities"
-date = 2021-06-23T00:00:00
+date = 2021-11-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["karel", "admin", "kasia", "Vojtěch Fiala", "Clément Cornec", "Agata Groyecka-Bernard", "Marina Butovskaya", "David Reby", "Piotr Sorokowski", "Robert Mbe Akoko"]
@@ -17,7 +17,7 @@ authors = ["karel", "admin", "kasia", "Vojtěch Fiala", "Clément Cornec", "Agat
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Philosophical Transactions of the Royal Society B: Biological Sciences, 376*, 20200403"
+publication = "*Philosophical Transactions of the Royal Society B: Biological Sciences, 376*(1840), 20200403"
 publication_short = ""
 
 # Abstract.

@@ -1,6 +1,6 @@
 ---
 title: "Voice modulation: from origin and mechanism to social impact [Número temático]"
-date: 2020-05-02T00:00:00
+date: 2021-11-01T00:00:00
 authors: ["admin", "kasia", "David Reby", "Disa Sauter", "Nadine Lavan", "Marcus Perlman", "Jaroslava Varella Valentova"]
 summary: "Próximo número temático en dos partes para Philosophical Transactions of the Royal Society B: Biological Sciences."
 ---
