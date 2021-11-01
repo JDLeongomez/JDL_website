@@ -27,9 +27,13 @@ The voice is a powerful social tool. In many species, individual differences in 
 	});
 </script>
 
-## My articles in this theme issue
+## Part 1 - [Open](https://royalsocietypublishing.org/toc/rstb/2021/376/1840)
 
-Aside from being an editor of this theme issue, I am an author of three articles: 
+## Part 2 - Coming soon
+
+__________
+
+Articles in which I am an author: 
 
 {{< cite page="/publication/Leongomez2021Intro" view="1" >}}
 

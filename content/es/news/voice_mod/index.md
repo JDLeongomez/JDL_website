@@ -27,9 +27,13 @@ La voz es una poderosa herramienta social. En muchas especies, las diferencias i
 	});
 </script>
 
-## Mis artículos en este número temático
+## Parte 1 - [Abrir](https://royalsocietypublishing.org/toc/rstb/2021/376/1840)
 
-Además de ser editor de este número temático, soy autor de tres artículos:
+## Parte 2 - Próximamente
+
+__________
+
+Artículos en los que soy autor:
 
 {{< cite page="/publication/Leongomez2021Intro" view="1" >}}
 
