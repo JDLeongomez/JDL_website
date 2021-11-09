@@ -14,11 +14,11 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Equipe Neuro-Ethologie Sensorielle, University of Lyon, Lyon, France
-  url: "https://www.eneslab.com/"
+- name: Centre national de la recherche scientifique (CNRS-F), France
+  url: "https://www.cnrs.fr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral researcher (Equipe Neuro-Ethologie Sensorielle, University of Lyon, Lyon, France).
+bio: Permanent researcher (CNRS & University of Lyon, Lyon, France).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,4 +58,4 @@ Kasia is a researcher with whom we have many interests in common, mainly related
 
 We are co-editing an upcoming [2-part theme issue on voice modulation](/en/news/voice_mod/) for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb), alongside [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Andrey Anikin](https://portal.research.lu.se/portal/en/persons/andrey-anikin(b8825ea7-dd01-4de3-be88-95107e1181ae).html), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), and [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/).
 
-For more information and to know her work and publications, visit [her profile](https://www.researchgate.net/profile/Katarzyna_Pisanski).
+For more information and to know her work and publications, visit her [DDL profile](http://www.ddl.cnrs.fr/Annuaires/index.asp?Langue=EN&Page=Katarzyna+PISANSKI&), or her [ResearchGate profile](https://www.researchgate.net/profile/Katarzyna_Pisanski).

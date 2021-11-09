@@ -8,7 +8,6 @@ In this page, you can see or download either my full, [**academic CV**](#full_cv
 
 ___________________
 
-
 ## <a name="full_cv"></a>**Academic CV**
 
 This is my full, detailed academic CV.
