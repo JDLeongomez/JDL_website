@@ -4,6 +4,7 @@ date = 2020-03-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "ors", "mva", "ev", "ancc", "linmor", "Javier Nieto", "isaac"]
+author_notes = ["Autor de correspondencia","","","","","","", "Autor de correspondencia"]
 
 # Publication type.
 # Legend:

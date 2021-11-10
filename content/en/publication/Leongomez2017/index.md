@@ -4,6 +4,7 @@ date = 2017-06-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "vrm", "Anthony C. Little", "scr"]
+author_notes = ["Joint first author", "Joint first author"]
 
 # Publication type.
 # Legend:

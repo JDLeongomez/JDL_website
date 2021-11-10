@@ -4,6 +4,7 @@ date = 2021-07-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "jh", "scr"]
+author_notes = ["Corresponding author","", "Corresponding author"]
 
 # Publication type.
 # Legend:
@@ -17,7 +18,7 @@ authors = ["admin", "jh", "scr"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Philosophical Transactions of the Royal Society B: Biological Sciences, 376*, 20200391"
+publication = "*Philosophical Transactions of the Royal Society B: Biological Sciences, 377*(1841), 20200391"
 publication_short = ""
 
 # Abstract.

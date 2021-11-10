@@ -4,6 +4,7 @@ date = 2021-11-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["karel", "admin", "kasia", "Vojtěch Fiala", "Clément Cornec", "Agata Groyecka-Bernard", "Marina Butovskaya", "David Reby", "Piotr Sorokowski", "Robert Mbe Akoko"]
+author_notes = ["Autor de correspondencia", "Autor de correspondencia", "Autor de correspondencia"]
 
 # Publication type.
 # Legend:

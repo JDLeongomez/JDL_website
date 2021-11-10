@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología
+role: BSc Psicología 2020-2021
 
 # Organizations/Affiliations
 organizations:
@@ -37,13 +37,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes de Pregrado
+- Antiguos Estudiantes de Pregrado
 ---
 
 ## **Proyecto de investigación de Pregrado**  
 
-*Correlatos acústicos de la orientación sociosexual en la voz humana*
+*¿Existe relación entre la sociosexualidad y la voz?*
 
-Universidad El Bosque, desde 2020
+Universidad El Bosque, 2020-2021
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube BNNseX-PK7s >}}
