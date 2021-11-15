@@ -1,6 +1,6 @@
 +++
 title = "Musicality in human vocal communication: An evolutionary perspective"
-date = 2021-07-08T00:00:00
+date = 2021-11-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "jh", "scr"]
@@ -28,8 +28,7 @@ abstract = "Studies show that specific vocal modulations, akin to those of infan
 summary = ""
 
 # Digital Object Identifier (DOI)
-#future doi 10.1098/rstb.2020-0403
-doi = ""
+doi = "10.1098/rstb.2020.0391"
 
 # Is this a featured publication? (true/false)
 featured = true
@@ -103,7 +102,7 @@ math = true
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi="10.31234/osf.io/nfg26"
+          data-doi="10.1098/rstb.2020.0391"
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
@@ -112,7 +111,7 @@ math = true
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi="10.31234/osf.io/nfg26"   
+          data-doi="10.1098/rstb.2020.0391"   
           data-condensed="true"
           data-hide-no-mentions="true"
           class="altmetric-embed">
@@ -120,7 +119,7 @@ math = true
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi=10.31234/osf.io/nfg26"
+        <a href="https://plu.mx/plum/a/?doi=10.1098/rstb.2020.0391"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"
