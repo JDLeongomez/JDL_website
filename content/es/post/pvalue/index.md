@@ -4,6 +4,7 @@ date: 2020-05-02T00:00:00
 authors: ["admin"]
 summary: En este video explico, de manera gráfica, y sin usar matemáticas, qué son los **valores** ***p***.
 tags: ["Estadística", "Valores p", "R"]
+add_badge: false
 ---
 
 En este video explico, de manera gráfica, y sin usar matemáticas, qué son los **valores** ***p***, una herramienta fundamental en estadística [frecuentista], pero sobre la que hay muchísimas confusiones que llevan a que su uso con frecuencia no sea correcto.

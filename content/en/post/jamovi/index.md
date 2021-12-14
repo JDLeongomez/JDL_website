@@ -4,6 +4,7 @@ date: 2020-03-17T00:00:00
 authors: ["admin"]
 summary: In this two-part series in Spanish, I make a general introduction to **jamovi**, a powerful free and open statistical software.
 tags: ["Statistics", "Software", "Tutorial", "jamovi"]
+add_badge: false
 ---
 
 In this two-part series **in Spanish**, I make a general introduction to [jamovi](https://www.jamovi.org/), a powerful **free** and **open** statistical software, as an excellent alternative to expensive statistical software such as [SPSS](https://www.ibm.com/analytics/spss-statistics-software).

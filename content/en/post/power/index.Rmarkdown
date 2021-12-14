@@ -4,6 +4,7 @@ date: 2020-09-03T00:00:00
 authors: ["admin"]
 summary: In this series/tutorial in Spanish, I explain how to perform statistical **power analysis** to calculate the required **sample size** for a study.
 tags: ["Statistics", "Tutorial", "R", "jamovi", "Sample size", "Power"]
+add_badge: false
 ---
 
 In this series, I explain the basics of **power analysis** and how to use it to calculate the **sample size** needed for a study.

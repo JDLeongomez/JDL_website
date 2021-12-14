@@ -4,6 +4,7 @@ date: 2020-03-17T00:00:00
 authors: ["admin"]
 summary: En esta serie en dos partes, hago una introducción general a **jamovi**, un poderoso programa estadístico abierto y gratuito.
 tags: ["Estadística", "Software", "Tutorial", "jamovi"]
+add_badge: false
 ---
 
 En esta serie en dos partes, hago una introducción general a [jamovi](https://www.jamovi.org/), un poderoso programa estadístico **abierto** y **gratuito**, como excelente alternativa a programas como [SPSS](https://www.ibm.com/analytics/spss-statistics-software).

@@ -3,6 +3,7 @@ title: What is a p-value? I can show you graphically
 date: 2020-05-02T00:00:00
 authors: ["admin"]
 summary: In this video in Spanish I explain graphically, and without using mathematics, what ***p*-values** are.
+add_badge: false
 ---
 
 In this video in Spanish I explain graphically, and without using mathematics, what ***p*-values** are, a fundamental tool in [frequentist] statistics, but one about which there are many confusions that lead to their frequent misuse.

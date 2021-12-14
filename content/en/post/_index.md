@@ -25,4 +25,6 @@ Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.yo
   <i class="fab fa-instagram"></i>
 </span></a></p>
 
+_________________________________________
+
 ## Video tutorials:

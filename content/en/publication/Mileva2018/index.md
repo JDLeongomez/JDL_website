@@ -79,6 +79,9 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+    
+# Almetric and Dimension badges
+add_badge = false
 +++
 
 Picture Morgan Freeman, Donald Trump or Margaret Thatcher. Most likely you can hear their voices in your mind, and the characteristic inflections that they put on certain words, as well as their tone and pitch. Even without listening to the words, when you hear someone speak you can pick up important information about them from characteristics such as how loud or deep their voice is.

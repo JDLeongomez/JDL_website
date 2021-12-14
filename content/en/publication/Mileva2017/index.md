@@ -79,6 +79,9 @@ math = true
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
+    
+# Almetric and Dimension badges
+add_badge = false
 +++
 
 Imagine going for a job interview and the employer sitting across from you is truly intimidating. He’s big, bold, loud and mean-looking. What might this do to your confidence? To your mannerisms? To your way of speaking?

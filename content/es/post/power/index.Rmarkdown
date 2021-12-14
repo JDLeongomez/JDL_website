@@ -4,6 +4,7 @@ date: 2020-09-03T00:00:00
 authors: ["admin"]
 summary: En esta serie/tutorial, explico cómo hacer **análisis de poder** (o potencia) estadística para calcular el **tamaño de muestra** necesario para un estudio.
 tags: ["Estadística", "Tutorial", "R", "jamovi", "Tamaño de muestra", "Poder"]
+add_badge: false
 ---
 
 En esta serie, explico las bases del análisis de **poder estadístico** y cómo usarlo para calcular el **tamaño de muestra** necesario para un estudio. 
