@@ -17,7 +17,7 @@ authors = ["chrisw", "Jeanne Bovet", "Ana Maria Fernandez", "admin",  "Agnieszka
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Social and Personal Relationships*"
+publication = "*Journal of Social and Personal Relationships*, in press"
 publication_short = ""
 
 # Abstract.
