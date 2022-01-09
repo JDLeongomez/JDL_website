@@ -1,6 +1,6 @@
 +++
 title = "The price of prosociality in pandemic times"
-date = 2021-12-20T00:00:00
+date = 2022-01-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Hernando Santamaría-García", "Miguel Burgaleta", "Agustina Legaz", "Daniel Flichtentrei", "Mateo Córdoba", "Juliana Molina", "Juliana Linares", "Juan Montealegre", "Sandra Castelblanco", "Michael Schulte", "Juan David Páramo", "Izara Mondragon", "admin", "Paula Salomone", "Juan González-Pacheco", "Sandra Báez", "Harris Eyre", "Agustín Ibanez"]
@@ -17,7 +17,7 @@ authors = ["Hernando Santamaría-García", "Miguel Burgaleta", "Agustina Legaz",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Humanities and Social Sciences Communications*, in press"
+publication = "*Humanities and Social Sciences Communications, 9*, 15"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "The SARS-CoV-2 pandemic has imposed wide-spread negative impacts (ec
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1057/s41599-021-01022-2"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.nature.com/articles/s41599-021-01022-2.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -104,7 +104,7 @@ add_badge = true
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
         <span style="float:left";
           class="__dimensions_badge_embed__"
-          data-doi=""
+          data-doi="10.1057/s41599-021-01022-2"
           data-hide-zero-citations="true"
           data-legend="always">
         </span>
@@ -113,7 +113,7 @@ add_badge = true
           data-link-target="_blank"
           data-badge-details="right"
           data-badge-type="medium-donut"
-          data-doi=""   
+          data-doi="10.1057/s41599-021-01022-2"   
           data-condensed="true"
           data-hide-no-mentions="true"
           class="altmetric-embed">
@@ -121,7 +121,7 @@ add_badge = true
     </div>
     <div id="inner">
       <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
-        <a href="https://plu.mx/plum/a/?doi="
+        <a href="https://plu.mx/plum/a/?doi=10.1057/s41599-021-01022-2"
           data-orientation="horizontal"
           class="plumx-summary"
           data-site="plum"

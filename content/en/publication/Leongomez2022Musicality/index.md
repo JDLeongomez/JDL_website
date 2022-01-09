@@ -1,10 +1,10 @@
 +++
 title = "Musicality in human vocal communication: An evolutionary perspective"
-date = 2021-11-15T00:00:00
+date = 2022-01-03T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "jh", "scr"]
-author_notes = ["Autor de correspondencia","", "Autor de correspondencia"]
+author_notes = ["Corresponding author","", "Corresponding author"]
 
 # Publication type.
 # Legend:
@@ -35,7 +35,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Musicalidad", "Música", "Origen de la música", "Comunicación acústica", "Modulación de la voz", "Habla dirigida a bebés", "Evolución"]
+tags = ["Musicality", "Music", "Acoustic communication", "Voice modulation", "Infant-directed speech", "Evolution"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,7 +54,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0391"
 url_preprint = "https://psyarxiv.com/nfg26/"
 url_code = ""
 url_dataset = ""
