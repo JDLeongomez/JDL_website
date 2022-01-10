@@ -26,7 +26,7 @@ Esta es mi hoja de vida académica, completa y detallada.
 	});
 </script>
 
-{{< cta cta_text="Descargar HV académica" cta_link="/es/files/JDL_CV_es.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Abrir/descargar HV académica" cta_link="/es/files/JDL_CV_es.pdf" cta_new_tab="true" >}}
 
 ___________________
 
@@ -46,4 +46,4 @@ Esta es mi hoja de vida corta, resumida a 2 páginas.
 	});
 </script>
 
-{{< cta cta_text="Descargar HV resumida" cta_link="/es/files/JDL_shortCV_es.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Abrir/descargar HV resumida" cta_link="/es/files/JDL_shortCV_es.pdf" cta_new_tab="true" >}}

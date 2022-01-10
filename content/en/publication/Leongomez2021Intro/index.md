@@ -54,7 +54,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2020.0386"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

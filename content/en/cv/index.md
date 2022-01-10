@@ -24,7 +24,7 @@ This is my full, detailed academic CV.
 	});
 </script>
 
-{{< cta cta_text="Download academic CV" cta_link="/en/files/JDL_CV_en.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Open/download academic CV" cta_link="/en/files/JDL_CV_en.pdf" cta_new_tab="true" >}}
 
 ___________________
 
@@ -45,4 +45,4 @@ This is my short, 2-page summary CV.
 	});
 </script>
 
-{{< cta cta_text="Download short CV" cta_link="/en/files/JDL_shortCV_en.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Open/download short CV" cta_link="/en/files/JDL_shortCV_en.pdf" cta_new_tab="true" >}}
