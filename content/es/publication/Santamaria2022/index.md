@@ -66,6 +66,7 @@ url_source = ""
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Supplementary Material", url = ""}]
+links = [{name = "Información Suplementaria", url = "https://static-content.springer.com/esm/art%3A10.1057%2Fs41599-021-01022-2/MediaObjects/41599_2021_1022_MOESM1_ESM.docx"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
