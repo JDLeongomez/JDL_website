@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor / PhD 2015-2018 / Postdoc 2021
+role: Associate Professor / PhD 2015-2018 / Postdoc 2021-2022
 
 # Organizations/Affiliations
 organizations:

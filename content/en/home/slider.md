@@ -55,7 +55,7 @@ height = ""
 
 [[item]]
   title = "ONLINE INTERNATIONAL CONGRESS OF NEUROSCIENCES: BRAIN AND BEHAVIOUR IN TIMES OF COVID-19"
-  content = "Together with a [fantastic team of colleagues](http://civn2020.com/comite_en.php),<br/> we organised this incredible event.<br/> CHECK OUT ALL TALKS NOW"
+  content = "Together with a fantastic team of colleagues led by [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/), we organised this incredible event."
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

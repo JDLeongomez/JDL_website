@@ -1,6 +1,6 @@
 +++
 title = 'Men say "I love you" before women do: Robust across several countries'
-date = 2022-01-06T00:00:00
+date = 2022-01-27T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["chrisw", "Jeanne Bovet", "Ana Maria Fernandez", "admin",  "Agnieszka Żelaźniewicz", "Marco Antônio Corrêa Varella", "Danielle Wagstaff"]
@@ -17,7 +17,7 @@ authors = ["chrisw", "Jeanne Bovet", "Ana Maria Fernandez", "admin",  "Agnieszka
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Social and Personal Relationships*, in press"
+publication = "*Journal of Social and Personal Relationships*, Advance online publication"
 publication_short = ""
 
 # Abstract.

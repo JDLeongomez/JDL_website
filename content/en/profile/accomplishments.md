@@ -105,7 +105,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "Certificado Annual Prize in EvoPsych.pdf"
   date_start = "2009-10-15"
-  date_end = "2009-10-15"
+  date_end = ""
   description = "Best overall performance in the MSc"  
 
 [[item]]
