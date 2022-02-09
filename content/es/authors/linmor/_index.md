@@ -69,7 +69,7 @@ user_groups:
 
 Lina es una psicóloga de la [Universidad El Bosque](https://www.uelbosque.edu.co/) y administradora de empresas de la [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/home). Tiene interés en la salud mental dentro de las organizaciones. Tiene conocimientos de psicología clínica y experiencia en el diseño e implementación de proyectos sociales. Miembro de SDSN Youth Solutions Hub.
 
-Lina primero hizo su proyecto de investigación de pregrado entre 2016 y 2017, y luego trabajó como asistente de investigación bajo mi supervisión, formándose en métodos de investigación, y ha apoyando procesos de investigación como asistente de investigación bajo mi supervisión. En 2020 Lina ha estado trabajando en análisis de datos y programación en R bajo mi dirección.
+Lina primero hizo su proyecto de investigación de pregrado entre 2016 y 2017, y luego trabajó como asistente de investigación bajo mi supervisión, formándose en métodos de investigación, y ha apoyando procesos de investigación como asistente de investigación bajo mi supervisión. En 2020 Lina trabajó en análisis de datos y programación en R bajo mi dirección.
 
 ## **Proyecto de Investigación de Pregrado**  
 
