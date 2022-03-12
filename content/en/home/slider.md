@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "***Voice modulation: from origin and mechanism to social impact***"
-  content = "2-part theme issue on for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb). Edited together with [Kasia Pisanski](/en/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://scholar.google.co.uk/citations?user=CbhRL4UAAAAJ&hl=en), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), and [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
+  content = "2-part theme issue on for [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb). Edited together with [Kasia Pisanski](/en/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://www.qmul.ac.uk/sbbs/staff/nadine-lavan.html), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), and [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
