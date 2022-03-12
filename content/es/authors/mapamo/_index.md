@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología 2019-2021
+role: BSc Psicología supervisión 2019-2021
 
 # Organizations/Affiliations
 organizations:

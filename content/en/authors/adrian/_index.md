@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Psychology 2019-2020
+role: MSc Psychology research supervision 2019-2020
 
 # Organizations/Affiliations
 organizations:
