@@ -29,7 +29,7 @@ education:
   - course: 'MSc in Psychology for Organizations: Human Resources, Marketing and Communication'
     institution: Università Cattolica del Sacro Cuore (Milan, Italy)
     year: 2018
-  - course: BA in Psychology
+  - course: BSc in Psychology
     institution: Universidad de La Sabana (Bogota, Colombia)
     year: 2018
 
@@ -63,7 +63,7 @@ After completing her master's degree and returning to Colombia, Lina voluntarily
 
 ## **Research Project**  
 
-*Detección de infidelidad previa y orientación sociosexual a partir de la voz* [Detection of previous infidelity and socio-sexual orientation from the voice]
+*Detección de infidelidad previa y orientación sociosexual a partir de la voz* [Detection of previous infidelity and socio-sexual orientation from voice]
 
 Universidad El Bosque, 2020
 
