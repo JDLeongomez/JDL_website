@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Biología 2016-2017
+role: BSc Biología supervisión 2016-2017
 
 # Organizations/Affiliations
 organizations:

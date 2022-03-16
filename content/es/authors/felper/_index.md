@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Educación Musical 2018-2019
+role: BA Educación Musical supervisión 2018-2019
 
 # Organizations/Affiliations
 organizations:

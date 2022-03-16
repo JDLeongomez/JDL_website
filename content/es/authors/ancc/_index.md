@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación / BSc Psicología 2017-2018
+role: Asistente de Investigación desde 2019 / BSc Psicología supervisión 2017-2018
 
 # Organizations/Affiliations
 organizations:

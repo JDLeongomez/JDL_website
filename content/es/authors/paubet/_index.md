@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología 2018-2019
+role: BSc Psicología supervisión 2018-2019
 
 # Organizations/Affiliations
 organizations:

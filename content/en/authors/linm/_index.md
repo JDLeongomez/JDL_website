@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Assistant 2020
 
 # Organizations/Affiliations
 organizations:

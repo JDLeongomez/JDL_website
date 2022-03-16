@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación
+role: Asistente de Investigación 2020
 
 # Organizations/Affiliations
 organizations:
