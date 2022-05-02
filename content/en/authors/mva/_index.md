@@ -68,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Former Graduate Students
+- Graduate Students
 ---
 
 Milena is an Associate Professor, and researcher in neuroscience at the Experimental Psicology Lab, [Universidad El Bosque](https://www.uelbosque.edu.co/). She is leading research projects in two lines: first, about typical-atypical sexual preferences, both deviant and non-deviant, such as paedophilia. Second, about attentional biases and HRV as indicators of affective disorders. She has focused on the use of eye-tracking as an indirect measure of affect and sexual arousal. She is interested in research about the cognitive mechanisms that underlie mood disorders and sexual behaviour.
