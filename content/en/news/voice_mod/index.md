@@ -27,4 +27,4 @@ Articles in which I am an author:
 
 {{< cite page="/publication/Kleisner2021b" view="1" >}}
 
-{{< cite page="/publication/Leongomez2021Musicality" view="1" >}}
+{{< cite page="/publication/Leongomez2022Musicality" view="1" >}}
