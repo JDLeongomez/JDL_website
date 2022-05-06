@@ -3,7 +3,7 @@
 title: Andrés Castellanos-Chacón
 
 # Weight
-weight: 2017
+weight: 5000
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación desde 2019 / BSc Psicología supervisión 2017-2018
+role: Asistente de Investigación desde 2019 / Supervisión de enseñanza desde 2019 / BSc Psicología supervisión 2017-2018
 
 # Organizations/Affiliations
 organizations:
