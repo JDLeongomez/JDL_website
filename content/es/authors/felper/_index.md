@@ -2,6 +2,9 @@
 # Display name
 title: Juan Felipe Pérez Ariza
 
+# Weight
+weight: 2019
+
 # Username (this should match the folder name)
 authors:
 - felper

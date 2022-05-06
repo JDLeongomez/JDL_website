@@ -2,6 +2,9 @@
 # Display name
 title: Lina Morales-Sánchez
 
+# Weight
+weight: 2017
+
 # Username (this should match the folder name)
 authors:
 - linm

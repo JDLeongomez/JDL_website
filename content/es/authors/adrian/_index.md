@@ -2,6 +2,9 @@
 # Display name
 title: Adrian Acosta Guerrero
 
+# Weight
+weight: 2020
+
 # Username (this should match the folder name)
 authors:
 - adrian

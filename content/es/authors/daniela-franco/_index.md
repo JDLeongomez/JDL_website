@@ -2,6 +2,9 @@
 # Display name
 title: Daniela Franco
 
+# Weight
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - daniela-franco

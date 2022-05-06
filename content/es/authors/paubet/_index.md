@@ -2,6 +2,9 @@
 # Display name
 title: Paula Andrea Betancourt Velandia
 
+# Weight
+weight: 2019
+
 # Username (this should match the folder name)
 authors:
 - paubet

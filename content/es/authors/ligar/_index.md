@@ -2,6 +2,9 @@
 # Display name
 title: Lina María García Hoyos
 
+# Weight
+weight: 2018
+
 # Username (this should match the folder name)
 authors:
 - ligar

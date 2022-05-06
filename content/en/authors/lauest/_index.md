@@ -2,6 +2,9 @@
 # Display name
 title: Laura Milena Estupiñan Aldana
 
+# Weight
+weight: 2018
+
 # Username (this should match the folder name)
 authors:
 - lauest

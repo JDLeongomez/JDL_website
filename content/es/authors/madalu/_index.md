@@ -2,6 +2,9 @@
 # Display name
 title: Maria Daniela Luna Martínez
 
+# Weight
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - madalu

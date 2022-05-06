@@ -2,6 +2,9 @@
 # Display name
 title: Maria Paula Moreno Rodríguez
 
+# Weight
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - mapamo

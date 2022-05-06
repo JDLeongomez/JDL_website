@@ -2,6 +2,9 @@
 # Display name
 title: Hasbleidy Gamboa Ordoñez
 
+# Weight
+weight: 2020
+
 # Username (this should match the folder name)
 authors:
 - hasgam

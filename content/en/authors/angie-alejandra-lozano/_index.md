@@ -2,6 +2,9 @@
 # Display name
 title: Angie Alejandra Lozano
 
+# Weight
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - angie-alejandra-lozano

@@ -2,6 +2,9 @@
 # Display name
 title: Danny Ferley Gaitan Rodríguez
 
+# Weight
+weight: 2020
+
 # Username (this should match the folder name)
 authors:
 - dangai

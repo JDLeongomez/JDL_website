@@ -2,6 +2,9 @@
 # Display name
 title: Cindy Paola Moncada Gómez
 
+# Weight
+weight: 2018
+
 # Username (this should match the folder name)
 authors:
 - cindy

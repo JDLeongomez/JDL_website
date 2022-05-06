@@ -2,6 +2,9 @@
 # Display name
 title: Johan Sebastian Castiblanco
 
+# Weight
+weight: 2022
+
 # Username (this should match the folder name)
 authors:
 - johan-sebastian-castiblanco

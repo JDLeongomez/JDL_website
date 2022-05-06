@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Andrés Felipe Orozco Serrato
+# Weight
+weight: 2021
 
 # Username (this should match the folder name)
 authors:

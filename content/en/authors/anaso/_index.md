@@ -2,6 +2,9 @@
 # Display name
 title: Ana Sofía Gómez Castelblanco
 
+# Weight
+weight: 2019
+
 # Username (this should match the folder name)
 authors:
 - anaso

@@ -2,6 +2,9 @@
 # Display name
 title: Angie Liliana Pérez Rodríguez
 
+# Weight
+weight: 2017
+
 # Username (this should match the folder name)
 authors:
 - angper

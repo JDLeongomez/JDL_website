@@ -2,6 +2,9 @@
 # Display name
 title: Maria Camila Wilches
 
+# Weight
+weight: 2022
+
 # Username (this should match the folder name)
 authors:
 - maria-camila-wilches

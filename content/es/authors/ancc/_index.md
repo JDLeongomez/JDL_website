@@ -2,6 +2,9 @@
 # Display name
 title: Andrés Castellanos-Chacón
 
+# Weight
+weight: 2017
+
 # Username (this should match the folder name)
 authors:
 - ancc

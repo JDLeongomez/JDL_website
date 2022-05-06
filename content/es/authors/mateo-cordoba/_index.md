@@ -2,6 +2,9 @@
 # Display name
 title: Mateo Córdoba-Delgado
 
+# Weight
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - mateo-cordoba

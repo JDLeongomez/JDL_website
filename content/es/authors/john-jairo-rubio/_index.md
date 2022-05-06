@@ -2,6 +2,9 @@
 # Display name
 title: John Jairo Rubio
 
+# Weight
+weight: 2021
+
 # Username (this should match the folder name)
 authors:
 - john-jairo-rubio

@@ -2,6 +2,9 @@
 # Display name
 title: Vanesa Díaz Güiza
 
+# Weight
+weight: 2018
+
 # Username (this should match the folder name)
 authors:
 - vandia

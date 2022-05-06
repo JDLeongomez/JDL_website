@@ -2,6 +2,9 @@
 # Display name
 title: Natalia Elizabeth Moreno Buitrago
 
+# Weight
+weight: 2019
+
 # Username (this should match the folder name)
 authors:
 - natbui

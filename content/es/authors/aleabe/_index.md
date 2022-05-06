@@ -2,6 +2,9 @@
 # Display name
 title: Maria Alejandra Abello Mozo
 
+# Weight
+weight: 2017
+
 # Username (this should match the folder name)
 authors:
 - aleabe

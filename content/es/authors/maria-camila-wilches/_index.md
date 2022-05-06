@@ -2,6 +2,9 @@
 # Display name
 title: Maria Camila Wilches
 
+# Weight
+weight: 2022
+
 # Username (this should match the folder name)
 authors:
 - maria-camila-wilches
@@ -10,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología supervisión desde 2021
+role: BSc Psicología supervisión desde 2022
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2021.
+bio: Estudiante de investigación de Pregrado desde 2022.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

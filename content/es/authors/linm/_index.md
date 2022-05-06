@@ -2,6 +2,9 @@
 # Display name
 title: Lina Muñóz
 
+# Weight
+weight: 2020
+
 # Username (this should match the folder name)
 authors:
 - linm

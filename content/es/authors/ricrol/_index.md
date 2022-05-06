@@ -2,6 +2,9 @@
 # Display name
 title: Ricardo Roldán Morales
 
+# Weight
+weight: 2016
+
 # Username (this should match the folder name)
 authors:
 - ricrol
