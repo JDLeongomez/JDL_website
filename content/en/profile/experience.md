@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
 * Researcher at the Human Behaviour Lab ([Laboratorio de Análisis del Comportamiento Humano - LACH](https://www.psicologia.unbosque.edu.co/lach))
-* Leader of the ([classification: **A**](https://scienti.minciencias.gov.co/gruplac/jsp/Medicion/graficas/verPerfiles.jsp?id_convocatoria=19&nroIdGrupo=00000000001446)) Cognitive Processes and Education research group ([Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion)) (since 2016)
+* Leader of the Cognitive Processes and Education research group ([Procesos Cognoscitivos y Educación](https://investigaciones.unbosque.edu.co/procesos-cognoscitivos-y-educacion)) (since 2016) - (classified as [**A1 group**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446), the highest category in the country)
 * [Methodological and statistical advisor](https://asesores-psic.netlify.app/) for postgraduate and faculty research projects
 * [Supervision](/en/team/) of a variety of undergraduate and postgraduate research projects associated with psychology and biology.
 * Member of the Research Committee
