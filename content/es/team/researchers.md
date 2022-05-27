@@ -7,14 +7,18 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Investigadores"
+title = ""
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Investigadores",
-                 "Asistentes de Investigación Graduados"]
+                 "Asistentes de Investigación Graduados",
+                 "Estudiantes de Posgrado",
+                 "Antiguos Estudiantes de Posgrado",
+                 "Estudiantes de Pregrado",
+                 "Antiguos Estudiantes de Pregrado"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -54,7 +58,7 @@ subtitle = ""
 
 {{< figure src="Logo LACH.png" width=35% >}}
 
-## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo permanentemente en el [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.psicologia.unbosque.edu.co/lach) de la [Universidad El Bosque](https://www.uelbosque.edu.co/).
+## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo en el [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.psicologia.unbosque.edu.co/lach) de la [Universidad El Bosque](https://www.uelbosque.edu.co/), así como los estudiantes de investigación que estoy supervisando o he supervisado.
 
 #### *Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos (si existen)*
 

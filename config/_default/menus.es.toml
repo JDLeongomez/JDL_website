@@ -40,26 +40,19 @@
 
 [[main]]
   identifier = "people"
-  name = "Equipo"
+  name = "Personas"
   url = "team/"
   weight = 60
 
 [[main]]
   identifier = "people1"
-  name = "Investigadores"
-  url = "team/#researchers"
+  name = "Laboratorio"
+  url = "team/"
   parent = "people"
   weight = 60
 
 [[main]]
   identifier = "people2"
-  name = "Estudiantes"
-  url = "team/#students"
-  parent = "people"
-  weight = 62
-
-[[main]]
-  identifier = "people3"
   name = "Colaboraciones"
   url = "colabs/"
   parent = "people"

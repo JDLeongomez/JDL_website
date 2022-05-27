@@ -7,14 +7,18 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Researchers"
+title = ""
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Researchers",
-                 "Research Assistants"]
+                 "Research Assistants",
+                 "Graduate Students",
+                 "Former Graduate Students",
+                 "Undergraduate Students",
+                 "Former Undergraduate Students"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -53,7 +57,7 @@ subtitle = ""
 
 {{< figure src="Logo LACH.png" width=35% >}}
 
-## In this page you can find information regarding the researchers and research assistants I permanently work with in the [Human Behaviour Lab (LACH)](https://www.psicologia.unbosque.edu.co/lach) at [Universidad El Bosque](https://www.uelbosque.edu.co/).
+## In this page you can find information regarding the researchers and research assistants I permanently work with at the [Human Behaviour Lab (LACH)](https://www.psicologia.unbosque.edu.co/lach) at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the research students I am supervising or have supervised in the past.
 
 #### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any)*
 

@@ -54,13 +54,6 @@
 
 [[main]]
   identifier = "people2"
-  name = "Students"
-  url = "team/#students"
-  parent = "people"
-  weight = 62
-
-[[main]]
-  identifier = "people3"
   name = "Collaboration"
   url = "colabs/"
   parent = "people"
