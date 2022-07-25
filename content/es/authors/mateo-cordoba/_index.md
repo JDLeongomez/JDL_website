@@ -46,7 +46,7 @@ social:
   link: https://orcid.org/0000-0002-2264-7388
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/mateoandres-cordoba-delgado
+  link: https://www.linkedin.com/in/mateoandres-cordoba-delgado/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +63,7 @@ user_groups:
 - Asistentes de Investigación Graduados
 ---
 
-Conocí a Mateo por primera vez en 2017, siendo estudiante del programa de Medicina en la Universidad Javeriana en Bogotá, Colombia. Mateo ya trabajaba estrechamente con [Hernando Santamaría García](https://scholar.google.com/citations?user=jrSJ0U4AAAAJ) mostrando un claro interés por la psiquiatría, la neurociencia y las ciencias del comportamiento. Se acercó a mí durante una charla invitada que di en el II Simposio de Neurociencias, Cognición y Sociedad, del que Mateo era organizador, y más tarde se puso en contacto conmigo para discutir ideas y oportunidades de investigación. Me fascinó inmediatamente su motivación y curiosidad, y me cautivaron las interesantísimas preguntas que formuló. Consciente de sus cualidades y de su enorme potencial, invité a Mateo a trabajar conmigo en el laboratorio, donde trabajó voluntariamente entre 2018 y 2021 en un proyecto sobre percepción de voces y rostros y elección de pareja.
+Conocí a Mateo por primera vez en 2017, siendo estudiante del programa de Medicina en la Universidad Javeriana en Bogotá, Colombia. Mateo ya trabajaba estrechamente con [Hernando Santamaría García](https://scholar.google.com/citations?user=jrSJ0U4AAAAJ) mostrando un claro interés por la psiquiatría, la neurociencia y las ciencias del comportamiento. Se acercó a mí durante una charla invitada que di en el [II Simposio de Neurociencias, Cognición y Sociedad](https://www.facebook.com/events/276180996197963?active_tab=discussion), del que Mateo era organizador, y más tarde se puso en contacto conmigo para discutir ideas y oportunidades de investigación. Me fascinó inmediatamente su motivación y curiosidad, y me cautivaron las interesantísimas preguntas que formuló. Consciente de sus cualidades y de su enorme potencial, invité a Mateo a trabajar conmigo en el laboratorio, donde trabajó voluntariamente entre 2018 y 2021 en un proyecto sobre percepción de voces y rostros y elección de pareja.
 
 Mateo ha estado trabajando en sus propias ideas de investigación, y a menudo hemos discutido tanto diseños de investigación y teoría, como métodos estadísticos y programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html).
 
