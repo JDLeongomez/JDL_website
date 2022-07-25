@@ -21,7 +21,7 @@ organizations:
   url: "https://www.javeriana.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación en el Laboratorio de Análisis del Comportamiento Humano desde 2018 - 2021
+bio: Asistente de investigación en el Laboratorio de Análisis del Comportamiento Humano 2018 - 2021
 
 interests:
 - Psychiatry
@@ -46,7 +46,7 @@ social:
   link: https://orcid.org/0000-0002-2264-7388
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mateo-andr%C3%A9s-c%C3%B3rdoba-delgado-3a5b5b186/
+  link: www.linkedin.com/in/mateoandres-cordoba-delgado
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,9 +63,9 @@ user_groups:
 - Research Assistants
 ---
 
-I first came to know Mateo in 2017 while he was a student on the Medicine programme at Universidad Javeriana in Bogota, Colombia. Mateo was already working closely with [Hernando Santamaría García](https://scholar.google.com/citations?user=jrSJ0U4AAAAJ) showing a clear interest in psychiatry, neuroscience and behavioural sciences. He approached me during an invited talk I gave at the 2nd Symposium of Neurosciences, Cognition and Society, of which Mateo was an organiser, and later contacted me to discuss research ideas and opportunities. I was immediately fascinated by his motivation and curiosity, and captivated by the very interesting questions he asked. Being aware of his qualities and enormous potential, I invited Mateo to work with me at my lab at Universidad El Bosque, and he voluntarily worked between 2018 and 2021 on a project on voice and face perception and mate-choice.
+I first came to know Mateo in 2017 while he was a student on the Medicine programme at Universidad Javeriana in Bogota, Colombia. Mateo was already working with [Hernando Santamaría García](https://scholar.google.com/citations?user=jrSJ0U4AAAAJ), showing a clear interest in psychiatry, neuroscience and behavioural sciences. He approached me during an invited talk I gave at the 2nd Symposium of Neurosciences, Cognition and Society, of which Mateo was an organiser, and later contacted me to discuss research ideas and opportunities. I was immediately fascinated by his motivation and curiosity, and captivated by the very interesting questions he asked. Being aware of his qualities and enormous potential, I invited Mateo to work with me at my lab at Universidad El Bosque, and he voluntarily worked between 2018 and 2021 on a project on voice and face perception and mate-choice.
 
-Mateo has been working on his own research ideas, and we have often dicussed both study designs and theory, as well as statistical methods and <i class="fab fa-r-project"></i>&nbsp;programming.
+Mateo has been working on his own research ideas, and we have often dicussed study designs and theory, as well as statistical methods and <i class="fab fa-r-project"></i>&nbsp;programming.
 
 ## **Research Project**  
 

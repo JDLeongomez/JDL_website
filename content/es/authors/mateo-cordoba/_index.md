@@ -46,7 +46,7 @@ social:
   link: https://orcid.org/0000-0002-2264-7388
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mateo-andr%C3%A9s-c%C3%B3rdoba-delgado-3a5b5b186/
+  link: www.linkedin.com/in/mateoandres-cordoba-delgado
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
