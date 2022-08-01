@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Research Methods (Evolutionary Psychology) supervisión 2013-2014
+role: MSc Research Methods (Evolutionary Psychology) | supervisión de investigación 2013-2014
 
 # Organizations/Affiliations
 organizations:

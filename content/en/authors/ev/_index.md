@@ -55,7 +55,7 @@ social:
   link: https://orcid.org/0000-0002-6320-7792
 - icon: researchgate
   icon_pack: ai
-  link: hhttps://www.researchgate.net/profile/Eugenio_Valderrama
+  link: https://www.researchgate.net/profile/Eugenio-Valderrama
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

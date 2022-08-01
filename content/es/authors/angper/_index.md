@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología supervisión 2016-2017
+role: BSc Psicología | supervisión de investigación 2016-2017
 
 # Organizations/Affiliations
 organizations:
