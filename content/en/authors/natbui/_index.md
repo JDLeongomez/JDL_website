@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Music Education research supervision 2018-2019
+role: BA Music Education | Research supervision 2018-2019
 
 # Organizations/Affiliations
 organizations:

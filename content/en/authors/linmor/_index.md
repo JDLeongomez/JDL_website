@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant 2018 / Psychology BSc | research supervision 2016-2017
+role: Research Assistant 2018 / Psychology BSc | Research supervision 2016-2017
 
 # Organizations/Affiliations
 organizations:
