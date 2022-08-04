@@ -57,7 +57,7 @@ subtitle = ""
 
 {{< figure src="Logo_EvoCo.png" width=35% >}}
 
-## In this page you can find information regarding the researchers and research assistants I permanently work with at the [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/) [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*] at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the research students I am supervising or have supervised in the past.
+## In this page you can find information regarding the researchers and research assistants I permanently work with at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/) [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*] at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the research students I am supervising or have supervised in the past.
 
 #### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any)*
 

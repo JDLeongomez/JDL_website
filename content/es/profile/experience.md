@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades incluyen:
   
-* Investigador del [Laboratorio de Evolución y Comportamiento Humano (EvoCo)](https://www.psicologia.unbosque.edu.co/EvoCo)
+* Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://www.psicologia.unbosque.edu.co/EvoCo)
 * Líder del grupo de investigación [**CODEC - Ciencias Cognitivas y del Comportamiento**](https://investigaciones.unbosque.edu.co/codec) (desde 2016) - [GrupLAC (clasificación: **A1**)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446) 
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
 * [Supervisión](/es/team/) de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades incluyen:
   
-* Investigador del [Laboratorio de Evolución y Comportamiento Humano (EvoCo)](https://www.psicologia.unbosque.edu.co/EvoCo)
+* Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://www.psicologia.unbosque.edu.co/EvoCo)
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
 * Líder del grupo de investigación [**CODEC - Ciencias Cognitivas y del Comportamiento**](https://investigaciones.unbosque.edu.co/codec) (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
 * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017)

@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor e Investigador/Director del Laboratorio de Evolución y Comportamiento Humano (EvoCo) de la Facultad de Psicología de la Universidad El Bosque en Bogotá, Colombia.
+bio: "Profesor e Investigador/Director de ***EvoCo**: Laboratorio de Evolución y Comportamiento Humano* de la Facultad de Psicología de la Universidad El Bosque en Bogotá, Colombia."
 
 interests:
 - Ecología comportamental
@@ -66,4 +66,4 @@ user_groups:
 
 ---
 
-Profesor de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia), de la [Universidad El Bosque](https://www.uelbosque.edu.co/), e Investigador/Director del [Laboratorio de Evolución y Comportamiento Humano (EvoCo)](https://sites.google.com/unbosque.edu.co/EvoCo-es/home), en Bogotá, Colombia.
+Profesor de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia), de la [Universidad El Bosque](https://www.uelbosque.edu.co/), e Investigador/Director de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), en Bogotá, Colombia.

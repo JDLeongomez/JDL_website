@@ -58,7 +58,7 @@ subtitle = ""
 
 {{< figure src="Logo_EvoCo.png" width=35% >}}
 
-## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo en el [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/) de la [Universidad El Bosque](https://www.uelbosque.edu.co/), así como los estudiantes de investigación que estoy supervisando o he supervisado.
+## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/) de la [Universidad El Bosque](https://www.uelbosque.edu.co/), así como los estudiantes de investigación que estoy supervisando o he supervisado.
 
 #### *Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos (si existen)*
 
