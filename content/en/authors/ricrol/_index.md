@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Psychology BSc | Research supervision 2015-2016
+role: BSc Psychology | Research supervision 2015-2016
 
 # Organizations/Affiliations
 organizations:

@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Psychology BSc | Research supervision 2019-2020
+role: BSc Psychology | Research supervision 2019-2020
 
 # Organizations/Affiliations
 organizations:
