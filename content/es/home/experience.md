@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades incluyen:
   
-  * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
+  * Investigador del Laboratorio de Evolución y Comportamiento Humano (EvoCo).
   * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446).
   * Supervisión de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología.
   * Miembro del Comité de Investigación
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   description = """
   Responsabilidades incluyen:
   
-  * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
+  * Investigador del Laboratorio de Evolución y Comportamiento Humano (EvoCo).
   * Asesor metodológico y estadístico para proyectos de investigación de docentes y estudiantes de posgrado.
   * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446).
   * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017).

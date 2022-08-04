@@ -51,7 +51,7 @@ user_groups:
 
 ---
 
-Chris is a friend and collaborator. For more information and to see his work and publications, visit his [lab website](https://www.relationship-lab.com/), or his [Abertay University page](https://www.abertay.ac.uk/staff-search/dr-christopher-watkins/).
+Chris is a friend and collaborator. For more information and to see his work and publications, visit his [Lab website](https://www.relationship-Lab.com/), or his [Abertay University page](https://www.abertay.ac.uk/staff-search/dr-christopher-watkins/).
 
 I worked with him on a project related to environmental predictors of mouth-to-mouth kissing:
 

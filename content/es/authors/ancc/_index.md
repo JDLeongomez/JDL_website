@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación en el Laboratorio de Análisis del Comportamiento Humano desde 2019, y practicante de investigación entre 2017 y 2018.
+bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2019, y practicante de investigación entre 2017 y 2018.
 
 interests:
 - Hormonas y Comportamiento
@@ -69,7 +69,7 @@ user_groups:
 - Asistentes de Investigación Graduados
 ---
 
-Andrés es investigador en formación del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
+Andrés es investigador en formación del [Laboratorio de Evolución y Comportamiento Humano (EvoCo)](https://sites.google.com/unbosque.edu.co/EvoCo-es/home), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
 
 Sus intereses de investigación incluyen los efectos hormonales y de la microbiota en el comportamiento humano. Trabajó en microbiota durante su estancia en la [Universidad Nacional Autónoma de México](https://www.unam.mx/), bajo la supervisión del [Dr. Isaac González-Santoyo](/es/author/isaac-gonzalez-santoyo/), y ha trabajado en neurociencias bajo supervisión de la [Dra. Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/), así como en biología molecular, bajo la supervisión de [Juan Pablo Hernandez](https://scholar.google.es/citations?user=UjKjHNYAAAAJ&hl).
 

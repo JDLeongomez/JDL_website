@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor and Researcher/Director at the Human Behaviour Lab (LACH), Faculty of Psychology, at Universidad El Bosque in Bogota, Colombia.
+bio: Professor and Researcher/Director at the Human Behaviour and Evolution Lab (EvoCo), Faculty of Psychology, at Universidad El Bosque in Bogota, Colombia.
 
 interests:
 - Behavioural Ecology
@@ -66,4 +66,4 @@ user_groups:
 
 ---
 
-Professor at the [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), [Universidad El Bosque](https://www.uelbosque.edu.co/), and Researcher/Director of the [Human Behaviour Lab (LACH)](https://sites.google.com/unbosque.edu.co/lach-es/home), in Bogota, Colombia.
+Professor at the [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), [Universidad El Bosque](https://www.uelbosque.edu.co/), and Researcher/Director of the [Human Behaviour and Evolution Lab (EvoCo)](https://sites.google.com/unbosque.edu.co/EvoCo-es/home), in Bogota, Colombia.

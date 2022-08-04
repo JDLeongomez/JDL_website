@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:  
   
-  * Researcher at the Human Behaviour Analysis Lab (LACH).
+  * Researcher at the Human Behaviour Analysis Lab (EvoCo).
   * Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
   * Supervision of a variety of undergraduate and postgraduate research projects associated with psychology and biology.
   * Member of the Research Committee
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Researcher at the Human Behaviour Analysis Lab (LACH).
+  * Researcher at the Human Behaviour Analysis Lab (EvoCo).
   * Methodological and statistical advisor for postgraduate and faculty research projects.
   * Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
   * Organiser of the Nerd Café weekly conference series of the Faculty of Psychology (2016-2017).

@@ -21,7 +21,7 @@ organizations:
   url: "https://www.javeriana.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación en el Laboratorio de Análisis del Comportamiento Humano desde 2018 - 2021
+bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2018 - 2021
 
 interests:
 - Psiquiatría
