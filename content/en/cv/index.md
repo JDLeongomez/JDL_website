@@ -13,10 +13,12 @@ ___________________
 This is my full, detailed academic CV.
 
 <div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "064da19ffdb04db7b0ea2c9a528805cb", divId: "adobe-dc-view"});
+		var adobeDCView = new AdobeDC.View({clientId: "064da19ffdb04db7b0ea2c9a528805cb", 
+		  divId: "adobe-dc-view",
+		  locale: "en-GB"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://jdleongomez.info/en/files/JDL_CV_en.pdf"}},
 			metaData:{fileName: "JD Leongómez - CV.pdf"}
@@ -34,10 +36,12 @@ ___________________
 This is my short, 2-page summary CV. 
 
 <div id="adobe-dc-view-1" style="height: 842px; width: 595px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "064da19ffdb04db7b0ea2c9a528805cb", divId: "adobe-dc-view-1"});
+		var adobeDCView = new AdobeDC.View({clientId: "064da19ffdb04db7b0ea2c9a528805cb", 
+		  divId: "adobe-dc-view-1",
+		  locale: "en-GB"});
 		adobeDCView.previewFile({
 			content:{location: {url: "https://jdleongomez.info/en/files/JDL_shortCV_en.pdf"}},
 			metaData:{fileName: "JD Leongómez - short CV.pdf"}

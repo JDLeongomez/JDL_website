@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-* Researcher at the Human Behaviour Lab ([Laboratorio de Evolución y Comportamiento Humano - EvoCo](https://www.psicologia.unbosque.edu.co/EvoCo))
-* Leader of the **CODEC - Cognitive and Behavioural Sciences** research group ([**CODEC - Ciencias Cognitivas y del Comportamiento**](https://investigaciones.unbosque.edu.co/codec)) (since 2016) - (classified as [**A1 group**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446), the highest category in the country)
+* Researcher at EvoCo: Human Behaviour and Evolution Laboratory ([EvoCo: Laboratorio de Evolución y Comportamiento Humano](https://www.psicologia.unbosque.edu.co/EvoCo))
+* Leader of the **CODEC: Cognitive and Behavioural Sciences** research group ([**CODEC: Ciencias Cognitivas y del Comportamiento**](https://investigaciones.unbosque.edu.co/codec)) (since 2016) - (classified as [**A1 group**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446), the highest category in the country)
 * [Methodological and statistical advisor](https://asesores-psic.netlify.app/) for postgraduate and faculty research projects
 * [Supervision](/en/team/) of a variety of undergraduate and postgraduate research projects associated with psychology and biology.
 * Member of the Research Committee
@@ -48,9 +48,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-* Researcher at the Human Behaviour Analysis Lab ([Laboratorio de Evolución y Comportamiento Humano - EvoCo](https://www.psicologia.unbosque.edu.co/EvoCo))
+* Researcher at EvoCo: Human Behaviour and Evolution Laboratory ([EvoCo: Laboratorio de Evolución y Comportamiento Humano](https://www.psicologia.unbosque.edu.co/EvoCo))
 * [Methodological and statistical advisor](https://asesores-psic.netlify.app/) for postgraduate and faculty research projects
-* Leader of the **CODEC - Cognitive and Behavioural Sciences** research group ([**CODEC - Ciencias Cognitivas y del Comportamiento**](https://investigaciones.unbosque.edu.co/codec)) (since 2016)
+* Leader of the **CODEC: Cognitive and Behavioural Sciences** research group ([**CODEC: Ciencias Cognitivas y del Comportamiento**](https://investigaciones.unbosque.edu.co/codec)) (since 2016)
 * Organiser of the Nerd Café weekly conference series of the Faculty of Psychology (2016-2017)
 * [Supervision](/en/team/) of a variety of undergraduate research projects associated with psychology and biology
 * Postdoctoral stay (2018-2019)
