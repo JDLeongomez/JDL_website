@@ -60,9 +60,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1333339/juan-david-leongomez/
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/1333339/juan-david-leongomez/
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA

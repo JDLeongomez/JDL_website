@@ -34,9 +34,6 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Karel_Kleisner
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1308477/karel-kleisner/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
