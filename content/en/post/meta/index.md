@@ -2,7 +2,7 @@
 title: Meta-analysis in jamovi is very easy
 date: 2021-05-09T00:00:00
 authors: ["admin"]
-summary: In this video in Spanish, I do a basic introduction to **meta-analysis**, and explain how to meta-analyse correlation coefficients and 2-means comparisons in [jamovi](https://www.jamovi.org/).
+summary: In this video in Spanish, I do a basic introduction to **meta-analysis**, and explain how to meta-analyse correlation coefficients and 2-mean comparisons in [jamovi](https://www.jamovi.org/).
 tags: ["Statistics", "Software", "Tutorial", "jamovi", "Meta-analysis"]
 add_badge: false
 ---
