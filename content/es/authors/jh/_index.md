@@ -18,7 +18,7 @@ organizations:
   url: "https://cuni.cz/uken-1.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor e investigador principal del grupo de investigación de [Etología Humana](https://etologiecloveka.cz/index.php/en/) (Faculty of Science, Charles University in Prague, Praga, República Checa).
+bio: Profesor e investigador principal del grupo de investigación de [Etología Humana](https://etologiecloveka.cz/index.php/en/) (Faculty of Science, Charles University in Prague, Praga, República Checa) y vicepresidente de la [International Society for Human Ethology (ISHE)](http://www.ishe.org/).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

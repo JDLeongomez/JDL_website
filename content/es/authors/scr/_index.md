@@ -18,7 +18,7 @@ organizations:
   url: "http://www.stir.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Profesor Titular de Etología Humana (Division of Psychology, University of Stirling, Stirling, Reino Unido), y Presidente de la [International Society for Human Ethology (ISHE)](http://www.ishe.org/).
+bio: Profesor Titular de Etología Humana (Division of Psychology, University of Stirling, Stirling, Reino Unido), y expresidente de la [International Society for Human Ethology (ISHE)](http://www.ishe.org/).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
