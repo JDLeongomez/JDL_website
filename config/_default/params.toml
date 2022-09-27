@@ -93,7 +93,7 @@ phone = "(+57) 601-6489000 Ext. 1901"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Laboratorio de Análisis del Comportamiento Humano, Facultad de Psicología, Universidad El Bosque", city = "Bogotá", region = "DC", postcode = "110121", country = "Colombia", country_code = "CO"}
+address = {street = "<i><b>EvoCo: Laboratorio de Evolución y Comportamiento Humano</b></i>, Facultad de Psicología, Universidad El Bosque", city = "Bogotá", region = "DC", postcode = "110121", country = "Colombia", country_code = "CO"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
