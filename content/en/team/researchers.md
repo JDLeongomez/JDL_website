@@ -55,9 +55,11 @@ subtitle = ""
  css_class = ""
 +++
 
-{{< figure src="Logo_EvoCo.png" width=35% >}}
+{{< figure src="Logo_EvoCo.png" width=35% >}} 
 
-## In this page you can find information regarding the researchers and research assistants I permanently work with at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/) [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*] at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the research students I am supervising or have supervised in the past.
+[***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/) [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*], is an ongoing enterprise yet to be properly established as a research centre. ***EvoCo*** was founded by [Oscar R. Sánchez](/en/author/oscar-r.-sanchez) on 2015 as *Laboratorio de Análisis del Comportamiento Humano (LACH)* [*Human Behaviour Lab*]. Slowly, we have formed a small, yet heterogeneous group, and started several long-term projects. We study human behaviour from an evolutionary perspective. We conduct experimental (and some data mining) projects on topics ranging from mate choice to hormonal effects on behaviour, including voice and face analysis.
+
+In this page you can find information regarding the researchers and research assistants I permanently work with at [***EvoCo***](/en/equipo/) at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the research students I am supervising or have supervised in the past.
 
 #### *Please click on the names to see individual profiles, and publications I have co-authored with each of them (if any)*
 

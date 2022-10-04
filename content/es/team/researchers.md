@@ -58,7 +58,9 @@ subtitle = ""
 
 {{< figure src="Logo_EvoCo.png" width=35% >}}
 
-## En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/) de la [Universidad El Bosque](https://www.uelbosque.edu.co/), así como los estudiantes de investigación que estoy supervisando o he supervisado.
+[***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/equipo/) es una iniciativa en curso que aún constituirse como centro de investigación. ***EvoCo*** fue fundado por [Oscar R. Sánchez](/es/author/oscar-r.-sanchez) en 2015 como *Laboratorio de Análisis del Comportamiento Humano (LACH)*. Poco a poco, hemos formado un grupo pequeño pero heterogéneo, y hemos iniciado varios proyectos a largo plazo. Principalmente estudiamos el comportamiento humano desde una perspectiva evolutiva. Realizamos proyectos experimentales (y algunos de minería de datos) sobre diversos temas, desde elección de pareja hasta efectos hormonales en el comportamiento, incluyendo análisis de voces y rostros.
+
+En esta página puedes encontrar información sobre los investigadores y asistentes de investigación con los que trabajo permanentemente en [***EvoCo***](/es/equipo/) en la [Universidad El Bosque](https://www.uelbosque.edu.co/), así como los estudiantes de investigación que estoy supervisando o he supervisado en el pasado.
 
 #### *Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos (si existen)*
 
