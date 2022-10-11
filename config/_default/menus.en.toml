@@ -47,7 +47,7 @@
 
 [[main]]
   identifier = "people1"
-  name = "Lab"
+  name = "Lab (EvoCo)"
   url = "team/"
   parent = "people"
   weight = 60
