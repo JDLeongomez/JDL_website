@@ -18,7 +18,7 @@ author_notes = ["","PhD supervisor","PhD supervisor",""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Sex Research*, in press"
+publication = "*Forensic Sciences Research*, in press"
 publication_short = ""
 
 # Abstract.
