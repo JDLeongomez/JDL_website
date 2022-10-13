@@ -65,7 +65,7 @@ social:
 #  link: https://publons.com/researcher/1333339/juan-david-leongomez/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
+  link: https://www.youtube.com/@InvestigacionAbierta
 - icon: osf
   icon_pack: ai
   link: https://osf.io/s26ax/
@@ -103,7 +103,7 @@ En este sitio podrás encontrar toda la información de mis [publicaciones](http
 
 ## [Investigación Abierta](#posts) (canal de YouTube)
 
-Investigación Abierta es un [canal de YouTube](https://www.youtube.com/c/InvestigaciónAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. [Acá](/es/post/) puedes encontrar más información acerca del canal y los videos que he creado.
+Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@InvestigacionAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. [Acá](/es/post/) puedes encontrar más información acerca del canal y los videos que he creado.
 
 ## Mi travesía académica
 

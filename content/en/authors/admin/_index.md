@@ -65,7 +65,7 @@ social:
 #  link: https://publons.com/researcher/1333339/juan-david-leongomez/
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
+  link: https://www.youtube.com/@InvestigacionAbierta
 - icon: osf
   icon_pack: ai
   link: https://osf.io/s26ax/
@@ -99,7 +99,7 @@ My research interests include mate choice and human vocal communication, with an
 
 ## [Investigación Abierta](#posts) (YouTube channel)
 
-Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/c/InvestigaciónAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](/en/post/).
+Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/@InvestigacionAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](/en/post/).
 
 ## Academic journey 
 

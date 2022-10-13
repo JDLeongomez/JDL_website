@@ -15,7 +15,7 @@ header:
 
 {{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
-Investigación Abierta es un [canal de YouTube](https://www.youtube.com/c/InvestigaciónAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto.
+Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@InvestigacionAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto.
 
 ## Presentación del canal **Investigación Abierta**
 {{< video library="true" src="Animacion-Investigación-abierta.mp4" controls="yes" >}}
