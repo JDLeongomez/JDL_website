@@ -22,7 +22,7 @@ publication = "*Journal of Sex Research*, in press"
 publication_short = ""
 
 # Abstract.
-abstract = "Attention plays a central role in current theories about the processing of sexual information. Attention paradigms, such as eye tracking, have been used to study sexual preferences for men (androphilia) or women (gynephilia). More recently, eye tracking has also been used to study the atypical sexual preference of pedophilia, which represents sexual attraction to prepubescent children. The aim of this review is to apply a conceptual model of attentional processing in sexual response, the information processing model, and show how eye-tracking is a useful indirect measure of both typical sexual preferences such as androphilia and gynephilia and atypical preferences such as pedophilia. Implications for research are discussed in terms of recognizing the value, scope, and limitations of eye-tracking paradigms in the study of pedophilia, and hypothesis generation using this type of indirect measures of human sexual response. "
+abstract = "Visual attention plays a central role in current theories of sexual information processing and is key to informing the use of eye-tracking techniques in the study of typical sexual preferences and more recently, in the study of atypical preferences such as pedophilia (prepubescent children) and hebephilia (pubescent children). The aim of this theoretical-empirical review is to connect the concepts of a visual attention-based model of sexual arousal processing with eye movements as indicators of atypical sexual interests, to substantiate the use of eye-tracking as a useful indirect measure of sexual preferences according to sex and age of the stimuli. Implications for research are discussed in terms of recognizing the value, scope, and limitations of eye-tracking in the study of pedophilia and other chronophilias in males and females, and the generation of new hypotheses using this type of indirect measure of human sexual response."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -35,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Attention pattern", "Sexual stimuli", "Eye tracking", "Sexual preferences", "Sexual response", "Sexual orientation", "Convicted criminals", "Sex offenders"]
+tags = ["Attention pattern", "Sexual stimuli", "Eye tracking", "Sexual preferences", "Sexual response", "Sexual orientation", "Pedohebephilia", "Chronophilias"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
