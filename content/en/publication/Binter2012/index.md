@@ -83,3 +83,5 @@ math = true
 # Almetric and Dimension badges
 add_badge = true
 +++
+
+{{< metrics >}}
