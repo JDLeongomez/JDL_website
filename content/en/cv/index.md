@@ -10,7 +10,7 @@ ___________________
 
 ## <a name="full_cv"></a>**Academic CV**
 
-This is my full, detailed academic CV.
+This is my full and detailed academic CV.
 
 <div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
@@ -33,7 +33,7 @@ ___________________
 
 ## <a name="sum_cv"></a>**Short CV** (2 pages)
 
-This is my short, 2-page summary CV. 
+This is my brief 2-page summary CV.
 
 <div id="adobe-dc-view-1" style="height: 842px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
