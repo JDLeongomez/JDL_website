@@ -3,7 +3,7 @@
 title: Andrés Castellanos-Chacón
 
 # Weight
-weight: 5000
+weight: 50000
 
 # Username (this should match the folder name)
 authors:

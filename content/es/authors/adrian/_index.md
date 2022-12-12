@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Psicología | supervisión de investigación 2019-2020
+role: MSc Psicología | Supervisión de investigación 2019-2020
 
 # Organizations/Affiliations
 organizations:

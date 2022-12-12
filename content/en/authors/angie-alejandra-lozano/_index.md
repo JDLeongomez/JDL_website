@@ -3,7 +3,7 @@
 title: Angie Alejandra Lozano
 
 # Weight
-weight: 2021
+weight: 20222
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology | Research supervision since 2021
+role: BSc Psychology | Research supervision 2021-2022
 
 # Organizations/Affiliations
 organizations:
@@ -40,7 +40,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Former Undergraduate Students
 ---
 
 ## **Research project**  
