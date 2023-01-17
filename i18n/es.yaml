@@ -67,7 +67,7 @@
 - id: contact_send
   translation: Enviar
 - id: book_appointment
-  translation: Solicitar una cita
+  translation: Solicitar una cita (para docentes y estudiantes Universidad El Bosque)
 - id: abstract
   translation: Resumen
 - id: publication
