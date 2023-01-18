@@ -67,6 +67,7 @@ url_source = ""
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{name = "Supplementary Material", url = "https://osf.io/kmvub/"}]
+links = [{name = "Ponencia (4th Brazilian Meeting on Evolution of Human Behavior)", url = "https://www.youtube.com/watch?v=gK_rl0r4nfs&t=9662s"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
