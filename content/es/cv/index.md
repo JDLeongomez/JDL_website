@@ -14,7 +14,7 @@ ___________________
 
 Esta es mi hoja de vida académica, completa y detallada.
 
-<div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
+<div id="adobe-dc-view" style="height: 900px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
@@ -36,7 +36,7 @@ ___________________
 
 Esta es mi hoja de vida corta, resumida a 2 páginas.
 
-<div id="adobe-dc-view-1" style="height: 842px; width: 595px;"></div>
+<div id="adobe-dc-view-1" style="height: 900px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 

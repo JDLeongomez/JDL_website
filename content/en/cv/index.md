@@ -12,7 +12,7 @@ ___________________
 
 This is my full and detailed academic CV.
 
-<div id="adobe-dc-view" style="height: 842px; width: 595px;"></div>
+<div id="adobe-dc-view" style="height: 900px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
@@ -35,7 +35,7 @@ ___________________
 
 This is my brief 2-page summary CV.
 
-<div id="adobe-dc-view-1" style="height: 842px; width: 595px;"></div>
+<div id="adobe-dc-view-1" style="height: 900px; width: 595px;"></div>
 <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
 <script type="text/javascript">
 	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
