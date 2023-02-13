@@ -3,7 +3,7 @@
 title: Maria Camila Wilches
 
 # Weight
-weight: 2022
+weight: 3
 
 # Username (this should match the folder name)
 authors:
@@ -45,7 +45,7 @@ user_groups:
 
 ## **Proyecto de investigación de Pregrado**  
 
-*Por definir*
+*El rol del género en la identificación de la sociosexualidad a partir de las voces*
 
 Universidad El Bosque, desde 2022
 

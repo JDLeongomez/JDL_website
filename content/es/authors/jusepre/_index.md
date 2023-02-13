@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología | Supervisión de investigación 2020-2021
+role: BSc Psicología | Supervisión de investigación 2020-2021 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2020.
+bio: Estudiante de investigación de Pregrado desde 2020 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,6 +48,8 @@ user_groups:
 *¿Existe relación entre la sociosexualidad y la voz?*
 
 Universidad El Bosque, 2020-2021
+
+Este proyecto de investigación recibió premio como trabajo **Meritorio**.
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 

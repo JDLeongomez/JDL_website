@@ -47,6 +47,8 @@ user_groups:
 
 *Asociación entre simetría facial y atractivo vocal*
 
-Universidad El Bosque, desde 2021
+Universidad El Bosque, 2021-2022
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube G9eqxpyKF5A >}}

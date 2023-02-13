@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student since 2021.
+bio: BSc research project student 2021-2022.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,8 +45,10 @@ user_groups:
 
 ## **Research project**  
 
-*PAsociación entre simetría facial y atractivo vocal* [Association between facial symmetry and vocal attractiveness]
+*Asociación entre simetría facial y atractivo vocal* [Association between facial symmetry and vocal attractiveness]
 
-Universidad El Bosque, since 2021
+Universidad El Bosque, 2021-2022
 
 **Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube G9eqxpyKF5A >}}

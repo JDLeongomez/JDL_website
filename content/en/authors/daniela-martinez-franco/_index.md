@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Johan Sebastian Castiblanco
+title: Daniela Martínez Franco
 
 # Weight
-weight: 3
+weight: 20222
 
 # Username (this should match the folder name)
 authors:
-- johan-sebastian-castiblanco
+- daniela-martinez-franco
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Psychology | Research supervision since 2022
+role: BSc Psychology | Research supervision 2021-2022 (Distinction)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student since 2022.
+bio: BSc research project student 2021-2022 (Distinction).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,17 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Former Undergraduate Students
 ---
 
 ## **Research project**  
 
-*El rol del género en la identificación de la sociosexualidad a partir de las voces* [The role of gender in the identification of sociosexuality from voices]
+*Percepción de sociosexualidad a partir de voces, rostros, y rostros y voces* [Perception of sociosexuality from voices, faces, and faces and voices]
 
-Universidad El Bosque, since 2022
+Universidad El Bosque, 2021-2022
+
+This research project received the **Distinction** award and was recognised as the **best reserarch project** of its cohort.
 
 **Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube A9xNV3BqRJw >}}

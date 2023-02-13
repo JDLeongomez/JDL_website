@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Biología | Supervisión de investigación 2016-2017
+role: BSc Biología | Supervisión de investigación 2016-2017 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado entre 2016 y 2017.
+bio: Estudiante de investigación de Pregrado entre 2016 y 2017 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,5 +53,7 @@ user_groups:
 *Desarrollo y evaluación de una metodología nueva para manipular las variables del atractivo, dominancia y sexo simultáneamente en fotos de caras humanas con el programa PsychoMorph*
 
 Universidad El Bosque, 2016-2017.
+
+Este proyecto de investigación recibió premio como trabajo **Meritorio**.
 
 **Supervisores:** [Eugenio Valderrama](/es/author/eugenio-valderrama/) y [Juan David Leongómez](/es/#about).

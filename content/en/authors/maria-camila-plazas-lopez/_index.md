@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Daniela Franco
+title: Maria Camila Plazas López
 
 # Weight
-weight: 20222
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- daniela-franco
+- maria-camila-plazas-lopez
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Psicología | Supervisión de investigación 2021-2022
+role: BSc Psychology | Research supervision since 2023
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2021.
+bio: Estudiante de investigación de Pregrado desde 2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Antiguos Estudiantes de Pregrado
+- Undergraduate Students
 ---
 
-## **Proyecto de investigación de Pregrado**  
+## **Research project**  
 
-*Percepción de sociosexualidad a partir de voces, rostros, y rostros y voces*
+*To be defined*
 
-Universidad El Bosque, desde 2021
+Universidad El Bosque, since 2023
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

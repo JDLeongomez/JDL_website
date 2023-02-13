@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Johan Sebastian Castiblanco
+title: Natalia Rodríguez Bautista
 
 # Weight
-weight: 3
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- johan-sebastian-castiblanco
+- natalia-rodriguez-bautista
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Psychology | Research supervision since 2022
+role: BSc Psychology | Research supervision since 2023
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student since 2022.
+bio: Estudiante de investigación de Pregrado desde 2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,8 +45,8 @@ user_groups:
 
 ## **Research project**  
 
-*El rol del género en la identificación de la sociosexualidad a partir de las voces* [The role of gender in the identification of sociosexuality from voices]
+*To be defined*
 
-Universidad El Bosque, since 2022
+Universidad El Bosque, since 2023
 
 **Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

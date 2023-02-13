@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Music Education | Research supervision 2018-2019
+role: BA Music Education | Research supervision 2018-2019 (Distinction)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "http://www.pedagogica.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BA research project student between 2018 and 2019.
+bio: BA research project student between 2018 and 2019 (Distinction).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,5 +54,7 @@ user_groups:
 <a href="http://hdl.handle.net/20.500.12209/10443" target="_blank">http://hdl.handle.net/20.500.12209/10443</a>
 
 Universidad Pedagógica Nacional, 2018-2019
+
+This research project received the **Distinction** award.
 
 **Supervisor:** [Juan David Leongómez](/en/#about).

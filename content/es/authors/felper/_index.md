@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Educación Musical | Supervisión de investigación 2018-2019
+role: BA Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "http://www.pedagogica.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado entre 2018 y 2019.
+bio: Estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,5 +54,7 @@ user_groups:
 <a href="http://hdl.handle.net/20.500.12209/10443" target="_blank">http://hdl.handle.net/20.500.12209/10443</a>
 
 Universidad Pedagógica Nacional, 2018-2019
+
+Este proyecto de investigación recibió premio como trabajo **Meritorio**.
 
 **Supervisor:** [Juan David Leongómez](/es/#about).
