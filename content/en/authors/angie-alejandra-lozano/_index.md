@@ -45,7 +45,7 @@ user_groups:
 
 ## **Research project**  
 
-*Percepción de sociosexualidad a partir de voces, rostros, y rostros y voces* [Perception of sociosexuality from voices, faces, and faces and voices]
+*¿Somos capaces de detectar qué tan sociosexual es una persona a partir de su voz y/o su rostro?* [Are we able to detect the sociosexual orientation of a person from their voice and/or face?]
 
 Universidad El Bosque, 2021-2022
 
