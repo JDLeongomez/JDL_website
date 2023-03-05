@@ -14,10 +14,10 @@ authors = ["Jenny Terry", "Robert M. Ross", "Tamas Nagy", "Mauricio Salgado", "P
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PsyArXiv*"
+publication = "*Journal of Open Psychology Data*, in press"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "This large, international dataset contains survey responses from N =
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/au9vp"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,10 +53,10 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://psyarxiv.com/au9vp/download?format=pdf"
-url_preprint = ""
-url_code = "https://doi.org/10.31234/osf.io/au9vp"
-url_dataset = ""
+url_pdf = ""
+url_preprint = "https://psyarxiv.com/au9vp/"
+url_code = ""
+url_dataset = "https://osf.io/374vn/"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Materiales Suplementarios", url = "https://osf.io/mhg94/"}]
+links = [{name = "Materiales Suplementarios", url = "https://osf.io/r2qvc/"}, {name = "Proyecto", url = "https://osf.io/mhg94/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
