@@ -31,10 +31,10 @@ interests:
 education:
   courses:
   - course: PhD, Neurociencia
-    institution: Universidad de Valencia (Valencia, Spain)
+    institution: Universidad de Valencia (Valencia, España)
     year: 2018
   - course: MSc en Neurociencia Básica y Aplicada
-    institution: Universidad de Valencia (Valencia, Spain)
+    institution: Universidad de Valencia (Valencia, España)
     year: 2012
   - course: Psicología
     institution: Universidad Católica de Colombia (Bogota, Colombia)
