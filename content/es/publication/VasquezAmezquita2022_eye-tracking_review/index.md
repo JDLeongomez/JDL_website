@@ -28,7 +28,7 @@ abstract = "Visual attention plays a central role in current theories of sexual 
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1093/fsr/owad009"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -54,7 +54,7 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://academic.oup.com/fsr/advance-article-pdf/doi/10.1093/fsr/owad009/49623118/owad009.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -66,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Versión aceptada (PDF)", url = "https://jdleongomez.info/en/files/eye-tracking_review.pdf"}]
+links = [{name = "Material Supplementario", url = "ttps://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/fsr/PAP/10.1093_fsr_owad009/2/supplementary_materials_owad009.docx?Expires=1682961163&Signature=pUBXy4jpiPXS9fgHTvoH7-FRq94Ra3ZnMUSEim-CmCk7HekTm5xm4CjqmV-VCbj3nG3q88PxNQw19aL5OzgsjuV1Jr~FxY4EqdcPYDs5ckRXAZLVJg0~-6OcjxLsdfciDnkPcsehXNxk25eigAQFAjW9fbXfiL9GrLkdrwETsYUXJffYZt7Ry9Q88jvowtqBKmdHcWvemCSlW1AlfWMtfyZMbDmCjC8RZN9lonVfWriarHfV7iUPcrsSPGdeNRZSpE9UF7H0pAuzfb4KA5i0oVxJfyLMFrwtBEJmu3grHXnKU-PxEqp66mraAmu36PE4nam2qToJf1YjheqgsEmX2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
