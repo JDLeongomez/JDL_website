@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Estadística", "Tutorial", "R", "jamovi", "Tamaño de muestra", "Poder", "Error tipo I", "Error tipo II"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

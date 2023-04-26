@@ -3,7 +3,7 @@ title: Qué es un valor p? Te lo puedo mostrar gráficamente
 date: 2020-05-02T00:00:00
 authors: ["admin"]
 summary: En este video explico, de manera gráfica, y sin usar matemáticas, qué son los **valores** ***p***.
-tags: ["Estadística", "Valores p", "R"]
+tags: ["Estadística", "Valores p", "R", "Error tipo I", "Error tipo II"]
 add_badge: false
 ---
 

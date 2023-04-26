@@ -3,7 +3,7 @@ title: Poder estadístico y tamaño de muestra en R
 date: 2020-09-03T00:00:00
 authors: ["admin"]
 summary: En esta serie/tutorial, explico cómo hacer **análisis de poder** (o potencia) estadística para calcular el **tamaño de muestra** necesario para un estudio.
-tags: ["Estadística", "Tutorial", "R", "jamovi", "Tamaño de muestra", "Poder"]
+tags: ["Estadística", "Tutorial", "R", "jamovi", "Tamaño de muestra", "Poder", "Error tipo I", "Error tipo II"]
 add_badge: false
 ---
 
