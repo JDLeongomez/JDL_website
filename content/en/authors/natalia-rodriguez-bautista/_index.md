@@ -49,4 +49,4 @@ user_groups:
 
 Universidad El Bosque, since 2023
 
-**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

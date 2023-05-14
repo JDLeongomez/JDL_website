@@ -51,6 +51,6 @@ Universidad El Bosque, 2021-2022
 
 This research project received the **Distinction** award and was recognised as the **best reserarch project** of its cohort.
 
-**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
 {{< youtube A9xNV3BqRJw >}}

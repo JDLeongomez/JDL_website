@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología | Supervisión de investigación desde 2022
+role: BSc Psicología | Supervisión de investigación 2022-2023
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2022.
+bio: Estudiante de investigación de Pregrado 2022-2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,6 +47,8 @@ user_groups:
 
 *El rol del género en la identificación de la sociosexualidad a partir de las voces*
 
-Universidad El Bosque, desde 2022
+Universidad El Bosque, 2022 - 2023
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube FlZvukFqTcc >}}
