@@ -17,7 +17,7 @@ authors = ["Jenny Terry", "Robert M. Ross", "Tamas Nagy", "Mauricio Salgado", "P
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Open Psychology Data*, in press"
+publication = "*Journal of Open Psychology Data, 11*(1)"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "This large, international dataset contains survey responses from N =
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.5334/jopd.80"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://storage.googleapis.com/jnl-up-j-jopd-files/journals/1/articles/80/6474ad69f0f34.pdf"
 url_preprint = "https://psyarxiv.com/au9vp/"
 url_code = ""
 url_dataset = "https://osf.io/374vn/"
