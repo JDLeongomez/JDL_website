@@ -1,6 +1,6 @@
 +++
 title = "What can the eyes tell us about atypical sexual preferences as a function of sex and age? Linking eye movements with child-related chronophilias"
-date = 2022-10-13T00:00:00
+date = 2023-03-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["mva", "admin", "Alicia Salvador", "Michael C. Seto"]
@@ -18,7 +18,7 @@ author_notes = ["","PhD supervisor","PhD supervisor",""]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Forensic Sciences Research*, in press"
+publication = "*Forensic Sciences Research*"
 publication_short = ""
 
 # Abstract.
@@ -35,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Patrón de atención", "Estímulos sexuales", "Rastreo ocular", "Preferencias sexuales", "Respuesta sexual", "Orientación sexual", "Pedohebefilia", "Cronofilias"]
+tags = ["Attention pattern", "Sexual stimuli", "Eye tracking", "Sexual preferences", "Sexual response", "Sexual orientation", "Pedohebephilia", "Chronophilias"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -66,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Supplementario", url = "ttps://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/fsr/PAP/10.1093_fsr_owad009/2/supplementary_materials_owad009.docx?Expires=1682961163&Signature=pUBXy4jpiPXS9fgHTvoH7-FRq94Ra3ZnMUSEim-CmCk7HekTm5xm4CjqmV-VCbj3nG3q88PxNQw19aL5OzgsjuV1Jr~FxY4EqdcPYDs5ckRXAZLVJg0~-6OcjxLsdfciDnkPcsehXNxk25eigAQFAjW9fbXfiL9GrLkdrwETsYUXJffYZt7Ry9Q88jvowtqBKmdHcWvemCSlW1AlfWMtfyZMbDmCjC8RZN9lonVfWriarHfV7iUPcrsSPGdeNRZSpE9UF7H0pAuzfb4KA5i0oVxJfyLMFrwtBEJmu3grHXnKU-PxEqp66mraAmu36PE4nam2qToJf1YjheqgsEmX2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"}]
+links = [{name = "Supplementary Materials", url = "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/fsr/PAP/10.1093_fsr_owad009/2/supplementary_materials_owad009.docx?Expires=1682961163&Signature=pUBXy4jpiPXS9fgHTvoH7-FRq94Ra3ZnMUSEim-CmCk7HekTm5xm4CjqmV-VCbj3nG3q88PxNQw19aL5OzgsjuV1Jr~FxY4EqdcPYDs5ckRXAZLVJg0~-6OcjxLsdfciDnkPcsehXNxk25eigAQFAjW9fbXfiL9GrLkdrwETsYUXJffYZt7Ry9Q88jvowtqBKmdHcWvemCSlW1AlfWMtfyZMbDmCjC8RZN9lonVfWriarHfV7iUPcrsSPGdeNRZSpE9UF7H0pAuzfb4KA5i0oVxJfyLMFrwtBEJmu3grHXnKU-PxEqp66mraAmu36PE4nam2qToJf1YjheqgsEmX2A__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
