@@ -108,3 +108,5 @@ Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@Investi
 ## Mi travesía académica
 
 {{< figure src="map_es.png" caption="" numbered="false" >}}
+
+<a rel="me" hidden="hidden" href="https://mastodon.social/@jdleongomez">Mastodon</a>

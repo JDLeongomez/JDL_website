@@ -104,3 +104,5 @@ Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.yo
 ## Academic journey 
 
 {{< figure src="map_en.png" caption="" numbered="false" >}}
+
+<a rel="me" hidden="hidden" href="https://mastodon.social/@jdleongomez">Mastodon</a>
