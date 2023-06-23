@@ -40,6 +40,11 @@
   weight = 50
 
 [[main]]
+  name = "Shiny Apps"
+  url = "#shiny"
+  weight = 55
+
+[[main]]
   identifier = "people"
   name = "People"
   url = "team/"
