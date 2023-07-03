@@ -34,23 +34,17 @@
   weight = 40
 
 [[main]]
-  identifier = "vidsandapps"
-  name = "YouTube y Shiny apps"
-  url = "#posts"
-  weight = 50
-
-[[main]]
-  identifier = "vidsandapps1"
+  identifier = "research3"
   name = "YouTube"
   url = "#posts"
-  parent = "vidsandapps"
+  parent = "research"
   weight = 50
 
 [[main]]
-  identifier = "vidsandapps2"
+  identifier = "research4"
   name = "Shiny Apps"
   url = "#shiny"
-  parent = "vidsandapps"
+  parent = "research"
   weight = 55
 
 [[main]]
