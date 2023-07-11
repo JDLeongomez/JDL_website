@@ -9,43 +9,44 @@
   weight = 10
 
 [[main]]
-  name = "Noticias"
-  url = "#slider"
-  weight = 20
-
-[[main]]
   identifier = "research"
   name = "Publicaciones"
   url = "#featured"
-  weight = 30
+  weight = 20
 
 [[main]]
   identifier = "research1"
   name = "Publicaciones Destacadas"
   url = "#featured"
   parent = "research"
-  weight = 30
+  weight = 20
 
 [[main]]
   identifier = "research2"
   name = "Publicaciones (lista completa)"
   url = "publication/"
   parent = "research"
+  weight = 30
+
+[[main]]
+  identifier = "vidsandapps"
+  name = "Videos y Apps"
+  url = "#posts"
   weight = 40
 
 [[main]]
-  identifier = "research3"
+  identifier = "vidsandapps1"
   name = "YouTube"
   url = "#posts"
-  parent = "research"
-  weight = 50
+  parent = "vidsandapps"
+  weight = 40
 
 [[main]]
-  identifier = "research4"
+  identifier = "vidsandapps2"
   name = "Shiny Apps"
   url = "#shiny"
-  parent = "research"
-  weight = 55
+  parent = "vidsandapps"
+  weight = 50
 
 [[main]]
   identifier = "people"
@@ -96,6 +97,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
    identifier = "cv"
-   name = "Hoja de vida"
+   name = "HV"
    url = "cv"
    weight = 90
