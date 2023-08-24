@@ -54,7 +54,7 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://academic.oup.com/fsr/advance-article-pdf/doi/10.1093/fsr/owad009/49623118/owad009.pdf"
+url_pdf = "https://academic.oup.com/fsr/article-pdf/8/1/5/50571572/owad009.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
