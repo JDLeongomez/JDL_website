@@ -26,7 +26,7 @@ education:
   - course: MSc in Music, Mind & Brain
     institution: Goldsmiths, University of London (London, UK)
     year: 2022
-  - course: BSc in Music Education
+  - course: BA in Music Education
     institution: Universidad Pedagógica Nacional (Bogota, Colombia)
     year: 2019
 

@@ -13,21 +13,39 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
+role: Asistente de investigación desde 2023/ Supervisión docente desde 2023 / BA Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
+
+interests:
+- Aprendizaje y plasticidad neuronal
+- Cognición de estímulos musicales
+- Métodos cuantitativos
+- Programación en R y Python
+
+education:
+  courses:
+  - course: MSc in Music, Mind & Brain
+    institution: Goldsmiths, University of London (Londres, Reino Unido)
+    year: 2022
+  - course: BA Educación Musical
+    institution: Universidad Pedagógica Nacional (Bogota, Colombia)
+    year: 2019
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Pedagógica Nacional
-  url: "http://www.pedagogica.edu.co/"
+- name: Universidad El Bosque
+  url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
+bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2023, y estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fa
+  link: https://juanfelipe779.github.io/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/juan-felipe-p%C3%A9rez-ariza-192391269/
@@ -45,6 +63,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Antiguos Estudiantes de Pregrado
+- Asistentes de Investigación Graduados
 ---
 
 ## **Proyecto de investigación de Pregrado**  
