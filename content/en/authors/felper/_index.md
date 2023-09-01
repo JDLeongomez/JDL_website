@@ -16,10 +16,10 @@ superuser: false
 role: Research Assistant since 2023/ Teaching supervision since 2023 / BA Music Education | Research supervision 2018-2019 (Distinction)
 
 interests:
-- Learning
-- Neural plasticity
-- Neuronal networks
-- Influence of music
+- Learning & neural plasticity
+- Cognition of musical stimuli
+- Quantitative methods
+- R & Python programming
 
 education:
   courses:
@@ -48,7 +48,7 @@ social:
   link: https://juanfelipe779.github.io/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/juan-felipe-perez-ariza-68b277161/
+  link: https://www.linkedin.com/in/juan-felipe-p%C3%A9rez-ariza-192391269/
 
 
 # Link to a PDF of your resume/CV from the About widget.

@@ -30,7 +30,7 @@ bio: Estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grad
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/juan-felipe-perez-ariza-68b277161/
+  link: https://www.linkedin.com/in/juan-felipe-p%C3%A9rez-ariza-192391269/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
