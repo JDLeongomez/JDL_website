@@ -3,7 +3,7 @@
 title: Isabella Russo Olaya
 
 # Weight
-weight: 2
+weight: 3
 
 # Username (this should match the folder name)
 authors:

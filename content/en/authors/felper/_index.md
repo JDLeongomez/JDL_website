@@ -3,7 +3,7 @@
 title: Juan Felipe Pérez Ariza
 
 # Weight
-weight: 2019
+weight: 2023
 
 # Username (this should match the folder name)
 authors:
@@ -67,6 +67,10 @@ user_groups:
 - Former Undergraduate Students
 - Research Assistants
 ---
+
+Juan Felipe is a trainee researcher at [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/), and lecturer in research areas at the [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) of the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
+
+He holds a degree in music education from [Universidad Pedagógica Nacional](https://www.upn.edu.co/) and an MSc in Music, Mind \& Brain from [Goldsmiths, University of London](https://www.gold.ac.uk/). I supervised his undergraduate research project between 2018 and 2019, while he was completing his undergraduate degree. Since joining the lab, he has been supporting various research processes.
 
 ## **BA Project**  
 

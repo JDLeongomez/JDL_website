@@ -3,7 +3,7 @@
 title: Juan Felipe Pérez Ariza
 
 # Weight
-weight: 2019
+weight: 2023
 
 # Username (this should match the folder name)
 authors:
@@ -65,6 +65,9 @@ user_groups:
 - Antiguos Estudiantes de Pregrado
 - Asistentes de Investigación Graduados
 ---
+Juan Felipe es investigador en formación de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), y docente en áreas de investigación en la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
+
+Es licenciado en educación musical de la [Universidad Pedagógica nacional](https://www.upn.edu.co/) y Magister en Música, Mente y Cerebro de [Goldsmiths, University of London](https://www.gold.ac.uk/). Dirigí su trabajo de grado entre 2018 y 2019, mientras realizaba su pregrado. Desde su vinculación al laboratorio, ha venido apoyando diversos procesos investigativos.
 
 ## **Proyecto de investigación de Pregrado**  
 
