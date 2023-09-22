@@ -1,6 +1,6 @@
 +++
 title = "Dehumanization Effects on Agency Attributions, Retributive Justice judgments, and Resocialization Attitudes towards Former Perpetrators in Post-conflict"
-date = 2019-01-17T00:00:00
+date = 2023-09-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cristhian A. Martínez", "admin"]
@@ -14,20 +14,20 @@ authors = ["Cristhian A. Martínez", "admin"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PsyArXiv*"
+publication = "*Peace and Conflict: Journal of Peace Psychology* (in press)"
 publication_short = ""
 
 # Abstract.
-abstract = "Previous research has evidenced the effects of dehumanization on observers’ attributions, social categorizations, and retributive judgments, towards different kinds of perpetrators. Colombia is currently facing a peace process with the FARC, the largest guerrilla force in the country, and this post-war context becomes ideal for studying these effects. The current study evaluated the effects of a media dehumanizing discourse towards former perpetrators on observers’ agency attributions, retributive judgments, and resocialization attitudes towards them. Each participant read two different web news articles about the capture of a FARC member which were manipulated to be framed in humanizing and dehumanizing speech respectively. Then, they answered an agency attribution scale, retributive justice and resocialization attitudes measures, and a social distance scale about the news’ main character. Results show that when FARC members were framed in a dehumanizing context, observers significantly attributed them less agency, endorsed more severe retributive judgments, showed more negative attitudes towards their resocialization, and showed greater social distance. The implications of these findings for a Disarmament, Demobilization, and Reincorporation (DDR) process in a post-conflict scenario are discussed."
+abstract = "In the present research we examine the effect of dehumanizing framing of ex-perpetrators of violence on participants’ attributions of their agency, punishment deservingness, and suitableness for re-socialization in post-conflict. For this purpose, we collected data in the aftermath of a peace agreement between the government and the FARC guerrilla in Colombia. In two studies, using within (Study 1) and between (Study 2) subjects experimental designs (N = 223), participants read manipulated news articles describing the capture of a fictional FARC guerrilla member. They were exposed (Study 1) and randomly assigned (Study 2) to a “humanizing frame” condition, where the ex-perpetrator was described emphasizing human traits (e.g., his identity, affective and mental states), and to a “dehumanizing frame” condition, where these traits were omitted, and the ex-perpetrator was generically nominated with terms such as terrorist or bandit. Across conditions we measured participants’ attributions of perpetrators’ human agency, blame, punishment deservingness, as well as participants’ re-socialization expectations, and social distance towards the character. Results indicate that compared to the humanizing frame condition, in the dehumanizing frame condition participants significantly attribute less agency to the perpetrator, endorse more severe retributive judgments, show more negative attitudes towards his re-socialization, and express greater social distance. We discuss the implications of these findings for the Disarmament, Demobilization, and Reintegration (DDR) process of ex-perpetrators in post-conflict societies."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/w5tka"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://psyarxiv.com/w5tka/download"
+url_pdf = ""
 url_preprint = "https://psyarxiv.com/w5tka"
 url_code = "https://osf.io/n9wuv/"
 url_dataset = "https://osf.io/2ca4z/"
