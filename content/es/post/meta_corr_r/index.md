@@ -16,17 +16,29 @@ Esta serie además tiene un documento de apoyo:
 ## Secciones:
 
 **Presentación** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=naLHnKZkLHKiMn04) 
+
 1. **Introducción** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=162) 
+
     1.1 **Qué es un meta-análisis** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=250) 
+
     1.2 **Sesgos de publicación** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=358) 
+
 2. **Base de datos** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=462) 
+
     2.1 **Estructura para `metafor`** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=504) 
+
     2.2 **r de Pearson a z de Fisher** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=748) 
+
 3. **Meta-análisis** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=897) 
+
     3.1 **Interpretación de resultados** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=986) 
+
     3.2 **Diagnóstico de influencia** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=1444) 
+
     3.3 **Forest plot** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=1770) 
+
     3.4 **Funnel plot** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=2120) 
+    
 **Conclusiones** [[ir a sección]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=2318) 
 
 {{< youtube RNw92QdsW4g >}}

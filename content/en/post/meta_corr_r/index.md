@@ -15,19 +15,31 @@ This series is also supported by a practical guide:
 
 ## Sections:
 
-**Introduction** [[go to section]](https://youtu.be/RNw92QdsW4g?si=naLHnKZkLHKiMn04). 
+**Introduction** [[go to section]](https://youtu.be/RNw92QdsW4g?si=naLHnKZkLHKiMn04).
+
 1. **Introduction** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=162). 
+
     1.1 **What is a meta-analysis** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=250) 
+
     1.2 **Publication bias** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=358) 
+
 2. **Database** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=462) 
+
     2.1 **Structure for `metafor`** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=504) 
+
     2.2 **Pearson's *r* to Fisher's *z*** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=748) 
+
 3. **Meta-analysis** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=897) 
+
     3.1 **Interpretation of results** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=986) 
+
     3.2 **Diagnosis of influence** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=1444) 
+
     3.3 **Forest plot** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=1770) 
+
     3.4 **Funnel plot** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=2120) 
-**Conclusions** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=2318) 
+
+**Conclusions** [[go to section]](https://youtu.be/RNw92QdsW4g?si=MyjEA1YyDhvF7lpZ&t=2318)
 
 {{< youtube RNw92QdsW4g >}}
 
