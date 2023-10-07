@@ -54,15 +54,15 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0092-6298
-- icon: impactstory
-  icon_pack: ai
-  link: https://profiles.impactstory.org/u/0000-0002-0092-6298
+#- icon: impactstory
+#  icon_pack: ai
+#  link: https://profiles.impactstory.org/u/0000-0002-0092-6298
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-#- icon: publons
-#  icon_pack: ai
-#  link: https://publons.com/researcher/1333339/juan-david-leongomez/
+- icon: clarivate
+  icon_pack: ai
+  link: https://www.webofscience.com/wos/author/record/387716
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@InvestigacionAbierta
