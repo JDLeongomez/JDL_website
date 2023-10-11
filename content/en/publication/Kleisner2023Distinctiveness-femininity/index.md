@@ -1,5 +1,5 @@
 +++
-title = "Distinctiveness and femininity, not symmetry and masculinity, affect facial attractiveness across the world"
+title = "Distinctiveness and femininity, rather than symmetry and masculinity, affect facial attractiveness across the world"
 date = 2023-10-11T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
