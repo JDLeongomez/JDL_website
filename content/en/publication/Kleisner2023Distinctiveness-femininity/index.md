@@ -1,6 +1,6 @@
 +++
 title = "Distinctiveness and femininity, rather than symmetry and masculinity, affect facial attractiveness across the world"
-date = 2023-10-11T00:00:00
+date = 2023-10-21T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["karel", "Petr Tureček", "S. Adil Saribay", "Ondřej Pavlovič", "admin", "scr", "jh", "Jaroslava Varella Valentova", "Silviu Apostol", "Robert Mbe Akoko", "Marco A. C. Varella"]
@@ -17,17 +17,17 @@ authors = ["karel", "Petr Tureček", "S. Adil Saribay", "Ondřej Pavlovič", "ad
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Evolution and Human Behavior* (in press)"
+publication = "*Evolution and Human Behavior*. Advance online publication"
 publication_short = ""
 
 # Abstract.
-abstract = "Studies investigating facial attractiveness in humans have frequently been limited to studying the effect of individual factors in isolation from other facial components in the same population. In this study we go beyond this approach by combining geometric morphometrics and a Bayesian statistical framework. We investigate preferences in both sexes for three structural components of facial beauty that are traditionally considered indicators of biological quality: symmetry, sexual dimorphism, and distinctiveness. Based on a large sample of faces (n=1550) from 10 populations across the world (Brazil, Cameroon, Czechia, Colombia, India, Namibia, Romania, Turkey, UK, and Vietnam), we found that distinctiveness negatively affects the perception of attractiveness in both sexes and that this association is stable across all studied populations. We corroborated some previous results indicating both a positive effect of femininity on female facial beauty and a null or weak effect of masculinity on male facial attractiveness. Surprisingly, facial symmetry had no effect on facial attractiveness. In concert with other recent studies, our results support the importance of facial prototypicality but cast doubt on the role of symmetry as one of the key constituents of attractiveness in the human face."
+abstract = "Studies investigating facial attractiveness in humans have frequently been limited to studying the effect of individual morphological factors in isolation from other facial shape components in the same population. In this study, we go beyond this approach by focusing on multiple components and populations while combining geometric morphometrics of 72 standardized frontal facial landmarks and a Bayesian statistical framework. We investigate preferences in both sexes for three structural components of other sex facial beauty that are traditionally considered indicators of biological quality: symmetry, sexual dimorphism, and distinctiveness (i.e., the opposite of averageness). Based on a large sample of faces (*n* = 1550) from 10 populations across the world (Brazil, Cameroon, Czechia, Colombia, India, Namibia, Romania, Turkey, UK, and Vietnam), we found that distinctiveness negatively affects the perception of attractiveness in both sexes and that this association is stable across all studied populations. We corroborated some previous results indicating both a positive effect of femininity on male assessment of female facial beauty and a null or weak effect of masculinity on female evaluation of male facial attractiveness. Facial symmetry had no effect on facial attractiveness. In concert with other recent studies, our results support the importance of facial prototypicality but cast doubt on the role of symmetry as one of the key constituents of attractiveness in the human face."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.evolhumbehav.2023.10.001"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/costlysignalling/Distinctiveness"
 url_dataset = ""
 url_project = ""
 url_slides = ""
