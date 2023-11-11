@@ -3,7 +3,7 @@
 title: Isabella Russo Olaya
 
 # Weight
-weight: 3
+weight: 20232
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology | Research supervision since 2023
+role: BSc Psychology | Research supervision 2023
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2023.
+bio: Sc research project student 2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +44,16 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Former Undergraduate Students
 ---
 
 ## **Research project**  
 
-*To be defined*
+*El género, preferenca sexual y nivel de sociosexualidad de una persona podrían influir en su capacidad para detectar la sociosexualidad de otros a través de rostros?* [Could a person’s gender, sexual preference and level of sociosexuality influence their ability to detect
+the sociosexuality of others from their faces?]
 
-Universidad El Bosque, since 2023
+Universidad El Bosque, 2023
 
 **Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube nX3p5Bt_vjQ >}}
