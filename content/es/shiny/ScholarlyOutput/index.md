@@ -29,17 +29,17 @@ Sólo necesitas el enlace completo a tu perfil de Google Scholar (basta con copi
 
 A continuación hay un ejemplo de la interfaz de usuario **_ScholarlyOutput_** que muestra una gráfica de mi propio perfil:
 
-![Interfaz de usuario de ScholarlyOutput](https://github.com/JDLeongomez/ScholarlyOutput/raw/main/img/ScholarlyOutput.jpg)
+![Interfaz de usuario de ScholarlyOutput](https://github.com/JDLeongomez/ScholarlyOutput_EN/raw/main/img/ScholarlyOutput.jpg)
 
 Puedes cambiar el color de acento y filtrar las publicaciones.
 
-![Selector de color](https://github.com/JDLeongomez/ScholarlyOutput/raw/main/img/colour_picker.jpg)
+![Selector de color](https://github.com/JDLeongomez/ScholarlyOutput_EN/raw/main/img/colour_picker.jpg)
 
 Una vez que estés satisfecho, la gráfica se puede exportar en formato **PNG**, **PDF** e incluso **SVG** en caso de que desees editarlo (el archivo descargado se llamará `Scholar_profile.png`, cambiando únicamente la extensión del archivo según el formato que hayas seleccionado).
 
 El archivo descargado (en este caso, en formato PNG) se verá así:
 
-![Ejemplo de gráfica de ScholarlyOutput](https://github.com/JDLeongomez/ScholarlyOutput/raw/main/img/Scholar_profile.png)
+![Ejemplo de gráfica de ScholarlyOutput](https://github.com/JDLeongomez/ScholarlyOutput_EN/raw/main/img/Scholar_profile.png)
 
 Esta aplicación utiliza el fantástico paquete [<code>scholar</code>](https://cran.r-project.org/web/packages/scholar/vignettes/scholar.html) de R para extraer la información de tu perfil de Google Scholar, y luego varios paquetes (principalmente del conjunto de paquetes [<code>tidyverse</code>](https://www.tidyverse.org/), incluyendo [<code>ggplot2</code>](https://ggplot2.tidyverse.org/)) para manipular y representar estos datos.
 
