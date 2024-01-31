@@ -1,6 +1,6 @@
 +++
 title = "Distinctiveness and femininity, rather than symmetry and masculinity, affect facial attractiveness across the world"
-date = 2023-10-21T00:00:00
+date = 2024-01-31T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["karel", "Petr Tureček", "S. Adil Saribay", "Ondřej Pavlovič", "admin", "scr", "jh", "Jaroslava Varella Valentova", "Silviu Apostol", "Robert Mbe Akoko", "Marco A. C. Varella"]
@@ -17,7 +17,7 @@ authors = ["karel", "Petr Tureček", "S. Adil Saribay", "Ondřej Pavlovič", "ad
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Evolution and Human Behavior*. Publicación anticipada en línea"
+publication = "*Evolution and Human Behavior 45*(1), 82–90"
 publication_short = ""
 
 # Abstract.
