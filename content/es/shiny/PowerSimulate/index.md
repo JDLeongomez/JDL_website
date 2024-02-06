@@ -26,4 +26,4 @@ A continuación verás el índice de aplicaciones disponibles [PowerSimulate](ht
 </body>
 </html>
 
-Todas las aplicaciones están disponibles en mi (bastante lento) [servidor personal Shiny](https://shiny.jdl-svr.lat/PowerSimulate/). Sin embargo, si corre demasiado lento o mi servidor no funciona, siempre puedes ejecutarla localmente en tu ordenador con R instalado. Sólo abre el link al código de GitHub, y ahí encontrarás instrucciones.
+Todas las aplicaciones están disponibles en mi (bastante lento) [servidor personal Shiny](https://shiny.jdl-svr.lat/PowerSimulate/). Sin embargo, si corre demasiado lento o mi servidor no funciona, siempre puedes ejecutarla localmente en tu ordenador con R instalado. Sólo abre el link al código de GitHub ([Correlación](https://github.com/JDLeongomez/PowerSimulate_corr_ES), [Prueba t independiente](https://github.com/JDLeongomez/PowerSimulate_ind_t_ES), [Prueba t pareada](https://github.com/JDLeongomez/PowerSimulate_pair_t_ES)), y ahí encontrarás instrucciones.

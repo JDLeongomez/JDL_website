@@ -26,4 +26,4 @@ Below you will see the index of available applications [PowerSimulate](https://s
 </body>
 </html>
 
-All applications are available on my (rather slow) [Shiny personal server](https://shiny.jdl-svr.lat/PowerSimulate/). However, if it runs too slow or my server doesn't work, you can always run it locally on your computer with R installed. Just open the link to the code on GitHub, and you'll find instructions there.
+All applications are available on my (rather slow) [Shiny personal server](https://shiny.jdl-svr.lat/PowerSimulate/). However, if it runs too slow or my server doesn't work, you can always run it locally on your computer with R installed. Just open the link to the code on GitHub ([Correlation](https://github.com/JDLeongomez/PowerSimulate_corr_EN), [Independent t-test](https://github.com/JDLeongomez/PowerSimulate_ind_t_EN), [Paired t-test](https://github.com/JDLeongomez/PowerSimulate_pair_t_EN)), and you'll find instructions there.
