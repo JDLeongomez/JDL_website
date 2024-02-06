@@ -7,7 +7,7 @@ tags: ["Shiny", "Correlation", "t-test", "Sample size", "Statistical power"]
 add_badge: false
 ---
 
-[PowerSimulate](https://shiny.jdl-svr.lat/PowerSimulate/) es una colección de aplicaciones R Shiny compactas diseñadas para llevar a cabo análisis de poder estadístico basados en simulación. 
+[PowerSimulate](https://shiny.jdl-svr.lat/PowerSimulate/) is a collection of compact R Shiny applications designed to perform simulation-based statistical power analysis. 
 
 Although there are more straightforward tools for power analysis in simple tests such as correlations, t-tests and ANOVA, these applications are based exclusively on simulations. They serve as an educational tool to demonstrate the concept of statistical power, but also as a platform to show the importance of simulation-based power analysis for more complex designs.
 
