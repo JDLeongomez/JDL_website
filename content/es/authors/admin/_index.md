@@ -60,9 +60,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-- icon: clarivate
-  icon_pack: ai
-  link: https://www.webofscience.com/wos/author/record/387716
+#- icon: clarivate
+#  icon_pack: ai
+#  link: https://www.webofscience.com/wos/author/record/387716
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@InvestigacionAbierta
