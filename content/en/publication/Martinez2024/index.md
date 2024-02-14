@@ -1,6 +1,6 @@
 +++
 title = "Dehumanization Effects on Agency Attributions, Retributive Justice judgments, and Resocialization Attitudes towards Former Perpetrators in Post-conflict"
-date = 2024-02-14T00:00:00
+date = 2024-02-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cristhian A. Martínez", "admin"]
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Supplemental Materials", url = "https://supp.apa.org/psycarticles/supplemental/pac0000710/pac0000710_supp.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
