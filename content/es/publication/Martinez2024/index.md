@@ -1,6 +1,6 @@
 +++
 title = "Dehumanization Effects on Agency Attributions, Retributive Justice judgments, and Resocialization Attitudes towards Former Perpetrators in Post-conflict"
-date = 2024-01-31T00:00:00
+date = 2024-02-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cristhian A. Martínez", "admin"]
@@ -17,7 +17,7 @@ authors = ["Cristhian A. Martínez", "admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Peace and Conflict: Journal of Peace Psychology* (in press)"
+publication = "*Peace and Conflict: Journal of Peace Psychology*. Advance online publication"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "In the present research we examine the effect of dehumanizing framin
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1037/pac0000710"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Material Suplementario", url = "https://supp.apa.org/psycarticles/supplemental/pac0000710/pac0000710_supp.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
