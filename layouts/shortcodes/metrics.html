@@ -7,19 +7,19 @@ refers to the page’s params; the “page” in this case refers to the content
 <html>
     <style>
         section {
-            background: white;
-            color: black;
-            border-radius: 1em;
-            padding: 1em;
-            left: 50% }
-        #inner {
-            display: inline-block;
-            display: flex;
-            align-items: left;
-            justify-content: center }
+          background: white;
+          color: black;
+          border-radius: 1em;
+          padding: 1em;
+          left: 50%
+        }
+        .evenly-distributed-children {
+          display: flex;
+          justify-content: space-around;
+        }
     </style>
     <section>
-        <div id="inner">
+        <div class="evenly-distributed-children">
           <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
             <span style="float:left";
             class="__dimensions_badge_embed__"
