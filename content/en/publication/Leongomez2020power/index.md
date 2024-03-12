@@ -66,6 +66,7 @@ url_source = ""
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Supplementary Material", url = ""}]
+links = [{name = "DOI latest version", url = "https://zenodo.org/doi/10.5281/zenodo.3988776"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

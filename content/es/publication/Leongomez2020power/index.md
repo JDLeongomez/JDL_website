@@ -27,7 +27,7 @@ abstract = "Esta guía práctica acompaña la serie de videos [Poder estadístic
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.5281/zenodo.3988776"
+doi = "10.5281/zenodo.3988777"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -66,6 +66,7 @@ url_source = ""
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Supplementary Material", url = ""}]
+links = [{name = "DOI última versión", url = "https://zenodo.org/doi/10.5281/zenodo.3988776"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
