@@ -24,6 +24,7 @@ refers to the page’s params; the “page” in this case refers to the content
             <span style="float:left";
             class="__dimensions_badge_embed__"
             data-doi="{{ $.Page.Params.doi }}"
+            data-legend="never"
             data-style="small_circle">
             </span>
           <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -37,6 +38,7 @@ refers to the page’s params; the “page” in this case refers to the content
           <script type="text/javascript" src="//cdn.plu.mx/widget-all.js"></script>
             <a href="{{ print "https://plu.mx/plum/a/?doi=" $.Page.Params.doi }}"
             class="plumx-plum-print-popup"
+            data-popup="hidden"
             data-size="medium">
             </a>
         </div>
