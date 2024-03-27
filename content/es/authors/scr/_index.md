@@ -55,5 +55,3 @@ user_groups:
 Conocí a Craig en 2008, cuando inicié la Maestría en **Psicología Evolutiva**[^1] que él dirigía en la [Universidad de Liverpool](https://www.liverpool.ac.uk/). Craig supervisó mi proyecto de investigación durante 2008 y 2009, y desde 2010 hasta 2014 fue mi supervisor doctoral en la [Universidad de Stirling](http://www.stir.ac.uk/). Desde ese momemto hemos mantenido una colaboración activa, y hemos publicado varios artículos. Para más información y conocer su trabajo y publicaciones, visita su [sitio web](https://www.scraigroberts.com/) o su [página de la Universidad de Stirling](https://www.stir.ac.uk/people/255834).
 
 [^1]: No confundir con *psicología del desarrollo*; a pesar de que en español mucha gente suele llamar a esta disciplina *psicología **evolucionista***, me niego a usar el término "evolucionista", pues no es una postura ideológica, sino un marco para estudiar y comprender los efectos de la evolución en el comportamiento humano.
-
-{{< tweet 455738963307663360 >}}

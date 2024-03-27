@@ -52,5 +52,3 @@ user_groups:
 ---
 
 I met Craig back in 2008, when I started the MSc in Evolutionary Psychology, which he directed, at the [University of Liverpool](https://www.liverpool.ac.uk/). Craig supervised my MSc research project during 2008 and 2009, and from 2010 to 2014 he was my doctoral supervisor at the [University of Stirling](http://www.stir.ac.uk/). Since the beginning, we have worked together in a variety of projects, and have published several articles. For more information and to see his work and publications, visit his [website](https://www.scraigroberts.com/) or his [Stirling University page](https://www.stir.ac.uk/people/255834).
-
-{{< tweet 455738963307663360 >}}
