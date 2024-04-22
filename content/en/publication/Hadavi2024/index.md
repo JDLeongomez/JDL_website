@@ -1,6 +1,6 @@
 +++
 title = "Cross-cultural relationships between music, emotion, and visual imagery: A comparative study of Iran, Canada, and Japan [Stage 1 Registered Report]"
-date = 2023-08-29T00:00:00
+date = 2024-04-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shafagh Hadavi", "Junji Kuroda", "Taiki Shimozono", "admin", "Patrick E. Savage"]
@@ -17,7 +17,7 @@ authors = ["Shafagh Hadavi", "Junji Kuroda", "Taiki Shimozono", "admin", "Patric
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*PsyArXiv*"
+publication = "In principle acceptance by *Peer Community in Registered Reports*"
 publication_short = ""
 
 # Abstract.
@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Música", "Emoción", "Imágenes visuales", "Transcultural"]
+tags = ["Music", "Emotion", "Visual imagery", "Cross-cultural"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-#links = [{name = "Supplementary Material", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-021-85402-3/MediaObjects/41598_2021_85402_MOESM1_ESM.pdf"}]
+links = [{name = "PCI RR Recommendation", url = "https://rr.peercommunityin.org/articles/rec?id=416"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
