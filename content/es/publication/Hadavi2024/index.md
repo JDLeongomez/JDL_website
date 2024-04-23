@@ -1,6 +1,6 @@
 +++
 title = "Cross-cultural relationships between music, emotion, and visual imagery: A comparative study of Iran, Canada, and Japan [Stage 1 Registered Report]"
-date = 2024-04-16T00:00:00
+date = 2024-04-21T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shafagh Hadavi", "Junji Kuroda", "Taiki Shimozono", "admin", "Patrick E. Savage"]
