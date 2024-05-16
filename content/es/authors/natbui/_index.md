@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BA Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
+role: Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:

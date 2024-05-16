@@ -3,7 +3,7 @@
 title: Natalia Rodríguez Bautista
 
 # Weight
-weight: 2
+weight: 20241
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología | Supervisión de investigación desde 2023
+role: Psicología | Supervisión de investigación 2023-2024
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2023.
+bio: Estudiante de investigación de Pregrado 2023-2024.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,15 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes de Pregrado
+- Antiguos Estudiantes de Pregrado
 ---
 
 ## **Proyecto de investigación de Pregrado**  
 
-*Por definir*
+*¿Es posible percibir la promiscuidad de una persona con tan solo escuchar su voz?*
 
-Universidad El Bosque, desde 2023
+Universidad El Bosque, 2024
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube Pb-00b41j98 >}}

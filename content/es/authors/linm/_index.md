@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: 'MSc Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación'
+  - course: 'Maestría en Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación'
     institution: Università Cattolica del Sacro Cuore (Milán, Italia)
     year: 2018
-  - course: BSc Psicología
+  - course: Psicología
     institution: Universidad de La Sabana (Bogota, Colombia)
     year: 2018
 

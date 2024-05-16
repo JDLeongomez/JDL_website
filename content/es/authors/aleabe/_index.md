@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Biología | Supervisión de investigación 2016-2017 (Trabajo de grado meritorio)
+role: Biología | Supervisión de investigación 2016-2017 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:

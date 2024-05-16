@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología | Supervisión de investigación 2021-2022
+role: Psicología | Supervisión de investigación 2021-2022
 
 # Organizations/Affiliations
 organizations:

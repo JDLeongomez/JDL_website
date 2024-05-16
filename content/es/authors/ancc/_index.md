@@ -3,7 +3,7 @@
 title: Andrés Castellanos-Chacón
 
 # Weight
-weight: 50000
+weight: 2018
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación desde 2019 / Supervisión de enseñanza desde 2019 / BSc Psicología | supervisión 2017-2018
+role: Asistente de Investigación desde 2019 / Supervisión de enseñanza desde 2019 / Psicología | supervisión 2017-2018
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: BSc Psicología
+  - course: Psicología
     institution: Universidad El Bosque (Bogota, Colombia)
     year: 2018
   - course: Tecnólogo en Electrónica

@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psicología | Supervisión de investigación 2021-2022 (Trabajo de grado meritorio)
+role: Psicología | Supervisión de investigación 2021-2022 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:

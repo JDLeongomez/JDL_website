@@ -3,7 +3,7 @@
 title: Juan Felipe Pérez Ariza
 
 # Weight
-weight: 2023
+weight: 2019
 
 # Username (this should match the folder name)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación desde 2023/ Supervisión docente desde 2023 / BA Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
+role: Asistente de investigación desde 2023/ Supervisión docente desde 2023 / Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
 
 interests:
 - Aprendizaje y plasticidad neuronal
@@ -26,7 +26,7 @@ education:
   - course: MSc in Music, Mind & Brain
     institution: Goldsmiths, University of London (Londres, Reino Unido)
     year: 2022
-  - course: BA Educación Musical
+  - course: Educación Musical
     institution: Universidad Pedagógica Nacional (Bogota, Colombia)
     year: 2019
 

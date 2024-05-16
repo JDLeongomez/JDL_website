@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sc research project student 2023.
+bio: BSc research project student 2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,7 +49,7 @@ user_groups:
 
 ## **Research project**  
 
-*El género, preferenca sexual y nivel de sociosexualidad de una persona podrían influir en su capacidad para detectar la sociosexualidad de otros a través de rostros?* [Could a person’s gender, sexual preference and level of sociosexuality influence their ability to detect
+*¿El género, preferenca sexual y nivel de sociosexualidad de una persona podrían influir en su capacidad para detectar la sociosexualidad de otros a través de rostros?* [Could a person’s gender, sexual preference and level of sociosexuality influence their ability to detect
 the sociosexuality of others from their faces?]
 
 Universidad El Bosque, 2023
