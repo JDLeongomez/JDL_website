@@ -22,13 +22,13 @@ Esta es mi hoja de vida académica, completa y detallada.
 		  divId: "adobe-dc-view",
 		  locale: "es-ES"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://jdleongomez.info/es/files/JDL_CV_es.pdf"}},
+			content:{location: {url: "https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf"}},
 			metaData:{fileName: "JD Leongómez - HV.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
 
-{{< cta cta_text="Abrir/descargar HV académica" cta_link="/es/files/JDL_CV_es.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Abrir/descargar HV académica" cta_link="https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf" cta_new_tab="true" >}}
 
 ___________________
 
@@ -44,10 +44,10 @@ Esta es mi hoja de vida corta, resumida a 2 páginas.
 		  divId: "adobe-dc-view-1",
 		  locale: "es-ES"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://jdleongomez.info/es/files/JDL_shortCV_es.pdf"}},
+			content:{location: {url: "https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf"}},
 			metaData:{fileName: "JD Leongómez - HV corta.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
 
-{{< cta cta_text="Abrir/descargar HV resumida" cta_link="/es/files/JDL_shortCV_es.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Abrir/descargar HV resumida" cta_link="https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf" cta_new_tab="true" >}}

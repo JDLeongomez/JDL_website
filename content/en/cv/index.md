@@ -20,13 +20,13 @@ This is my full and detailed academic CV.
 		  divId: "adobe-dc-view",
 		  locale: "en-GB"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://jdleongomez.info/en/files/JDL_CV_en.pdf"}},
+			content:{location: {url: "https://jdleongomez.github.io/JDL_CV/CV_eng/JDL_CV_en.pdf"}},
 			metaData:{fileName: "JD Leongómez - CV.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
 
-{{< cta cta_text="Open/download academic CV" cta_link="/en/files/JDL_CV_en.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Open/download academic CV" cta_link="https://jdleongomez.github.io/JDL_CV/CV_eng/JDL_CV_en.pdf" cta_new_tab="true" >}}
 
 ___________________
 
@@ -43,10 +43,10 @@ This is my brief 2-page summary CV.
 		  divId: "adobe-dc-view-1",
 		  locale: "en-GB"});
 		adobeDCView.previewFile({
-			content:{location: {url: "https://jdleongomez.info/en/files/JDL_shortCV_en.pdf"}},
+			content:{location: {url: "https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pdf"}},
 			metaData:{fileName: "JD Leongómez - short CV.pdf"}
 		}, {embedMode: "SIZED_CONTAINER"});
 	});
 </script>
 
-{{< cta cta_text="Open/download short CV" cta_link="/en/files/JDL_shortCV_en.pdf" cta_new_tab="true" >}}
+{{< cta cta_text="Open/download short CV" cta_link="https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pd" cta_new_tab="true" >}}
