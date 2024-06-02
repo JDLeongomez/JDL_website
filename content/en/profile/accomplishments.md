@@ -38,7 +38,6 @@ date_format = "Jan 2006"
   date_end = "2021-04-20"
   description = "Short course."
 
-
 [[item]]
   organization = "Improbable Research"
   organization_url = "https://www.improbable.com/"
