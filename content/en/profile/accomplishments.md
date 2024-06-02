@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Coursera (Eindhoven University of Technology)"
+  organization_url = "https://www.coursera.org/tue"
+  title = "Improving your statistical inferences"
+  url = "https://www.coursera.org/learn/statistical-inferences"
+  certificate_url = "ImprovingStatisticalInferencesCert.pdf"
+  date_start = "2024-02-02"
+  date_end = "2024-06-02"
+  description = "Short course."
+
+[[item]]
   organization = "Coursera (Johns Hopkins University)"
   organization_url = "https://www.coursera.org/jhu"
   title = "Practical Machine Learning"
