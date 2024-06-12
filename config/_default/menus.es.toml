@@ -15,16 +15,16 @@
   weight = 20
 
 [[main]]
-  identifier = "research1"
-  name = "Publicaciones Destacadas"
-  url = "#featured"
+  identifier = "research2"
+  name = "<b>Lista completa</b>"
+  url = "publication/"
   parent = "research"
   weight = 20
 
 [[main]]
-  identifier = "research2"
-  name = "Publicaciones (lista completa)"
-  url = "publication/"
+  identifier = "research1"
+  name = "Publicaciones Destacadas"
+  url = "#featured"
   parent = "research"
   weight = 30
 
@@ -97,6 +97,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
    identifier = "cv"
-   name = "HV"
+   name = "CV"
    url = "cv"
    weight = 90

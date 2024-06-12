@@ -63,6 +63,9 @@ social:
 #- icon: clarivate
 #  icon_pack: ai
 #  link: https://www.webofscience.com/wos/author/record/387716
+#- icon: scopus
+#  icon_pack: ai
+#  link: https://www.scopus.com/authid/detail.uri?authorId=53877736300
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@InvestigacionAbierta
@@ -72,6 +75,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JDLeongomez
+- icon: cv
+  icon_pack: ai
+  link: cv
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -91,7 +97,7 @@ user_groups:
 highlight_name: true
 ---
 
-I am an Associate Professor and Researcher at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), in the [Faculty of Psychology](https://www.unbosque.edu.co/psicologia), at the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia, and the leader of the [***CODEC**: Cognitive and Behavioural Sciences*](https://investigaciones.unbosque.edu.co/codec) research group (classification [A1](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)). I also serve as  [recommender](https://rr.peercommunityin.org/about/recommenders) (editor) for [***Peer Community In Registered Reports***](https://rr.peercommunityin.org/).
+I am an Associate Professor and Researcher at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), in the [Faculty of Psychology](https://www.unbosque.edu.co/psicologia), at the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia, and the leader of the [***CODEC**: Cognitive and Behavioural Sciences*](https://investigaciones.unbosque.edu.co/codec) research group (classification [A1](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)). I also serve as  [recommender](https://rr.peercommunityin.org/about/recommenders) (equivalent to journal Associate Editor) for [***Peer Community In Registered Reports***](https://rr.peercommunityin.org/).
 
 My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, to promote reproducibility and open science.
 

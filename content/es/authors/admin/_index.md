@@ -63,6 +63,9 @@ social:
 #- icon: clarivate
 #  icon_pack: ai
 #  link: https://www.webofscience.com/wos/author/record/387716
+#- icon: scopus
+#  icon_pack: ai
+#  link: https://www.scopus.com/authid/detail.uri?authorId=53877736300
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/@InvestigacionAbierta
@@ -72,6 +75,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JDLeongomez
+- icon: cv
+  icon_pack: ai
+  link: cv
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -91,7 +97,7 @@ user_groups:
 highlight_name: true
 ---
 
-Soy Profesor Asociado e investigador en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia, y lider del grupo de investigación [***CODEC**: Ciencias Cognitivas y del Comportamiento*](https://investigaciones.unbosque.edu.co/codec) (clasificación [**A1**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)). También soy soy [recomendador](https://rr.peercommunityin.org/about/recommenders) (editor) de [***Peer Community In Registered Reports***](https://rr.peercommunityin.org/).
+Soy Profesor Asociado e investigador en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia, y lider del grupo de investigación [***CODEC**: Ciencias Cognitivas y del Comportamiento*](https://investigaciones.unbosque.edu.co/codec) (clasificación [**A1**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)). También soy soy [recomendador](https://rr.peercommunityin.org/about/recommenders) (equivalente a Editor Asociado) de [***Peer Community In Registered Reports***](https://rr.peercommunityin.org/).
 
 Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como los efectos hormonales en el comportamiento humano. Cada día me apasiono más por los métodos cuantitativos y la programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;(usando [RStudio](https://rstudio.com/products/rstudio/)), para promover la ciencia abierta y la reproducibilidad.
 

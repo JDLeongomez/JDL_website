@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post Doctoral Research Fellow
+role: Lecturer in Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.stir.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post Doctoral Research Fellow (Division of Psychology, University of Stirling, Stirling, UK).
+bio: Lecturer (Division of Psychology, University of Stirling, Stirling, UK).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

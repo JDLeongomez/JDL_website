@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigadora Posdoctoral
+role: Lecturer in Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.stir.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigadora Posdoctoral (Division of Psychology, University of Stirling, Stirling, Reino Unido).
+bio: Lecturer (Division of Psychology, University of Stirling, Stirling, Reino Unido).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

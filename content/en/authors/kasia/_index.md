@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Katarzyna Pisanski
+title: Katarzyna (Kasia) Pisanski
 
 # Username (this should match the folder name)
 authors:

@@ -12,20 +12,20 @@
 [[main]]
   identifier = "research"
   name = "Publications"
-  url = "#featured"
+  url = "publication/"
+  weight = 20
+
+[[main]]
+  identifier = "research2"
+  name = "<b>Full list</b>"
+  url = "publication/"
+  parent = "research"
   weight = 20
 
 [[main]]
   identifier = "research1"
   name = "Featured Publications"
   url = "#featured"
-  parent = "research"
-  weight = 20
-
-[[main]]
-  identifier = "research2"
-  name = "Publications (full list)"
-  url = "publication/"
   parent = "research"
   weight = 30
 
@@ -71,7 +71,7 @@
 
 [[main]]
   identifier = "resume"
-  name = "Resume"
+  name = "Career Path"
   url = "profile/"
   weight = 70
 
