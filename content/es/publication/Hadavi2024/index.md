@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Música", "Emoción", "Imágenes visuales", "Transcultural"]
+tags = ["Reporte registrado", "Música", "Emoción", "Imágenes visuales", "Transcultural"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
