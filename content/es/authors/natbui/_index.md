@@ -47,6 +47,8 @@ user_groups:
 - Antiguos Estudiantes de Pregrado
 ---
 
+Natalia es licenciada en educación musical por la [Universidad Pedagógica Nacional](https://www.upn.edu.co/) y Magister en Música, Mente y Cerebro por la [Goldsmiths, University of London](https://www.gold.ac.uk/). Actualmente está realizando su doctorado en [The Ohio State University](https://www.osu.edu/). Supervisé su proyecto de investigación de pregrado entre 2018 y 2019.
+
 ## **Proyecto de investigación de Pregrado**  
 
 *Musicalidad y cohesion social: Una aproximación experimental y bibliográfica desde el trabajo en equipo*

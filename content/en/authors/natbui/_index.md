@@ -28,6 +28,9 @@ bio: BA research project student between 2018 and 2019 (Distinction).
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fa
+  link: https://music.osu.edu/people/morenobuitrago.1
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Natalia_Moreno_Buitrago
@@ -46,6 +49,8 @@ email: ""
 user_groups:
 - Former Undergraduate Students
 ---
+
+Natalia holds a degree in music education from [Universidad Pedagógica Nacional](https://www.upn.edu.co/) and an MSc in Music, Mind \& Brain from [Goldsmiths, University of London](https://www.gold.ac.uk/). She is currently doing her Ph.D. at [The Ohio State University](https://www.osu.edu/). I supervised her undergraduate research project between 2018 and 2019.
 
 ## **BA Project**  
 
