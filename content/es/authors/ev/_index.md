@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Investigador postdoctoral
+role: Investigador
 
 # Organizations/Affiliations
 organizations:
-- name: Cornell University
-  url: "https://plantbio.cals.cornell.edu/people/eugenio-valderrama-escallon/"
+- name: Fundación Humedales
+  url: "https://fundacionhumedales.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador Postdoctoral (School of Integrative Plant Science, Plant Biology Section, University of Cornell, Ithaca, EEUU).
+bio: Investigador de la Fundación Humedales.
 
 interests:
 - Filogenómica
@@ -68,10 +68,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Investigadores
+- Antiguos Investigadores
 
 ---
 
-Eugenio fue profesor asociado de la Facultad de Psicología y del Programa de Biología de la Universidad El Bosque, e investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://sites.google.com/unbosque.edu.co/EvoCo-es) entre 2016 y 2018. Actualmente es investigador postdoctoral en el Specht Lab estudiando la evolución de los síndromes de polinización en las especies neotropicales de *Costus* L. en un proyecto que abarca taxonomía, filogenómica y métodos comparativos. Además, está interesado en la historia evolutiva y la taxonomía del género *Renealmia* L.f. en el Neotrópico y particularmente en su natal Colombia.
+Eugenio fue profesor asociado de la Facultad de Psicología y del Programa de Biología de la Universidad El Bosque, e investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://sites.google.com/unbosque.edu.co/EvoCo-es) entre 2016 y 2018. Después trabajó como investigador postdoctoral en el Specht Lab estudiando la evolución de los síndromes de polinización en las especies neotropicales de *Costus* L. en un proyecto que abarca taxonomía, filogenómica y métodos comparativos. Además, está interesado en la historia evolutiva y la taxonomía del género *Renealmia* L.f. en el Neotrópico y particularmente en su natal Colombia. Actualmente se desempeña como investigador de la Fundación Humedales en Colombia.
 
 Está interesado en los procesos que llevaron a la alta riqueza de especies en la región Neotropical, particularmente en Colombia y la región de los Andes del Norte. Abordar estos procesos integrando filogenética, métodos comparativos, filogeografía, sistemática y taxonomía vegetal ha sido el foco de su investigación. El jengibre y sus familiares son su grupo de estudio y también está interesado en la docencia y las actividades de divulgación pública.

@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Former Research Assistants
 ---
 
 Lina is a psychologist from the [Universidad de La Sabana](https://www.unisabana.edu.co/) and a Master's in Psychology for Organizations: Human Resources, Marketing and Communication from the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/). I was her professor in inferential statistics and in a seminar on vocal communication at the [Universidad de La Sabana](https://www.unisabana.edu.co/) between 2015 and 2016, while she was doing her undergraduate degree.

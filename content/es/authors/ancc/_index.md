@@ -66,7 +66,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Antiguos Estudiantes de Pregrado
-- Asistentes de Investigación Graduados
+- Asistentes de Investigación
 ---
 
 Andrés es investigador en formación de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.

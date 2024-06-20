@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Asistentes de Investigación Graduados
+- Antiguos Asistentes de Investigación
 ---
 
 Conocí a Mateo por primera vez en 2017, siendo estudiante del programa de Medicina en la Universidad Javeriana en Bogotá, Colombia. Mateo ya trabajaba estrechamente con [Hernando Santamaría García](https://scholar.google.com/citations?user=jrSJ0U4AAAAJ) mostrando un claro interés por la psiquiatría, la neurociencia y las ciencias del comportamiento. Se acercó a mí durante una charla invitada que di en el [II Simposio de Neurociencias, Cognición y Sociedad](https://www.facebook.com/events/276180996197963?active_tab=discussion), del que Mateo era organizador, y más tarde se puso en contacto conmigo para discutir ideas y oportunidades de investigación. Me fascinó inmediatamente su motivación y curiosidad, y me cautivaron las interesantísimas preguntas que formuló. Consciente de sus cualidades y de su enorme potencial, invité a Mateo a trabajar conmigo en el laboratorio, donde trabajó voluntariamente entre 2018 y 2021 en un proyecto sobre percepción de voces y rostros y elección de pareja.

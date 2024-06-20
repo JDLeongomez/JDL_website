@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Asistentes de Investigación Graduados
+- Antiguos Asistentes de Investigación
 ---
 
 Lina es psicóloga de la [Universidad de La Sabana](https://www.unisabana.edu.co/) y Magister en Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación de la [Università Cattolica del Sacro Cuore](https://www.unicatt.it/). Fui profesor suyo en estadística inferencial y en un seminario sobre comunicación vocal en la [Universidad de La Sabana](https://www.unisabana.edu.co/) entre 2015 y 2016, mientras realizaba su pregrado.

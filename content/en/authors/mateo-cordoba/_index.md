@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Former Research Assistants
 ---
 
 I first came to know Mateo in 2017 while he was a student on the Medicine programme at Universidad Javeriana in Bogota, Colombia. Mateo was already working with [Hernando Santamaría García](https://scholar.google.com/citations?user=jrSJ0U4AAAAJ), showing a clear interest in psychiatry, neuroscience and behavioural sciences. He approached me during an invited talk I gave at the [2nd Symposium of Neurosciences, Cognition and Society](https://www.facebook.com/events/276180996197963?active_tab=discussion), of which Mateo was an organiser, and later contacted me to discuss research ideas and opportunities. I was immediately fascinated by his motivation and curiosity, and captivated by the very interesting questions he asked. Being aware of his qualities and enormous potential, I invited Mateo to work with me at my Lab at Universidad El Bosque, and he voluntarily worked between 2018 and 2021 on a project on voice and face perception and mate-choice.

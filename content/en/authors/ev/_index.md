@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Associate
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Cornell University
-  url: "https://plantbio.cals.cornell.edu/people/eugenio-valderrama-escallon/"
+- name: Fundación Humedales
+  url: "https://fundacionhumedales.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral researcher at the School of Integrative Plant Science, Plant Biology Section, University of Cornell (Ithaca, USA).
+bio: Researcher at Fundación Humedales.
 
 interests:
 - Phylogenomics
@@ -69,10 +69,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Former Researchers
 
 ---
 
-Eugenio was an Associate Professor at the Faculty of Psychology and the Biology Program at Universidad El Bosque, and a researcher at [***EvoCo**: Human Behaviour and Evolution Lab*](https://sites.google.com/unbosque.edu.co/EvoCo-es) between 2016 and 2018. He is currently a postdoctoral associate in the Specht Lab studying the evolution of pollination syndromes of the Neotropical *Costus* L. species in a project encompassing taxonomy, phylogenomics and comparative methods. Also, he is interested in the evolutionary history and taxonomy of *Renealmia* L.f. genus in the Neotropics and particularly in his native Colombia.
+Eugenio was an Associate Professor at the Faculty of Psychology and the Biology Program at Universidad El Bosque, and a researcher at [***EvoCo**: Human Behaviour and Evolution Lab*](https://sites.google.com/unbosque.edu.co/EvoCo-es) between 2016 and 2018. He then worked as a postdoctoral associate at the Specht Lab studying the evolution of pollination syndromes of the Neotropical *Costus* L. species in a project encompassing taxonomy, phylogenomics and comparative methods. Also, he is interested in the evolutionary history and taxonomy of *Renealmia* L.f. genus in the Neotropics and particularly in his native Colombia. He now works as a researcher at Fundación Humedales in Colombia.
 
 He is interested in the processes that led to the high species richness in the Neotropical region, particularly in Colombia and the Northern Andes region. Addressing these processes integrating phylogenetics, comparative methods, phylogeography, systematics and plant taxonomy has been the focus of his research. The ginger family and its relatives are his study group and he is also interested in teaching and public outreach activities.
