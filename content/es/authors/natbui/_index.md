@@ -28,6 +28,9 @@ bio: Estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grad
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: globe
+  icon_pack: fa
+  link: https://music.osu.edu/people/morenobuitrago.1
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Natalia_Moreno_Buitrago
