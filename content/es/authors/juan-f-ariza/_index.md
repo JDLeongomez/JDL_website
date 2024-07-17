@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación desde 2023/ Supervisión docente desde 2023 / Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
+role: Asistente de investigación desde 2023 / Supervisión docente desde 2023 / Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
 
 interests:
 - Aprendizaje y plasticidad neuronal

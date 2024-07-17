@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant since 2023/ Teaching supervision since 2023 / BA Music Education | Research supervision 2018-2019 (Distinction)
+role: Research Assistant since 2023 / Teaching supervision since 2023 / BA Music Education | Research supervision 2018-2019 (Distinction)
 
 interests:
 - Learning & neural plasticity

@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc Psychology | Research supervision 2021-2022 (Distinction)
+role: Research Assistant since 2024 / BSc Psychology | Research supervision 2021-2022 (Distinction)
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +41,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Former Undergraduate Students
+- Research Assistants
 ---
+
+Daniela is a trainee researcher at [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/), and *ad honorem* lecturer at the [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) of the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia.
+
+She is a psychologist from [Universidad El Bosque](https://www.unbosque.edu.co/) and is doing a master's degree in Human Resource Development at [Da Vinci University](https://udavinci.edu.mx/). I supervised her research work between 2021 and 2022, while she was completing her undergraduate studies. Since joining the lab, she has been supporting various research processes.
 
 ## **Research project**  
 

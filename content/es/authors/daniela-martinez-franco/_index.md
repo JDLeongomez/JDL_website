@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Psicología | Supervisión de investigación 2021-2022 (Trabajo de grado meritorio)
+role: Asistente de investigación desde 2024 / Psicología | Supervisión de investigación 2021-2022 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +41,13 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Antiguos Estudiantes de Pregrado
+- Asistentes de Investigación
 ---
+
+Daniela es investigadora en formación de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), y docente *ad honorem* en la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
+
+Es psicóloga de la [Universidad El Bosque](https://www.unbosque.edu.co/) y está realizando una maestría en Desarrollo de
+Recursos Humanos en la [Universidad Da Vinci](https://udavinci.edu.mx/). Dirigí su trabajo de grado entre 2021 y 2022, mientras realizaba su pregrado. Desde su vinculación al laboratorio, ha venido apoyando diversos procesos investigativos.
 
 ## **Proyecto de investigación de Pregrado**  
 
