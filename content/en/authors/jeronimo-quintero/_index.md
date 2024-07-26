@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Jefferson Guillermo Suarez Zambrano
+title: Jerónimo Quintero Martínez
 
 # Weight
-weight: 2
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- jefferson-suarez
+- jeronimo-quintero
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Psicología | Supervisión de investigación desde 2023
+role: BSc Psychology | Research supervision since 2024
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2023.
+bio: BSc research project student since 2024.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes de Pregrado
+- Undergraduate Students
 ---
 
-## **Proyecto de investigación de Pregrado**  
+## **Research project**  
 
-*Por definir*
+*To be defined*
 
-Universidad El Bosque, desde 2023
+Universidad El Bosque, since 2024
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

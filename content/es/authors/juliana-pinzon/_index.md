@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Jefferson Guillermo Suarez Zambrano
+title: Juliana Pinzon Rodríguez 
 
 # Weight
-weight: 2
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- jefferson-suarez
+- juliana-pinzon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Psicología | Supervisión de investigación desde 2023
+role: BPsicología | Supervisión de investigación desde 2024
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2023.
+bio: Estudiante de investigación de Pregrado desde 2024.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,6 +47,6 @@ user_groups:
 
 *Por definir*
 
-Universidad El Bosque, desde 2023
+Universidad El Bosque, desde 2024
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

@@ -29,6 +29,9 @@ interests:
 
 education:
   courses:
+  - course: 'MSc Psychology of the Arts, Neuroaesthetics and Creativity'
+    institution: Goldsmiths, University of London (London, UK)
+    year: 2023
   - course: 'MSc in Psychology for Organizations: Human Resources, Marketing and Communication'
     institution: Università Cattolica del Sacro Cuore (Milan, Italy)
     year: 2018

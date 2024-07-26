@@ -3,7 +3,7 @@
 title: Tifany Lexandra Mancera Alméciga
 
 # Weight
-weight: 1
+weight: 2
 
 # Username (this should match the folder name)
 authors:

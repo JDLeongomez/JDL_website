@@ -3,7 +3,7 @@
 title: Tifany Lexandra Mancera Alméciga
 
 # Weight
-weight: 1
+weight: 2
 
 # Username (this should match the folder name)
 authors:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2023.
+bio: BSc research project student since 2023.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
