@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BPsicología | Supervisión de investigación desde 2024
+role: Psicología | Supervisión de investigación desde 2024
 
 # Organizations/Affiliations
 organizations:
