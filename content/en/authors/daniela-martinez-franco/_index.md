@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student 2021-2022 (Distinction).
+bio:  'Research assistant at EvoCo: Human Behaviour and Evolution Lab since 2024, and BSc research project student 2021-2022 (Distinction).'
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -56,6 +56,6 @@ Universidad El Bosque, 2021-2022
 
 This research project received the **Distinction** award and was recognised as the **best reserarch project** of its cohort.
 
-**Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisor:** [Juan David Leongómez](/en/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
 {{< youtube A9xNV3BqRJw >}}
