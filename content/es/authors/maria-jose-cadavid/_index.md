@@ -68,7 +68,7 @@ Ha colaborado en la supervisión de proyectos de investigación de estudiantes d
 
 ## Proyecto de investigación  
 
-*Exploración de la asimetría facial fluctuante: Un Estudio Macro-Ecológico en Poblaciones del Sur Global*. 
+*Exploring Facial Fluctuating Asymmetry: A Macro-Ecological Study in Global South Populations* [Exploración de la asimetría facial fluctuante: Un Estudio Macro-Ecológico en Poblaciones del Sur Global].
 
 Universidad El Bosque, desde 2024.
 
