@@ -62,7 +62,7 @@ user_groups:
 - Asistentes de Investigación
 ---
 
-Laura trabaja en la [Unidad de Genética Molecular y Resistencia Antimicrobiana (UGRA)](https://investigaciones.unbosque.edu.co/ugra) de la Universidad El Bosque. Junto con [Maria José Cadavid](/en/author/maria-jose-cadavid/), comenzó a colaborar conmigo en el segundo semestre de 2024 como parte de un programa de integración liderado por la Vicerrectoría de Investigación.
+Laura trabaja en la [Unidad de Genética Molecular y Resistencia Antimicrobiana (UGRA)](https://investigaciones.unbosque.edu.co/ugra) de la Universidad El Bosque. Junto con [Maria José Cadavid](/es/author/maria-jose-cadavid/), comenzó a colaborar conmigo en el segundo semestre de 2024 como parte de un programa de integración liderado por la Vicerrectoría de Investigación.
 
 Ha colaborado en la supervisión de proyectos de investigación de estudiantes de pregrado, así como en proyectos de investigación en curso. En este contexto, se ha trabajado en el desarrollo de ideas originales de investigación, y forma parte del equipo de un proyecto transcultural titulado *Exploring Facial Fluctuating Asymmetry: Un estudio macroecológico en poblaciones del Sur Global*.
 
