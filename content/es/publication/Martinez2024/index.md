@@ -17,7 +17,7 @@ authors = ["Cristhian A. Martínez", "admin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Peace and Conflict: Journal of Peace Psychology*. Advance online publication"
+publication = "*Peace and Conflict: Journal of Peace Psychology 30* (3), 327–337"
 publication_short = ""
 
 # Abstract.
