@@ -27,6 +27,13 @@ bio:  'Research assistant at EvoCo: Human Behaviour and Evolution Lab since 2024
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0009-0009-8804-6516
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/daniela-mart%C3%ADnez-franco-b33b4a1b6/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
