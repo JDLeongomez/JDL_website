@@ -43,9 +43,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0009-8804-6516
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/laura-milena-ibarra-vasquez-b12ab7158/
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/laura-milena-ibarra-vasquez-b12ab7158/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
