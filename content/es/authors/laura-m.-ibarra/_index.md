@@ -43,9 +43,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0009-8804-6516
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/laura-milena-ibarra-vasquez-b12ab7158/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/laura-milena-ibarra-vasquez-b12ab7158/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,3 +62,14 @@ user_groups:
 - Asistentes de Investigación
 ---
 
+Laura trabaja en la [Unidad de Genética Molecular y Resistencia Antimicrobiana (UGRA)](https://investigaciones.unbosque.edu.co/ugra) de la Universidad El Bosque. Junto con [Maria José Cadavid](/es/author/maria-jose-cadavid/), comenzó a colaborar conmigo en el segundo semestre de 2024 como parte de un programa de integración liderado por la Vicerrectoría de Investigación.
+
+Ha colaborado en la supervisión de proyectos de investigación de estudiantes de pregrado, así como en proyectos de investigación en curso. En este contexto, se ha trabajado en el desarrollo de ideas originales de investigación, y forma parte del equipo de un proyecto transcultural titulado *Exploring Facial Fluctuating Asymmetry: Un estudio macroecológico en poblaciones del Sur Global*.
+
+## Proyecto de investigación  
+
+*Exploring Facial Fluctuating Asymmetry: A Macro-Ecological Study in Global South Populations* [Exploración de la asimetría facial fluctuante: Un Estudio Macro-Ecológico en Poblaciones del Sur Global]. 
+
+Universidad El Bosque, desde 2024.
+
+**Supervisor:** [Juan David Leongómez](/es/#about)
