@@ -16,6 +16,25 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "***Latin American Association for Human Behavioral and Evolutionary Sciences (LAAHBES)***"
+  content = "¡Anunciamos la exitosa fundación de la Asociación Latinoamericana de Ciencias del Comportamiento Humano y de la Evolución (LAAHBES)!"
+  align = "right"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "LAAHBES.png"  # Image path relative to your `static/media/` folder.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "Lee el anuncio"
+  cta_url = "https://x.com/varella_marco/status/1826326438938915086"
+  cta_icon_pack = "fab"
+  cta_icon = "twitter"
+
+[[item]]
   title = "***Voice modulation: from origin and mechanism to social impact***"
   content = "Número temático en dos partes en [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb). Editado en conjunto con [Kasia Pisanski](/es/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://www.qmul.ac.uk/sbbs/staff/nadine-lavan.html), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
   align = "right"  # Choose `center`, `left`, or `right`.
