@@ -27,7 +27,7 @@ abstract = "Women’s preferences for facial masculinity in men are influenced b
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.31219/osf.io/me47r"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://osf.io/preprints/osf/me47r"
 url_code = ""
 url_dataset = ""
 url_project = "https://doi.org/10.17605/OSF.IO/P2WSC"

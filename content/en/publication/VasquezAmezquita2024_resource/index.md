@@ -27,14 +27,14 @@ abstract = "Women’s preferences for facial masculinity in men are influenced b
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.31219/osf.io/me47r"
 
 # Is this a featured publication? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deseo sexual característico", "Diferencias de género", "Estatus de la relación", "Respuesta sexual específica de género", "Excitación sexual subjetiva"]
+tags = ["Facial masculinity", "Female preferences", "Intimate partner violence", "Resource availability", "Environmental priming", "Eye tracking"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://osf.io/preprints/osf/me47r"
 url_code = ""
 url_dataset = ""
 url_project = "https://doi.org/10.17605/OSF.IO/P2WSC"
