@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación desde 2023 / Supervisión docente desde 2023 / Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
+role: Asistente de investigación 2023-2024 / Supervisión docente 2023-2024 / Educación Musical | Supervisión de investigación 2018-2019 (Trabajo de grado meritorio)
 
 interests:
 - Aprendizaje y plasticidad neuronal
@@ -36,7 +36,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2023, y estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
+bio: Antiguo asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2023, y estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,11 +63,11 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Antiguos Estudiantes de Pregrado
-- Asistentes de Investigación
+- Antiguos Asistentes de Investigación
 ---
-Juan Felipe es investigador en formación de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), y docente en áreas de investigación en la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
+Juan Felipe es investigador que estuvo en formación en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), y docente en áreas de investigación en la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
 
-Es licenciado en educación musical de la [Universidad Pedagógica nacional](https://www.upn.edu.co/) y Magister en Música, Mente y Cerebro de [Goldsmiths, University of London](https://www.gold.ac.uk/). Dirigí su trabajo de grado entre 2018 y 2019, mientras realizaba su pregrado. Desde su vinculación al laboratorio, ha venido apoyando diversos procesos investigativos.
+Es licenciado en educación musical de la [Universidad Pedagógica nacional](https://www.upn.edu.co/) y Magister en Música, Mente y Cerebro de [Goldsmiths, University of London](https://www.gold.ac.uk/). Dirigí su trabajo de grado entre 2018 y 2019, mientras realizaba su pregrado. Durante su vinculación al laboratorio, apoyó diversos procesos investigativos.
 
 ## **Proyecto de investigación de Pregrado**  
 

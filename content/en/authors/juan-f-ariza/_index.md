@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant since 2023 / Teaching supervision since 2023 / BA Music Education | Research supervision 2018-2019 (Distinction)
+role: Research Assistant 2023-2024 / Teaching supervision 2023-2024 / BA Music Education | Research supervision 2018-2019 (Distinction)
 
 interests:
 - Learning & neural plasticity
@@ -65,12 +65,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Former Undergraduate Students
-- Research Assistants
+- Former Research Assistants
 ---
 
-Juan Felipe is a trainee researcher at [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/), and lecturer in research areas at the [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) of the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
+Juan Felipe is a former trainee researcher at [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/), and lecturer in research areas at the [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) of the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
 
-He holds a degree in music education from [Universidad Pedagógica Nacional](https://www.upn.edu.co/) and an MSc in Music, Mind \& Brain from [Goldsmiths, University of London](https://www.gold.ac.uk/). I supervised his undergraduate research project between 2018 and 2019, while he was completing his undergraduate degree. Since joining the lab, he has been supporting various research processes.
+He holds a degree in music education from [Universidad Pedagógica Nacional](https://www.upn.edu.co/) and an MSc in Music, Mind \& Brain from [Goldsmiths, University of London](https://www.gold.ac.uk/). I supervised his undergraduate research project between 2018 and 2019, while he was completing his undergraduate degree. During his time at the lab, he supported various research processes.
 
 ## **BA Project**  
 

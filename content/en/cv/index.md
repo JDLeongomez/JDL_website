@@ -49,4 +49,4 @@ This is my brief 2-page summary CV.
 	});
 </script>
 
-{{< cta cta_text="Open/download short CV" cta_link="https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pd" cta_new_tab="true" >}}
+{{< cta cta_text="Open/download short CV" cta_link="https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pdf" cta_new_tab="true" >}}

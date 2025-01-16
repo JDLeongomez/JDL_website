@@ -3,7 +3,7 @@
 title: Tifany Lexandra Mancera Alméciga
 
 # Weight
-weight: 2
+weight: 20242
 
 # Username (this should match the folder name)
 authors:
@@ -40,13 +40,17 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes de Pregrado
+- Antiguos Estudiantes de Pregrado
 ---
 
 ## **Proyecto de investigación de Pregrado**  
 
-*Por definir*
+*¿Somos capaces de detectar la tendencia a la infidelidad a partir de la voz?*
 
-Universidad El Bosque, desde 2023
+<a href="https://hdl.handle.net/20.500.12495/13144" target="_blank">**http://hdl.handle.net/20.500.12209/10443**</a>
+
+Universidad El Bosque, 2023-2024
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+{{< youtube 8roEXY8FEkc >}}

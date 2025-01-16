@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant since 2019 / Teaching supervision since 2019 / BSc Psychology | Research supervision 2017-2018
+role: Research Assistant 2019-2024 / Teaching supervision 2019-2024 / BSc Psychology | Research supervision 2017-2018
 
 # Organizations/Affiliations
 organizations:
@@ -66,10 +66,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Former Undergraduate Students
-- Research Assistants
+- Former Research Assistants
 ---
 
-Andrés is a researcher in training at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), [Faculty of Psychology](https://www.unbosque.edu.co/psicologia) at [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
+Andrés is a researcher, formerly in training at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), [Faculty of Psychology](https://www.unbosque.edu.co/psicologia) at [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogotá, Colombia.
 
 His research interests include hormonal and microbiota effects on human behavior. He worked on microbiota during his stay at the [Universidad Nacional Autónoma de México](https://www.unam.mx/), under the supervision of [Dr. Isaac González-Santoyo](/en/author/isaac-gonzalez-santoyo/), and has worked in neuroscience under the supervision of [Dr. Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/), as well as in molecular biology, under the supervision of [Juan Pablo Hernandez](https://scholar.google.es/citations?user=UjKjHNYAAAAJ&hl).
 

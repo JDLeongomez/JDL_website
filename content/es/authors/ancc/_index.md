@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de Investigación desde 2019 / Supervisión de enseñanza desde 2019 / Psicología | supervisión 2017-2018
+role: Asistente de Investigación 2019-2024 / Supervisión de enseñanza 2019-2024 / Psicología | supervisión 2017-2018
 
 # Organizations/Affiliations
 organizations:
@@ -66,10 +66,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Antiguos Estudiantes de Pregrado
-- Asistentes de Investigación
+- Antiguos Asistentes de Investigación
 ---
 
-Andrés es investigador en formación de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
+Andrés es investigador antiguamente en formación en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
 
 Sus intereses de investigación incluyen los efectos hormonales y de la microbiota en el comportamiento humano. Trabajó en microbiota durante su estancia en la [Universidad Nacional Autónoma de México](https://www.unam.mx/), bajo la supervisión del [Dr. Isaac González-Santoyo](/es/author/isaac-gonzalez-santoyo/), y ha trabajado en neurociencias bajo supervisión de la [Dra. Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/), así como en biología molecular, bajo la supervisión de [Juan Pablo Hernandez](https://scholar.google.es/citations?user=UjKjHNYAAAAJ&hl).
 
@@ -77,6 +77,6 @@ Sus intereses de investigación incluyen los efectos hormonales y de la microbio
 
 *Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales*
 
-Universidad El Bosque, desde 2019
+Universidad El Bosque, 2019-2020
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/), [Eugenio Valderrama](/es/author/eugenio-valderrama/), y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/)

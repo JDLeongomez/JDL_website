@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Psicología | Supervisión de investigación desde 2024
+role: Asistente de investigación 2025 / Psicología | Supervisión de investigación desde 2024
 
 # Organizations/Affiliations
 organizations:
@@ -45,6 +45,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Estudiantes de Pregrado
+- Asistentes de Investigación
 ---
 
 ## **Proyecto de investigación de Pregrado**  
@@ -53,4 +54,4 @@ user_groups:
 
 Universidad El Bosque, desde 2024
 
-**Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
