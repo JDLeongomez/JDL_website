@@ -1,6 +1,6 @@
 +++
 title = "Does singing enhance cooperation more than speaking does? A global experimental Stage 1 Registered Report"
-date = 2024-06-19T00:00:00
+date = 2025-01-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Patrick E. Savage", "Adwoa Ampiah-Bonney", "Aleksandar Arabadjiev", "Adwoa Arhine", "juan-f-ariza", "Joshua S. Bamford", "Brenda Suyanne Barbosa", "Ann-Kathrin Beck", "Michel Belyk", "Emmanouil Benetos", "Damián Blasi", "Joseph A. Bulbulia", "Anne Cabildo", "Sasha Calhoun", "Gakuto Chiba", "Stephen Ithel Duran", "Ulvhild Færøvik", "Tecumseh Fitch", "Shinya Fujii", "Shira Gabriel", "Felix Haiduk", "Niels Chr. Hansen", "Shantala Hegde", "Ferenc Honbolygó", "Jiawen Huang", "Nori Jacoby", "Yannick Jadoul", "Zixuan Jia", "Taeyun Jung", "Csaba Kertész", "Uswatun Khasanah", "Inkuk Kim", "Yoichi Kitayama", "Wojciech Krzyżanowski", "Urise Kuikuro", "Dilyana Kurdova", "Pauline Larrouy-Maestri", "admin", "Fang Liu", "Teona Lomsadze", "Psyche Loui", "Yiqing Ma", "John Mcbride", "Andrei Miu", "Dayna Moya", "Rogerdison Natsitsabui", "Giacomo Novembre", "Florence Ewomazino Nweke (Ph.D.)", "Patricia Opondo", "Yuto Ozaki", "Hineatua Parkinson", "Mark Lenini Parselelo", "Danya Pavlovich", "Peter Pfordresher", "Kasia", "Simina Pitur", "Piotr Podlipniak", "Tudor Popescu", "Polina Proutskova", "Suzanne Purdy", "Andrea Ravignani", "Limor Raviv", "Dhwani Sadaphal", "Javier Silva-Zurita", "Ignacio Soto-Silva", "Bronwyn Tarr", "Adam Tierney", "Prapatsorn Tiratanti", "Laurel Trainor", "Christina der Nederlanden", "Marco Antonio Correa Varella", "Shahaboddin Dabaghi Varnosfaderani", "Mason Youngblood", "Roberto Zariquiey"]
@@ -17,7 +17,7 @@ authors = ["Patrick E. Savage", "Adwoa Ampiah-Bonney", "Aleksandar Arabadjiev", 
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*PsyArXiv*"
+publication = "In principle acceptance by *Peer Community in Registered Reports*"
 publication_short = ""
 
 # Abstract.
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "PCI RR Recommendation", url = "https://rr.peercommunityin.org/articles/rec?id=890"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
