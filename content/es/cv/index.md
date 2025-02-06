@@ -9,24 +9,16 @@ En esta página, puedes ver o descargar tanto mi [**hoja de vida académica**](#
 
 ___________________
 
-
 ### <a name="full_cv"></a>**Hoja de vida académica**
 
 Esta es mi hoja de vida académica, completa y detallada.
 
-<div id="adobe-dc-view" style="height: 900px; width: 595px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "064da19ffdb04db7b0ea2c9a528805cb", 
-		  divId: "adobe-dc-view",
-		  locale: "es-ES"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf"}},
-			metaData:{fileName: "JD Leongómez - HV.pdf"}
-		}, {embedMode: "SIZED_CONTAINER"});
-	});
-</script>
+<iframe 
+  src="https://docs.google.com/gview?url=https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf&embedded=true" 
+  style="width:700px; 
+  height:950px;" 
+  frameborder="0">
+</iframe>
 
 {{< cta cta_text="Abrir/descargar HV académica" cta_link="https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf" cta_new_tab="true" >}}
 
@@ -36,18 +28,11 @@ ___________________
 
 Esta es mi hoja de vida corta, resumida a 2 páginas.
 
-<div id="adobe-dc-view-1" style="height: 900px; width: 595px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "064da19ffdb04db7b0ea2c9a528805cb", 
-		  divId: "adobe-dc-view-1",
-		  locale: "es-ES"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf"}},
-			metaData:{fileName: "JD Leongómez - HV corta.pdf"}
-		}, {embedMode: "SIZED_CONTAINER"});
-	});
-</script>
+<iframe 
+  src="https://docs.google.com/gview?url=https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf&embedded=true" 
+  style="width:700px; 
+  height:950px;" 
+  frameborder="0">
+</iframe>
 
 {{< cta cta_text="Abrir/descargar HV resumida" cta_link="https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf" cta_new_tab="true" >}}
