@@ -1,9 +1,9 @@
 +++
-title = "Trait sexual desire‑linked subjective sexual arousal to erotic and non‑erotic stimuli: Gender, relationship status, and gender‑specificity"
-date = 2023-11-18T00:00:00
+title = "Does trait sexual desire predict subjective sexual response to erotic stimuli? Effects of participant and stimulus gender, and relationship status among cisgender heterosexual women and men"
+date = 2025-02-15T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["mva", "admin", "Marina Begoña Martínez-González", "Meredith L Chivers"]
+authors = ["mva", "Marina Begoña Martínez-González", "Meredith L Chivers", "admin"]
 
 # Publication type.
 # Legend:
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Supplementary Material", url = "https://osf.io/gjkr3"}]
+links = [{name = "Material Suplementario", url = "https://osf.io/gjkr3"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

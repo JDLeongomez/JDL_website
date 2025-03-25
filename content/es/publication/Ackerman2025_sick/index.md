@@ -1,9 +1,9 @@
 +++
-title = "Trait sexual desire‑linked subjective sexual arousal to erotic and non‑erotic stimuli: Gender, relationship status, and gender‑specificity"
-date = 2023-11-18T00:00:00
+title = "Spontaneous thought and memory consolidation: An investigation into mindwandering evoked by preferred music and its influence on short‑term memory consolidation"
+date = 2025-03-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["mva", "admin", "Marina Begoña Martínez-González", "Meredith L Chivers"]
+authors = ["Joshua Ackerman", "Theodore Samore", "Daniel M. T. Fessler", "Tom R. Kupfer", "Soyeon Choi", "Wilson N. Merrell", "Lene Aarøe", "Toivo Aavik", "Stephen Acabado", "Grace Akello", "Ilham N. Alfian", "Laith Al-Shawaf", "Marinés M. Alvarez", "Jeanine Ammann", "Gizem Arikan", "Saiyeda A. Asha", "Anibal M. Astobiza", "Pat Barclay", "Fiona Kate Barlow", "Lisiane Bizarro", "Paola Bressan", "ancc", "Bryan K. C. Choy", "Achmad Chusairi", "Brenda L. Chávez Cosamelón", "Jorge Contreras-Garduño", "Mallika De", "Tiago J.S. de Lima", "Angelica N. Oliveira", "Piyanjali de Zoysa", "Ieva Dryžaitė", "Christian T. Elbæk", "Peter Fedor", "Ana Maria Fernandez", "Márta Fülöp", "Vladimer Lado Gamsakhurdia", "Leonor Garcia-Gómez", "Leonel Garcia-Marques", "Jimena Garduño-Franco", "María del Pilar Grazioso", "Fanny Habacht", "Youssef Hasan", "Camila P. Haugestad", "Christian P. Haugestad", "Jan Havlíček", "Earl J. Hernandez", "Vu M. Hoang", "Minsung Hong", "Ivana Hromatko", "Dzintra Iliško", "Hirotaka Imada", "Ivana Jakšić", "Tomasz Jarmakowski-Kostrzanowski", "Harpa L. Hjördísar Jónsdóttir", "Kotrina Kajokaite", "Šárka Kaňková", "Nicolas Kervyn", "Jinseok P. Kim", "Jonas R. Kunst", "Michael Laakasuo", "admin", "Norman Li", "Junsong Lu", "Nathan Lynch", "María A. Maegli", "Harry Manley", "Gabriela Marcu", "Thea McAfee", "Panagiotis Mitkidis", "Regina Fernandez-Morales", "Colby Morvinski", "Haslina Muhamad", "Molnár B. Nándor", "Pegah Nejat", "Bernardo Costa-Neves", "Hoang Nguyen Huy", "Mats J. Olsson", "Charity N. Onyishi", "Ike E. Onyishi", "Reegan Orozco", "Tobias Otterbring", "Ida S. Ottersen", "Gustavo Pacheco-López", "Penny Panagiotopoulou", "Walter Paniagua", "Roksana Parvin", "Zoran Pavlović", "Pavol Prokop", "Emma Raffman", "Muhammad Rizwan", "Sheila Rojas", "Joanna Różycka-Tran", "ors", "Heyla Selim", "Barış Sevi", "Yaniv Shani", "Madhulika S. Shastry", "Stefan Stieger", "Eunkook M. Suh", "Melati Sumari", "Kosuke Takemura", "Arnaud Tognetti", "Joshua Tybur", "Eylul B. Ucak", "Yukiko Uchida", "Carmen G. Baeza-Ugarte", "Jaroslava V. Valentova", "Hugo Viciana", "Amandine Visine", "Jin Wang", "Xiaotian Wang", "Illia I. Yahiiaiev", "Roberta Z. R. Trombetta", "Rizqy A. Zein", "Iris Žeželj"]
 
 # Publication type.
 # Legend:
@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Trait sexual desire", "Gender differences", "Status relationship", "Gender-specific sexual response", "Subjective sexual arousal"]
+tags = ["Registered report", "Music", "Emotion", "Visual imagery", "Cross-cultural"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -57,7 +57,7 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = "https://doi.org/10.17605/OSF.IO/3V2E7"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Suplementario", url = "https://osf.io/gjkr3"}]
+# links = [{name = "PCI RR Recommendation", url = "https://rr.peercommunityin.org/articles/rec?id=416"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

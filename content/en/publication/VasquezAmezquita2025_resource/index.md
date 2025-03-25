@@ -1,6 +1,6 @@
 +++
 title = "Resource availability and experiences of partner violence shape facial masculinity preferences in women"
-date = 2024-10-30T00:00:00
+date = 2025-02-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["mva", "ancc", "Wendy Medina-Sarmiento", "Valentina Cepeda", "Marina Begoña Martínez-González", "admin"]
@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Deseo sexual característico", "Diferencias de género", "Estatus de la relación", "Respuesta sexual específica de género", "Excitación sexual subjetiva"]
+tags = ["Facial masculinity", "Female preferences", "Intimate partner violence", "Resource availability", "Environmental priming", "Eye tracking"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Suplementario", url = "https://osf.io/9b8tv"}]
+links = [{name = "Supplementary Material", url = "https://osf.io/9b8tv"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
