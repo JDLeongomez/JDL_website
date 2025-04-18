@@ -13,6 +13,8 @@ header:
   image: ""
 ---
 
+![Subscribers](https://img.shields.io/youtube/channel/subscribers/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube)![Views](https://img.shields.io/youtube/channel/views/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube&label=Views) 
+
 {{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
 Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/@InvestigacionAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software.
