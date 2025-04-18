@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Professor and Researcher/Director at the ***EvoCo**: Human Behaviour and Evolution Lab*, Faculty of Psychology, at Universidad El Bosque in Bogota, Colombia."
+bio: "Professor and Researcher/Director at ***EvoCo**: Human Behaviour and Evolution Lab*, Faculty of Psychology, at Universidad El Bosque in Bogota, Colombia."
 
 interests:
 - Behavioural Ecology
