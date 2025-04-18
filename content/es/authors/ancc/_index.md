@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2019, y practicante de investigación entre 2017 y 2018.
+bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano entre 2019 y 2024, y practicante de investigación entre 2017 y 2018.
 
 interests:
 - Hormonas y Comportamiento
