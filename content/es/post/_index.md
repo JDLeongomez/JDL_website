@@ -13,6 +13,8 @@ header:
   image: ""
 ---
 
+![Suscriptores](https://img.shields.io/youtube/channel/subscribers/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube&label=Suscriptores)![Visualizaciones](https://img.shields.io/youtube/channel/views/UCs-6iLG3cnZwtGFcvyObPpA?style=for-the-badge&logo=youtube&label=Visualizaciones)
+
 {{< figure library="true" src="IA_logo_Largo.png" title="" lightbox="true" >}}
 
 Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@InvestigacionAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto.

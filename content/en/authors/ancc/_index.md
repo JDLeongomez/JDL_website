@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research assistant at the Human Behaviour Lab in since 2019, and BSc research project student between 2017 and 2018.
+bio: "Research assistant at ***EvoCo**: Human Behaviour and Evolution Lab* between 2019 and 2024, and BSc research project student between 2017 and 2018."
 
 interests:
 - Hormones and Behaviour
