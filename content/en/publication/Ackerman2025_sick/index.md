@@ -1,6 +1,6 @@
 +++
 title = "I see sick people: Beliefs about sensory detection of infectious disease are largely consistent across cultures"
-date = 2025-01-10T00:00:00
+date = 2025-04-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Joshua Ackerman", "Theodore Samore", "Daniel M. T. Fessler", "Tom R. Kupfer", "Soyeon Choi", "Wilson N. Merrell", "Lene Aarøe", "Toivo Aavik", "Stephen Acabado", "Grace Akello", "Ilham N. Alfian", "Laith Al-Shawaf", "Marinés M. Alvarez", "Jeanine Ammann", "Gizem Arikan", "Saiyeda A. Asha", "Anibal M. Astobiza", "Pat Barclay", "Fiona Kate Barlow", "Lisiane Bizarro", "Paola Bressan", "ancc", "Bryan K. C. Choy", "Achmad Chusairi", "Brenda L. Chávez Cosamelón", "Jorge Contreras-Garduño", "Mallika De", "Tiago J.S. de Lima", "Angelica N. Oliveira", "Piyanjali de Zoysa", "Ieva Dryžaitė", "Christian T. Elbæk", "Peter Fedor", "Ana Maria Fernandez", "Márta Fülöp", "Vladimer Lado Gamsakhurdia", "Leonor Garcia-Gómez", "Leonel Garcia-Marques", "Jimena Garduño-Franco", "María del Pilar Grazioso", "Fanny Habacht", "Youssef Hasan", "Camila P. Haugestad", "Christian P. Haugestad", "Jan Havlíček", "Earl J. Hernandez", "Vu M. Hoang", "Minsung Hong", "Ivana Hromatko", "Dzintra Iliško", "Hirotaka Imada", "Ivana Jakšić", "Tomasz Jarmakowski-Kostrzanowski", "Harpa L. Hjördísar Jónsdóttir", "Kotrina Kajokaite", "Šárka Kaňková", "Nicolas Kervyn", "Jinseok P. Kim", "Jonas R. Kunst", "Michael Laakasuo", "admin", "Norman Li", "Junsong Lu", "Nathan Lynch", "María A. Maegli", "Harry Manley", "Gabriela Marcu", "Thea McAfee", "Panagiotis Mitkidis", "Regina Fernandez-Morales", "Colby Morvinski", "Haslina Muhamad", "Molnár B. Nándor", "Pegah Nejat", "Bernardo Costa-Neves", "Hoang Nguyen Huy", "Mats J. Olsson", "Charity N. Onyishi", "Ike E. Onyishi", "Reegan Orozco", "Tobias Otterbring", "Ida S. Ottersen", "Gustavo Pacheco-López", "Penny Panagiotopoulou", "Walter Paniagua", "Roksana Parvin", "Zoran Pavlović", "Pavol Prokop", "Emma Raffman", "Muhammad Rizwan", "Sheila Rojas", "Joanna Różycka-Tran", "ors", "Heyla Selim", "Barış Sevi", "Yaniv Shani", "Madhulika S. Shastry", "Stefan Stieger", "Eunkook M. Suh", "Melati Sumari", "Kosuke Takemura", "Arnaud Tognetti", "Joshua Tybur", "Eylul B. Ucak", "Yukiko Uchida", "Carmen G. Baeza-Ugarte", "Jaroslava V. Valentova", "Hugo Viciana", "Amandine Visine", "Jin Wang", "Xiaotian Wang", "Illia I. Yahiiaiev", "Roberta Z. R. Trombetta", "Rizqy A. Zein", "Iris Žeželj"]
@@ -17,7 +17,7 @@ authors = ["Joshua Ackerman", "Theodore Samore", "Daniel M. T. Fessler", "Tom R.
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Brain, Behavior, and Immunity*"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "Identifying interpersonal disease threats is critical for effectivel
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.bbi.2025.04.020"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -57,7 +57,7 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://osf.io/9vj6t/?view_only=e67cc933a20841ec86dec87e44c988cc"
 url_slides = ""
 url_video = ""
 url_poster = ""
