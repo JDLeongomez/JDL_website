@@ -3,7 +3,7 @@
 title: Valentina Cepeda Monsalve
 
 # Weight
-weight:
+weight: 2025
 
 # Username (this should match the folder name)
 authors:
