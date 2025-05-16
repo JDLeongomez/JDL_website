@@ -48,10 +48,18 @@ user_groups:
 - Research Assistants
 ---
 
-## **Research project**  
+## **Research project (BSc)** 
 
-*To be defined*
+*¿Cómo influye la conducta verbal en la percepción de la sociosexualidad durante el cortejo?* [How does verbal behaviour influence the perception of sociosexuality during courtship?]
 
 Universidad El Bosque, since 2024
 
 **Supervisor:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+## **Research Project (RA)**
+
+*Implementation of a handmade kit for the quantification of testosterone in saliva* [Implementación de un Kit artesanal para la cuantificación de testosterona en saliva].
+
+Universidad El Bosque, since 2025.
+
+**Supervisors:** [Juan David Leongómez](/en/#about) and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/)

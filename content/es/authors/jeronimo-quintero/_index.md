@@ -48,10 +48,18 @@ user_groups:
 - Asistentes de Investigación
 ---
 
-## **Proyecto de investigación de Pregrado**  
+## **Proyecto de investigación de Pregrado** 
 
-*Por definir*
+*¿Cómo influye la conducta verbal en la percepción de la sociosexualidad durante el cortejo?* [How does verbal behaviour influence the perception of sociosexuality during courtship?]
 
 Universidad El Bosque, desde 2024
+
+**Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+## **Proyecto de investigación (Asistente de investigación)**
+
+*Implementación de un Kit artesanal para la cuantificación de testosterona en saliva* [Implementation of a handmade kit for the quantification of testosterone in saliva].
+
+Universidad El Bosque, since 2025.
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

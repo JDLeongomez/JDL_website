@@ -47,9 +47,9 @@ user_groups:
 - Undergraduate Students
 ---
 
-## **Research project**  
+## **Research project** 
 
-*To be defined*
+*¿Cómo influye la conducta verbal en la percepción de la sociosexualidad durante el cortejo?* [How does verbal behaviour influence the perception of sociosexuality during courtship?]
 
 Universidad El Bosque, since 2024
 
