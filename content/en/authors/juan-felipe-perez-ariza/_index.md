@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Juan F. Ariza
+title: Juan Felipe Pérez Ariza
 
 # Weight
 weight: 2019
 
 # Username (this should match the folder name)
 authors:
-- juan-f-ariza
+- juan-felipe-perez-ariza
 
 # Is this the primary user of the site?
 superuser: false

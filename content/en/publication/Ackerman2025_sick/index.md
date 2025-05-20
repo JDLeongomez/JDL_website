@@ -14,10 +14,10 @@ authors = ["Joshua Ackerman", "Theodore Samore", "Daniel M. T. Fessler", "Tom R.
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Brain, Behavior, and Immunity*"
+publication = "*Brain, Behavior, and Immunity, 128*, 737–750"
 publication_short = ""
 
 # Abstract.
