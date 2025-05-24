@@ -3,7 +3,7 @@ title = "Sexual Modes Questionnaire (SMQ): Spanish translation, adaptation, and 
 date = 2025-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["mva", "admin", "Natalia Maldonado-Avendaño", "Valentina Cepeda-Monsalve", "Emily Valentina Roa-Reatiga", "Juan Sebastian Torres-Herrera", "Marina Begoña Martínez-González"]
+authors = ["mva", "valentina-cepeda", "Emily Roa", "Juan Sebastian Torres", "Natalia Maldonado-Avendaño", "Marina Begoña Martínez-González", "admin"]
 author_notes = []
 
 # Publication type.
@@ -15,7 +15,7 @@ author_notes = []
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "*Sexual and Relationship Therapy*, in press"

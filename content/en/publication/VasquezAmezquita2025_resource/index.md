@@ -1,9 +1,9 @@
 +++
 title = "Resource availability and experiences of partner violence shape facial masculinity preferences in women"
-date = 2025-02-28T00:00:00
+date = 2025-05-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["mva", "ancc", "Wendy Medina-Sarmiento", "Valentina Cepeda", "Marina Begoña Martínez-González", "admin"]
+authors = ["mva", "ancc", "Wendy Medina-Sarmiento", "valentina-cepeda", "Marina Begoña Martínez-González", "admin"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["mva", "ancc", "Wendy Medina-Sarmiento", "Valentina Cepeda", "Marina 
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Evolution and Human Behavior*, in press"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "Women’s preferences for facial masculinity in men are influenced b
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31219/osf.io/me47r"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false

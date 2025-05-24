@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Valentina Cepeda Monsalve
+title: Valentina Cepeda
 
 # Weight
 weight: 2025
 
 # Username (this should match the folder name)
 authors:
-- valentina-cepeda-monsalve
+- valentina-cepeda
 
 # Is this the primary user of the site?
 superuser: false

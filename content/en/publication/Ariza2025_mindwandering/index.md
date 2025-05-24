@@ -3,7 +3,7 @@ title = "Spontaneous thought and memory consolidation: An investigation into min
 date = 2025-03-23T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["juan-felipe-perez-ariza", "admin"]
+authors = ["juan-f-ariza", "admin"]
 
 # Publication type.
 # Legend:
