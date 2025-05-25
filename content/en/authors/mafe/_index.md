@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maria Fernanda Reyes
+title: María Fernanda Reyes
 
 # Username (this should match the folder name)
 authors:
