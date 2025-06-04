@@ -1,6 +1,6 @@
 +++
 title = "Sexual Modes Questionnaire (SMQ): Spanish translation, adaptation, and preliminary evidence of psycho‑metric properties in a Colombian sample"
-date = 2025-06-01T00:00:00
+date = 2025-05-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["mva", "valentina-cepeda", "Emily Roa", "Juan Sebastian Torres", "Natalia Maldonado-Avendaño", "Marina Begoña Martínez-González", "admin"]
