@@ -17,7 +17,7 @@ authors = ["mva", "ancc", "Wendy Medina-Sarmiento", "valentina-cepeda", "Marina 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Evolution and Human Behavior*, in press"
+publication = "*Evolution and Human Behavior, 46*(4), 106707"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "Women’s preferences for facial masculinity in men are influenced b
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.evolhumbehav.2025.106707"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S109051382500056X/pdfft?md5=1cf1158fc0b15b8fe20ef728eda1e02a&pid=1-s2.0-S109051382500056X-main.pdf"
 url_preprint = "https://osf.io/preprints/osf/me47r"
 url_code = ""
 url_dataset = ""
@@ -65,7 +65,8 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Suplementario", url = "https://osf.io/9b8tv"}]
+links = [{name = "Material Suplementario", url = "https://osf.io/9b8tv"},
+{name = "Preprint", url = "https://doi.org/10.31219/osf.io/me47r"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
