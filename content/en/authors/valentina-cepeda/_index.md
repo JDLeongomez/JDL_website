@@ -46,9 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0009-0006-5937-5773
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0009-0007-2620-6743
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-cadavid-molecular-biology/
