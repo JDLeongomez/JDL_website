@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Psicología | Supervisión de investigación desde 2023
+role: Psicología | Supervisión de investigación 2023-2024
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2023.
+bio: Estudiante de investigación de Pregrado 2023-2024.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
