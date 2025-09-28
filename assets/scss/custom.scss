@@ -1,0 +1,192 @@
+/* --- Hero: media y layout --- */
+.wg-hero .hero-media img {
+    max-width: 420px;
+    /* ajusta si lo quieres más pequeño/grande */
+    height: auto;
+    border-radius: 16px;
+    /* opcional, quita si no lo quieres redondeado */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, .25);
+    /* opcional */
+}
+
+/* Si hero_media_align no se respeta en tu versión, fuerza orden: texto izq, media der */
+.wg-hero .hero-text {
+    order: 1;
+}
+
+.wg-hero .hero-media {
+    order: 2;
+}
+
+/* --- Contenedor reutilizable de acciones (en hero y fuera del hero) --- */
+.hero-actions {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+/* --- Botones base (pill) en cualquier .hero-actions --- */
+.hero-actions .btn {
+    padding: .65rem 1rem;
+    border-radius: 9999px;
+    /* pill */
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+/* Primario MetaCiencia reutilizable */
+.hero-actions .btn-primary {
+    background-color: #d400aa;
+    border: 2px solid #d400aa;
+    color: #fff;
+}
+
+.hero-actions .btn-primary:hover {
+    filter: brightness(1.06);
+}
+
+/* Secundario (outline) reutilizable */
+.hero-actions .btn-secondary {
+    background: transparent;
+    border: 2px solid #d400aa;
+    color: #fff;
+    /* en tema claro cámbialo por #d400aa si lo prefieres */
+}
+
+.hero-actions .btn-secondary:hover {
+    background: #d400aa;
+    color: #fff;
+}
+
+/* Ícono junto al texto (para Font Awesome, etc.) */
+.hero-actions .btn-icon i {
+    font-size: 1.1rem;
+    margin-right: 8px;
+    vertical-align: -2px;
+}
+
+/* --- Específicos del hero (se mantienen por compatibilidad) --- */
+.wg-hero .btn {
+    /* mantiene el tamaño y estilo dentro del hero */
+    padding: .65rem 1rem;
+    border-radius: 9999px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.wg-hero .btn-primary {
+    background-color: #d400aa;
+    border: 2px solid #d400aa;
+    color: #fff;
+}
+
+.wg-hero .btn-primary:hover {
+    filter: brightness(1.06);
+}
+
+.wg-hero .btn-secondary {
+    background: transparent;
+    border: 2px solid #d400aa;
+    color: #fff;
+    /* en tema claro, podrías usar #d400aa */
+}
+
+.wg-hero .btn-secondary:hover {
+    background: #d400aa;
+    color: #fff;
+}
+
+.wg-hero .btn-icon i {
+    font-size: 1.1rem;
+    margin-right: 8px;
+    vertical-align: -2px;
+}
+
+/* --- Utilidades opcionales para usar botones fuera de .hero-actions --- */
+.btn-mc {
+    padding: .65rem 1rem;
+    border-radius: 9999px;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
+.btn-mc-primary {
+    background-color: #d400aa;
+    border: 2px solid #d400aa;
+    color: #fff;
+}
+
+.btn-mc-primary:hover {
+    filter: brightness(1.06);
+}
+
+.btn-mc-outline {
+    background: transparent;
+    border: 2px solid #d400aa;
+    color: #fff;
+    /* en tema claro: #d400aa */
+}
+
+.btn-mc-outline:hover {
+    background: #d400aa;
+    color: #fff;
+}
+
+/* --- Marca --- */
+.mc-ink {
+    font-weight: 800;
+    color: #d400aa;
+}
+
+/* ——— Fijar color de texto y fondo en botones fuera del hero ——— */
+.hero-actions a.btn,
+.hero-actions a.btn:link,
+.hero-actions a.btn:visited {
+    color: #fff !important;
+    /* asegura texto blanco por defecto */
+    text-decoration: none;
+}
+
+.hero-actions a.btn-primary,
+.hero-actions a.btn-primary:link,
+.hero-actions a.btn-primary:visited {
+    background-color: #d400aa !important;
+    border-color: #d400aa !important;
+    color: #fff !important;
+    background-image: none !important;
+    /* elimina gradientes del tema */
+}
+
+.hero-actions a.btn-primary:hover,
+.hero-actions a.btn-primary:focus,
+.hero-actions a.btn-primary:active {
+    filter: brightness(1.06);
+    color: #fff !important;
+}
+
+/* Outline en modo oscuro (texto magenta); cámbialo a #d400aa si usas tema claro */
+.hero-actions a.btn-secondary,
+.hero-actions a.btn-secondary:link,
+.hero-actions a.btn-secondary:visited {
+    background: transparent !important;
+    border: 2px solid #d400aa !important;
+    color: #fff !important;
+    /* en tema claro: usa #d400aa */
+    background-image: none !important;
+}
+
+.hero-actions a.btn-secondary:hover,
+.hero-actions a.btn-secondary:focus,
+.hero-actions a.btn-secondary:active {
+    background: #d400aa !important;
+    color: #fff !important;
+}
+
+/* Texto pequeño y legible para bloques intro */
+.mc-small {
+    font-size: 70%;
+    line-height: 1.55;
+    /* opcional: color un poco más suave */
+    /* color: var(--wc-font-color-secondary, #cfcfcf); */
+}

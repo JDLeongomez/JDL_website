@@ -51,22 +51,29 @@
 [[main]]
   identifier = "people"
   name = "Personas"
-  url = "team/"
+  url = "lab/"
   weight = 60
 
 [[main]]
   identifier = "people1"
   name = "Laboratorio (EvoCo)"
-  url = "team/"
+  url = "lab/"
   parent = "people"
   weight = 60
 
 [[main]]
   identifier = "people2"
+  name = "Semillero (Meta<strong>Ciencia</strong>)"
+  url = "metaciencia/"
+  parent = "people"
+  weight = 62
+  
+[[main]]
+  identifier = "people3"
   name = "Colaboraciones"
   url = "colabs/"
   parent = "people"
-  weight = 65
+  weight = 64
 
 [[main]]
   identifier = "resume"
