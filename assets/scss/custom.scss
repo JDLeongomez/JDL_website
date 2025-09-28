@@ -190,3 +190,84 @@
     /* opcional: color un poco más suave */
     /* color: var(--wc-font-color-secondary, #cfcfcf); */
 }
+
+/* -------- Callout MetaCiencia (compatible con versiones antiguas) -------- */
+.mc-callout .alert.alert-info,
+.mc-callout .callout.callout-info {
+  background-color: rgba(212, 0, 170, 0.12) !important; /* fondo magenta suave */
+  border-left: 4px solid #d400aa !important;
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0;
+  background-image: none !important; /* por si Bootstrap mete gradiente */
+}
+
+/* Texto y acentos */
+.mc-callout .alert.alert-info strong,
+.mc-callout .callout.callout-info strong {
+  color: #d400aa;
+  font-weight: 700;
+}
+
+/* Icono (si existe) */
+.mc-callout .alert.alert-info .alert-icon,
+.mc-callout .alert.alert-info i,
+.mc-callout .callout.callout-info .callout-icon {
+  color: #d400aa !important;
+}
+
+/* Enlaces dentro del callout */
+.mc-callout .alert.alert-info a,
+.mc-callout .callout.callout-info a {
+  color: #d400aa;
+  text-decoration-color: #d400aa;
+}
+
+/* Modo oscuro: un pelín más fuerte el fondo */
+@media (prefers-color-scheme: dark) {
+  .mc-callout .alert.alert-info,
+  .mc-callout .callout.callout-info {
+    background-color: rgba(212, 0, 170, 0.16) !important;
+  }
+}
+
+
+.callout.callout-mc h4,
+.callout.callout-mc strong {
+  color: #d400aa; /* resalta el título o palabras clave */
+}
+
+/* --- Texto blanco dentro del callout MetaCiencia --- */
+.mc-callout .alert.alert-info,
+.mc-callout .callout.callout-info {
+  color: #fff !important;                 /* color base del texto */
+}
+
+/* Asegura blanco en párrafos y listas */
+.mc-callout .alert.alert-info p,
+.mc-callout .alert.alert-info li,
+.mc-callout .callout.callout-info p,
+.mc-callout .callout.callout-info li {
+  color: #fff !important;
+}
+
+/* Enlaces en blanco (puedes dejar magenta si prefieres) */
+.mc-callout .alert.alert-info a,
+.mc-callout .callout.callout-info a {
+  color: #fff !important;
+  text-decoration-color: rgba(255,255,255,0.75);
+}
+.mc-callout .alert.alert-info a:hover,
+.mc-callout .callout.callout-info a:hover {
+  color: #fff !important;
+  text-decoration-color: #fff;
+}
+
+/* Mantén los acentos en magenta (título/palabras en negrita e ícono) */
+.mc-callout .alert.alert-info strong,
+.mc-callout .callout.callout-info strong,
+.mc-callout .alert.alert-info .alert-icon,
+.mc-callout .callout.callout-info .callout-icon {
+  color: #d400aa !important;
+}
+
