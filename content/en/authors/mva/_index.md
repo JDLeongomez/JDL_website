@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor / PhD supervision 2015-2018 / Postdoc supervision 2021-2022
+role: Associate Professor / Joint PhD supervision 2015-2018 / Postdoc supervision 2021-2022
 
 # Organizations/Affiliations
 organizations:
