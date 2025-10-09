@@ -55,7 +55,7 @@ email: ""
 
 # Organisational groups that you belong to (for People widget)
 user_groups:
-- Postgraduate Students
+- Graduate Students
 ---
 
 PhD candidate in Psychology at Universidad de los Andes. He holds an MSc in Social Neuroscience from Universidad Externado de Colombia and a Bachelor’s degree in Music from Universidad del Valle. His academic interests focus on social interactions mediated by nonverbal communication—particularly prosody—and their impact on prosocial relationships.  
