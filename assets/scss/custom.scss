@@ -271,3 +271,38 @@
   color: #d400aa !important;
 }
 
+/* Alumni (less emphasis) — when the widget container has class "people-alumni" */
+.people-alumni .people-person,
+.people-alumni .col-12.col-sm-auto.people-person {
+  opacity: 1; /* container still visible */
+}
+
+.people-alumni .people-person .avatar img,
+.people-alumni img.avatar,
+.people-alumni img.avatar-circle {
+  width: 96px !important;
+  height: 96px !important;
+  border-radius: 6px !important;
+  object-fit: cover !important;
+  opacity: 1 !important;
+  filter: saturate(0.80) contrast(0.92) grayscale(0.05) !important;
+  box-shadow: none !important;
+}
+
+.people-alumni .people-person .portrait-title h2,
+.people-alumni .people-person .name {
+  font-size: 0.95rem !important;
+  font-weight: 500 !important;
+  color: rgba(255,255,255,0.88) !important; /* for dark theme */
+}
+
+.people-alumni .people-person .portrait-title h3,
+.people-alumni .people-person .role {
+  font-size: 0.82rem !important;
+  color: rgba(255,255,255,0.62) !important;
+}
+
+/* responsive */
+@media (max-width: 768px) {
+  .people-alumni img.avatar { width: 48px !important; height: 48px !important; }
+}
