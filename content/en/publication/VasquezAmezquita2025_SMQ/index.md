@@ -18,7 +18,7 @@ author_notes = []
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Sexual and Relationship Therapy*, in press"
+publication = "*Sexual and Relationship Therapy, 40*(3), 605–629"
 publication_short = ""
 
 # Abstract.
