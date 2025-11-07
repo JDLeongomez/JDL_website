@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
+  title = "XV Convocatoria Interna de Investigación, 2025. Mecanismo **Investigación Avanzada**"
+  url = "https://investigaciones.unbosque.edu.co/financiacion-interna"
+  certificate_url = "https://investigaciones.unbosque.edu.co/s/DDOC-20251027-WA0022-1.pdf"
+  date_start = "2026-01-01"
+  date_end = ""
+  description = "[Evolutionary functions of infant‑directed speech: Impact on attention, auditory preferences, and early linguistic and musical development](https://github.com/JDLeongomez/Proyecto-IDS)"
+
+[[item]]
+  organization = "Universidad El Bosque"
+  organization_url = "https://uelbosque.edu.co"
   title = "*Papyrus* award: Most impactful article in Arts and Humanities"
   url = "https://www.coursera.org/learn/statistical-inferences"
   certificate_url = "Papyrus_2024_cert.pdf"

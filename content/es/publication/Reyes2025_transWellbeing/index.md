@@ -18,7 +18,7 @@ author_notes = []
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Neuroscience, 590*, 72-82"
 publication_short = ""
 
 # Abstract.
@@ -28,14 +28,14 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.neuroscience.2025.10.039"
 
 # Is this a featured publication? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [""]
+tags = ["Transgénero y no binario", "Bienestar subjetivo", "Salud mental", "Cohesión comunitaria", "Colombia"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -54,11 +54,11 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1m3l515hTu0og6/1/0102019a5ed10788-925a0014-1bf6-40b6-a3c9-7eb716fc5b32-000000/_naoHyfKP_vaV2CLcGBp2jMqn4U=451"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "10.17605/OSF.IO/HJ7VB"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -66,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "", url = ""}]
+links = [{name = "Material Suplementario", url = "https://osf.io/hj7vb/files/e6qbh"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

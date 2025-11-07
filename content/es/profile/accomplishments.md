@@ -21,11 +21,21 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
+  title = "XV Convocatoria Interna de Investigación, 2025. Mecanismo **Investigación Avanzada**"
+  url = "https://investigaciones.unbosque.edu.co/financiacion-interna"
+  certificate_url = "https://investigaciones.unbosque.edu.co/s/DDOC-20251027-WA0022-1.pdf"
+  date_start = "2026-01-01"
+  date_end = ""
+  description = "[Funciones evolutivas del habla dirigida a bebés: Impacto en la atención, las preferencias auditivas y el desarrollo lingüístico y musical temprano](https://github.com/JDLeongomez/Proyecto-IDS)"
+
+[[item]]
+  organization = "Universidad El Bosque"
+  organization_url = "https://uelbosque.edu.co"
   title = "Reconocimiento *Papyrus*: Artículo de mayor impacto en Artes y Humanidades"
   url = "https://www.coursera.org/learn/statistical-inferences"
   certificate_url = "Papyrus_2024_cert.pdf"
   date_start = "2024-10-08"
-  description = "Noche de los Investigadores 2024."
+  description = "Noche de los Investigadores 2024"
   
 [[item]]
   organization = "Coursera (Eindhoven University of Technology)"
@@ -35,7 +45,7 @@ date_format = "Jan 2006"
   certificate_url = "ImprovingStatisticalInferencesCert.pdf"
   date_start = "2024-02-02"
   date_end = "2024-06-02"
-  description = "Curso corto."
+  description = "Curso corto"
   
 [[item]]
   organization = "Coursera (Johns Hopkins University)"
@@ -45,7 +55,7 @@ date_format = "Jan 2006"
   certificate_url = "MachineLearningCert.pdf"
   date_start = "2021-02-26"
   date_end = "2021-04-20"
-  description = "Curso corto."
+  description = "Curso corto"
 
 [[item]]
   organization = "Improbable Research"
@@ -54,7 +64,7 @@ date_format = "Jan 2006"
   url = "https://www.improbable.com/ig-about/winners/#ig2020"
   certificate_url = "ignobelcert.jpg"
   date_start = "2020-09-17"
-  description = "National income inequality predicts cultural variation in mouth to mouth kissing."
+  description = "National income inequality predicts cultural variation in mouth to mouth kissing"
 
 [[item]]
   organization = "Minciencias"
@@ -64,7 +74,7 @@ date_format = "Jan 2006"
   certificate_url = "cto 086-2018-Universidad El Bosque Señales Per.pdf"
   date_start = "2018-01-15"
   date_end = "2019-01-15"
-  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales."
+  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales"
 
 [[item]]
   organization = "Universidad El Bosque"
@@ -74,7 +84,7 @@ date_format = "Jan 2006"
   certificate_url = "PCI 2017-9444 ACTA DE INICIO.pdf"
   date_start = "2018-01-01"
   date_end = "2021-12-21"
-  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales."
+  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales"
   
 [[item]]
   organization = "Universidad El Bosque"
@@ -84,7 +94,7 @@ date_format = "Jan 2006"
   certificate_url = "2._carta_aval.pdf"
   date_start = "2017-01-01"
   date_end = "2020-12-21"
-  description = "Efecto de señales estáticas evolutivamente relevantes (sexo, dominancia y atractivo) en el procesamiento cortical de rostros humanos [Effect of evolutionary relevant static signals (sex, dominance, and attractiveness) on cortical face processing humans]."
+  description = "Efecto de señales estáticas evolutivamente relevantes (sexo, dominancia y atractivo) en el procesamiento cortical de rostros humanos [Effect of evolutionary relevant static signals (sex, dominance, and attractiveness) on cortical face processing humans]"
 
 [[item]]
   organization = "Universidad El Bosque"
