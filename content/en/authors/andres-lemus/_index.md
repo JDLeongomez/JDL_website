@@ -49,8 +49,8 @@ user_groups:
 
 ## **Research project** 
 
-*¿Cómo influye la conducta verbal en la percepción de la sociosexualidad durante el cortejo?* [How does verbal behaviour influence the perception of sociosexuality during courtship?]
+*Sociosexualidad percibida a partir del contenido verbal de los discursos* [Perceived sociosexuality based on speech verbal content]
 
-Universidad El Bosque, since 2024
+<a href="https://hdl.handle.net/20.500.12495/18119" target="_blank">**https://hdl.handle.net/20.500.12495/18119**</a>
 
-**Supervisor:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+Universidad El Bosque, 2024-2025

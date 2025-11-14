@@ -45,8 +45,10 @@ user_groups:
 
 ## **Research project**  
 
-*To be defined*
+*¿Cómo influyen los rasgos faciales y las descripciones personales en la percepción de la sociosexualidad y la elección de pareja?* [How do facial features and personal descriptions influence perceptions of sociosexuality and partner choice?]
 
-Universidad El Bosque, since 2024
+<a href="https://hdl.handle.net/20.500.12495/18118" target="_blank">**https://hdl.handle.net/20.500.12495/18118**</a>
 
-**Supervisor:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+Universidad El Bosque, 2024-2025
+
+**Supervisores:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

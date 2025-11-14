@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación 2025 / Psicología | Supervisión de investigación desde 2024
+role: Asistente de investigación 2025 / Psicología | Supervisión de investigación 2024-2025
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2024.
+bio: Estudiante de investigación de Pregrado desde 2024-2025.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,15 +44,17 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes de Pregrado
+- Antiguos Estudiantes de Pregrado
 - Asistentes de Investigación
 ---
 
-## **Proyecto de investigación de Pregrado** 
+## **Proyecto de investigación de Pregrado**  
 
-*¿Cómo influye la conducta verbal en la percepción de la sociosexualidad durante el cortejo?* [How does verbal behaviour influence the perception of sociosexuality during courtship?]
+*Sociosexualidad percibida a partir del contenido verbal de los discursos*
 
-Universidad El Bosque, desde 2024
+<a href="https://hdl.handle.net/20.500.12495/18119" target="_blank">**https://hdl.handle.net/20.500.12495/18119**</a>
+
+Universidad El Bosque, 2024-2025
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
@@ -60,6 +62,14 @@ Universidad El Bosque, desde 2024
 
 *Implementación de un Kit artesanal para la cuantificación de testosterona en saliva* [Implementation of a handmade kit for the quantification of testosterone in saliva].
 
-Universidad El Bosque, since 2025.
+Universidad El Bosque, desde 2025.
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+## **Proyecto de investigación (Asistente de investigación)**
+
+*¿El canto sincronizado mejora el vínculo social más que el habla?* [[Does synchronised singing enhance social bonding more than speaking does?](https://doi.org/10.31234/osf.io/pv3m9)].
+
+Universidad El Bosque, desde 2025.
+
+**Supervisores:** [Juan David Leongómez](/es/#about).

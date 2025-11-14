@@ -50,16 +50,26 @@ user_groups:
 
 ## **Research project (BSc)** 
 
-*¿Cómo influye la conducta verbal en la percepción de la sociosexualidad durante el cortejo?* [How does verbal behaviour influence the perception of sociosexuality during courtship?]
+*Sociosexualidad percibida a partir del contenido verbal de los discursos* [Perceived sociosexuality based on speech verbal content]
 
-Universidad El Bosque, since 2024
+<a href="https://hdl.handle.net/20.500.12495/18119" target="_blank">**https://hdl.handle.net/20.500.12495/18119**</a>
+
+Universidad El Bosque, 2024-2025
 
 **Supervisor:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
 ## **Research Project (RA)**
 
-*Implementation of a handmade kit for the quantification of testosterone in saliva* [Implementación de un Kit artesanal para la cuantificación de testosterona en saliva].
+*Implementación de un Kit artesanal para la cuantificación de testosterona en saliva* [Implementation of a handmade kit for the quantification of testosterone in saliva].
 
 Universidad El Bosque, since 2025.
 
-**Supervisors:** [Juan David Leongómez](/en/#about) and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/)
+**Supervisores:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+
+## **Research Project (RA)**
+
+[*Does synchronised singing enhance social bonding more than speaking does?*](https://doi.org/10.31234/osf.io/pv3m9).
+
+Universidad El Bosque, since 2025.
+
+**Supervisores:** [Juan David Leongómez](/es/#about).
