@@ -1,6 +1,6 @@
 +++
 title = "Does trait sexual desire predict subjective sexual response to erotic stimuli? Effects of participant and stimulus gender, and relationship status among cisgender heterosexual women and men"
-date = 2025-02-15T00:00:00
+date = 2025-12-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["mva", "Marina Begoña Martínez-González", "Meredith L Chivers", "admin"]
