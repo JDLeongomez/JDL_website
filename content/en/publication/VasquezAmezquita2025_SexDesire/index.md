@@ -17,7 +17,7 @@ authors = ["mva", "Marina Begoña Martínez-González", "Meredith L Chivers", "a
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Archives of Sexual Behavior*"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "Identifying interpersonal disease threats is critical for effectivel
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/s10508-025-03298-w"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Supplementary Material", url = "https://osf.io/gjkr3"}]
+links = [{name = "Supplementary Material", url = "https://link.springer.com/article/10.1007/s10508-025-03298-w#Sec22"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
