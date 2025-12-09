@@ -1,6 +1,6 @@
 +++
-title = "Bright is not always right: Peri‑iridial lightness reduces attractiveness via perceived sex‑typicality across human populations"
-date = 2025-01-02T00:00:00
+title = "Light is not always right: Peri‑iridial lightness reduces attractiveness via perceived sex‑typicality across human populations"
+date = 2025-12-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Vojtěch Fiala", "Juan Olvido Perea-García", "Petr Tureček", "Sławomir Wacewicz", "admin", "Šimon Pokorný", "Ondřej Pavlovič", "S. Adil Saribay", "Farid Pazhoohi", "Robert Mbe Akoko", "Karel"]
@@ -15,14 +15,14 @@ authors = ["Vojtěch Fiala", "Juan Olvido Perea-García", "Petr Tureček", "Sła
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Behavioral Ecology and Sociobiology*, in press"
 publication_short = ""
 
 # Abstract.
-abstract = "Evolutionary psychology views the human eye as special, claiming that the light bright peri-iridial tissues surrounding a relatively darker iris form a combination that sets us apart from other primates. From this perspective, much less attention has been paid to how eye colouration varies between humans, although available evidence indicates that variations in peri-iridial and iridial colouration influence both perceived facial attractiveness and sex-typicality. <br><br> To determine what aspects of eye colouration influence the perception of faces, we have measured the colour of iris and peri-iridial eye tissues (‘the white of the eye’) in nine samples from seven distant cultures (N=1,033) across three continents. The faces were rated on facial attractiveness and sex-typicality by raters from the corresponding populations. Accounting for the effects of skin lightness, age, and facial shape, we ran a Bayesian multilevel model to estimate both global and sample-specific effects of colouration of the iris and peri-iridial tissues on perceived sex-typicality and attractiveness of faces. <br><br> This study revealed an overall preference for slightly darker peri-iridial tissues in women, whereby this association was mediated by perceived sex-typicality. Our findings challenge the concept that the light-eyed phenotype is universally preferred by human raters. Instead, they suggest a preference for a moderate phenotype, perhaps because very light peri-iridial tissues are typical of faces which are generally perceived as less feminine. Women with bluer irises were generally perceived as more attractive but findings related to other colour channels and iris features were inconsistent and varied across samples."
+abstract = "Evolutionary psychology views the human eye as special. In particular, it claims that the light peri-iridial tissues surrounding a relatively darker iris form a combination that sets us apart from other primates. From this perspective, much less attention has been paid to how eye colouration varies between humans, although evidence indicates that variations in peri-iridial and iridial colouration influence both perceived facial attractiveness and sex-typicality. <br><br> To determine what aspects of eye colouration influence the perception of faces, we have measured the colour of peri-iridial eye tissues (‘the white of the eye’) and the iris in nine samples from seven distant cultures (N=1,033) across three continents. The faces were rated on facial attractiveness and sex-typicality by raters from the corresponding populations. Accounting for the effects of skin lightness, age, and facial shape, we ran a Bayesian multilevel model to estimate global and sample-specific effects of colouration of the iris and peri-iridial tissues on perceived sex-typicality and facial attractiveness. <br><br> This exploratory, cross-sectional study revealed an overall preference for slightly darker peri-iridial tissues in women, whereby this association was mediated by perceived sex-typicality. Our findings challenge the notion that the light-eyed phenotype is universally preferred by human raters. Instead, they suggest a preference for a moderate phenotype, perhaps because very light peri-iridial tissues are typical of faces which are generally perceived as less feminine. Women with bluer irises were generally perceived as more attractive but findings related to other colour channels and iris features were inconsistent and varied across samples."
 
 # Summary. An optional shortened abstract.
 summary = ""
