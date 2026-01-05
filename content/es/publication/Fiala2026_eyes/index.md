@@ -1,6 +1,6 @@
 +++
 title = "Light is not always right: Peri‑iridial lightness reduces attractiveness via perceived sex‑typicality across human populations"
-date = 2025-12-08T00:00:00
+date = 2026-01-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Vojtěch Fiala", "Juan Olvido Perea-García", "Petr Tureček", "Sławomir Wacewicz", "admin", "Šimon Pokorný", "Ondřej Pavlovič", "S. Adil Saribay", "Farid Pazhoohi", "Robert Mbe Akoko", "Karel"]
@@ -18,7 +18,7 @@ authors = ["Vojtěch Fiala", "Juan Olvido Perea-García", "Petr Tureček", "Sła
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Behavioral Ecology and Sociobiology*, in press"
+publication = "*Behavioral Ecology and Sociobiology, 80*, 7"
 publication_short = ""
 
 # Abstract.
@@ -28,7 +28,7 @@ abstract = "Evolutionary psychology views the human eye as special. In particula
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/s00265-025-03680-7"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,11 +55,11 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://link.springer.com/content/pdf/10.1007/s00265-025-03680-7.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://github.com/VojtechFiala/EyeProject_Paper_One"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -67,7 +67,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Material suplementario", url = "https://static-content.springer.com/esm/art%3A10.1007%2Fs00265-025-03680-7/MediaObjects/265_2025_3680_MOESM1_ESM.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

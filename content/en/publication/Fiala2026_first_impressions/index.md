@@ -1,9 +1,9 @@
 +++
-title = "Social media use does not change cross‑cultural consensus in first impressions"
-date = 2025-05-14T00:00:00
+title = "Self‐reported social media use does not affect cross‐cultural consensus in first impressions"
+date = 2026-01-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vojtěch Fiala", "Sławomir Wacewicz", "Zuzana Štěrbová", "Ondřej Pavlovič", "admin", "S. Adil Sarıbay", "Karel", "Petr Tureček"]
+authors = ["Vojtěch Fiala", "Sławomir Wacewicz", "Zuzana Štěrbová", "Ondřej Pavlovič", "admin", "ancc", "S. Adil Sarıbay", "Karel", "Petr Tureček"]
 
 # Publication type.
 # Legend:
@@ -34,8 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Acuerdo transcultural", "Características faciales", "Personas WEIRD", "Morfometría geométrica"]
-
+tags = ["Cross-Cultural Agreement", "Facial Characteristics", "WEIRD people", "Geometric Morphometrics"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
