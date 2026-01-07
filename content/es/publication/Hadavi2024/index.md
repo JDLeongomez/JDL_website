@@ -17,7 +17,7 @@ authors = ["Shafagh Hadavi", "Junji Kuroda", "Taiki Shimozono", "admin", "Patric
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In principle acceptance by *Peer Community in Registered Reports*"
+publication = "In principle acceptance by *PCI Registered Reports*"
 publication_short = ""
 
 # Abstract.

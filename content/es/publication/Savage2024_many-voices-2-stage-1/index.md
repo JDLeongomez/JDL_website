@@ -17,7 +17,7 @@ authors = ["Patrick E. Savage", "Adwoa Ampiah-Bonney", "Aleksandar Arabadjiev", 
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In principle acceptance by *Peer Community in Registered Reports*"
+publication = "In principle acceptance by *PCI Registered Reports*"
 publication_short = ""
 
 # Abstract.

@@ -1,9 +1,10 @@
 +++
 title = "Effects of stimulus emotional content on gaze pattern: an eye-tracking study"
-date = 2025-01-30T00:00:00
+date = 2026-01-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["ancc", "admin", "Daniela Arias-Otero", "Valeria Uribe-Jaramillo", "mva"]
+authors = ["ancc", "Daniela Arias-Otero", "Valeria Uribe-Jaramillo", "admin", "mva"]
+author_notes = ["", "", "", "Joint senior author", "Joint senior author"]
 
 # Publication type.
 # Legend:
@@ -14,10 +15,10 @@ authors = ["ancc", "admin", "Daniela Arias-Otero", "Valeria Uribe-Jaramillo", "m
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*PLOS One*, in press"
 publication_short = ""
 
 # Abstract.
@@ -34,7 +35,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Sesgos atencionales", "Contenido emocional", "Atención temprana", "Atención tardía", "Rastreo ocular"]
+tags = ["Attentional biases", "Emotional content", "Early attention", "Late attention", "Eye tracking"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -65,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Suplementario", url = "https://osf.io/9b8tv"}]
+links = [{name = "Supplementary Material", url = "https://osf.io/9b8tv"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

@@ -17,7 +17,7 @@ authors = ["admin"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication = "*Peer Community in Registered Reports*, 100646"
+publication = "*PCI Registered Reports*, 100646"
 publication_short = ""
 
 # Abstract.
