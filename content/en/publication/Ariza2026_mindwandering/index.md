@@ -1,6 +1,6 @@
 +++
 title = "Spontaneous thought and memory consolidation: An investigation into mindwandering evoked by preferred music and its influence on short‑term memory consolidation"
-date = 2025-03-23T00:00:00
+date = 2026-01-12T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["juan-f-ariza", "admin"]
