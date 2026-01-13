@@ -27,7 +27,7 @@ abstract = "Research has shown that rest is beneficial for memory consolidation.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/wbfs3_v1"
+doi = "10.31234/osf.io/wbfs3_v3"
 
 # Is this a featured publication? (true/false)
 featured = false
