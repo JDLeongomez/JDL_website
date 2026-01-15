@@ -17,7 +17,7 @@ authors = ["mva", "Marina Begoña Martínez-González", "Meredith L Chivers", "a
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Archives of Sexual Behavior*"
+publication = "*Archives of Sexual Behavior, 54*, 4209–4223"
 publication_short = ""
 
 # Abstract.
@@ -53,7 +53,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://link.springer.com/content/pdf/10.1007/s10508-025-03298-w.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

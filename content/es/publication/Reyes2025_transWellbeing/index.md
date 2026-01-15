@@ -18,7 +18,7 @@ author_notes = []
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "*Neuroscience, 590*, 72-82"
+publication = "*Neuroscience, 590*, 72–82"
 publication_short = ""
 
 # Abstract.
