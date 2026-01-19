@@ -1,6 +1,6 @@
 +++
-title = "Spontaneous thought and memory consolidation: An investigation into mindwandering evoked by preferred music and its influence on short‑term memory consolidation"
-date = 2026-01-12T00:00:00
+title = "Mind wandering during rest, evoked by preferred music, does not impede short-term memory consolidation"
+date = 2026-01-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["juan-f-ariza", "admin"]
@@ -27,7 +27,7 @@ abstract = "Research has shown that rest is beneficial for memory consolidation.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/wbfs3_v3"
+doi = "10.31234/osf.io/wbfs3_v4"
 
 # Is this a featured publication? (true/false)
 featured = false
