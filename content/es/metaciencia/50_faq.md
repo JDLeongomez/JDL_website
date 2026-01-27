@@ -40,7 +40,7 @@ title = "Preguntas frecuentes"
   <summary><strong>¿Qué pasa si manifiesto interés pero no quedo seleccionado/a?</strong></summary>
   <p>
     En ese caso, mantendremos el contacto para futuras actividades, nuevas cohortes
-    del semillero o colaboraciones puntuales relacionadas con Meta<span class='mc-ink'><strong>Ciencia</strong></span>.
+    del semillero o colaboraciones puntuales relacionadas con <strong>Meta<span class='mc-ink'>Ciencia</span></strong>.
   </p>
 </details>
 

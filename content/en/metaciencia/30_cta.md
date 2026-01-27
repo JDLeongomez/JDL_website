@@ -3,7 +3,7 @@ widget = "blank"
 headless = true
 active = true
 weight = 30
-title = "Get involved"
+title = "More information"
 +++
 
-👉 If you are interested in joining Meta**Ciencia**, please [contact me](http://localhost:4321/en/#contact)
+For up-to-date information about <strong>Meta<span class='mc-ink'>Ciencia</span></strong>, current calls, and activities, please refer to the Spanish version of this page or [get in touch](https://jdleongomez.info/en/#contact).

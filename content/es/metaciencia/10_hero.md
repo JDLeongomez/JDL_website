@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 10
 
-title = "Meta<span class='mc-ink'>Ciencia</span>"
+title = "<strong>Meta<span class='mc-ink'>Ciencia</span></strong>"
 subtitle = "Semillero de investigación — Universidad El Bosque"
 
 hero_media = "logo_MetaCiencia.png"
@@ -14,7 +14,7 @@ hero_media_align = "right"
 
 <br>
 <p>
-Semillero de Meta<span class='mc-ink'><strong>Ciencia</strong></span>, ciencia abierta y reproducibilidad.
+Semillero de <strong>Meta<span class='mc-ink'>Ciencia</span></strong>, ciencia abierta y reproducibilidad.
 Actualmente en proceso de conformación.
 Abierto a estudiantes de pregrado y posgrado, así como a profesoras y profesores de distintas universidades.
 </p>
