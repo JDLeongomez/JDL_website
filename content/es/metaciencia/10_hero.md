@@ -18,7 +18,7 @@ hero_media_align = "right"   # si tu versión lo ignora, el CSS de abajo lo arre
 
 <br>
 <div class="hero-actions">
-  <a class="btn btn-primary" href="https://forms.office.com/r/k3wp85Tcdq" target="_blank" rel="noopener">👉 Formulario de inscripción</a>
+  <a class="btn btn-primary" href="https://forms.office.com/Pages/ResponsePage.aspx?id=UMLAdHccXUCbHprB9Qir4xFt6yqql-lHnfqiF7J8_ndUNldKUUJWNzNVOFMxVUs0SFlFTUNOR1EzQy4u&lang=es-CO" target="_blank" rel="noopener">👉 Formulario de inscripción</a>
   <a class="btn btn-secondary" href="https://jdleongomez.github.io/Presentacion_MetaCiencia/" target="_blank" rel="noopener">Ver presentación</a>
   <a class="btn btn-secondary btn-icon" href="https://github.com/JDLeongomez/Presentacion_MetaCiencia/" target="_blank" rel="noopener">
     <i class="fab fa-github" aria-hidden="true"></i><span> Ver repositorio</span>
