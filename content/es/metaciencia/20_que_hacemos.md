@@ -6,6 +6,8 @@ weight = 20
 title = "¿Qué hacemos?"
 +++
 
+Durante su primera etapa, el semillero Meta<span class='mc-ink'><strong>Ciencia</strong></span> se enfocará en:
+
 - **Explorar cómo se hace ciencia.** Mirada crítica y basada en evidencia, desde psicología y ciencias del comportamiento hacia otras disciplinas.  
 - **Herramientas prácticas.** Preregistro, Reportes Registrados, análisis reproducibles en R/Python, gestión de datos y licencias abiertas.  
 - **Colaboración interdisciplinaria.** Conecta personas de distintas carreras y universidades en proyectos conjuntos.  

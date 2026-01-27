@@ -3,13 +3,17 @@ widget = "blank"
 headless = true
 active = true
 weight = 60
-title = "¿Te interesa unirte?"
+title = "¿Te interesa vincularte?"
 +++
 
-**Deja tus datos y te avisamos cuando empiece.**
+Confirma tu interés en vincularte formalmente al semillero Meta<strong><span class='mc-ink'>Ciencia</span></strong>.
 
 <div class="hero-actions">
-  <a class="btn btn-primary" href="https://forms.office.com/r/k3wp85Tcdq" target="_blank" rel="noopener">👉 Formulario de inscripción</a>
+  <a class="btn btn-primary" href="https://forms.office.com/Pages/ResponsePage.aspx?id=UMLAdHccXUCbHprB9Qir4xFt6yqql-lHnfqiF7J8_ndUNldKUUJWNzNVOFMxVUs0SFlFTUNOR1EzQy4u&lang=es-CO" target="_blank" rel="noopener">
+    👉 Vinculación formal al semillero
+  </a>
 </div><br>
 
-<p style="font-size:90%;">Tiempo estimado: 1 minuto</p>
+<p style="font-size:90%;">
+La información será utilizada para conformar el grupo de trabajo y coordinar las actividades.
+</p>
