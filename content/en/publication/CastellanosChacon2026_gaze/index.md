@@ -1,6 +1,6 @@
 +++
 title = "Effects of stimulus emotional content on gaze pattern: an eye-tracking study"
-date = 2026-01-05T00:00:00
+date = 2026-01-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["ancc", "Daniela Arias-Otero", "Valeria Uribe-Jaramillo", "admin", "mva"]
@@ -18,7 +18,7 @@ author_notes = ["", "", "", "Joint senior author", "Joint senior author"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PLOS One*, in press"
+publication = "*PLOS One 21*(1), e0341261"
 publication_short = ""
 
 # Abstract.
@@ -28,7 +28,7 @@ abstract = "When stimuli with negative, positive, and without emotional content 
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1371/journal.pone.0341261"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -58,7 +58,7 @@ url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://osf.io/c89nx/"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -66,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Supplementary Material", url = "https://osf.io/9b8tv"}]
+links = [{name = "Supplementary Material", url = "https://figshare.com/articles/journal_contribution/_p_Supplementary_method_code_and_data_analyses_p_/31172937"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
