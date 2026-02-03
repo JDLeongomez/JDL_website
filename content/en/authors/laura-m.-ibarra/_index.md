@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant since 2024
+role: Research Assistant 2024-2025
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Research assistant at EvoCo: Human Behaviour and Evolution Lab since 2024.'
+bio: 'Research assistant at EvoCo: Human Behaviour and Evolution Lab 2024-2025.'
 
 interests:
 - Antimicrobial resistance
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Former Research Assistants
 ---
 
 Laura works at the [Molecular Genetics and Antimicrobial Resistance Unit (UGRA)](https://investigaciones.unbosque.edu.co/ugra) at Universidad El Bosque. Together with [Maria José Cadavid](/en/author/maria-jose-cadavid/), she began collaborating with me in the second semester of 2024 as part of an integration programme led by the Vice-Rectory of Research.

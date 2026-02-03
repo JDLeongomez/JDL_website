@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación desde 2024
+role: Asistente de investigación 2024-2025
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comportamiento Humano desde 2024.'
+bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comportamiento Humano 2024-2025.'
 
 interests:
 - Microbiología
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Asistentes de Investigación
+- Antiguos Asistentes de Investigación
 ---
 
 María José trabaja en la [Unidad de Genética Molecular y Resistencia Antimicrobiana (UGRA)](https://investigaciones.unbosque.edu.co/ugra) de la Universidad El Bosque. Junto con [Laura Ibarra](/es/author/laura-m.-ibarra/), comenzó a colaborar conmigo en el segundo semestre de 2024 como parte de un programa de integración liderado por la Vicerrectoría de Investigación.

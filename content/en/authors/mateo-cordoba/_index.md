@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant 2018 - 2021
+role: Research Assistant 2018-2021
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.javeriana.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano 2018 - 2021
+bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano 2018-2021
 
 interests:
 - Psychiatry
