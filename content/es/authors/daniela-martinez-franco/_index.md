@@ -66,4 +66,4 @@ Este proyecto de investigación recibió premio como trabajo **Meritorio** y fue
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
-{{< youtube A9xNV3BqRJw >}}
+{{< youtube xhYq7HeEPP4 >}}

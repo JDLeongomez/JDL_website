@@ -51,4 +51,4 @@ Universidad El Bosque, 2024
 
 **Supervisor:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
-{{< youtube Pb-00b41j98 >}}
+{{< youtube taKzODEX4zg >}}

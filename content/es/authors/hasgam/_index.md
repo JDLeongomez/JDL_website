@@ -51,4 +51,4 @@ Universidad El Bosque, 2019-2020
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
-{{< youtube J6nUuifYjbU >}}
+{{< youtube Jrkp2k_KzZsM >}}
