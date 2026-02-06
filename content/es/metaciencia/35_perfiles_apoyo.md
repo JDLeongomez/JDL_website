@@ -6,6 +6,8 @@ weight = 35
 title = "¿Qué perfiles buscamos?"
 +++
 
+<a id="perfiles"></a>
+
 Además de investigar, queremos **crear contenidos y productos de comunicación**. Si puedes apoyar o quieres aprender de alguno de estos frentes, ¡súper bienvenido/a!  
 - **Comunicación científica**: redacción, redes sociales, notas de divulgación.  
 - **Diseño gráfico**: identidad visual, piezas para web y redes, infografías.  

@@ -6,6 +6,8 @@ weight = 50
 title = "Preguntas frecuentes"
 +++
 
+<a id="faq"></a>
+
 <details>
   <summary><strong>¿Tiene costo participar?</strong></summary>
   <p>No. Las actividades regulares del semillero no tienen costo.</p>

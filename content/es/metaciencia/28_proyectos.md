@@ -6,6 +6,8 @@ weight = 28
 title = "Proyectos"
 +++
 
+<a id="proyectos"></a>
+
 Los proyectos del semillero deben **nacer de los intereses de sus integrantes**. Pero, por ejemplo, podríamos desarrollar proyectos como el que sugiero a continuación:
 
 ---

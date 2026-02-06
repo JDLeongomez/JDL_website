@@ -6,6 +6,8 @@ weight = 20
 title = "¿Qué hacemos?"
 +++
 
+<a id="que-hacemos"></a>
+
 Durante su primera etapa, el semillero <strong>Meta<span class='mc-ink'>Ciencia</span></strong> se enfocará en:
 
 - **Explorar cómo se hace ciencia.** Mirada crítica y basada en evidencia, desde psicología y ciencias del comportamiento hacia otras disciplinas.  

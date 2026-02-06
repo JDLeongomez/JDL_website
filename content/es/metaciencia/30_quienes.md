@@ -6,6 +6,8 @@ weight = 30
 title = "¿Quiénes pueden participar?"
 +++
 
+<a id="quienes"></a>
+
 El semillero está abierto a personas con distintos perfiles académicos y niveles de formación, y el grupo se encuentra actualmente en proceso de conformación:
 
 - **Estudiantes** de **pregrado** y **posgrado** de la **Universidad El Bosque** y de **otras universidades**.  

@@ -6,6 +6,8 @@ weight = 40
 title = "¿Cómo vincularse?"
 +++
 
+<a id="pasos"></a>
+
 1. **Confirma tu interés.**  
 Completa el formulario de vinculación formal (toma ~2 minutos).  
 <div class="hero-actions">

@@ -306,3 +306,91 @@
 @media (max-width: 768px) {
   .people-alumni img.avatar { width: 48px !important; height: 48px !important; }
 }
+
+/* --- TOC MetaCiencia: tarjeta elegante ----------------------------- */
+
+.mc-toc {
+  margin: 1.5rem 0 2rem;
+  padding: 1.1rem 1.3rem;
+  border-left: 4px solid #d400aa;                 /* acento MetaCiencia */
+  border-radius: 12px;
+  background-color: rgba(212, 0, 170, 0.10);      /* fondo magenta suave */
+}
+
+/* Título del TOC */
+.mc-toc strong {
+  display: block;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+  color: #d400aa;
+}
+
+/* Lista base */
+.mc-toc ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  columns: 2;            /* divide en dos columnas en desktop */
+  column-gap: 1.5rem;
+}
+
+/* Ítems */
+.mc-toc li {
+  margin: 0.3rem 0;
+  break-inside: avoid;   /* evita cortes feos entre columnas */
+}
+
+/* Enlaces */
+.mc-toc a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Hover */
+.mc-toc a:hover,
+.mc-toc a:focus,
+.mc-toc a:active {
+  color: #d400aa !important;                 /* evita verde del tema */
+  text-decoration: underline;
+  text-decoration-color: #d400aa;
+}
+
+/* Responsive: una sola columna en móvil */
+@media (max-width: 768px) {
+  .mc-toc ul {
+    columns: 1;
+  }
+}
+
+/* Modo oscuro: refuerza un poco el contraste */
+@media (prefers-color-scheme: dark) {
+  .mc-toc {
+    background-color: rgba(212, 0, 170, 0.16);
+  }
+}
+
+/* --- TOC MetaCiencia: chips / botones ------------------------------ */
+
+.mc-toc-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+/* Chip individual */
+.mc-toc-chips a {
+  padding: 0.45rem 0.85rem;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  background-color: rgba(212, 0, 170, 0.12);
+  color: #fff;
+}
+
+/* Hover */
+.mc-toc-chips a:hover {
+  background-color: #d400aa;
+}
