@@ -14,9 +14,9 @@ hero_media_align = "right"
 
 <br>
 <p>
-Semillero de <strong>Meta<span class='mc-ink'>Ciencia</span></strong>, ciencia abierta y reproducibilidad.
-Actualmente en proceso de conformación.
-Abierto a estudiantes de pregrado y posgrado, así como a profesoras y profesores de distintas universidades.
+<strong>Meta<span class='mc-ink'>Ciencia</span></strong> es un semillero de investigación y divulgación científica enfocado en metaciencia, ciencia abierta y reproducibilidad.
+
+Trabajamos tanto en proyectos académicos como en la creación de contenidos educativos dirigidos a estudiantes y profesionales.
 </p>
 
 <br>
