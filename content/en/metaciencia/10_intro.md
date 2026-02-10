@@ -4,7 +4,7 @@ headless = true
 active = true
 weight = 10
 
-title = "<strong>Meta<span class='mc-ink'>Cienci</span>a</strong>"
+title = "<strong>Meta<span class='mc-ink'>Ciencia</span></strong>"
 subtitle = "Student Research Incubator — Universidad El Bosque"
 
 hero_media = "logo_MetaCiencia.png"

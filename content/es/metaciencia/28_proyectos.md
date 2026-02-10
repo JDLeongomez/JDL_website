@@ -12,8 +12,7 @@ Los proyectos del semillero deben **nacer de los intereses de sus integrantes**.
 
 ---
 
-### 📌 Ejemplo de proyecto: Expansión y Adopción de los Reportes Registrados en
-Iberoamérica
+### 📌 Ejemplo de proyecto: Expansión y Adopción de los Reportes Registrados en Iberoamérica
 
 Un posible proyecto del semillero es el estudio y la promoción del formato de **Reportes Registrados** en América Latina.
 
@@ -41,6 +40,6 @@ Las fases iniciales de este proyecto son especialmente adecuadas para trabajo en
 <div class="mc-callout">
 {{% callout info %}}
 **¿Tienes otra idea de proyecto?**  
-El semillero está abierto a nuevas propuestas. Si te interesa investigar o divulgar sobre ciencia abierta, reproducibilidad u otros temas afines, puedes proponer y desarrollar tu propio proyecto dentro de MetaCiencia.
+El semillero está abierto a nuevas propuestas. Si te interesa investigar o divulgar sobre ciencia abierta, reproducibilidad u otros temas afines, puedes proponer y desarrollar tu propio proyecto dentro de <strong>Meta<span class='mc-ink'>Ciencia</span></strong>.
 {{% /callout %}}
 </div>
