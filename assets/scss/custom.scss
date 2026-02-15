@@ -394,3 +394,65 @@
 .mc-toc-chips a:hover {
   background-color: #d400aa;
 }
+
+/* ——— Scholar card ——— */
+
+.scholar-card {
+  display: block;
+  padding: 1.6rem;
+  border-radius: 16px;
+  background: var(--card-bg, #1e293b);
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid rgba(255,255,255,0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+}
+
+.scholar-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.25);
+  color: #d1d5db; // gris claro elegante
+}
+
+.scholar-card-header {
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 1.05rem;
+}
+
+.scholar-icon {
+  font-size: 1.6rem;
+  color: #fff; /* azul Google */
+}
+
+.scholar-stats {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.stat {
+  flex: 1;
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 1.9rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+.scholar-card,
+.scholar-card:hover,
+.scholar-card:focus,
+.scholar-card:active {
+  text-decoration: none !important;
+}

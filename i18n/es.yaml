@@ -128,3 +128,13 @@
   translation: Entendido!
 - id: cookie_learn
   translation: Más información
+
+# Scholar card
+- id: scholar_profile
+  translation: Perfil de Google Scholar
+- id: citations
+  translation: Citas
+- id: h_index
+  translation: Índice h
+- id: i10_index
+  translation: Índice i10

@@ -223,3 +223,17 @@
 
 - id: cookie_learn
   translation: Learn more
+
+# Scholar card
+
+- id: scholar_profile
+  translation: Google Scholar Profile
+
+- id: citations
+  translation: Citations
+
+- id: h_index
+  translation: h-index
+
+- id: i10_index
+  translation: i10-index

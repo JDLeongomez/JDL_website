@@ -1,0 +1,33 @@
+name: Update Google Scholar Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Todos los días 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-scholar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scholar update script
+        run: python scripts/update_scholar.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/scholar.json
+          git commit -m "Update Google Scholar stats" || echo "No changes to commit"
+          git push

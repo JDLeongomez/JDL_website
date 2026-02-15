@@ -1,0 +1,30 @@
+{{ $scholar := site.Data.scholar }}
+
+<a href="{{ $scholar.profile_url }}"
+   target="_blank"
+   rel="noopener"
+   class="scholar-card">
+
+  <div class="scholar-card-header">
+    <i class="ai ai-google-scholar scholar-icon"></i>
+    <span>{{ i18n "scholar_profile" }}</span>
+  </div>
+
+  <div class="scholar-stats">
+    <div class="stat">
+      <div class="stat-value">{{ $scholar.total_citations }}</div>
+      <div class="stat-label">{{ i18n "citations" }}</div>
+    </div>
+
+    <div class="stat">
+      <div class="stat-value">{{ $scholar.h_index }}</div>
+      <div class="stat-label">{{ i18n "h_index" }}</div>
+    </div>
+
+    <div class="stat">
+      <div class="stat-value">{{ $scholar.i10_index }}</div>
+      <div class="stat-label">{{ i18n "i10_index" }}</div>
+    </div>
+  </div>
+
+</a>
