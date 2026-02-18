@@ -63,14 +63,12 @@ user_groups:
 - Former Research Assistants
 ---
 
-Lina is a psychologist from the [Universidad de La Sabana](https://www.unisabana.edu.co/) and a Master's in Psychology for Organizations: Human Resources, Marketing and Communication from the [Università Cattolica del Sacro Cuore](https://www.unicatt.it/). I was her professor in inferential statistics and in a seminar on vocal communication at the [Universidad de La Sabana](https://www.unisabana.edu.co/) between 2015 and 2016, while she was doing her undergraduate degree.
+Lina is a psychologist from the [Universidad de La Sabana](https://www.unisabana.edu.co/), where I was her lecturer in statistics and in a seminar on the evolution of vocal communication. In 2020, she joined [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/) as a volunteer, where she began training in research methods, data analysis, and programming in R, and has supported several research projects as a research assistant.
 
-After completing her master's degree and returning to Colombia, Lina voluntarily joined the [Human Behavior Analysis Laboratory (EvoCo)](/en/team/) in 2020, where she has been training in research methods, data analysis and programming in R, and has supported research processes as a research assistant under my supervision.
+In 2023, she completed the MSc in Psychology of the Arts and Neuroaesthetics at [Goldsmiths, University of London](https://www.gold.ac.uk) (London, United Kingdom). She is currently pursuing a PhD in Cognition and Human Evolution at the [Universidad de las Islas Baleares](https://www.uib.es) (Spain).
 
-## **Research Project**  
+## **Research**
 
-*Detección de infidelidad previa y orientación sociosexual a partir de la voz* [Detection of previous infidelity and socio-sexual orientation from voice]
+Lina is interested in intercultural and interdisciplinary initiatives that integrate art and science as tools for interpersonal connection.
 
-Universidad El Bosque, 2020
-
-**Supervisor:** [Juan David Leongómez](/en/#about)
+Her research focuses on exploring how people coordinate and communicate through movement and dance, and on understanding how individual and cultural factors shape this experience at both aesthetic and social levels, with a particular emphasis on neuroaesthetics.

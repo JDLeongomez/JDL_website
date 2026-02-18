@@ -63,14 +63,12 @@ user_groups:
 - Antiguos Asistentes de Investigación
 ---
 
-Lina es psicóloga de la [Universidad de La Sabana](https://www.unisabana.edu.co/) y Magister en Psicología para las Organizaciones: Recursos Humanos, Marketing y Comunicación de la [Università Cattolica del Sacro Cuore](https://www.unicatt.it/). Fui profesor suyo en estadística inferencial y en un seminario sobre comunicación vocal en la [Universidad de La Sabana](https://www.unisabana.edu.co/) entre 2015 y 2016, mientras realizaba su pregrado.
+Lina es psicóloga de la [Universidad de La Sabana](https://www.unisabana.edu.co/), donde fui su profesor de estadística y un seminario de evolución de la comunicación vocal. En 2020 se vinculó de manera voluntaria a [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), donde comenzó a formarse en métodos de investigación, análisis de datos y programación en R, y a apoyar distintos proyectos como asistente de investigación.
 
-Tras hacer su maestría y regersar a Colombia, Lina se vinculó voluntariamente a [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/) en 2020, donde ha venido formándose en métodos de investigación, análisis de datos y programación en R, y ha apoyado procesos de investigación como asistente de investigación bajo mi supervisión.
+En 2023 finalizó el MSc en Psicología del Arte y Neuroestética en [Goldsmiths, University of London](https://www.gold.ac.uk) (Londres, Reino Unido). Actualmente realiza el Doctorado en Cognición y Evolución Humana en la [Unien la [Universidad de las Islas Balearesversidad de las Islas Baleares](https://www.uib.es) (España).
 
-## **Asistente Proyecto de Investigación**  
+## **Investigación**
 
-*Detección de infidelidad previa y orientación sociosexual a partir de la voz*
+Lina tiene interés en iniciativas interculturales e interdisciplinarias que integren el arte y la ciencia como herramientas de conexión interpersonal.
 
-Universidad El Bosque, desde 2020
-
-**Supervisor:** [Juan David Leongómez](/es/#about)
+Su investigación se centra en explorar cómo las personas se coordinan y se comunican a través del movimiento y la danza, y en comprender cómo factores individuales y culturales influyen en esta experiencia a nivel estético y social, con un énfasis particular en la neuroestética.
