@@ -1,6 +1,6 @@
 +++
-title = "Self‐reported social media use does not affect cross‐cultural consensus in first impressions"
-date = 2026-01-05T00:00:00
+title = "Self‑reported social media use does not affect cross‑cultural consensus in first impression"
+date = 2026-03-04T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Vojtěch Fiala", "Sławomir Wacewicz", "Zuzana Štěrbová", "Ondřej Pavlovič", "admin", "ancc", "S. Adil Sarıbay", "Karel", "Petr Tureček"]
@@ -14,10 +14,10 @@ authors = ["Vojtěch Fiala", "Sławomir Wacewicz", "Zuzana Štěrbová", "Ondře
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Evolutionary Human Sciences*, in press"
 publication_short = ""
 
 # Abstract.
