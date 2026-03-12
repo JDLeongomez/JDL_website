@@ -1,5 +1,5 @@
 +++
-title = "Self-reported Health is Related to Body Height and Waist Circumference in Rural Indigenous and Urbanised Latin-American Populations"
+title = "Self-reported health is related to body height and waist circumference in rural indigenous and urbanised Latin-American populations"
 date = 2020-03-09T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
