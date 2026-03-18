@@ -1,5 +1,5 @@
 +++
-title = "Spontaneous thought and memory consolidation: An investigation into mindwandering evoked by preferred music and its influence on short‑term memory consolidation"
+title = "I see sick people: Beliefs about sensory detection of infectious disease are largely consistent across cultures"
 date = 2025-04-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
