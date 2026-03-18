@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://doi.org/10.31234/osf.io/wbfs3_v4"
 url_code = ""
 url_dataset = ""
 url_project = ""

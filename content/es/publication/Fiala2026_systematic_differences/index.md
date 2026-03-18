@@ -27,7 +27,7 @@ abstract = "The Internet both substantially expands and potentially biases our â
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.31234/osf.io/qthwv_v1"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -54,6 +54,7 @@ slides = "example-slides"
 
 # Links (optional).
 url_pdf = ""
+url_preprint = "https://doi.org/10.31234/osf.io/qthwv_v1"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -64,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Supplementary Material", url = "https://osf.io/7965q"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

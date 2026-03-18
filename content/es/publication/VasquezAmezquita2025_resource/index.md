@@ -65,8 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Material Suplementario", url = "https://osf.io/9b8tv"},
-{name = "Preprint", url = "https://doi.org/10.31219/osf.io/me47r"}]
+links = [{name = "Material Suplementario", url = "https://osf.io/9b8tv"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
