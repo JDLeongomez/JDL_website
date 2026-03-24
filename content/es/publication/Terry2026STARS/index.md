@@ -27,7 +27,7 @@ abstract = "Statistics anxiety is widely recognised as a barrier to student lear
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/gzucd_v1"
+doi = "10.31234/osf.io/gzucd_v2"
 
 # Is this a featured publication? (true/false)
 featured = false

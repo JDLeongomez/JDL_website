@@ -27,7 +27,7 @@ abstract = "Research focusing on first impression formation based on facial stim
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1017/ehs.2026.10042"
 
 # Is this a featured publication? (true/false)
 featured = false
