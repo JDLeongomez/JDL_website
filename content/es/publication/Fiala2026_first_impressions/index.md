@@ -17,7 +17,7 @@ authors = ["Vojtěch Fiala", "Sławomir Wacewicz", "Zuzana Štěrbová", "Ondře
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Evolutionary Human Sciences*, in press"
+publication = "*Evolutionary Human Sciences, 8*, e10"
 publication_short = ""
 
 # Abstract.
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Material suplementario", url = "https://doi.org/10.1017/ehs.2026.10042.sm001"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
