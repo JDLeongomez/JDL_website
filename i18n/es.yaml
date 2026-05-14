@@ -16,6 +16,8 @@
   translation: Siguiente
 - id: figure
   translation: 'Figura %d:'
+- id: edit_page
+  translation: Editar esta página
 - id: btn_preprint
   translation: Preprint
 - id: btn_pdf

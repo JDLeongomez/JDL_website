@@ -75,7 +75,7 @@ privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/JDLeongomez/JDL_website", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Show related content at the bottom of pages?
 show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
@@ -267,7 +267,7 @@ plugins_js  = []
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   engine = 2
-  api_key = "pk.eyJ1IjoianVhbmxlb25nb21leiIsImEiOiJjanYxaXVpeHYxdXkzNGRsajVvYnV1ZHFlIn0.fYBd8i9g0Fw12MjUIurZPQ"
+  api_key = ""
   zoom = 15
 
 ############################
