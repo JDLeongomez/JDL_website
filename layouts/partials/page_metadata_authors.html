@@ -1,0 +1,26 @@
+{{/* Display author list.
+     Authors with a profile page (content/authors/<slug>/_index.md) are linked
+     and highlighted if highlight_name: true. External authors appear as plain text. */}}
+
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+  {{ $link_authors := site.Params.link_authors | default true }}
+  {{ range $index, $value := (.GetTerms $taxonomy) }}
+    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $has_profile := .Page.File -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    {{- if and $has_profile $link_authors -}}
+      <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </span>
+    {{- else -}}
+      <span>{{ .LinkTitle }}</span>
+    {{- end -}}
+    {{- if isset $.Params "author_notes" -}}
+      {{- with (index $.Params.author_notes $index) -}}
+        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
