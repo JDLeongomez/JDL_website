@@ -3,7 +3,13 @@ widget = "blank"
 headless = true
 active = true
 weight = 30
-title = "More information"
+title = "Explore the incubator"
 +++
 
-For up-to-date information about <strong>Meta<span class='mc-ink'>Ciencia</span></strong>, current calls, and activities, please refer to the Spanish version of this page or [get in touch](https://jdleongomez.info/en/#contact).
+The incubator has its own website (in Spanish), where you can find information about the team, ongoing projects, publications, outreach materials, and a blog on open science and reproducibility.
+
+<div class="hero-actions">
+  <a class="btn btn-primary" href="https://jdleongomez.github.io/MetaCiencia/" target="_blank" rel="noopener">
+    Visit jdleongomez.github.io/MetaCiencia/
+  </a>
+</div>

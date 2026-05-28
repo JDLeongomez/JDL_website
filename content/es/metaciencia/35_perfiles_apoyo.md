@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-active = true
+active = false
 weight = 35
 title = "¿Qué perfiles buscamos?"
 +++

@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Psicología | Supervisión de investigación desde 2025
+role: Psicología | Supervisión de investigación 2025-2026
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2025.
+bio: Estudiante de investigación de Pregrado 2025-2026.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,8 +49,8 @@ user_groups:
 
 ## **Proyecto de investigación de Pregrado**  
 
-*Por definir* [To be decided]
+*Atractivo facial y sociosexualidad como predictores de infidelidad: Diferencias según el sexo*
 
-Universidad El Bosque, desde 2025
+Universidad El Bosque, 2025-2026
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).

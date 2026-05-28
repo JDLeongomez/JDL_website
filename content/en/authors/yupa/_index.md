@@ -32,9 +32,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Psychology (ongoing)
+  - course: PhD in Psychology
     institution: Universidad de los Andes (Bogotá, Colombia)
-    year: 2027
+    year: ongoing
+  - course: MSc in Psychology
+    institution: Universidad de los Andes (Bogotá, Colombia)
+    year: 2026
   - course: MSc in Social Neuroscience
     institution: Universidad Externado de Colombia (Bogotá, Colombia)
     year: 2023

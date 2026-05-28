@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Ana Sofía Reyes
+title: Yeimi Marcela Morales Galarcio
 
 # Weight
-weight: 20261
+weight: 20262
 
 # Username (this should match the folder name)
 authors:
-- ana-reyes
+- marce-morales
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc Psychology | Research supervision 2025-2026
+role: BSc Psychology | Research supervision from 2026
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,12 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student 2025-2026.
+bio: BSc research project student from 2026.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/sofiaa_r144
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -47,10 +43,10 @@ user_groups:
 - Undergraduate Students
 ---
 
-## **BSc Research Project**
+## **BSc Research Project**  
 
-*Facial attractiveness and sociosexuality as predictors of infidelity: Differences according to sex*
+*To be decided*
 
-Universidad El Bosque, 2025-2026
+Universidad El Bosque, from 2026
 
-**Supervisor:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisors:** [Juan David Leongómez](/en/#about) and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).

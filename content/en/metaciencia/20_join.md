@@ -3,11 +3,13 @@ widget = "blank"
 headless = true
 active = true
 weight = 20
-title = "Who can join?"
+title = "Research lines"
 +++
 
-<strong>Meta<span class='mc-ink'>Ciencia</span></strong> brings together people from different academic backgrounds, including:
+The incubator works around three main areas:
 
-- **Undergraduate and graduate students** from Universidad El Bosque and other universities.  
-- **Faculty members** interested in open science, replication, innovative teaching, and metascience.  
-- No previous research experience is required — just curiosity and an interest in science, philosophy, design, statistics, programming, or related areas.
+- **Reproducibility and scientific transparency** — pre-registration, registered reports, reproducible analyses, open data and code.
+
+- **Open science practices** — non-commercial open access, free software (R, Python, Quarto), and rigorous documentation of scientific processes.
+
+- **Metascience education and scientific literacy** — critical training from undergraduate level and production of accessible outreach materials.
