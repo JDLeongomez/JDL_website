@@ -1,3 +1,16 @@
+/* --- Custom SVG icons in social/network bars --- */
+.network-icon li a svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+}
+
+/* In the about/profile widget, match the big-icon size (2rem) */
+#profile .network-icon li a svg.big-icon-svg {
+  width: 2rem;
+  height: 2rem;
+}
+
 /* --- Hero: media y layout --- */
 .wg-hero .hero-media img {
     max-width: 420px;

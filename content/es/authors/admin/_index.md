@@ -75,9 +75,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/JDLeongomez
-- icon: cv
-  icon_pack: ai
-  link: cv
+#- icon: cv
+#  icon_pack: ai
+#  link: cv
+- icon: cvlac_mono
+  icon_pack: custom
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -108,8 +111,7 @@ Además, soy un apasionado por los métodos cuantitativos y la programación en 
 
 ## [Producción científica](/es/publication/)
 
-En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos (haciendo clic en los íconos bajo mi fotografía), incluyendo [Web of Science](https://www.webofscience.com/wos/author/record/387716), que tiene el registro verificado de mi trabajo como par académico y roles editoriales en revistas internacionales, e  [Impactstory](https://profiles.impactstory.org/u/0000-0002-0092-6298), que tiene un registro de las [menciones en medios](https://profiles.impactstory.org/u/0000-0002-0092-6298/timeline) de mi trabajo. Puedes también acceder a mi [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945) (donde tengo la categoría de *Investigador Senior*).
-
+En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos (haciendo clic en los íconos bajo mi fotografía), incluyendo [Web of Science](https://www.webofscience.com/wos/author/record/387716), que tiene el registro verificado de mi trabajo como par académico y roles editoriales en revistas internacionales, e  [Impactstory](https://profiles.impactstory.org/u/0000-0002-0092-6298), que tiene un registro de las [menciones en medios](https://profiles.impactstory.org/u/0000-0002-0092-6298/timeline) de mi trabajo.
 {{< figure src="IA_logo_Largo.png" caption="" numbered="false" >}}
 
 ## [Investigación Abierta](#posts) (canal de YouTube)

@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Biology
+  - course: MSc en Biología
     institution: Universidad de Los Andes (Bogotá, Colombia)
     year: 1999
   - course: Biología Marina
@@ -49,6 +49,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Oscar_Sanchez44
+- icon: cvlac_mono
+  icon_pack: custom
+  link: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000425524
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
