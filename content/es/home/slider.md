@@ -30,6 +30,20 @@ height = ""
   cta_icon = "user-graduate"
 
 [[item]]
+  title = "Maneja, explora y visualiza datos con R"
+  content = "Curso introductorio gratuito que ofrecí en la [Universidad El Bosque](https://www.uelbosque.edu.co/) en junio de 2026. Todos los materiales están disponibles abiertamente en línea."
+  align = "right"
+
+  overlay_color = "#666"
+  overlay_img = "logo_curso_r.svg"
+  overlay_filter = 0.75
+
+  cta_label = "Visita el sitio del curso"
+  cta_url = "https://jdleongomez.github.io/curso-r/"
+  cta_icon_pack = "fab"
+  cta_icon = "r-project"
+
+[[item]]
   title = "***Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución (LAAHBES)***"
   content = "**¡Anunciamos la exitosa fundación de la Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución (LAAHBES)!** Tengo además el honor de ser fundador y miembro del Consejo Directivo de esta importante iniciativa."
   align = "right"  # Choose `center`, `left`, or `right`.
