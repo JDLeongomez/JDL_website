@@ -16,6 +16,20 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Promoted to Full Professor"
+  content = "I am pleased to share that since June 15, 2026, I am a **Full Professor** at [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogota."
+  align = "right"
+
+  overlay_color = "#204a44"
+  overlay_img = ""
+  overlay_filter = 0.85
+
+  cta_label = "See my career"
+  cta_url = "/en/profile/#experience"
+  cta_icon_pack = "fas"
+  cta_icon = "user-graduate"
+
+[[item]]
   title = "***Latin American Association for Human Behavioral and Evolutionary Sciences (LAAHBES)***"
   content = "**Announcing the successful foundation of the Latin American Association for Human Behavioral and Evolutionary Sciences (LAAHBES)!** I am also honored to be a founder and member of the Board of Directors of this important initiative."
   align = "right"  # Choose `center`, `left`, or `right`.

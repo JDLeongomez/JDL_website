@@ -18,12 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Profesor Titular"
+  company = "Universidad El Bosque"
+  company_url = "https://www.uelbosque.edu.co/"
+  location = "Bogotá, Colombia"
+  date_start = "2026-06-15"
+  date_end = ""
+  description = """
+  Responsabilidades incluyen:
+  
+  * Investigador del ***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*.
+  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446).
+  * Supervisión de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología.
+  * Miembro del Comité de Investigación
+  * Miembro del Comité Asesor de Asuntos Éticos
+  * Fundador y miembro del Consejo Directivo de ***Latin American Association for Human Behavioral and Evolutionary Sciences*** (***LAAHBES***).
+  * [Recomendador](https://rr.peercommunityin.org/about/recommenders) (equivalente a Editor Asociado) para [***PCI Registered Reports***](https://rr.peercommunityin.org/).
+  * [Data Editor](https://royalsocietypublishing.org/rspb/pages/Editorial_Board) para [***Proceedings of the Royal Society B***](https://royalsocietypublishing.org/rspb).
+  * Docente de apoyo del semillero [MetaCiencia](/es/metaciencia/).
+  """
+
+[[experience]]
   title = "Profesor Asociado"
   company = "Universidad El Bosque"
   company_url = "https://www.uelbosque.edu.co/"
   location = "Bogotá, Colombia"
   date_start = "2019-04-30"
-  date_end = ""
+  date_end = "2026-06-15"
   description = """
   Responsabilidades incluyen:
   

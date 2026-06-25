@@ -18,12 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Full Professor"
+  company = "Universidad El Bosque"
+  company_url = "https://www.uelbosque.edu.co/"
+  location = "Bogota, Colombia"
+  date_start = "2026-06-15"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Researcher at the Human Behaviour Analysis Lab (EvoCo).
+  * Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
+  * Supervision of a variety of undergraduate and postgraduate research projects associated with psychology and biology.
+  * Member of the Research Committee
+  * Member of the Advisory Committee of Research Ethics
+  * Founding and board member of the ***Latin American Association for Human Behavioral and Evolutionary Sciences*** (***LAAHBES***).
+  * [Recommender](https://rr.peercommunityin.org/about/recommenders) (equivalent to Associate Editor) for [***PCI Registered Reports***](https://rr.peercommunityin.org/).
+  * [Data Editor](https://royalsocietypublishing.org/rspb/pages/Editorial_Board) for [***Proceedings of the Royal Society B***](https://royalsocietypublishing.org/rspb).
+  * Supporting faculty for the [MetaCiencia](/en/metaciencia/) student incubator.
+  """
+
+[[experience]]
   title = "Associate Professor"
   company = "Universidad El Bosque"
   company_url = "https://www.uelbosque.edu.co/"
   location = "Bogota, Colombia"
   date_start = "2019-04-30"
-  date_end = ""
+  date_end = "2026-06-15"
   description = """
   Responsibilities include:  
   

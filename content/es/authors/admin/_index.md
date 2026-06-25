@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Profesor Asociado
+role: Profesor Titular
 
 # Organizations/Affiliations
 organizations:
@@ -100,7 +100,7 @@ user_groups:
 highlight_name: true
 ---
 
-Soy Profesor Asociado e investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia. Además, lidero el grupo de investigación [***CODEC**: Ciencias Cognitivas y del Comportamiento*](https://unbosque.portalinvestigacion.com/grupos/302) (clasificado como [**A1**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)). 
+Soy Profesor Titular e investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia. Además, lidero el grupo de investigación [***CODEC**: Ciencias Cognitivas y del Comportamiento*](https://unbosque.portalinvestigacion.com/grupos/302) (clasificado como [**A1**](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)). 
 
 También soy fundador y miembro del Consejo Directivo de ***Latin American Association for Human Behavioral and Evolutionary Sciences*** (***LAAHBES***). Además, sirvo como [recomendador](https://rr.peercommunityin.org/about/recommenders) (equivalente a Editor Asociado) para [***PCI Registered Reports***](https://rr.peercommunityin.org/), y como [Data Editor](https://royalsocietypublishing.org/rspb/pages/Editorial_Board) para [***Proceedings of the Royal Society B***](https://royalsocietypublishing.org/rspb).
 

@@ -16,6 +16,20 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Ascenso a Profesor Titular"
+  content = "Me complace compartir que desde el 15 de junio de 2026 soy **Profesor Titular** en la [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogotá."
+  align = "right"
+
+  overlay_color = "#204a44"
+  overlay_img = ""
+  overlay_filter = 0.95
+
+  cta_label = "Ver mi trayectoria"
+  cta_url = "/es/profile/#experience"
+  cta_icon_pack = "fas"
+  cta_icon = "user-graduate"
+
+[[item]]
   title = "***Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución (LAAHBES)***"
   content = "**¡Anunciamos la exitosa fundación de la Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución (LAAHBES)!** Tengo además el honor de ser fundador y miembro del Consejo Directivo de esta importante iniciativa."
   align = "right"  # Choose `center`, `left`, or `right`.
