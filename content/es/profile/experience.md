@@ -22,13 +22,13 @@ date_format = "Jan 2006"
   company = "Universidad El Bosque"
   company_url = "https://www.uelbosque.edu.co/"
   location = "Bogotá, Colombia"
-  date_start = "2026-06-15"
+  date_start = "2026-07-01"
   date_end = ""
   description = """
   Responsabilidades incluyen:
   
 * Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://www.psicologia.unbosque.edu.co/EvoCo)
-* Líder del grupo de investigación [**CODEC: Ciencias Cognitivas y del Comportamiento**](https://unbosque.portalinvestigacion.com/grupos/302) (desde 2016) - [GrupLAC (clasificación: **A1**)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
+* Líder del grupo de investigación [**CODEC: Ciencias Cognitivas y del Comportamiento**](https://grupo-codec.netlify.app) (desde 2016) - [GrupLAC (clasificación: **A1**)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
 * [Supervisión](/es/team/) de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología
 * Miembro del Comité de Investigación
 * Miembro del Comité Asesor de Asuntos Éticos
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   Responsabilidades incluyen:
   
 * Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://www.psicologia.unbosque.edu.co/EvoCo)
-* Líder del grupo de investigación [**CODEC: Ciencias Cognitivas y del Comportamiento**](https://unbosque.portalinvestigacion.com/grupos/302) (desde 2016) - [GrupLAC (clasificación: **A1**)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446) 
+* Líder del grupo de investigación [**CODEC: Ciencias Cognitivas y del Comportamiento**](https://grupo-codec.netlify.app) (desde 2016) - [GrupLAC (clasificación: **A1**)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446) 
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
 * [Supervisión](/es/team/) de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología
 * Miembro del Comité de Investigación
@@ -71,7 +71,7 @@ date_format = "Jan 2006"
   
 * Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](https://www.psicologia.unbosque.edu.co/EvoCo)
 * [Asesor metodológico y estadístico](https://asesores-psic.netlify.app/) para proyectos de investigación de docentes y estudiantes de posgrado
-* Líder del grupo de investigación [**CODEC: Ciencias Cognitivas y del Comportamiento**](https://unbosque.portalinvestigacion.com/grupos/302) (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
+* Líder del grupo de investigación [**CODEC: Ciencias Cognitivas y del Comportamiento**](https://grupo-codec.netlify.app) (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)
 * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017)
 * [Supervisión](/es/team/) de una variedad de proyectos de investigación de pregrado asociados con psicología y biología
 * Estancia postdoctoral (2018-2019)

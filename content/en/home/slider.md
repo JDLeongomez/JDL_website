@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Promoted to Full Professor"
-  content = "I am pleased to share that since June 15, 2026, I am a **Full Professor** at [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogota."
+  content = "I am pleased to share that since July 1, 2026, I am a **Full Professor** at [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogota."
   align = "right"
 
   overlay_color = "#204a44"

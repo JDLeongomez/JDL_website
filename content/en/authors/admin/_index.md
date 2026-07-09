@@ -97,7 +97,7 @@ user_groups:
 highlight_name: true
 ---
 
-I am a Full Professor and Researcher at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), in the [Faculty of Psychology](https://www.unbosque.edu.co/psicologia) at [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia. Aditionally, I lead the [***CODEC**: Cognitive and Behavioural Sciences*](https://unbosque.portalinvestigacion.com/grupos/302) research group (classified as [A1](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)).
+I am a Full Professor and Researcher at [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), in the [Faculty of Psychology](https://www.unbosque.edu.co/psicologia) at [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia. Aditionally, I lead the [***CODEC**: Cognitive and Behavioural Sciences*](https://grupo-codec.netlify.app) research group (classified as [A1](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446)).
 
 I am also a founding and board member of the ***Latin American Association for Human Behavioral and Evolutionary Sciences*** (***LAAHBES***) and serve as  [recommender](https://rr.peercommunityin.org/about/recommenders) (equivalent to journal Associate Editor) for [***PCI Registered Reports***](https://rr.peercommunityin.org/), and as [Data Editor](https://royalsocietypublishing.org/rspb/pages/Editorial_Board) for [***Proceedings of the Royal Society B***](https://royalsocietypublishing.org/rspb).
 

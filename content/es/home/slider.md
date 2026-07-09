@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Ascenso a Profesor Titular"
-  content = "Me complace compartir que desde el 15 de junio de 2026 soy **Profesor Titular** en la [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogotá."
+  content = "Me complace compartir que desde el 1 de julio de 2026 soy **Profesor Titular** en la [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogotá."
   align = "right"
 
   overlay_color = "#204a44"
