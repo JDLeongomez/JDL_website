@@ -11,7 +11,7 @@ title = "¿Cómo vincularse?"
 1. **Confirma tu interés.**  
 Completa el formulario de vinculación formal (toma ~2 minutos).  
 <div class="hero-actions">
-  <a class="btn btn-primary" href="https://forms.office.com/Pages/ResponsePage.aspx?id=UMLAdHccXUCbHprB9Qir4xFt6yqql-lHnfqiF7J8_ndUNldKUUJWNzNVOFMxVUs0SFlFTUNOR1EzQy4u&lang=es-CO" target="_blank" rel="noopener">
+  <a class="btn btn-metaciencia" href="https://forms.office.com/Pages/ResponsePage.aspx?id=UMLAdHccXUCbHprB9Qir4xFt6yqql-lHnfqiF7J8_ndUNldKUUJWNzNVOFMxVUs0SFlFTUNOR1EzQy4u&lang=es-CO" target="_blank" rel="noopener">
     👉 Vinculación formal al semillero
   </a>
 </div><br>

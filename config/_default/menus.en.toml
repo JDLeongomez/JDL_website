@@ -50,30 +50,37 @@
   weight = 50
 
 [[main]]
-  identifier = "people"
-  name = "People"
+  identifier = "team"
+  name = "Team"
   url = "lab/"
   weight = 60
 
 [[main]]
-  identifier = "people1"
-  name = "Lab (EvoCo)"
+  identifier = "team1"
+  name = "Lab (<strong>EvoCo</strong>)"
   url = "lab/"
-  parent = "people"
+  parent = "team"
   weight = 60
 
 [[main]]
-  identifier = "people2"
+  identifier = "team_codec"
+  name = "Research Group (<strong>CODEC</strong>)"
+  url = "codec/"
+  parent = "team"
+  weight = 61
+
+[[main]]
+  identifier = "team2"
   name = "Student Research Incubator (Meta<strong>Ciencia</strong>)"
   url = "metaciencia/"
-  parent = "people"
+  parent = "team"
   weight = 62
   
 [[main]]
-  identifier = "people3"
+  identifier = "team3"
   name = "Collaboration"
   url = "colabs/"
-  parent = "people"
+  parent = "team"
   weight = 64
 
 [[main]]

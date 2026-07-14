@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Estudiantes de Pregrado
+- Antiguos Estudiantes de Pregrado
 ---
 
 ## **Proyecto de investigación de Pregrado**  

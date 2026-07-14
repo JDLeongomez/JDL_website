@@ -14,15 +14,15 @@ hero_media_align = "right"
 
 <br>
 <p>
-<strong>Meta<span class='mc-ink'>Ciencia</span></strong> es un semillero de investigación y divulgación de la <a href="https://www.uelbosque.edu.co/" target="_blank" rel="noopener">Universidad El Bosque</a>, formalmente registrado en 2026 y adscrito al grupo de investigación <em>CODEC: Ciencias Cognitivas y del Comportamiento</em>. Estudia la ciencia desde adentro: cómo se produce el conocimiento científico, qué tan confiable es, y cómo hacerlo más abierto, transparente y reproducible.
+<strong>Meta<span class='mc-ink'>Ciencia</span></strong> es un semillero de investigación y divulgación de la Universidad El Bosque, formalmente registrado en 2026 y adscrito al grupo de investigación <em>CODEC: Ciencias Cognitivas y del Comportamiento</em>. Estudia la ciencia desde adentro: cómo se produce el conocimiento científico, qué tan confiable es, y cómo hacerlo más abierto, transparente y reproducible.
 </p>
 
 <br>
 <div class="hero-actions">
-  <a class="btn btn-primary" href="https://jdleongomez.github.io/MetaCiencia/" target="_blank" rel="noopener">
+  <a class="btn btn-metaciencia" href="https://jdleongomez.github.io/MetaCiencia/" target="_blank" rel="noopener">
     Sitio web del semillero
   </a>
-  <a class="btn btn-secondary btn-icon" href="https://github.com/JDLeongomez/MetaCiencia/" target="_blank" rel="noopener">
+  <a class="btn btn-metaciencia-outline btn-icon" href="https://github.com/JDLeongomez/MetaCiencia/" target="_blank" rel="noopener">
     <i class="fab fa-github" aria-hidden="true"></i><span> Repositorio</span>
   </a>
 </div>
