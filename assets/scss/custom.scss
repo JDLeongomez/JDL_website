@@ -75,13 +75,20 @@ $btn-brands: (
     codec: #eaa806
 );
 
+/* Color de texto por marca (por defecto blanco; el dorado de CODEC necesita texto oscuro para contraste). */
+$btn-text-colors: (
+    codec: #242630
+);
+
 @each $name, $color in $btn-brands {
+    $text-color: if(map-has-key($btn-text-colors, $name), map-get($btn-text-colors, $name), #fff);
+
     .btn-#{$name},
     a.btn-#{$name}:link,
     a.btn-#{$name}:visited {
         background-color: $color !important;
         border-color: $color !important;
-        color: #fff !important;
+        color: $text-color !important;
         background-image: none !important;
         /* elimina gradientes del tema */
     }
@@ -90,7 +97,7 @@ $btn-brands: (
     .btn-#{$name}:focus,
     .btn-#{$name}:active {
         filter: brightness(1.06);
-        color: #fff !important;
+        color: $text-color !important;
     }
 
     .btn-#{$name}-outline,
@@ -106,7 +113,7 @@ $btn-brands: (
     .btn-#{$name}-outline:focus,
     .btn-#{$name}-outline:active {
         background: $color !important;
-        color: #fff !important;
+        color: $text-color !important;
     }
 }
 
@@ -133,6 +140,18 @@ $btn-brands: (
     color: #fff !important;
     /* asegura texto blanco por defecto */
     text-decoration: none;
+}
+
+/* Respeta el color de texto por marca (p. ej. CODEC en dorado) también dentro del hero */
+@each $name, $text-color in $btn-text-colors {
+    .hero-actions a.btn-#{$name},
+    .hero-actions a.btn-#{$name}:link,
+    .hero-actions a.btn-#{$name}:visited,
+    .wg-hero a.btn-#{$name},
+    .wg-hero a.btn-#{$name}:link,
+    .wg-hero a.btn-#{$name}:visited {
+        color: $text-color !important;
+    }
 }
 
 /* Texto pequeño y legible para bloques intro */

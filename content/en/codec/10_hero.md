@@ -17,7 +17,7 @@ hero_media_align = "right"
 
 <br>
 <p>
-<strong><em>CODEC</em></strong> is a research group at <a href="https://www.uelbosque.edu.co/" target="_blank" rel="noopener">Universidad El Bosque</a> (Bogotá, Colombia), founded in 2002 and classified in category <a href="https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446" target="_blank" rel="noopener">A1</a> by Minciencias, the highest ranking awarded to research groups in Colombia.
+<strong><em>CODEC</em></strong> is a research group at <a href="https://www.uelbosque.edu.co/" target="_blank" rel="noopener">Universidad El Bosque</a> (Bogotá, Colombia), founded in 2002 and classified in category <a href="https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446" target="_blank" rel="noopener">A1</a> by Minciencias, the highest ranking awarded to research groups in Colombia. I have led it since 2016.
 </p>
 
 <p>

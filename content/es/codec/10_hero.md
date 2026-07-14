@@ -17,7 +17,7 @@ hero_media_align = "right"
 
 <br>
 <p>
-<strong><em>CODEC</em></strong> es un grupo de investigación de la <a href="https://www.uelbosque.edu.co/" target="_blank" rel="noopener">Universidad El Bosque</a> (Bogotá, Colombia), fundado en 2002 y clasificado en la categoría <a href="https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446" target="_blank" rel="noopener">A1</a> de Minciencias, la más alta otorgada a los grupos de investigación en Colombia.
+<strong><em>CODEC</em></strong> es un grupo de investigación de la <a href="https://www.uelbosque.edu.co/" target="_blank" rel="noopener">Universidad El Bosque</a> (Bogotá, Colombia), fundado en 2002 y clasificado en la categoría <a href="https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446" target="_blank" rel="noopener">A1</a> de Minciencias, la más alta otorgada a los grupos de investigación en Colombia. Lo lidero desde 2016.
 </p>
 
 <p>

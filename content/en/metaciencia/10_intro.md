@@ -14,7 +14,7 @@ hero_media_align = "right"
 
 <br>
 <p>
-<strong>Meta<span class='mc-ink'>Ciencia</span></strong> (<em>metascience</em>) is a student research incubator at Universidad El Bosque (Bogotá, Colombia), formally registered in 2026 and affiliated with the research group <em>CODEC: Cognitive and Behavioural Sciences</em>. It studies science from within: how scientific knowledge is produced, how reliable it is, and how to make it more open, transparent, and reproducible.
+<strong>Meta<span class='mc-ink'>Ciencia</span></strong> (<em>metascience</em>) is a student research incubator at Universidad El Bosque (Bogotá, Colombia), formally registered in 2026, which I direct, and affiliated with the research group <em>CODEC: Cognitive and Behavioural Sciences</em>. It studies science from within: how scientific knowledge is produced, how reliable it is, and how to make it more open, transparent, and reproducible.
 </p>
 
 <div class="mc-small">
