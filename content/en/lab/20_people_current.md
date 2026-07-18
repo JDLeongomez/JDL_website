@@ -18,7 +18,7 @@ subtitle = ""
 
 [advanced]
  css_style = ""
- css_class = "people-current"
+ css_class = "people-current lab-page"
 +++
 
 #### *Click on the names to view individual profiles and posts I have co-authored with each of them (if any).*

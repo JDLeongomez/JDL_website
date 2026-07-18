@@ -17,5 +17,5 @@ subtitle = ""
 
 [advanced]
  css_style = ""
-# css_class = "people-alumni"
+ css_class = "people-alumni lab-page"
 +++

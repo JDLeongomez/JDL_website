@@ -14,6 +14,7 @@
   {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
 {{end}}
 {{ $person := $person_page.Params }}
+{{ $avatar_svg := $person_page.Resources.GetMatch "avatar.svg" }}
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
 
@@ -24,6 +25,8 @@
 
       {{ if site.Params.avatar.gravatar }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=270')" alt="{{$person_page.Title}}">
+      {{ else if $avatar_svg }}
+      <div class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}} avatar-placeholder">{{ $avatar_svg.Content | safeHTML }}</div>
       {{ else if $avatar }}
       {{ $avatar_image := $avatar.Fill "270x270 Center" }}
       <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">

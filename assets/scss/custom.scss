@@ -72,7 +72,8 @@
 $btn-brands: (
     primary: #21a38b,
     metaciencia: #d400aa,
-    codec: #eaa806
+    codec: #eaa806,
+    lab: #ea5253
 );
 
 /* Color de texto por marca (por defecto blanco; el dorado de CODEC necesita texto oscuro para contraste). */
@@ -131,6 +132,25 @@ $btn-text-colors: (
     color: darken(map-get($btn-brands, codec), 12%);
 }
 
+/* --- Página de EvoCo Lab: íconos y enlaces en rojo coral --- */
+.lab-page .featurette-icon i {
+    color: map-get($btn-brands, lab);
+}
+
+.lab-page a {
+    color: map-get($btn-brands, lab);
+}
+
+.lab-page a:hover,
+.lab-page a:focus {
+    color: darken(map-get($btn-brands, lab), 12%);
+}
+
+/* Íconos SVG del network bar (custom icons usan fill, no color) */
+.lab-page .network-icon li a svg {
+    fill: map-get($btn-brands, lab);
+}
+
 .hero-actions a.btn,
 .hero-actions a.btn:link,
 .hero-actions a.btn:visited,
@@ -140,6 +160,16 @@ $btn-text-colors: (
     color: #fff !important;
     /* asegura texto blanco por defecto */
     text-decoration: none;
+}
+
+/* btn-light (usado por el widget slider) tiene fondo casi blanco — necesita texto oscuro */
+.hero-actions a.btn-light,
+.hero-actions a.btn-light:link,
+.hero-actions a.btn-light:visited,
+.wg-hero a.btn-light,
+.wg-hero a.btn-light:link,
+.wg-hero a.btn-light:visited {
+    color: #212529 !important;
 }
 
 /* Respeta el color de texto por marca (p. ej. CODEC en dorado) también dentro del hero */
@@ -242,6 +272,37 @@ $btn-text-colors: (
   color: #d400aa !important;
 }
 
+/* --- Inline SVG avatar placeholders --- */
+.people-person .avatar-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    background-color: rgba(33, 163, 139, 0.10);
+}
+
+.people-person .avatar-placeholder svg {
+    width: 72%;
+    height: 72%;
+    fill: map-get($btn-brands, primary);
+}
+
+/* Alumni: tamaño reducido igual que las fotos reales */
+.people-alumni .people-person .avatar-placeholder {
+    width: 96px !important;
+    height: 96px !important;
+}
+
+/* Color por contexto de página */
+.lab-page .people-person .avatar-placeholder {
+    background-color: rgba(234, 82, 83, 0.10);
+}
+
+.lab-page .people-person .avatar-placeholder svg {
+    fill: map-get($btn-brands, lab);
+}
+
 /* Alumni (less emphasis) — when the widget container has class "people-alumni" */
 .people-alumni .people-person,
 .people-alumni .col-12.col-sm-auto.people-person {
@@ -253,7 +314,7 @@ $btn-text-colors: (
 .people-alumni img.avatar-circle {
   width: 96px !important;
   height: 96px !important;
-  border-radius: 6px !important;
+  border-radius: 50% !important;
   object-fit: cover !important;
   opacity: 1 !important;
   filter: saturate(0.80) contrast(0.92) grayscale(0.05) !important;

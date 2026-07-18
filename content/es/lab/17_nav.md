@@ -24,7 +24,7 @@ section.lab-nav {
   background: hsla(231, 15%, 14%, 0.88) !important;
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid rgba(32, 176, 148, 0.3);
+  border-bottom: 1px solid rgba(234, 82, 83, 0.3);
 }
 
 section.lab-nav .home-section-bg { display: none !important; }
@@ -46,8 +46,8 @@ section.lab-nav .home-section-bg { display: none !important; }
   font-size: 0.85rem;
   font-weight: 600;
   text-decoration: none !important;
-  border: 2px solid #20b094;
-  color: #20b094 !important;
+  border: 2px solid #ea5253;
+  color: #ea5253 !important;
   transition: background 0.18s ease, color 0.18s ease;
   letter-spacing: 0.03em;
   white-space: nowrap;
@@ -55,7 +55,7 @@ section.lab-nav .home-section-bg { display: none !important; }
 
 .lab-nav-btn:hover,
 .lab-nav-btn:focus {
-  background: #20b094;
+  background: #ea5253;
   color: #fff !important;
   outline: none;
   text-decoration: none !important;

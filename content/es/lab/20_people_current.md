@@ -18,7 +18,7 @@ subtitle = ""
 
 [advanced]
  css_style = ""
- css_class = "people-current"
+ css_class = "people-current lab-page"
 +++
 
 #### *Haz clic en los nombres para ver los perfiles individuales y las publicaciones de las que he sido coautor con cada uno de ellos (si existen)*

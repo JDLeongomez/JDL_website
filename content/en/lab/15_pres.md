@@ -19,7 +19,7 @@ subtitle = ""
 
 [advanced]
  css_style = "padding-top:2rem; padding-bottom:2rem;"
- css_class = ""
+ css_class = "lab-page"
 +++
 
 ***EvoCo*** was founded by [Oscar R. Sánchez](/en/author/oscar-r.-sanchez) in 2015 as the *Laboratory of Human Behaviour Analysis (LACH)*. Over time, we have consolidated a small but diverse team and launched several long-term projects.  
