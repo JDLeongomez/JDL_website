@@ -28,9 +28,9 @@ bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comporta
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: instagram
+- icon: linkedin
   icon_pack: fab
-  link: https://www.instagram.com/
+  link: www.linkedin.com/in/marcela-puentes-30356a399
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,3 +56,13 @@ Marcela es estudiante de pregrado, y se encuentra realizando prácticas de inves
 Universidad El Bosque, desde 2026.
 
 **Supervisor:** [Juan David Leongómez](/es/#about).
+
+## Trabajo de grado de pregrado (2025)
+
+*Correlatos atencionales de la percepción de sexo, atractivo y dominancia de los rostros en hombres y mujeres jóvenes usando rastreo ocular*
+
+<a href="https://hdl.handle.net/20.500.12495/19696" target="_blank">https://hdl.handle.net/20.500.12495/19696</a>
+
+**Supervisora:** [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/).
+
+Universidad El Bosque, 2025
