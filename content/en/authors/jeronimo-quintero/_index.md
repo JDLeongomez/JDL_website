@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jerónimo Quintero Martínez
+title: Jerónimo Quintero-Martínez
 
 # Weight
 weight: 20252
