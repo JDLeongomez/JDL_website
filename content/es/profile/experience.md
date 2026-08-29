@@ -35,6 +35,7 @@ date_format = "Jan 2006"
 * Fundador y miembro del Consejo Directivo de ***Latin American Association for Human Behavioral and Evolutionary Sciences*** (***LAAHBES***)
 * [Recomendador](https://rr.peercommunityin.org/about/recommenders) (equivalente a Editor Asociado) para [***PCI Registered Reports***](https://rr.peercommunityin.org/)
 * [Data Editor](https://royalsocietypublishing.org/rspb/pages/Editorial_Board) para [***Proceedings of the Royal Society B***](https://royalsocietypublishing.org/rspb)
+* [Editor Asociado](https://evohuman.org/edhb/editorial-board) para [***Evolutionary Dynamics of Human Behavior (EDHB)***](https://evohuman.org/edhb/index)
 * Docente de apoyo del semillero [MetaCiencia](/es/metaciencia/)
   """
 

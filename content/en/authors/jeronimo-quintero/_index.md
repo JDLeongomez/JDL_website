@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant 2025 / BSc Psychology | Research supervision since 2024
+role: Research Assistant since 2025 / BSc Psychology | Research supervision 2024-2025
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: BSc research project student since 2024.
+bio: "Research assistant at EvoCo: Human Behaviour and Evolution Lab since 2025, and BSc research project student 2024-2028."
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

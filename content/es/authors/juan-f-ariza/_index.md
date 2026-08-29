@@ -36,7 +36,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Antiguo asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2023, y estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
+bio: Antiguo asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano 2023-2024, y estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación 2025 / Psicología | Supervisión de investigación 2024-2025
+role: Asistente de investigación desde 2025 / Psicología | Supervisión de investigación 2024-2025
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado desde 2024-2025.
+bio: Aasistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2025, y estudiante de investigación de Pregrado desde 2024-2025.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
