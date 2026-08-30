@@ -43,8 +43,8 @@
 
 [[main]]
   identifier = "vidsandapps2"
-  name = "Shiny Apps"
-  url = "#shiny"
+  name = "Aplicaciones interactivas"
+  url = "#apps"
   parent = "vidsandapps"
   weight = 50
 

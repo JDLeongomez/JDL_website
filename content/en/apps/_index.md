@@ -1,5 +1,5 @@
 ---
-title: Shiny Apps
+title: Interactive Apps
 
 # View.
 #   1 = List
@@ -15,7 +15,7 @@ header:
 
 {{< figure library="true" src="shiny_hex.png" title="" lightbox="true" >}}
 
-These are some small apps I have created using [Shiny](https://shiny.posit.co/) as a learning tool.
+These are some small interactive apps I have created, mostly using [Shiny](https://shiny.posit.co/), as a learning tool.
 
 _________________________________________
 

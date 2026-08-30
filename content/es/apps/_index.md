@@ -1,5 +1,5 @@
 ---
-title: Shiny Apps
+title: Aplicaciones interactivas
 
 # View.
 #   1 = List
@@ -15,7 +15,7 @@ header:
 
 {{< figure library="true" src="shiny_hex.png" title="" lightbox="true" >}}
 
-Estas son algunas pequeñas aplicaciones que he creado utilizando [Shiny](https://shiny.posit.co/) como herramienta de aprendizaje.
+Estas son algunas pequeñas aplicaciones interactivas que he creado, principalmente utilizando [Shiny](https://shiny.posit.co/), como herramienta de aprendizaje.
 
 _________________________________________
 
