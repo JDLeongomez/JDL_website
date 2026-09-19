@@ -10,6 +10,6 @@ The incubator has its own website (in Spanish), where you can find information a
 
 <div class="hero-actions">
   <a class="btn btn-metaciencia" href="https://mc-ueb.netlify.app/" target="_blank" rel="noopener">
-    Visit jdleongomez.github.io/MetaCiencia/
+    Visit mc-ueb.netlify.app/
   </a>
 </div>

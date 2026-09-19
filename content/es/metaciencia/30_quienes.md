@@ -10,7 +10,7 @@ El semillero tiene su propio sitio web, donde encontrarás información sobre el
 
 <div class="hero-actions">
   <a class="btn btn-metaciencia" href="https://mc-ueb.netlify.app/" target="_blank" rel="noopener">
-    Visitar jdleongomez.github.io/MetaCiencia/
+    Visitar mc-ueb.netlify.app/
   </a>
 </div>
 
