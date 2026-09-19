@@ -19,7 +19,7 @@ hero_media_align = "right"
 
 <br>
 <div class="hero-actions">
-  <a class="btn btn-metaciencia" href="https://jdleongomez.github.io/MetaCiencia/" target="_blank" rel="noopener">
+  <a class="btn btn-metaciencia" href="https://mc-ueb.netlify.app/" target="_blank" rel="noopener">
     Sitio web del semillero
   </a>
   <a class="btn btn-metaciencia-outline btn-icon" href="https://github.com/JDLeongomez/MetaCiencia/" target="_blank" rel="noopener">
