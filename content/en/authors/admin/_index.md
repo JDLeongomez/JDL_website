@@ -103,7 +103,7 @@ I am also a founding and board member of the ***Latin American Association for H
 
 My research primarily focuses on human vocal communication, mate choice, and musicality, as well as bioacoustics, psychoacoustics, and hormonal effects on human behaviour. I have published some of the first articles demonstrating within-individual changes in voice pitch in response to the social status of the listener, as well as the significant effects of voice modulation on listeners in courtship contexts.  
 
-I am also passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, and advocate for reproducibility and open science. In this spirit, I initiated [Meta<strong>Ciencia</strong>](/en/metaciencia/), a student research incubator aimed at critically exploring how science is conducted and at training students and faculty in open, collaborative, and reproducible practices.  
+I am also passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, and advocate for reproducibility and open science. In this spirit, I promoted the creation of [Meta<strong>Ciencia</strong>](/en/metaciencia/), a student research incubator aimed at critically exploring how science is conducted and at training students and faculty in open, collaborative, and reproducible practices.
 
 {{< figure src="IA_logo_Largo.png" caption="" numbered="false" >}}
 

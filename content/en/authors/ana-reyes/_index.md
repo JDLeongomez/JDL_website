@@ -49,7 +49,9 @@ user_groups:
 
 ## **BSc Research Project**
 
-*Facial attractiveness and sociosexuality as predictors of infidelity: Differences according to sex*
+*Atractivo facial y sociosexualidad como predictores de infidelidad: Diferencias según el sexo* [Facial attractiveness and sociosexuality as predictors of infidelity: Differences according to sex]
+
+<a href="https://hdl.handle.net/20.500.12495/19678" target="_blank">**https://hdl.handle.net/20.500.12495/19678**</a>
 
 Universidad El Bosque, 2025-2026
 

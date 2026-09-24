@@ -51,6 +51,8 @@ user_groups:
 
 *Atractivo facial y sociosexualidad como predictores de infidelidad: Diferencias según el sexo*
 
+<a href="https://hdl.handle.net/20.500.12495/19678" target="_blank">**https://hdl.handle.net/20.500.12495/19678**</a>
+
 Universidad El Bosque, 2025-2026
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
