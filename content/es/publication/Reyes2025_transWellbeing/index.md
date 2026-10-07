@@ -29,6 +29,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.neuroscience.2025.10.039"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = false

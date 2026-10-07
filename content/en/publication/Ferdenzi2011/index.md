@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1098/rspb.2011.0544"
+open_access = false
 
 # Is this a featured publication? (true/false)
 featured = false

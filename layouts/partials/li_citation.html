@@ -1,0 +1,63 @@
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  {{ $resource := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ $open_access := .Params.open_access | default false }}
+
+  {{ with $resource }}
+    {{ $thumb := .Fill "96x96 Smart q75" }}
+    <img src="{{ $thumb.RelPermalink }}" alt="" class="pub-thumb">
+  {{ else }}
+    <span class="pub-thumb pub-thumb-placeholder" aria-hidden="true"><i class="far fa-file-alt"></i></span>
+  {{ end }}
+
+  {{/* APA Style */}}
+  {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" (dict "page" . "is_list" 1) }}
+  </span>
+  ({{- .Date.Format "2006" -}}).
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if $open_access }} <span class="pub-oa-badge-wrap" data-toggle="tooltip" title="{{ i18n "pub_open_access" }}">
+  {{/* Open Access logo, PLoS (art designer at PLoS; modified by Wikipedia users Nina, Beao, JakobVoss, AnonMoos).
+       Source: plos.org, via commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_transparent.svg. License: CC BY-SA 3.0. */}}
+  <svg class="pub-oa-badge" viewBox="0 0 640 1000" aria-hidden="true" focusable="false">
+    <g stroke="currentColor" stroke-width="104.764" fill="none">
+      <path d="M111.387,308.135V272.408A209.21,209.214 0 0,1 529.807,272.408V530.834"/>
+      <circle cx="320.004" cy="680.729" r="256.083"/>
+    </g>
+    <circle fill="currentColor" cx="321.01" cy="681.659" r="86.4287"/>
+  </svg>
+</span>{{ end }}.
+  {{ if .Params.publication_short }}
+  {{- .Params.publication_short | markdownify -}}.
+  {{ else if .Params.publication }}
+  {{- .Params.publication | markdownify -}}.
+  {{ end }}
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+
+  {{/* MLA Style */}}
+  {{ else }}
+
+  <span class="article-metadata li-cite-author">
+    {{ partial "page_metadata_authors" (dict "page" . "is_list" 1) }}.
+  </span>
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if $open_access }} <span class="pub-oa-badge-wrap" data-toggle="tooltip" title="{{ i18n "pub_open_access" }}">
+  {{/* Open Access logo, PLoS (art designer at PLoS; modified by Wikipedia users Nina, Beao, JakobVoss, AnonMoos).
+       Source: plos.org, via commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_transparent.svg. License: CC BY-SA 3.0. */}}
+  <svg class="pub-oa-badge" viewBox="0 0 640 1000" aria-hidden="true" focusable="false">
+    <g stroke="currentColor" stroke-width="104.764" fill="none">
+      <path d="M111.387,308.135V272.408A209.21,209.214 0 0,1 529.807,272.408V530.834"/>
+      <circle cx="320.004" cy="680.729" r="256.083"/>
+    </g>
+    <circle fill="currentColor" cx="321.01" cy="681.659" r="86.4287"/>
+  </svg>
+</span>{{ end }}.
+  {{ if .Params.publication_short }}
+  {{- .Params.publication_short | markdownify -}},
+  {{ else if .Params.publication }}
+  {{- .Params.publication | markdownify -}},
+  {{ end }}
+  {{- .Date.Format "2006" -}}.
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+
+  {{ end }}
+</div>

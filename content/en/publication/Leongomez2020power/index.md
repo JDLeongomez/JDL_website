@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.5281/zenodo.3988777"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = false

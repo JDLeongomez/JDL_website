@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1007/s10508-025-03298-w"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = false

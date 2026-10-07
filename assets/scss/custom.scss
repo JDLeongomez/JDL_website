@@ -488,3 +488,60 @@ $btn-text-colors: (
 .scholar-card:active {
   text-decoration: none !important;
 }
+
+/* --- Miniatura de publicación en el listado de citas --- */
+.pub-list-item {
+  overflow: hidden; /* contiene la miniatura flotante dentro de cada entrada */
+}
+
+.pub-thumb {
+  float: left;
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-right: 10px;
+  margin-bottom: 4px;
+}
+
+.pub-thumb-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.04);
+  color: rgba(0, 0, 0, 0.35);
+  font-size: 1.1rem;
+}
+
+.dark .pub-thumb-placeholder {
+  background-color: rgba(255, 255, 255, 0.06);
+  color: rgba(255, 255, 255, 0.35);
+}
+
+/* --- Insignia de Open Access (logo oficial PLoS, CC BY-SA 3.0) --- */
+.pub-oa-badge {
+  width: 0.85em;
+  height: 0.85em;
+  vertical-align: -0.05em;
+  margin-left: 4px;
+}
+
+.pub-oa-badge-wrap {
+  color: #f68212; /* color oficial del logo Open Access */
+}
+
+/* --- Mismo ícono, pero dentro de la nota del CTA (fondo verde): necesita un respaldo para verse --- */
+.cta-oa-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 3px;
+  margin: 0 2px;
+  vertical-align: -0.2em;
+}
+
+.cta-oa-badge .pub-oa-badge {
+  margin-left: 0;
+}

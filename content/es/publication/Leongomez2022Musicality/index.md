@@ -29,6 +29,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1098/rstb.2020.0391"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = true

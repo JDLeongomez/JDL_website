@@ -1,26 +1,70 @@
 {{/* Display author list.
      Authors with a profile page (content/authors/<slug>/_index.md) are linked
-     and highlighted if highlight_name: true. External authors appear as plain text. */}}
+     and highlighted if highlight_name: true. External authors appear as plain text.
+
+     In list views (is_list = 1), very long author lists are truncated: the first and
+     last EDGE_KEEP authors are always kept, any author with an internal profile page
+     is always kept regardless of position, and runs of omitted authors collapse into
+     a single "…". Detail views (is_list = 0) always render the full list. */}}
+
+{{ $page := .page }}
+{{ $is_list := .is_list | default 0 }}
+
+{{ $EDGE_KEEP := 3 }}
+{{ $TRUNCATE_THRESHOLD := 12 }}
 
 {{- $taxonomy := "authors" }}
-{{ if .Param $taxonomy }}
+{{ if $page.Param $taxonomy }}
   {{ $link_authors := site.Params.link_authors | default true }}
-  {{ range $index, $value := (.GetTerms $taxonomy) }}
-    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
-    {{- $has_profile := .Page.File -}}
+  {{ $terms := $page.GetTerms $taxonomy }}
+  {{ $total := len $terms }}
 
-    {{- if gt $index 0 }}, {{ end -}}
-    {{- if and $has_profile $link_authors -}}
-      <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-      </span>
+  {{ $do_truncate := and (eq $is_list 1) (ge $total $TRUNCATE_THRESHOLD) }}
+
+  {{/* Build the display list: either every author, or a mix of authors and ellipsis
+       markers. Each author entry carries its ORIGINAL index for `author_notes`. */}}
+  {{ $display := slice }}
+  {{ range $index, $term := $terms }}
+    {{ $has_profile := $term.Page.File }}
+    {{ $keep := or (not $do_truncate) (lt $index $EDGE_KEEP) (ge $index (sub $total $EDGE_KEEP)) $has_profile }}
+    {{ if $keep }}
+      {{ $display = $display | append (dict "ellipsis" false "term" $term "orig_index" $index) }}
+    {{ else }}
+      {{ $need_ellipsis := true }}
+      {{ if gt (len $display) 0 }}
+        {{ $last := index $display (sub (len $display) 1) }}
+        {{ if $last.ellipsis }}
+          {{ $need_ellipsis = false }}
+        {{ end }}
+      {{ end }}
+      {{ if $need_ellipsis }}
+        {{ $display = $display | append (dict "ellipsis" true) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ range $pos, $item := $display }}
+    {{- if gt $pos 0 }}, {{ end -}}
+    {{- if $item.ellipsis -}}
+      <span>&hellip;</span>
     {{- else -}}
-      <span>{{ .LinkTitle }}</span>
-    {{- end -}}
-    {{- if isset $.Params "author_notes" -}}
-      {{- with (index $.Params.author_notes $index) -}}
-        <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+      {{- $term := $item.term -}}
+      {{- $orig_index := $item.orig_index -}}
+      {{- $highlight_name := $term.Page.Params.highlight_name | default false -}}
+      {{- $has_profile := $term.Page.File -}}
+
+      {{- if and $has_profile $link_authors -}}
+        <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
+          <a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+        </span>
+      {{- else -}}
+        <span>{{ $term.LinkTitle }}</span>
+      {{- end -}}
+      {{- if isset $page.Params "author_notes" -}}
+        {{- with (index $page.Params.author_notes $orig_index) -}}
+          <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{ . }}"></i>
+        {{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
-{{- end -}}
+{{ end }}

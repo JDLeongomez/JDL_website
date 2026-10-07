@@ -43,6 +43,9 @@
 - id: btn_cite
   translation: Cite
 
+- id: pub_open_access
+  translation: Open Access
+
 - id: btn_slides
   translation: Slides
 

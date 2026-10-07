@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.3389/fpsyg.2018.01397"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = false

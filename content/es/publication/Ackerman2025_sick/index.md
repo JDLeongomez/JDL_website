@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.bbi.2025.04.020"
+open_access = false
 
 # Is this a featured publication? (true/false)
 featured = false

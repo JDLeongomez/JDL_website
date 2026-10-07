@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.evolhumbehav.2025.106707"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = false

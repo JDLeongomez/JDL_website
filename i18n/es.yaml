@@ -24,6 +24,8 @@
   translation: PDF
 - id: btn_cite
   translation: Citar
+- id: pub_open_access
+  translation: Acceso abierto
 - id: btn_slides
   translation: Diapositivas
 - id: btn_video

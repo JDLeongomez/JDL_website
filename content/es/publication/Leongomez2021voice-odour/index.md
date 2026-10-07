@@ -28,6 +28,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.beproc.2021.104531"
+open_access = false
 
 # Is this a featured publication? (true/false)
 featured = true

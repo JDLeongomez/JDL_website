@@ -29,6 +29,7 @@ summary = ""
 
 # Digital Object Identifier (DOI)
 doi = "10.1016/j.copsyc.2026.102474"
+open_access = true
 
 # Is this a featured publication? (true/false)
 featured = false
