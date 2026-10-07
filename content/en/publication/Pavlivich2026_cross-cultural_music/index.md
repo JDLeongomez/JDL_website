@@ -1,6 +1,6 @@
 +++
 title = "Cross-cultural and Indigenous perspectives on music and social bonding."
-date = 2026-09-03T00:00:00
+date = 2026-10-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Danya Pavlovich", "Patricia Opondo", "admin", "Yuto Ozaki",
@@ -15,20 +15,20 @@ authors = ["Danya Pavlovich", "Patricia Opondo", "admin", "Yuto Ozaki",
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted for publication"
+publication = "*Current Opinion in Psychology*, 102474"
 publication_short = ""
 
 # Abstract.
-abstract = "Experimental studies of primarily Western participants have suggested that musical synchrony facilitates social bonding. Critics question the validity and cross-cultural generality of synchrony-bonding relationships, as well as the causal role of music. Drawing on new data from large-scale Registered Reports co-designed and implemented with over 100 collaborators (“Many Voices”), we show that group singing enhances social bonding significantly more than speaking, across 901 participants speaking 30 languages. We share lessons from this collaboration regarding evolutionary hypotheses about the origins of music and language, as well as the importance of collaborating with Indigenous and non-Western researchers. By making the psychology of music research more inclusive, we may broaden our understanding of music and social bonding in humans and beyond. Indigenous knowledge does not oppose science: it improves science."
+abstract = "Experimental studies of primarily Western participants have suggested that musical synchrony facilitates social bonding. However, critics question the validity and cross-cultural generality of synchrony-bonding relationships, as well as the causal role of music. Drawing on recent data from large-scale Registered Reports co-designed and implemented with over 100 collaborators (“Many Voices”), we show that group singing enhances social bonding significantly more than speaking, across 901 participants speaking 30 languages. We share lessons from this collaboration regarding evolutionary hypotheses about the origins of music and language, as well as the importance of collaborating with Indigenous and non-Western researchers. By making the psychology of music research more inclusive, we may broaden our understanding of music and social bonding in humans and beyond. Indigenous knowledge does not oppose science: it improves science."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/jthks_v1"
+doi = "10.1016/j.copsyc.2026.102474"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "https://osf.io/preprints/psyarxiv/jthks"
+url_preprint = "https://doi.org/10.31234/osf.io/jthks_v2"
 url_code = ""
 url_dataset = ""
 url_project = ""
