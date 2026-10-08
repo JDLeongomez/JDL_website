@@ -518,20 +518,13 @@ $btn-text-colors: (
   color: rgba(255, 255, 255, 0.35);
 }
 
-/* --- Insignia de Open Access (logo oficial PLoS, CC BY-SA 3.0) --- */
+/* --- Insignia de Open Access (logo oficial PLoS, CC BY-SA 3.0), con respaldo circular blanco --- */
 .pub-oa-badge {
   width: 0.85em;
   height: 0.85em;
-  vertical-align: -0.05em;
-  margin-left: 4px;
 }
 
 .pub-oa-badge-wrap {
-  color: #f68212; /* color oficial del logo Open Access */
-}
-
-/* --- Mismo ícono, pero dentro de la nota del CTA (fondo verde): necesita un respaldo para verse --- */
-.cta-oa-badge {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -540,8 +533,5 @@ $btn-text-colors: (
   padding: 3px;
   margin: 0 2px;
   vertical-align: -0.2em;
-}
-
-.cta-oa-badge .pub-oa-badge {
-  margin-left: 0;
+  color: #f68212; /* color oficial del logo Open Access */
 }
