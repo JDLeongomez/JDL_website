@@ -54,7 +54,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://rr.peercommunityin.org/articles/rec?asPDF=True&id=1844"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
