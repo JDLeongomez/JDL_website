@@ -1,5 +1,5 @@
 +++
-title = "The interplay of music, movement, and culture on rhythm processing"
+title = "Movement primes rhythmic behaviour but not neural metre representations"
 date = 2026-10-11T10:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
