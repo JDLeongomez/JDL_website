@@ -27,7 +27,7 @@ abstract = "By rewarding speed, volume, and coherent positive narratives, tradit
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.31234/osf.io/cn59h_v1"
 open_access = true
 
 # Is this a featured publication? (true/false)
