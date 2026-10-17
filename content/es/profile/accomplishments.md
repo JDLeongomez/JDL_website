@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Elsevier"
+  organization_url = "https://www.elsevier.com/"
+  title = "Nominado al Atlas Award (Salud y Bienestar)"
+  url = "https://www.elsevier.com/connect/atlas/nominations"
+  certificate_url = ""
+  date_start = "2026-10-17"
+  description = "Por el artículo '[Mental health and subjective well-being of trans and non-binary population in Colombia](/es/publication/reyes2025_transwellbeing/)', publicado en *Neuroscience*."
+
+[[item]]
   organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
   title = "XV Convocatoria Interna de Investigación, 2025. Mecanismo **Investigación Avanzada**"

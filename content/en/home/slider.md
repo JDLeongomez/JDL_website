@@ -16,11 +16,25 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
+  title = "Nominated for the Elsevier Atlas Award"
+  content = "Our article '[Mental health and subjective well-being of trans and non-binary population in Colombia](/en/publication/reyes2025_transwellbeing/)', led by [María Fernanda Reyes](/en/author/mafe/) with Natalie Levy, Daniela Maldonado-Salamanca, and Minna Lyons, was selected as a nominee for the Elsevier Atlas Award, recognising impactful research in *Neuroscience*."
+  align = "right"
+
+  overlay_color = "#c2460a"
+  overlay_img = ""
+  overlay_filter = 0.75
+
+  cta_label = "See the nominees"
+  cta_url = "https://www.elsevier.com/connect/atlas/nominations"
+  cta_icon_pack = "fas"
+  cta_icon = "trophy"
+
+[[item]]
   title = "Promoted to Full Professor"
   content = "I am pleased to share that since July 1, 2026, I am a **Full Professor** at [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogota."
   align = "right"
 
-  overlay_color = "#204a44"
+  overlay_color = "#20b094"
   overlay_img = ""
   overlay_filter = 0.85
 
