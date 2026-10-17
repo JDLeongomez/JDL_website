@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Nominados al Premio Atlas de Elsevier"
-  content = "Nuestro artículo '[Mental health and subjective well-being of trans and non-binary population in Colombia](/es/publication/reyes2025_transwellbeing/)', liderado por [María Fernanda Reyes](/es/author/mafe/) junto con Natalie Levy, Daniela Maldonado-Salamanca y Minna Lyons, fue seleccionado como nominado al Premio Atlas de Elsevier, que reconoce investigaciones de impacto publicadas en *Neuroscience*."
+  content = "Nuestro artículo '[Mental health and subjective well-being of trans and non-binary population in Colombia](/es/publication/reyes2025_transwellbeing/)', liderado por [María Fernanda Reyes](/es/author/maria-fernanda-reyes/) junto con Natalie Levy, Daniela Maldonado-Salamanca y Minna Lyons, fue seleccionado como nominado al Premio Atlas de Elsevier, que reconoce investigaciones de impacto publicadas en *Neuroscience*."
   align = "right"
 
   overlay_color = "#c2460a"

@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Elsevier"
-  organization_url = "https://www.elsevier.com/"
+  organization_url = "https://www.elsevier.com/connect/atlas/about"
   title = "Nominado al Atlas Award (Salud y Bienestar)"
   url = "https://www.elsevier.com/connect/atlas/nominations"
   certificate_url = ""
