@@ -11,6 +11,60 @@
   height: 2rem;
 }
 
+/* --- Profile avatar: teal ring, ripple rings and soft glow ---
+   Echoes the social-sharing cover image (concentric "sound wave" rings,
+   nodding to voice/bioacoustics research). Pure CSS, no markup changes. */
+#profile {
+  position: relative;
+  overflow: visible;
+}
+
+#profile::before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  width: 360px;
+  height: 360px;
+  transform: translateX(-50%);
+  background: radial-gradient(circle, rgba($primary, 0.20) 0%, rgba($primary, 0) 70%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+#profile .avatar-circle {
+  position: relative;
+  z-index: 1;
+  box-shadow:
+    0 0 0 4px $primary,
+    0 0 0 13px rgba($primary, 0.22),
+    0 0 0 22px rgba($primary, 0.12),
+    0 0 0 31px rgba($primary, 0.06),
+    0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+#profile .portrait-title {
+  position: relative;
+  z-index: 1;
+}
+
+/* Role (first line under the name) gets the brand teal accent */
+#profile .portrait-title h3:first-of-type {
+  color: $primary !important;
+  font-weight: 500;
+}
+
+/* Small teal divider under the name, matching the cover image */
+#profile .portrait-title h2::after {
+  content: "";
+  display: block;
+  width: 56px;
+  height: 4px;
+  margin: 14px auto 2px;
+  background: $primary;
+  border-radius: 2px;
+}
+
 /* --- Hero: media y layout --- */
 .wg-hero .hero-media img {
     max-width: 420px;

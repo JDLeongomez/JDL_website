@@ -21,15 +21,14 @@ organizations:
 bio: Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como en estadística y programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html).
 
 interests:
+- Comportamiento humano y evolución
 - Selección de pareja
 - Comunicación vocal
-- Modulación vocal
 - Musicalidad
-- Bioacústica
-- Psicoacústica
-- Hormonas
-- Estadística
-- Programación en <i class="fab fa-r-project"></i>
+- Bioacústica y psicoacústica
+- Ciencia abierta
+- Metaciencia
+- Estadística y programación en <i class="fab fa-r-project"></i>
 
 education:
   courses:
@@ -107,15 +106,5 @@ También soy fundador y miembro del Consejo Directivo de ***Latin American Assoc
 Mis intereses de investigación se centran principalmente en la comunicación vocal humana, la elección de pareja y la musicalidad, así como en la bioacústica, la psicoacústica y los efectos hormonales en el comportamiento humano. He publicado algunos de los primeros artículos que demuestran cambios intraindividuo en el tono de voz en respuesta al estatus social del oyente, así como efectos significativos de la modulación de la voz en los oyentes en contextos de cortejo.  
 
 Soy también un apasionado por los métodos cuantitativos y la programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;(usando [RStudio](https://rstudio.com/products/rstudio/)), y abogo por la reproducibilidad y la ciencia abierta. En este espíritu, impulsé la creación de [Meta<strong>Ciencia</strong>](/es/metaciencia/), un semillero académico orientado a explorar críticamente cómo se hace ciencia y a formar estudiantes y profesores/as en prácticas abiertas, colaborativas y reproducibles.  
-
-{{< figure src="IA_logo_Largo.png" caption="" numbered="false" >}}
-
-## [Investigación Abierta](#posts) (canal de YouTube)
-
-Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@InvestigacionAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. [Acá](/es/post/) puedes encontrar más información acerca del canal y los videos que he creado.
-
-## Mi travesía académica
-
-{{< figure src="map_es.png" caption="" numbered="false" >}}
 
 <a rel="me" hidden="hidden" href="https://mastodon.social/@jdleongomez">Mastodon</a>

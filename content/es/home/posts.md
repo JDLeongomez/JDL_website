@@ -65,3 +65,7 @@ subtitle = "Canal de YouTube"
  # CSS class.
  css_class = ""
 +++
+
+{{< figure library="true" src="IA_logo_Largo.png" caption="" numbered="false" >}}
+
+Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@InvestigacionAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. [Acá](/es/post/) puedes encontrar más información acerca del canal y los videos que he creado.

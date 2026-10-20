@@ -65,3 +65,7 @@ subtitle = "YouTube Channel (In Spanish)"
  # CSS class.
  css_class = ""
 +++
+
+{{< figure library="true" src="IA_logo_Largo.png" caption="" numbered="false" >}}
+
+Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/@InvestigacionAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](/en/post/).

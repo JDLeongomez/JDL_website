@@ -14,6 +14,7 @@
   title = "JD Leongómez"
   [es.params]
     description = "Sitio web personal de Juan David Leongómez, PhD"
+    sharing_image = "og-cover-es.png"
   [[es.menu.main]]
     name = "Juan David Leongómez"
     url = "#about"

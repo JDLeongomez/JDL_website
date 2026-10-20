@@ -21,15 +21,14 @@ organizations:
 bio: My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as statistics and <i class="fab fa-r-project"></i>&nbsp;programming.
 
 interests:
+- Human behaviour and evolution 
 - Mate choice
 - Vocal communication
-- Voice modulation
 - Musicality
-- Bioacoustics
-- Psychoacoustics
-- Hormones
-- Statistics
-- <i class="fab fa-r-project"></i>&nbsp;programming
+- Bioacoustics and psychoacoustics
+- Open science
+- Metascience
+- Statistics and <i class="fab fa-r-project"></i>&nbsp;programming
 
 education:
   courses:
@@ -104,15 +103,5 @@ I am also a founding and board member of the ***Latin American Association for H
 My research primarily focuses on human vocal communication, mate choice, and musicality, as well as bioacoustics, psychoacoustics, and hormonal effects on human behaviour. I have published some of the first articles demonstrating within-individual changes in voice pitch in response to the social status of the listener, as well as the significant effects of voice modulation on listeners in courtship contexts.  
 
 I am also passionate about quantitative methods and [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html)&nbsp;programming, and advocate for reproducibility and open science. In this spirit, I promoted the creation of [Meta<strong>Ciencia</strong>](/en/metaciencia/), a student research incubator aimed at critically exploring how science is conducted and at training students and faculty in open, collaborative, and reproducible practices.
-
-{{< figure src="IA_logo_Largo.png" caption="" numbered="false" >}}
-
-## [Investigación Abierta](#posts) (YouTube channel)
-
-Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/@InvestigacionAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](/en/post/).
-
-## Academic journey 
-
-{{< figure src="map_en.png" caption="" numbered="false" >}}
 
 <a rel="me" hidden="hidden" href="https://mastodon.social/@jdleongomez">Mastodon</a>
