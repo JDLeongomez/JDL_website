@@ -18,7 +18,7 @@ authors = ["Danya Pavlovich", "Patricia Opondo", "admin", "Yuto Ozaki",
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Current Opinion in Psychology*, 102474"
+publication = "*Current Opinion in Psychology, 73*, 102474"
 publication_short = ""
 
 # Abstract.
@@ -36,7 +36,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Psicología transcultural", "Psicología cultural", "Conducta prosocial", "Música", "Psicología social y de la personalidad", "Ciencias sociales y del comportamiento"]
+tags = ["Cross-cultural Psychology", "Cultural Psychology", "Prosocial Behavior", "Music", "Social and Personality Psychology", "Social and Behavioral Sciences"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/pii/S2352250X26002137/pdfft?md5=23ebf7c30c144dcd8f8f469ecbcacbda&pid=1-s2.0-S2352250X26002137-main.pdf"
 url_preprint = "https://doi.org/10.31234/osf.io/jthks_v2"
 url_code = ""
 url_dataset = ""
