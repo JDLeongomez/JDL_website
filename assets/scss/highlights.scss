@@ -1,0 +1,167 @@
+.highlights {
+  background: #282a36;
+  color: #fff;
+}
+
+.highlights-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-top: 40px;
+  padding-bottom: 24px;
+}
+
+.highlights-header h2 {
+  margin: 0;
+  color: #fff;
+  font-size: 1.6rem;
+}
+
+.highlights-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.highlights-control {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 42px;
+  padding: 8px 12px;
+  border: 1px solid rgba($primary, 0.55);
+  border-radius: 6px;
+  background: rgba($primary, 0.08);
+  color: #fff;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  cursor: pointer;
+}
+
+.highlights-control:hover {
+  background: rgba($primary, 0.2);
+  border-color: $primary;
+}
+
+.highlights-control:focus-visible,
+.highlights-cta:focus-visible {
+  outline: 3px solid $primary;
+  outline-offset: 3px;
+}
+
+.highlights-position {
+  min-width: 3.4em;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.highlights-slide {
+  padding: 44px 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.highlights-slide-brand {
+  padding-bottom: 150px;
+}
+
+.highlights-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 48px;
+  align-items: start;
+}
+
+.highlights-logo {
+  display: block;
+  width: 260px;
+  max-width: 100%;
+  height: auto;
+  justify-self: end;
+}
+
+.highlights-copy {
+  max-width: 760px;
+}
+
+.highlights-copy h3 {
+  margin: 0;
+  color: #fff;
+  font-size: 1.6rem;
+  line-height: 1.25;
+}
+
+.highlights-description {
+  margin: 20px 0 24px;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.highlights-description a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.highlights-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  max-width: 100%;
+  white-space: normal;
+}
+
+.highlights a.highlights-cta,
+.highlights a.highlights-cta:link,
+.highlights a.highlights-cta:visited {
+  color: #212529;
+  background: #f8f9fa;
+  border-color: #f8f9fa;
+}
+
+@media (max-width: 767px) {
+  .highlights-header {
+    padding-top: 28px;
+    padding-bottom: 20px;
+  }
+
+  .highlights-header h2,
+  .highlights-copy h3 {
+    font-size: 1.35rem;
+  }
+
+  .highlights-controls {
+    gap: 8px;
+  }
+
+  .highlights-slide {
+    padding: 32px 0;
+  }
+
+  .highlights-slide-brand {
+    padding-bottom: 72px;
+  }
+
+  .highlights-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+
+  .highlights-logo {
+    grid-row: 1;
+    justify-self: start;
+    width: 140px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .highlights .carousel-item {
+    transition: none;
+  }
+}

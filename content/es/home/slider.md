@@ -1,29 +1,36 @@
 +++
-# Slider widget.
-widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
-
-# Slide interval.
-# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
-
-# Slide height (optional).
-# E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
+# Manual news carousel. Add, remove or reorder [[item]] blocks below.
+widget = "slider"
+headless = true
+active = true
+weight = 60
+title = "Noticias y destacados"
+interval = false
 height = ""
 
-# Slides.
-# Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Nominados al Premio Atlas de Elsevier"
-  content = "Nuestro artículo '[Mental health and subjective well-being of trans and non-binary population in Colombia](/es/publication/reyes2025_transwellbeing/)', liderado por [María Fernanda Reyes](/es/author/maria-fernanda-reyes/) junto con Natalie Levy, Daniela Maldonado-Salamanca y Minna Lyons, fue seleccionado como nominado al Premio Atlas de Elsevier, que reconoce investigaciones de impacto publicadas en *Neuroscience*."
-  align = "right"
+  title = "El Congreso ISHE 2027 llega a Bogotá"
+  content = "Soy el anfitrión local y organizador principal del **29.º Congreso de ISHE (International Society for Human Ethology)**, que se celebrará del **5 al 9 de julio de 2027**."
+  align = "left"
+  overlay_color = "#0f3d1e"
+  overlay_img = "ishe2027-ridge.svg"
+  overlay_filter = 0.08
+  overlay_size = "100% 140px"
+  overlay_position = "center bottom"
+  brand_image = "ishe2027-logo.png"
+  brand_alt = "International Society for Human Ethology (ISHE)"
+  cta_label = "Visita el sitio del congreso"
+  cta_url = "https://2027.ishe.org/"
+  cta_icon_pack = "fas"
+  cta_icon = "calendar-alt"
 
+[[item]]
+  title = "Nominación al Premio Atlas de Elsevier"
+  content = "Nuestro [estudio sobre salud mental y bienestar](/es/publication/reyes2025_transwellbeing/) en personas trans y no binarias de Colombia fue nominado al Premio Atlas de Elsevier."
+  align = "left"
   overlay_color = "#c2460a"
   overlay_img = ""
   overlay_filter = 0.75
-
   cta_label = "Ver los nominados"
   cta_url = "https://www.elsevier.com/connect/atlas/nominations"
   cta_icon_pack = "fas"
@@ -31,124 +38,37 @@ height = ""
 
 [[item]]
   title = "Ascenso a Profesor Titular"
-  content = "Me complace compartir que desde el 1 de julio de 2026 soy **Profesor Titular** en la [Universidad El Bosque](https://www.uelbosque.edu.co/), Bogotá."
-  align = "right"
-
+  content = "Desde el 1 de julio de 2026 soy **Profesor Titular** en la Universidad El Bosque, Bogotá."
+  align = "left"
   overlay_color = "#20b094"
   overlay_img = ""
   overlay_filter = 0.95
-
   cta_label = "Ver mi trayectoria"
   cta_url = "/es/profile/#experience"
   cta_icon_pack = "fas"
   cta_icon = "user-graduate"
 
 [[item]]
-  title = "Maneja, explora y visualiza datos con R"
-  content = "Curso introductorio gratuito que ofrecí en la [Universidad El Bosque](https://www.uelbosque.edu.co/) en junio de 2026. Todos los materiales están disponibles abiertamente en línea."
-  align = "right"
-
+  title = "Materiales abiertos para aprender R"
+  content = "Explora los materiales de mi curso introductorio gratuito sobre manejo, exploración y visualización de datos, ofrecido en junio de 2026."
+  align = "left"
   overlay_color = "#666"
   overlay_img = "logo_curso_r.svg"
   overlay_filter = 0.75
-
   cta_label = "Visita el sitio del curso"
   cta_url = "https://jdleongomez.github.io/curso-r/"
   cta_icon_pack = "fab"
   cta_icon = "r-project"
 
 [[item]]
-  title = "***Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución (LAAHBES)***"
-  content = "**¡Anunciamos la exitosa fundación de la Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución (LAAHBES)!** Tengo además el honor de ser fundador y miembro del Consejo Directivo de esta importante iniciativa."
-  align = "right"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "LAAHBES.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.9  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  title = "Una comunidad científica latinoamericana"
+  content = "Soy fundador y miembro del Consejo Directivo de **LAAHBES**, la Asociación Latinoamericana de Ciencias del Comportamiento Humano y la Evolución."
+  align = "left"
+  overlay_color = "#666"
+  overlay_img = "LAAHBES.png"
+  overlay_filter = 0.9
   cta_label = "Lee el anuncio"
   cta_url = "https://x.com/varella_marco/status/1826326438938915086"
   cta_icon_pack = "fab"
   cta_icon = "twitter"
-
-[[item]]
-  title = "***Voice modulation: from origin and mechanism to social impact***"
-  content = "Número temático en dos partes en [*Philosophical Transactions of the Royal Society B: Biological Sciences*](https://royalsocietypublishing.org/journal/rstb). Editado en conjunto con [Kasia Pisanski](/es/author/katarzyna-pisanski/), [David Reby](https://www.eneslab.com/david-reby), [Disa Sauter](https://www.uva.nl/en/profile/s/a/d.a.sauter/d.a.sauter.html?cb), [Nadine Lavan](https://www.qmul.ac.uk/sbbs/staff/nadine-lavan.html), [Marcus Perlman](https://www.birmingham.ac.uk/staff/profiles/elal/perlman-marcus.aspx), y [Jaroslava Varella Valentova](https://www.ip.usp.br/site/jaroslava-varella-valentova/)."
-  align = "right"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "PTB_flyer.png"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Consulta los contenidos"
-  cta_url = "/es/news/voice_mod/"
-  cta_icon_pack = "fas"
-  cta_icon = "book-open"
-
-[[item]]
-  title = "Como parte de un equipo liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), me fue otorgado <br/> el [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en economía"
-  content = "Por '[tratar de cuantificar la relación entre la desigualdad de ingresos nacionales en diferentes países y la cantidad promedio de besos boca a boca](/es/publication/watkins2019/)'"
-  align = "right"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "ignobel.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Mira la ceremonia (subtitulada al español)"
-  cta_url = "https://www.youtube.com/watch?v=1lVkZfhcNck"
-  cta_icon_pack = "fab"
-  cta_icon = "youtube"
-
-[[item]]
-  title = "CONGRESO INTERNACIONAL VIRTUAL DE NEUROCIENCIAS: CEREBRO Y COMPORTAMIENTO EN TIEMPOS DE COVID-19"
-  content = "Junto con un tremendo equipo de colegas liderado por [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/), organizamos este increíble evento."
-  align = "right"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "civn.jpg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Mira nuestro canal de YouTube"
-  cta_url = "https://www.youtube.com/channel/UC-jrLWsjZ5_ChInEL0S9mQw"
-  cta_icon_pack = "fab"
-  cta_icon = "youtube"
-
-[[item]]
-  title = "Entrevista en [Ciencia Viral](https://youtu.be/t2RXrn45vnM) de El Tiempo"
-  content = "[Nicolás Bustamante](https://twitter.com/ScienceNico) y [Santiago Vargas](https://twitter.com/astrosvd) muy amablemente me invitaron a Ciencia Viral para hablar del [proyecto](/es/publication/watkins2019/), liderado por [Christopher D. Watkins](/es/author/christopher-d.-watkins/), ganador del [Ig Nobel Prize](https://www.improbable.com/ig-about/winners/#ig2020) en economía 2020"
-  align = "right"  # Choose `center`, `left`, or `right`.
-
-  # Overlay a color or image (optional).
-  #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Ciencia_Viral.jpeg"  # Image path relative to your `static/media/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
-
-  # Call to action button (optional).
-  #   Activate the button by specifying a URL and button label below.
-  #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Mira la entrevista"
-  cta_url = "https://youtu.be/t2RXrn45vnM"
-  cta_icon_pack = "fab"
-  cta_icon = "youtube"
 +++

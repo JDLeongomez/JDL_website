@@ -1,0 +1,55 @@
+{{ $page := .page }}
+{{ $hash_id := .hash_id }}
+{{ $items := $page.Params.item }}
+{{ $separator := cond (eq site.Language.Lang "es") "de" "of" }}
+{{ $carousel_label := cond (eq site.Language.Lang "es") "carrusel" "carousel" }}
+{{ $slide_label := cond (eq site.Language.Lang "es") "diapositiva" "slide" }}
+
+<div class="highlights" data-highlights-carousel data-counter-separator="{{ $separator }}" role="region" aria-roledescription="{{ $carousel_label }}" aria-labelledby="{{ $hash_id }}-heading">
+  <div class="container highlights-header">
+    <h2 id="{{ $hash_id }}-heading">{{ $page.Title | markdownify }}</h2>
+    {{ if gt (len $items) 1 }}
+    <div class="highlights-controls">
+      <button type="button" class="highlights-control" data-target="#{{ $hash_id }}" data-slide="prev" aria-controls="{{ $hash_id }}-slides">
+        <i class="fas fa-chevron-left" aria-hidden="true"></i>
+        {{ i18n "previous" }}
+      </button>
+      <span class="highlights-position" aria-live="polite" aria-atomic="true">1 {{ $separator }} {{ len $items }}</span>
+      <button type="button" class="highlights-control" data-target="#{{ $hash_id }}" data-slide="next" aria-controls="{{ $hash_id }}-slides">
+        {{ i18n "next" }}
+        <i class="fas fa-chevron-right" aria-hidden="true"></i>
+      </button>
+    </div>
+    {{ end }}
+  </div>
+
+  <div class="carousel-inner" id="{{ $hash_id }}-slides">
+    {{ range $index, $item := $items }}
+    <div class="carousel-item highlights-slide{{ if $item.brand_image }} highlights-slide-brand{{ end }}{{ if eq $index 0 }} active{{ end }}" role="group" aria-roledescription="{{ $slide_label }}" aria-label="{{ add $index 1 }} {{ $separator }} {{ len $items }}" aria-hidden="{{ if eq $index 0 }}false{{ else }}true{{ end }}" style="background-color: {{ $item.overlay_color | default "#282a36" }};
+      {{ if $item.overlay_img }}
+      background-image: linear-gradient(rgba(0, 0, 0, {{ $item.overlay_filter | default 0.75 }}), rgba(0, 0, 0, {{ $item.overlay_filter | default 0.75 }})), url('{{ printf "media/%s" $item.overlay_img | relURL }}');
+      {{ with $item.overlay_size }}background-size: cover, {{ . }};{{ end }}
+      {{ with $item.overlay_position }}background-position: center, {{ . }};{{ end }}
+      {{ else }}
+      background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+      {{ end }}">
+      <div class="container{{ if $item.brand_image }} highlights-layout{{ end }}">
+        <div class="highlights-copy">
+          <h3>{{ $item.title | markdownify | emojify }}</h3>
+          {{ with $item.content }}<div class="highlights-description">{{ . | markdownify | emojify }}</div>{{ end }}
+          {{ with $item.cta_url }}
+          <a class="btn btn-light highlights-cta" href="{{ . | safeURL }}"{{ if ne $index 0 }} tabindex="-1"{{ end }}>
+            {{ with $item.cta_icon }}<i class="{{ $item.cta_icon_pack | default "fas" }} fa-{{ . }}" aria-hidden="true"></i>{{ end }}
+            {{ $item.cta_label | emojify }}
+          </a>
+          {{ end }}
+        </div>
+        {{ with $item.brand_image }}
+        <img class="highlights-logo" src="{{ printf "media/%s" . | relURL }}" alt="{{ $item.brand_alt | default "" }}" width="640" height="237" loading="lazy">
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+<script src="{{ "js/highlights.js" | relURL }}" defer></script>
