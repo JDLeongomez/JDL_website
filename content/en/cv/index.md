@@ -13,14 +13,9 @@ ___________________
 
 This is my full and detailed academic CV.
 
-<iframe 
-  src="https://docs.google.com/gview?url=https://jdleongomez.github.io/JDL_CV/CV_eng/JDL_CV_en.pdf&embedded=true" 
-  style="width:700px; 
-  height:950px;" 
-  frameborder="0">
-</iframe>
-
 {{< cta cta_text="Open/download academic CV" cta_link="https://jdleongomez.github.io/JDL_CV/CV_eng/JDL_CV_en.pdf" cta_new_tab="true" >}}
+
+{{< pdf-viewer src="https://jdleongomez.github.io/JDL_CV/CV_eng/JDL_CV_en.pdf" title="Academic CV" >}}
 
 ___________________
 
@@ -29,11 +24,6 @@ ___________________
 
 This is my brief 2-page summary CV.
 
-<iframe 
-  src="https://docs.google.com/gview?url=https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pdf&embedded=true" 
-  style="width:700px; 
-  height:950px;" 
-  frameborder="0">
-</iframe>
-
 {{< cta cta_text="Open/download short CV" cta_link="https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pdf" cta_new_tab="true" >}}
+
+{{< pdf-viewer src="https://jdleongomez.github.io/JDL_CV/CV_eng_corta/JDL_shortCV_en.pdf" title="Short CV" >}}

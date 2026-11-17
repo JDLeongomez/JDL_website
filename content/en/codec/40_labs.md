@@ -11,8 +11,8 @@ title = "Labs and research incubators"
 
 CODEC brings together several labs and student research incubators:
 
-- <a href="lab/">EvoCo</a> — Lab of Evolution and Human Behaviour (dir. Óscar Sánchez).
-- <a href="metaciencia/">MetaCiencia</a> — incubator on open science and reproducibility (dir. Juan David Leongómez).
+- <a href="/en/lab/">EvoCo</a> — Lab of Evolution and Human Behaviour (dir. Óscar Sánchez).
+- <a href="/en/metaciencia/">MetaCiencia</a> — incubator on open science and reproducibility (dir. Juan David Leongómez).
 - LabPsiExp — Experimental Psychology Lab (dir. Fidel Mauricio Bonilla).
 - DiCoMH — incubator on cognitive sex and gender differences (dir. Andrés Felipe Reyes).
 - NeuroGroup — incubator on the neuropsychology of ageing (dir. Ana María Salazar).

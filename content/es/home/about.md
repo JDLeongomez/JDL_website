@@ -1,14 +1,27 @@
 +++
-# About widget.
-widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear in.
-
-title = "Acerca de mí"
-
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
-# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+widget = "home_intro"
+headless = true
+active = true
+weight = 10
 author = "admin"
+topics = "Comunicación vocal · Elección de pareja · Musicalidad · Ciencia abierta"
+biography_label = "Más sobre mí"
+biography_hint = "Intereses de investigación · Educación · Áreas de especialidad"
+biography_title = "Acerca de mí"
+
+[[actions]]
+  label = "Publicaciones"
+  url = "publication/"
+  primary = true
+[[actions]]
+  label = "CV"
+  url = "cv/"
+[[actions]]
+  label = "Contacto"
+  url = "#contact"
+
+[advanced]
+  css_class = "home-intro"
 +++
+
+Estudio la comunicación vocal humana, la elección de pareja y la musicalidad desde una perspectiva evolutiva. Como investigador de [EvoCo](/es/lab/) y director de [CODEC](/es/codec/) en la Universidad El Bosque, combino la investigación experimental con los métodos cuantitativos y promuevo una ciencia abierta y reproducible.

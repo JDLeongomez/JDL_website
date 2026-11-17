@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Investigación Abierta"
 subtitle = "YouTube Channel (In Spanish)"
@@ -30,6 +30,10 @@ subtitle = "YouTube Channel (In Spanish)"
     publication_type = ""
     exclude_featured = false
   
+[content.archive]
+  enable = true
+  text = "Explore all videos and tutorials"
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -63,9 +67,7 @@ subtitle = "YouTube Channel (In Spanish)"
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "home-work"
 +++
 
-{{< figure library="true" src="IA_logo_Largo.png" caption="" numbered="false" >}}
-
-Investigación Abierta ["*Open Research*"] is a [YouTube channel](https://www.youtube.com/@InvestigacionAbierta) in Spanish where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the channel and video series [here](/en/post/).
+Spanish-language videos and tutorials on statistics, quantitative research methods, and open science. Watch on [YouTube](https://www.youtube.com/@InvestigacionAbierta) or explore the tutorials below.

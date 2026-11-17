@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Investigación Abierta"
 subtitle = "Canal de YouTube"
@@ -30,6 +30,10 @@ subtitle = "Canal de YouTube"
     publication_type = ""
     exclude_featured = false
   
+[content.archive]
+  enable = true
+  text = "Ver todos los videos y tutoriales"
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
@@ -63,9 +67,7 @@ subtitle = "Canal de YouTube"
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "home-work"
 +++
 
-{{< figure library="true" src="IA_logo_Largo.png" caption="" numbered="false" >}}
-
-Investigación Abierta es un [canal de YouTube](https://www.youtube.com/@InvestigacionAbierta) donde a veces comparto videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. [Acá](/es/post/) puedes encontrar más información acerca del canal y los videos que he creado.
+Videos y tutoriales sobre estadística, métodos cuantitativos de investigación y ciencia abierta. Encuéntralos en [YouTube](https://www.youtube.com/@InvestigacionAbierta) o explora los tutoriales a continuación.

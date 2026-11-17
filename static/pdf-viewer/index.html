@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV viewer</title>
+  <link rel="stylesheet" href="../vendor/pdfjs/web/pdf_viewer.css">
+  <link rel="stylesheet" href="viewer.css">
+  <script type="module" src="viewer.mjs"></script>
+</head>
+<body>
+  <div class="toolbar" role="group" aria-label="PDF controls">
+    <div class="control-group">
+      <button type="button" id="previous" data-label="previous" disabled>‹</button>
+      <label for="page" data-text="page">Page</label>
+      <input id="page" type="number" min="1" value="1" inputmode="numeric" disabled>
+      <span id="page-count" aria-live="polite">/ …</span>
+      <button type="button" id="next" data-label="next" disabled>›</button>
+    </div>
+    <div class="control-group">
+      <button type="button" id="zoom-out" data-label="zoomOut" disabled>−</button>
+      <select id="zoom" data-label="zoom" disabled>
+        <option value="page-fit" data-text="fitPage">Fit page</option>
+        <option value="page-width" data-text="fitWidth">Fit width</option>
+        <option value="0.75">75%</option>
+        <option value="1">100%</option>
+        <option value="1.5">150%</option>
+        <option value="2">200%</option>
+        <option value="custom" id="custom-zoom" hidden></option>
+      </select>
+      <button type="button" id="zoom-in" data-label="zoomIn" disabled>+</button>
+    </div>
+  </div>
+  <main class="document-area">
+    <div id="status" role="status" aria-live="polite">Loading PDF…</div>
+    <div id="scroll-container" tabindex="0" role="region" aria-label="CV document" aria-busy="true">
+      <div id="pages" class="pdfViewer"></div>
+    </div>
+  </main>
+  <noscript>This viewer requires JavaScript. Use the PDF link above the viewer to open the document. / Este visor requiere JavaScript. Usa el enlace al PDF situado encima del visor para abrir el documento.</noscript>
+</body>
+</html>

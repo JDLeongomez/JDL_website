@@ -1,62 +1,51 @@
 +++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
-
-title = "Skills"
-subtitle = ""
-
-# Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# Data source for the areas of expertise inside the homepage accordion.
+widget = "featurette"
+headless = true
+active = false
+weight = 20
+title = "Areas of expertise"
+subtitle = "Methods, tools and practices I bring to research."
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = ""
-  
+  name = "Scientific programming in R"
+  description = "Data preparation, analysis, visualisation, and interactive research tools."
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+  name = "Statistical modelling & inference"
+  description = "Generalised and mixed-effects models, multimodel inference, and machine learning."
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Reproducible workflows"
+  description = "R Markdown, Quarto, Git, and GitHub; integrating analysis and reporting."
 
 [[feature]]
   icon = "lightbulb"
   icon_pack = "fas"
-  name = "Experimental Design"
-  description = ""
-  
-[[feature]]
-  icon = "creative-commons-sampling"
-  icon_pack = "fab"
-  name = "Acoustic Analysis"
-  description = ""
+  name = "Research design & sample-size planning"
+  description = "Experimental designs, power analysis, simulation, and sample-size justification."
 
 [[feature]]
-  icon = "flushed"
+  icon = "wave-square"
   icon_pack = "fas"
-  name = "Face Analysis"
-  description = ""  
-  
+  name = "Acoustic analysis & geometric morphometrics"
+  description = "Quantitative methods for studying voices and facial shape."
+
+[[feature]]
+  icon = "lock-open"
+  icon_pack = "fas"
+  name = "Open science & research transparency"
+  description = "Preregistration, Registered Reports, and assessment of shared data and code."
+
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Teaching"
-  description = "" 
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# [[feature]]
-#  icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
-
+  name = "Methods teaching & research supervision"
+  description = "Quantitative methods training, workshops, and student mentoring."
 +++

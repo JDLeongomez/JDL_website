@@ -13,14 +13,9 @@ ___________________
 
 Esta es mi hoja de vida académica, completa y detallada.
 
-<iframe 
-  src="https://docs.google.com/gview?url=https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf&embedded=true" 
-  style="width:700px; 
-  height:950px;" 
-  frameborder="0">
-</iframe>
-
 {{< cta cta_text="Abrir/descargar HV académica" cta_link="https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf" cta_new_tab="true" >}}
+
+{{< pdf-viewer src="https://jdleongomez.github.io/JDL_CV/CV_esp/JDL_CV_es.pdf" title="Hoja de vida académica" >}}
 
 ___________________
 
@@ -28,11 +23,6 @@ ___________________
 
 Esta es mi hoja de vida corta, resumida a 2 páginas.
 
-<iframe 
-  src="https://docs.google.com/gview?url=https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf&embedded=true" 
-  style="width:700px; 
-  height:950px;" 
-  frameborder="0">
-</iframe>
-
 {{< cta cta_text="Abrir/descargar HV resumida" cta_link="https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf" cta_new_tab="true" >}}
+
+{{< pdf-viewer src="https://jdleongomez.github.io/JDL_CV/CV_esp_corta/JDL_shortCV_es.pdf" title="Hoja de vida resumida" >}}

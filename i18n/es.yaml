@@ -142,3 +142,8 @@
   translation: Índice h
 - id: i10_index
   translation: Índice i10
+
+- id: social_website
+  translation: Sitio web
+- id: social_articles
+  translation: Artículos

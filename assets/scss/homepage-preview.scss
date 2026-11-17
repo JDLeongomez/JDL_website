@@ -1,0 +1,380 @@
+/* Reversible homepage experiment. Only the new intro and homepage sections. */
+.home-section.home-intro {
+  padding: 64px 0;
+}
+
+.home-intro-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  gap: 48px;
+  align-items: center;
+}
+
+.home-intro-portrait {
+  text-align: center;
+}
+
+.home-intro-avatar {
+  display: block;
+  width: 270px;
+  height: auto;
+  max-width: 100%;
+  margin: 32px auto 40px;
+  border-radius: 50%;
+  box-shadow:
+    0 0 0 4px $primary,
+    0 0 0 13px rgba($primary, 0.22),
+    0 0 0 22px rgba($primary, 0.12),
+    0 0 0 31px rgba($primary, 0.06),
+    0 10px 28px rgba(0, 0, 0, 0.35);
+}
+
+.home-intro .network-icon {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0;
+  margin: 0;
+  font-size: 2rem;
+  list-style: none;
+}
+
+.home-intro .network-icon li {
+  display: inline-flex;
+  margin: 0;
+}
+
+.home-intro-copy h1 {
+  margin: 0 0 12px;
+  font-size: 2.2rem;
+  line-height: 1.15;
+}
+
+.home-intro-role {
+  margin-bottom: 20px;
+  font-size: 0.95rem;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.home-intro-copy .article-style {
+  max-width: 42em;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.home-intro-topics {
+  margin: 18px 0;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.home-intro-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 22px 0 16px;
+}
+
+.home-intro-actions .btn {
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.home-intro-actions a.btn-primary {
+  background: #09745f !important;
+  border-color: #09745f !important;
+}
+
+.home-bio-details {
+  margin-top: 8px;
+}
+
+.home-bio-details summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  width: 100%;
+  margin-left: 0;
+  padding: 16px 20px;
+  border: 1px solid rgba($primary, 0.45);
+  border-radius: 10px;
+  background: rgba($primary, 0.09);
+  color: #fff;
+  list-style: none;
+  cursor: pointer;
+}
+
+.home-bio-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.home-bio-details summary::marker {
+  content: "";
+}
+
+.home-bio-details summary:hover {
+  border-color: $primary;
+  background: rgba($primary, 0.14);
+}
+
+.home-bio-toggle-copy strong {
+  display: block;
+  color: $primary;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.home-bio-toggle-copy > span {
+  display: block;
+  margin-top: 4px;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+.home-bio-chevron {
+  flex: 0 0 auto;
+  color: $primary;
+  font-size: 0.85rem;
+  transition: transform 0.18s ease;
+}
+
+.home-bio-details[open] .home-bio-chevron {
+  transform: rotate(180deg);
+}
+
+.home-intro a:focus-visible,
+.home-bio-details summary:focus-visible {
+  outline: 2px solid $primary;
+  outline-offset: 4px;
+}
+
+.home-bio-content {
+  margin-top: 20px;
+  padding: 28px;
+  border: 1px solid rgba($primary, 0.3);
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.08);
+  font-size: 0.9rem;
+}
+
+.home-bio-content h2 {
+  margin-top: 0;
+  font-size: 1.4rem;
+}
+
+.home-bio-content h3 {
+  margin: 0 0 14px;
+  font-size: 1.05rem;
+}
+
+.home-bio-content .article-style {
+  font-size: inherit;
+  line-height: 1.65;
+}
+
+.home-bio-columns {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr);
+  gap: 28px;
+  margin-top: 32px;
+}
+
+.home-bio-interests {
+  padding-left: 1.1em;
+  margin-bottom: 0;
+}
+
+.home-bio-interests li {
+  margin-bottom: 5px;
+}
+
+.home-bio-education {
+  margin: 0;
+}
+
+.home-bio-education dt {
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.home-bio-education dd {
+  margin: 4px 0 16px;
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.home-bio-expertise {
+  margin-top: 32px;
+}
+
+.home-bio-expertise-heading {
+  margin-bottom: 20px;
+}
+
+.home-bio-expertise-heading h3 {
+  margin-bottom: 8px;
+  font-size: 1.35rem;
+  line-height: 1.3;
+}
+
+.home-bio-expertise-heading > p {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 0.95em;
+  line-height: 1.55;
+}
+
+.home-bio-skills {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.home-bio-skills li {
+  display: grid;
+  grid-template-columns: 42px minmax(0, 1fr);
+  align-items: start;
+  gap: 14px;
+  padding: 18px;
+  border: 1px solid rgba($primary, 0.25);
+  border-left: 3px solid $primary;
+  border-radius: 8px;
+  background: #2d313e;
+}
+
+.home-bio-skill-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  background: rgba($primary, 0.14);
+  color: #41cdb0;
+  font-size: 1.25rem;
+}
+
+.home-bio-skills h4 {
+  margin: 0 0 6px;
+  font-size: 1.05em;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.home-bio-skills p {
+  margin: 0;
+  font-size: 0.9em;
+  line-height: 1.55;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.home-section.home-work {
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+
+@media (max-width: 991px) {
+  .home-intro-grid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .home-section.home-intro {
+    padding: 32px 0 36px;
+  }
+
+  .home-intro-avatar {
+    width: 200px;
+    margin: 8px auto 40px;
+  }
+
+  .home-intro-copy h1 {
+    font-size: 1.7rem;
+  }
+
+  .home-intro-role {
+    margin-bottom: 14px;
+    font-size: 0.85rem;
+  }
+
+  .home-intro-copy .article-style {
+    font-size: 0.95rem;
+  }
+
+  .home-intro-topics {
+    margin: 12px 0;
+    font-size: 0.8rem;
+  }
+
+  .home-intro-actions {
+    margin: 18px 0 14px;
+  }
+
+  .home-intro-actions .btn {
+    padding: 10px 16px;
+  }
+
+  .home-bio-details summary {
+    padding: 14px 16px;
+  }
+
+  .home-bio-content {
+    padding: 18px;
+  }
+
+  .home-bio-columns {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 24px;
+    margin-top: 24px;
+  }
+
+  .home-bio-skills {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .home-bio-skills li {
+    padding: 12px 14px;
+    grid-template-columns: 34px minmax(0, 1fr);
+    gap: 10px;
+  }
+
+  .home-bio-skill-icon {
+    width: 34px;
+    height: 34px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+  }
+
+  .home-bio-skill-copy {
+    display: contents;
+  }
+
+  .home-bio-skills h4 {
+    align-self: center;
+    margin-bottom: 0;
+  }
+
+  .home-bio-skills p {
+    grid-column: 1 / -1;
+  }
+
+  .home-section.home-work {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home-bio-chevron {
+    transition: none;
+  }
+}

@@ -1,0 +1,83 @@
+{{ $page := .page }}
+{{ $person_page := site.GetPage (printf "/authors/%s" $page.Params.author) }}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+
+<div class="home-intro-grid">
+  <div class="home-intro-portrait">
+    {{ with $avatar }}
+      {{ $image := .Fill "540x540 Center" }}
+      <img src="{{ $image.RelPermalink }}" width="270" height="270" alt="{{ $person_page.Title }}" class="home-intro-avatar">
+    {{ end }}
+    {{ partial "social_links.html" $person_page }}
+  </div>
+  <div class="home-intro-copy">
+    <h1>{{ $person_page.Title }}</h1>
+    <p class="home-intro-role">{{ $person.role | markdownify }}{{ range $person.organizations }} <span aria-hidden="true">·</span> {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}{{ .name }}{{ if .url }}</a>{{ end }}{{ end }}</p>
+    <div class="article-style">{{ $page.Content }}</div>
+    <p class="home-intro-topics">{{ $page.Params.topics }}</p>
+    <div class="home-intro-actions">
+      {{ range $page.Params.actions }}
+        <a class="btn {{ if .primary }}btn-primary{{ else }}btn-outline-primary{{ end }}" href="{{ .url | relLangURL }}">{{ .label }}</a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ $home := site.GetPage "/home/index.md" }}
+{{ $skills := $home.Resources.GetMatch "skills.md" }}
+<details class="home-bio-details" id="home-biography">
+  <summary>
+    <span class="home-bio-toggle-copy">
+      <strong>{{ $page.Params.biography_label }}</strong>
+      <span>{{ $page.Params.biography_hint }}</span>
+    </span>
+    <i class="fas fa-chevron-down home-bio-chevron" aria-hidden="true"></i>
+  </summary>
+  <div class="home-bio-content">
+    <h2>{{ $page.Params.biography_title }}</h2>
+    <div class="article-style">{{ $person_page.Content }}</div>
+    <div class="home-bio-columns">
+      {{ with $person.interests }}
+      <div>
+        <h3>{{ i18n "interests" }}</h3>
+        <ul class="home-bio-interests">
+          {{ range . }}<li>{{ . | markdownify | emojify }}</li>{{ end }}
+        </ul>
+      </div>
+      {{ end }}
+      {{ with $person.education }}
+      <div>
+        <h3>{{ i18n "education" }}</h3>
+        <dl class="home-bio-education">
+          {{ range .courses }}
+          <dt>{{ .course }}{{ with .year }}, {{ . }}{{ end }}</dt>
+          <dd>{{ .institution }}</dd>
+          {{ end }}
+        </dl>
+      </div>
+      {{ end }}
+    </div>
+    {{ with $skills }}
+    <div class="home-bio-expertise">
+      <div class="home-bio-expertise-heading">
+        <h3>{{ .Title }}</h3>
+        {{ with .Params.subtitle }}<p>{{ . }}</p>{{ end }}
+      </div>
+      <ul class="home-bio-skills">
+        {{ range .Params.feature }}
+        <li>
+          <span class="home-bio-skill-icon" aria-hidden="true">
+            <i class="{{ .icon_pack | default "fas" }} fa-{{ .icon }}"></i>
+          </span>
+          <div class="home-bio-skill-copy">
+            <h4>{{ .name | markdownify }}</h4>
+            {{ with .description }}<p>{{ . | markdownify }}</p>{{ end }}
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</details>

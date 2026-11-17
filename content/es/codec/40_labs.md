@@ -11,8 +11,8 @@ title = "Laboratorios y semilleros"
 
 CODEC agrupa varios laboratorios y semilleros de investigación:
 
-- <a href="lab/">EvoCo</a> — Laboratorio de Evolución y Comportamiento Humano (dir. Óscar Sánchez).
-- <a href="metaciencia/">MetaCiencia</a> — semillero de ciencia abierta y reproducibilidad (dir. Juan David Leongómez).
+- <a href="/es/lab/">EvoCo</a> — Laboratorio de Evolución y Comportamiento Humano (dir. Óscar Sánchez).
+- <a href="/es/metaciencia/">MetaCiencia</a> — semillero de ciencia abierta y reproducibilidad (dir. Juan David Leongómez).
 - LabPsiExp — Laboratorio de Psicología Experimental (dir. Fidel Mauricio Bonilla).
 - DiCoMH — semillero de diferencias cognitivas de sexo y género (dir. Andrés Felipe Reyes).
 - NeuroGroup — semillero de neuropsicología del envejecimiento (dir. Ana María Salazar).

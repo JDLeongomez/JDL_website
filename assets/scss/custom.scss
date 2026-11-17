@@ -67,6 +67,7 @@
 
 /* --- Hero: media y layout --- */
 .wg-hero .hero-media img {
+    width: 100%;
     max-width: 420px;
     /* ajusta si lo quieres más pequeño/grande */
     height: auto;
@@ -589,3 +590,6 @@ $btn-text-colors: (
   vertical-align: -0.2em;
   color: #f68212; /* color oficial del logo Open Access */
 }
+
+// Reversible homepage layout preview.
+@import "homepage-preview";

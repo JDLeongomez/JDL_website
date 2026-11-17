@@ -1,0 +1,2 @@
+{{- $labels := dict "academia" "Academia.edu" "cv" "CV" "cvlac_mono" "CvLAC" "envelope" (i18n "contact_email") "github" "GitHub" "globe" (i18n "social_website") "google-scholar" "Google Scholar" "instagram" "Instagram" "linkedin" "LinkedIn" "mastodon" "Mastodon" "newspaper" (i18n "social_articles") "orcid" "ORCID" "osf" "Open Science Framework" "researchgate" "ResearchGate" "twitter" "Twitter" "youtube" "YouTube" -}}
+{{- return (.label | default .name | default (index $labels .icon) | default (.icon | humanize | title) | default .link) -}}

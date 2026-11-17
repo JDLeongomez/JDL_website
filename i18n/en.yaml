@@ -240,3 +240,8 @@
 
 - id: i10_index
   translation: i10-index
+
+- id: social_website
+  translation: Website
+- id: social_articles
+  translation: Articles

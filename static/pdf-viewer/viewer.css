@@ -1,0 +1,39 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; }
+* { box-sizing: border-box; }
+html, body { width: 100%; height: 100%; margin: 0; overflow: hidden; }
+body { display: flex; flex-direction: column; background: #353844; color: #fff; }
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 6px 14px;
+  padding: 8px;
+  background: #282a36;
+  border-bottom: 1px solid #555966;
+  font-size: 14px;
+}
+.control-group { display: flex; align-items: center; gap: 6px; }
+button, select, input {
+  min-height: 36px;
+  border: 1px solid #737887;
+  border-radius: 4px;
+  background: #353844;
+  color: #fff;
+  font: inherit;
+}
+button { min-width: 36px; padding: 0 8px; font-size: 22px; cursor: pointer; }
+button:hover:enabled { background: #096b59; }
+button:disabled { opacity: 0.45; cursor: default; }
+input { width: 58px; padding: 4px; text-align: center; }
+select { max-width: 135px; padding: 4px; }
+:focus-visible { outline: 3px solid #45d9b8; outline-offset: -2px; }
+.document-area { position: relative; flex: 1; min-height: 0; }
+#scroll-container { position: absolute; inset: 0; overflow: auto; }
+#pages { --page-margin: 8px auto; --page-border: 0; --spreadHorizontalWrapped-margin-LR: 0px; }
+#status { position: absolute; inset: 0; z-index: 10; display: grid; place-content: center; padding: 24px; text-align: center; background: #353844; }
+#status[hidden] { display: none; }
+.pdfViewer .page { color-scheme: light; }
+@media (max-width: 360px) {
+  .toolbar { gap: 6px; padding: 6px; }
+  button { min-height: 32px; min-width: 32px; }
+}

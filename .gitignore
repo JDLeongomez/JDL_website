@@ -13,3 +13,6 @@ ooshutup10.cfg
 .positai
 assets/jsconfig.json
 .cl*/
+
+# Local snapshots for the reversible homepage experiment
+.homepage-preview/

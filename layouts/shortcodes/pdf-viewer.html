@@ -1,0 +1,6 @@
+{{- if not (.Page.Scratch.Get "pdf-viewer-styles") -}}
+  {{- .Page.Scratch.Set "pdf-viewer-styles" true -}}
+  <link rel="stylesheet" href="{{ "pdf-viewer/embed.css" | relURL }}">
+{{- end -}}
+{{- $viewer := printf "%s?file=%s&lang=%s&title=%s" ("pdf-viewer/" | relURL) (.Get "src" | urlquery) .Page.Lang (.Get "title" | urlquery) -}}
+<iframe class="cv-pdf-frame" src="{{ $viewer | safeURL }}" title="{{ .Get "title" }}" loading="lazy" allowfullscreen></iframe>

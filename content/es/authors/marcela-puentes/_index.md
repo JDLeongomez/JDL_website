@@ -30,7 +30,7 @@ bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comporta
 social:
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/marcela-puentes-30356a399
+  link: https://www.linkedin.com/in/marcela-puentes-30356a399
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

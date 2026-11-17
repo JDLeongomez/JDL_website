@@ -1,4 +1,4 @@
-<ul class="network-icon" aria-hidden="true">
+<ul class="network-icon">
   {{ range .Params.social }}
     {{ $pack := or .icon_pack "fas" }}
     {{ $pack_prefix := $pack }}
@@ -14,9 +14,9 @@
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
     <li>
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} aria-label="{{ partial "functions/social_link_label.html" . }}">
         {{ if and (eq $pack "custom") (eq .icon "cvlac_mono") }}
-          <svg viewBox="0 0 97.01 97.01" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" role="img" aria-label="CvLAC">
+          <svg viewBox="0 0 97.01 97.01" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" aria-hidden="true" focusable="false">
             <defs>
               <mask id="cvlac-mask">
                 <rect width="97.01" height="97.01" fill="white"/>
@@ -29,7 +29,7 @@
             <circle cx="48.51" cy="48.5" r="48.51" fill="currentColor" mask="url(#cvlac-mask)"/>
           </svg>
         {{ else }}
-          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}" aria-hidden="true"></i>
         {{ end }}
       </a>
     </li>
