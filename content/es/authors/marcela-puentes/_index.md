@@ -18,7 +18,7 @@ role: Asistente de investigación desde 2026
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comportamiento Humano desde 2026.'
@@ -63,6 +63,8 @@ Universidad El Bosque, desde 2026.
 
 <a href="https://hdl.handle.net/20.500.12495/19696" target="_blank">https://hdl.handle.net/20.500.12495/19696</a>
 
-**Supervisora:** [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/).
+**Supervisora principal:** [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/).
+
+**Co-supervisor:** [Juan David Leongómez](/es/#about).
 
 Universidad El Bosque, 2025

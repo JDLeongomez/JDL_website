@@ -18,7 +18,7 @@ role: Maestría en Psicología | Supervisión de investigación 2019-2020
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Proyecto de investigación MSc: La voz como predictor de sintomatología asociada a depresión y ansiedad'

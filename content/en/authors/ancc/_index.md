@@ -18,7 +18,7 @@ role: Research Assistant 2019-2024 / Teaching supervision 2019-2024 / BSc Psycho
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Research assistant at ***EvoCo**: Human Behaviour and Evolution Lab* between 2019 and 2024, and BSc research project student between 2017 and 2018."

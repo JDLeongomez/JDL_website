@@ -86,7 +86,7 @@ math = true
   
 ## Ig Nobel Prize: 
 
->Happily, we were awarded the 2020 [Ig Nobel Prize](https://www.improbable.com/ig-about/) in economics for this project, "[for trying to quantify the relationship between different countries’ national income inequality and the average amount of mouth-to-mouth kissing](https://www.improbable.com/ig-about/winners/#ig2020)". Below, you can watch the ceremony (if you want to jump to [Chris](/en/author/christopher-d.-watkins/) receiving the prize, go to [28:13](https://youtu.be/Amkyp-dhYX0?t=1693)).
+>Happily, we were awarded the 2020 [Ig Nobel Prize](https://improbable.com/ig/about-the-ig-nobel-prizes/) in economics for this project, "[for trying to quantify the relationship between different countries’ national income inequality and the average amount of mouth-to-mouth kissing](https://improbable.com/ig/winners/#ig2020)". Below, you can watch the ceremony (if you want to jump to [Chris](/en/author/christopher-d.-watkins/) receiving the prize, go to [28:13](https://youtu.be/Amkyp-dhYX0?t=1693)).
 
 {{< youtube Amkyp-dhYX0 >}}
 

@@ -15,7 +15,7 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Professor and Researcher/Director at ***EvoCo**: Human Behaviour and Evolution Lab*, Faculty of Psychology, at Universidad El Bosque in Bogota, Colombia."
@@ -66,4 +66,4 @@ user_groups:
 
 ---
 
-Professor at the [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), [Universidad El Bosque](https://www.uelbosque.edu.co/), and Researcher/Director of [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), in Bogota, Colombia.
+Professor at the [Faculty of Psychology](https://www.unbosque.edu.co/psicologia), [Universidad El Bosque](https://www.unbosque.edu.co/), and Researcher/Director of [***EvoCo**: Human Behaviour and Evolution Lab*](/en/team/), in Bogota, Colombia.

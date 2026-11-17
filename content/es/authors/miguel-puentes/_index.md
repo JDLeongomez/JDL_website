@@ -15,7 +15,7 @@ role: Profesor Auxiliar
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Profesor e Investigadorde ***EvoCo**: Laboratorio de Evolución y Comportamiento Humano* de la Facultad de Psicología de la Universidad El Bosque en Bogotá, Colombia."
@@ -74,4 +74,4 @@ user_groups:
 
 Psicólogo y Magíster en Psicología con énfasis en aprendizaje y evolución del comportamiento de la [Universidad Nacional de Colombia](https://unal.edu.co). Candidato a doctor en Biología teórica y del comportamiento de la [Universidad de Groningen](https://www.rug.nl/?lang=en) (Países Bajos), con una tesis enfocada en el estudio de patrones emergentes de comportamiento social desde una perspectiva de Auto-Organización. 
 
-Profesor de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia), de la [Universidad El Bosque](https://www.uelbosque.edu.co/), e Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), en Bogotá, Colombia.
+Profesor de la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia), de la [Universidad El Bosque](https://www.unbosque.edu.co/), e Investigador de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), en Bogotá, Colombia.

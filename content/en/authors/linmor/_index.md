@@ -18,7 +18,7 @@ role: Research Assistant 2018 / BSc Psychology | Research supervision 2016-2017
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Research assistant at the Human Behaviour Lab in 2018, and BSc research project student between 2016 and 2017.
@@ -70,7 +70,7 @@ user_groups:
 - Former Undergraduate Students
 ---
 
-Lina is a psychologist from [El Bosque University](https://www.uelbosque.edu.co/) and business administrator from [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/home ). She has an interest in mental health within organizations. She has knowledge of clinical psychology and experience in the design and implementation of social projects. Member of SDSN Youth Solutions Hub.
+Lina is a psychologist from [El Bosque University](https://www.unbosque.edu.co/) and business administrator from [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/home ). She has an interest in mental health within organizations. She has knowledge of clinical psychology and experience in the design and implementation of social projects. Member of SDSN Youth Solutions Hub.
 
 Lina first did her undergraduate research project between 2016 and 2017, and then worked as a research assistant under my supervision, training in research methods, and supporting research processes as a research assistant under my supervision. In 2020 Lina worked on data analysis and programming in R under my guidance.
 

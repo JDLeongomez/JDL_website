@@ -24,4 +24,4 @@ subtitle = ""
 
 ***EvoCo*** was founded by [Oscar R. Sánchez](/en/author/oscar-r.-sanchez) in 2015 as the *Laboratory of Human Behaviour Analysis (LACH)*. Over time, we have consolidated a small but diverse team and launched several long-term projects.  
 
-On this page, you will find information about the researchers and research assistants with whom I work permanently at ***EvoCo*** at [Universidad El Bosque](https://www.uelbosque.edu.co/), as well as the research students I currently supervise or have supervised in the past.  
+On this page, you will find information about the researchers and research assistants with whom I work permanently at ***EvoCo*** at [Universidad El Bosque](https://www.unbosque.edu.co/), as well as the research students I currently supervise or have supervised in the past.

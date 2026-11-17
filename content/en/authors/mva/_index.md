@@ -15,7 +15,7 @@ role: Associate Professor / Joint PhD supervision 2015-2018 / Postdoc supervisio
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Associate Professor, Researcher in Neuroscience at Universidad El Bosque. Interested in the cognitive mechanisms that underlie mood disorders and sexual behaviour.
@@ -71,7 +71,7 @@ user_groups:
 - Former Graduate Students
 ---
 
-Milena is an Associate Professor, and researcher in neuroscience at the Experimental Psicology Lab, [Universidad El Bosque](https://www.uelbosque.edu.co/). She is leading research projects in two lines: first, about typical-atypical sexual preferences, both deviant and non-deviant, such as paedophilia. Second, about attentional biases and HRV as indicators of affective disorders. She has focused on the use of eye-tracking as an indirect measure of affect and sexual arousal. She is interested in research about the cognitive mechanisms that underlie mood disorders and sexual behaviour.
+Milena is an Associate Professor, and researcher in neuroscience at the Experimental Psicology Lab, [Universidad El Bosque](https://www.unbosque.edu.co/). She is leading research projects in two lines: first, about typical-atypical sexual preferences, both deviant and non-deviant, such as paedophilia. Second, about attentional biases and HRV as indicators of affective disorders. She has focused on the use of eye-tracking as an indirect measure of affect and sexual arousal. She is interested in research about the cognitive mechanisms that underlie mood disorders and sexual behaviour.
 
 I was honoured to co-supervise first her PhD, and now her postdoc.
 

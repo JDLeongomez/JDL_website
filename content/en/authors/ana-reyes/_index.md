@@ -18,7 +18,7 @@ role: BSc Psychology | Research supervision 2025-2026
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: BSc research project student 2025-2026.
@@ -55,4 +55,4 @@ user_groups:
 
 Universidad El Bosque, 2025-2026
 
-**Supervisor:** [Juan David Leongómez](/es/#about) and [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisors:** [Juan David Leongómez](/en/#about) and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/).

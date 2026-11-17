@@ -13,15 +13,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Asistente de investigación desde 2024 / Psicología | Supervisión de investigación 2021-2022 (Trabajo de grado meritorio)
+role: Asistente de investigación 2024-2025 / Psicología | Supervisión de investigación 2021-2022 (Trabajo de grado meritorio)
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Estudiante de investigación de Pregrado 2021-2022 (Trabajo de grado meritorio).
+bio: Asistente de investigación en EvoCo 2024-2025 y estudiante de investigación de Pregrado 2021-2022 (Trabajo de grado meritorio).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,13 +48,13 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Antiguos Estudiantes de Pregrado
-- Asistentes de Investigación
+- Antiguos Asistentes de Investigación
 ---
 
-Daniela es investigadora en formación de [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), y docente *ad honorem* en la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
+Daniela fue asistente de investigación entre 2024 y 2025 en [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/es/team/), y es docente *ad honorem* en la [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.unbosque.edu.co/) en Bogotá, Colombia.
 
 Es psicóloga de la [Universidad El Bosque](https://www.unbosque.edu.co/) y está realizando una maestría en Desarrollo de
-Recursos Humanos en la [Universidad Da Vinci](https://udavinci.edu.mx/). Dirigí su trabajo de grado entre 2021 y 2022, mientras realizaba su pregrado. Desde su vinculación al laboratorio, ha venido apoyando diversos procesos investigativos.
+Recursos Humanos en la [Universidad Da Vinci](https://udavinci.edu.mx/). Dirigí su trabajo de grado entre 2021 y 2022, mientras realizaba su pregrado. Durante su vinculación al laboratorio como asistente de investigación (2024-2025), apoyó diversos procesos investigativos.
 
 ## **Proyecto de investigación de Pregrado**  
 

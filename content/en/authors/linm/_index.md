@@ -18,7 +18,7 @@ role: Research Assistant 2020
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Detection of previous infidelity and socio-sexual orientation from voice

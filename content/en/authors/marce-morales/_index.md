@@ -18,7 +18,7 @@ role: BSc Psychology | Research supervision from 2026
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: BSc research project student from 2026.
@@ -45,8 +45,8 @@ user_groups:
 
 ## **BSc Research Project**  
 
-*To be decided*
+*Relationship between motivation for parenthood and the prosodic characteristics of infant-directed speech* [Relación entre la motivación hacia la parentalidad y las características prosódicas del habla dirigida a bebés]
 
 Universidad El Bosque, from 2026
 
-**Supervisors:** [Juan David Leongómez](/en/#about) and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).
+**Supervisors:** [Juan David Leongómez](/en/#about) and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/).

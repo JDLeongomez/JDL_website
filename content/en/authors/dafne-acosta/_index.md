@@ -18,7 +18,7 @@ role: BSc Psychology | Research supervision from 2026
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: BSc research project student from 2026.
@@ -45,8 +45,8 @@ user_groups:
 
 ## **BSc Research Project**  
 
-*To be decided*
+*Pitch variability in infant-directed speech and courtship* [Variabilidad tonal en el habla dirigida a bebés y el cortejo]
 
 Universidad El Bosque, from 2026
 
-**Supervisors:** [Juan David Leongómez](/en/#about) and [Oscar R. Sánchez](/en/author/oscar-r.-sanchez/).
+**Supervisors:** [Juan David Leongómez](/en/#about) and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/).

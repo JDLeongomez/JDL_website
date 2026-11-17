@@ -6,7 +6,7 @@ active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Experiencia"
-subtitle = "Experiencia post-doctorado en educación superior (para una lista completa, por favor mira mi [CV](/es/files/JDL_CV_es.pdf))"
+subtitle = "Experiencia post-doctorado en educación superior (para una lista completa, por favor mira mi [CV](/es/cv/))"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Profesor Titular"
   company = "Universidad El Bosque"
-  company_url = "https://www.uelbosque.edu.co/"
+  company_url = "https://www.unbosque.edu.co/"
   location = "Bogotá, Colombia"
   date_start = "2026-06-15"
   date_end = ""
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Profesor Asociado"
   company = "Universidad El Bosque"
-  company_url = "https://www.uelbosque.edu.co/"
+  company_url = "https://www.unbosque.edu.co/"
   location = "Bogotá, Colombia"
   date_start = "2019-04-30"
   date_end = "2026-06-15"
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Profesor Asistente"
   company = "Universidad El Bosque"
-  company_url = "https://www.uelbosque.edu.co/"
+  company_url = "https://www.unbosque.edu.co/"
   location = "Bogotá, Colombia"
   date_start = "2015-01-15"
   date_end = "2019-04-30"

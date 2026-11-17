@@ -18,7 +18,7 @@ role: BSc Biology research supervision 2016-2017 (Distinction)
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: BSc research project student between 2016 and 2017 (Distinction).

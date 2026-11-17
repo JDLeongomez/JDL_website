@@ -15,7 +15,7 @@ role: Profesor Titular
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como en estadística y programación en [<i class="fab fa-r-project"></i>](https://www.r-project.org/about.html).

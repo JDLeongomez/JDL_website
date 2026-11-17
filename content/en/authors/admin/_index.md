@@ -15,7 +15,7 @@ role: Full Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as statistics and <i class="fab fa-r-project"></i>&nbsp;programming.

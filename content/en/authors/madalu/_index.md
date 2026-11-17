@@ -18,7 +18,7 @@ role: BSc Psychology | Research supervision 2020-2021 (Distinction)
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: BSc research project student between 2020-2021 (Distinction).

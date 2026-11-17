@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "IX Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2017"
   url = "http://www.unbosque.edu.co/centro-informacion/convocatoria/convocatoria-interna-de-investigaciones-201"
   certificate_url = "https://drive.google.com/file/d/1p93_aH47ij-KHF3i66uJZappnawVZvsq/view?usp=sharing"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "VIII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2016"
   url = ""
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9TmhJYXBsaFNfOUk/view?usp=sharing"
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "VII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2015"
   url = ""
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9OFRvd25LTUFqbG8/view?usp=sharing"

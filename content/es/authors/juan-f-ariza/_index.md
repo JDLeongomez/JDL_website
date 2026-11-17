@@ -33,7 +33,7 @@ education:
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Antiguo asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano 2023-2024, y estudiante de investigación de Pregrado entre 2018 y 2019 (Trabajo de grado meritorio).

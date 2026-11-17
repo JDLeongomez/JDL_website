@@ -13,15 +13,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant since 2024 / BSc Psychology | Research supervision 2021-2022 (Distinction)
+role: Research Assistant 2024-2025 / BSc Psychology | Research supervision 2021-2022 (Distinction)
 
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  'Research assistant at EvoCo: Human Behaviour and Evolution Lab since 2024, and BSc research project student 2021-2022 (Distinction).'
+bio:  'Research assistant at EvoCo: Human Behaviour and Evolution Lab 2024-2025, and BSc research project student 2021-2022 (Distinction).'
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,12 +48,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Former Undergraduate Students
-- Research Assistants
+- Former Research Assistants
 ---
 
-Daniela is a trainee researcher at [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/), and *ad honorem* lecturer at the [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) of the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia.
+Daniela was a research assistant from 2024 to 2025 at [***EvoCo**: Laboratorio de Evolución y Comportamiento Humano*](/en/team/), and is an *ad honorem* lecturer at the [Facultad de Psicología](https://www.unbosque.edu.co/psicologia) of the [Universidad El Bosque](https://www.unbosque.edu.co/) in Bogota, Colombia.
 
-She is a psychologist from [Universidad El Bosque](https://www.unbosque.edu.co/) and is doing a master's degree in Human Resource Development at [Da Vinci University](https://udavinci.edu.mx/). I supervised her research work between 2021 and 2022, while she was completing her undergraduate studies. Since joining the lab, she has been supporting various research processes.
+She is a psychologist from [Universidad El Bosque](https://www.unbosque.edu.co/) and is doing a master's degree in Human Resource Development at [Da Vinci University](https://udavinci.edu.mx/). I supervised her research work between 2021 and 2022, while she was completing her undergraduate studies. During her time at the lab as a research assistant (2024-2025), she supported various research processes.
 
 ## **Research project**  
 

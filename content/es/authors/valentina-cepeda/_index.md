@@ -18,7 +18,7 @@ role: Asistente de investigación desde 2025
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comportamiento Humano desde 2025.'

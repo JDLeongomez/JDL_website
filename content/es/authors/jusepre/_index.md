@@ -18,7 +18,7 @@ role: Psicología | Supervisión de investigación 2020-2021 (Trabajo de grado m
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Estudiante de investigación de Pregrado desde 2020 (Trabajo de grado meritorio).

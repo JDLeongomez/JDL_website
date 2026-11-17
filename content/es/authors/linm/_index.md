@@ -18,7 +18,7 @@ role: Asistente de Investigación 2020
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Asistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2020

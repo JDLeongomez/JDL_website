@@ -18,7 +18,7 @@ role: Psicología | Supervisión de investigación desde 2026
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Estudiante de investigación de Pregrado desde 2026.
@@ -45,8 +45,8 @@ user_groups:
 
 ## **Proyecto de investigación de Pregrado**  
 
-*Por definir* [To be decided]
+*Variabilidad tonal en el habla dirigida a bebés y el cortejo*
 
 Universidad El Bosque, desde 2026
 
-**Supervisores:** [Juan David Leongómez](/es/#about) y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
+**Supervisores:** [Juan David Leongómez](/es/#about) y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/).

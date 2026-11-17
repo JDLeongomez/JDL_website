@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "XV Convocatoria Interna de Investigación, 2025. Mecanismo **Investigación Avanzada**"
   url = "https://investigaciones.unbosque.edu.co/financiacion-interna"
   certificate_url = "https://www.unbosque.edu.co/sites/default/files/2026-02/xv-convocatoria-interna-de-investigaciones-2025-modalidad-avanzada.pdf"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "*Papyrus* award: Most impactful article in Arts and Humanities"
   url = "https://www.coursera.org/learn/statistical-inferences"
   certificate_url = "Papyrus_2024_cert.pdf"
@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   organization = "Improbable Research"
   organization_url = "https://www.improbable.com/"
   title = "Ig Nobel Prize 2020 (Economics)"
-  url = "https://www.improbable.com/ig-about/winners/#ig2020"
+  url = "https://improbable.com/ig/winners/#ig2020"
   certificate_url = "ignobelcert.jpg"
   date_start = "2020-09-17"
   description = "National income inequality predicts cultural variation in mouth to mouth kissing."
@@ -87,7 +87,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "IX Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2017"
   url = "http://www.unbosque.edu.co/centro-informacion/convocatoria/convocatoria-interna-de-investigaciones-201"
   certificate_url = "PCI 2017-9444 ACTA DE INICIO.pdf"
@@ -97,7 +97,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "VIII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2016"
   url = ""
   certificate_url = "2._carta_aval.pdf"
@@ -107,7 +107,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Universidad El Bosque"
-  organization_url = "https://uelbosque.edu.co"
+  organization_url = "https://www.unbosque.edu.co"
   title = "VII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2015"
   url = ""
   certificate_url = "Rsta. Comité ética PCI 2015-8207.pdf"

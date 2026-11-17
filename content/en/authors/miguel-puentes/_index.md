@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Professor and Researcher at ***EvoCo**: Evolution and Human Behaviour Laboratory* at the Faculty of Psychology, Universidad El Bosque, Bogotá, Colombia."
@@ -71,4 +71,4 @@ user_groups:
 
 Psychologist and Master in Psychology with a focus on learning and behavioural evolution from the [Universidad Nacional de Colombia](https://unal.edu.co). PhD candidate in Theoretical Biology at the [University of Groningen](https://www.rug.nl/?lang=en) (Netherlands), with a thesis focused on the study of emergent patterns of social behaviour from a Self-Organisation perspective.
 
-Professor at the [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), [Universidad El Bosque](https://www.uelbosque.edu.co/), and Researcher at [***EvoCo**: Evolution and Human Behaviour Lab*](/en/team/), in Bogotá, Colombia.
+Professor at the [Faculty of Psychology](https://www.unbosque.edu.co/psicologia), [Universidad El Bosque](https://www.unbosque.edu.co/), and Researcher at [***EvoCo**: Evolution and Human Behaviour Lab*](/en/team/), in Bogotá, Colombia.

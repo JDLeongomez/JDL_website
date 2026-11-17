@@ -18,7 +18,7 @@ role: Asistente de investigación 2024-2025
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Asistente de investigación en EvoCo: Laboratorio de Evolución y Comportamiento Humano 2024-2025.'
@@ -62,7 +62,7 @@ user_groups:
 - Antiguos Asistentes de Investigación
 ---
 
-María José trabaja en la [Unidad de Genética Molecular y Resistencia Antimicrobiana (UGRA)](https://investigaciones.unbosque.edu.co/ugra) de la Universidad El Bosque. Junto con [Laura Ibarra](/es/author/laura-m.-ibarra/), comenzó a colaborar conmigo en el segundo semestre de 2024 como parte de un programa de integración liderado por la Vicerrectoría de Investigación.
+María José trabaja en la [Unidad de Genética Molecular y Resistencia Antimicrobiana (UGRA)](https://unbosque.portalinvestigacion.com/grupos/350) de la Universidad El Bosque. Junto con [Laura Ibarra](/es/author/laura-m.-ibarra/), comenzó a colaborar conmigo en el segundo semestre de 2024 como parte de un programa de integración liderado por la Vicerrectoría de Investigación.
 
 Ha colaborado en la supervisión de proyectos de investigación de estudiantes de pregrado, así como en proyectos de investigación en curso. En este contexto, se ha trabajado en el desarrollo de ideas originales de investigación, y forma parte del equipo de un proyecto transcultural titulado *Exploring Facial Fluctuating Asymmetry: Un estudio macroecológico en poblaciones del Sur Global*.
 

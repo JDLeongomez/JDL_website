@@ -18,7 +18,7 @@ role: Asistente de investigación desde 2025 / Psicología | Supervisión de inv
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Aasistente de investigación en el Laboratorio de Evolución y Comportamiento Humano desde 2025, y estudiante de investigación de Pregrado desde 2024-2025.

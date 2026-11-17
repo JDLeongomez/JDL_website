@@ -18,7 +18,7 @@ role: Psicología | Supervisión de investigación 2019-2020
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Estudiante de investigación de Pregrado 2019-2020.
@@ -51,4 +51,4 @@ Universidad El Bosque, 2019-2020
 
 **Supervisores:** [Juan David Leongómez](/es/#about), [Andrés Castellanos-Chacón](/es/author/andres-castellanos-chacon/), y [Oscar R. Sánchez](/es/author/oscar-r.-sanchez/).
 
-{{< youtube Jrkp2k_KzZsM >}}
+{{< youtube rkp2k_KzZsM >}}

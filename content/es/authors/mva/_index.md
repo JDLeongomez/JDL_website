@@ -15,7 +15,7 @@ role: Profesora Asociada / Co-supervisión PhD 2015-2018 / Supervisión Postdoc 
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Profesora Asociada e investigadora en Neurociencia de la Universidad El Bosque. Interesada en investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
@@ -74,7 +74,7 @@ user_groups:
 - Antiguos Estudiantes de Posgrado
 ---
 
-Profesora Asociada e investigadora en neurociencia del Laboratorio de Psicología Experimental de la [Universidad El Bosque](https://www.uelbosque.edu.co/). Lidera proyectos de investigación en dos líneas. La primera, sobre preferencias sexuales típicas-atípicas, no desviadas y desviadas, como la pedofilia. En segundo lugar, sobre los sesgos atencionales y la VFC como indicadores de trastornos afectivos. Se ha centrado en el uso del rastreo ocular (*eye-tracking*) como una medida indirecta del afecto y la excitación sexual. Tiene interés en la investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
+Profesora Asociada e investigadora en neurociencia del Laboratorio de Psicología Experimental de la [Universidad El Bosque](https://www.unbosque.edu.co/). Lidera proyectos de investigación en dos líneas. La primera, sobre preferencias sexuales típicas-atípicas, no desviadas y desviadas, como la pedofilia. En segundo lugar, sobre los sesgos atencionales y la VFC como indicadores de trastornos afectivos. Se ha centrado en el uso del rastreo ocular (*eye-tracking*) como una medida indirecta del afecto y la excitación sexual. Tiene interés en la investigación sobre los mecanismos cognitivos que subyacen a los trastornos del estado de ánimo y la conducta sexual.
 
 Tuve el honor de co-supervisar primero su doctorado y ahora su postdoctorado.
 

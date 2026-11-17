@@ -18,7 +18,7 @@ role: Research Assistant 2024-2025
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Research assistant at EvoCo: Human Behaviour and Evolution Lab 2024-2025.'
@@ -62,7 +62,7 @@ user_groups:
 - Former Research Assistants
 ---
 
-Laura works at the [Molecular Genetics and Antimicrobial Resistance Unit (UGRA)](https://investigaciones.unbosque.edu.co/ugra) at Universidad El Bosque. Together with [Maria José Cadavid](/en/author/maria-jose-cadavid/), she began collaborating with me in the second semester of 2024 as part of an integration programme led by the Vice-Rectory of Research.
+Laura works at the [Molecular Genetics and Antimicrobial Resistance Unit (UGRA)](https://unbosque.portalinvestigacion.com/grupos/350) at Universidad El Bosque. Together with [Maria José Cadavid](/en/author/maria-jose-cadavid/), she began collaborating with me in the second semester of 2024 as part of an integration programme led by the Vice-Rectory of Research.
 
 She has assisted in supervising undergraduate student research projects, as well as in ongoing research projects. In this context, we have been working on developing original research ideas, and she is part of the team for a transcultural project titled *Exploring Facial Fluctuating Asymmetry: A Macro-Ecological Study in Global South Populations*.
 

@@ -33,7 +33,7 @@ education:
 # Organizations/Affiliations
 organizations:
 - name: Universidad El Bosque
-  url: "https://www.uelbosque.edu.co/"
+  url: "https://www.unbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Research assistant at EvoCo: Human Behaviour and Evolution Lab  2023-2024, and BA research project student between 2018 and 2019 (Distinction).'
