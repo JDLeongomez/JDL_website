@@ -47,7 +47,7 @@ user_groups:
 
 *¿Somos capaces de detectar la tendencia a la infidelidad a partir de la voz?* [Are we able to detect the tendency to infidelity from voices?]
 
-<a href="https://hdl.handle.net/20.500.12495/13144" target="_blank">**http://hdl.handle.net/20.500.12209/10443**</a>
+<a href="https://hdl.handle.net/20.500.12495/13144" target="_blank">**https://hdl.handle.net/20.500.12495/13144**</a>
 
 Universidad El Bosque, 2023-2024
 
