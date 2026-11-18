@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Profesor Auxiliar
+role: Profesor Asistente
 
 # Organizations/Affiliations
 organizations:
