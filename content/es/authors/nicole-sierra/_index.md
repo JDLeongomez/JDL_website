@@ -47,6 +47,8 @@ user_groups:
 
 *Variabilidad tonal en el habla dirigida a bebés y el cortejo*
 
+<a href="https://hdl.handle.net/20.500.12495/21345" target="_blank">**https://hdl.handle.net/20.500.12495/21345**</a>
+
 Universidad El Bosque, desde 2026
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/).

@@ -47,6 +47,8 @@ user_groups:
 
 *Relationship between motivation for parenthood and the prosodic characteristics of infant-directed speech* [Relación entre la motivación hacia la parentalidad y las características prosódicas del habla dirigida a bebés]
 
+<a href="https://hdl.handle.net/20.500.12495/21349" target="_blank">**https://hdl.handle.net/20.500.12495/21349**</a>
+
 Universidad El Bosque, from 2026
 
 **Supervisors:** [Juan David Leongómez](/en/#about) and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/).

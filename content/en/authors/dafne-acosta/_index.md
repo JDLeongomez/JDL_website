@@ -47,6 +47,8 @@ user_groups:
 
 *Pitch variability in infant-directed speech and courtship* [Variabilidad tonal en el habla dirigida a bebés y el cortejo]
 
+<a href="https://hdl.handle.net/20.500.12495/21345" target="_blank">**https://hdl.handle.net/20.500.12495/21345**</a>
+
 Universidad El Bosque, from 2026
 
 **Supervisors:** [Juan David Leongómez](/en/#about) and [Milena Vásquez-Amézquita](/en/author/milena-vasquez-amezquita/).

@@ -47,6 +47,8 @@ user_groups:
 
 *Relación entre la motivación hacia la parentalidad y las características prosódicas del habla dirigida a bebés*
 
+<a href="https://hdl.handle.net/20.500.12495/21349" target="_blank">**https://hdl.handle.net/20.500.12495/21349**</a>
+
 Universidad El Bosque, desde 2026
 
 **Supervisores:** [Juan David Leongómez](/es/#about) y [Milena Vásquez-Amézquita](/es/author/milena-vasquez-amezquita/).
