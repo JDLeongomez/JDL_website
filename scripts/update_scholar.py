@@ -1,10 +1,13 @@
 from scholarly import scholarly
 import json
+import logging
 import time
 
 USER_ID = "8Q0jKHsAAAAJ"
 
 def main():
+    logging.basicConfig(level=logging.WARNING)
+    scholarly.set_logger(True)
     try:
         author = scholarly.search_author_id(USER_ID)
         time.sleep(2)  # pequeño delay
